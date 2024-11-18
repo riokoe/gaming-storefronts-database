@@ -1,6 +1,6 @@
 # gaming-storefronts-database
 
-An up to date database of fraa games on all major online gaming store fronts as well as all games in gaming subcriptions.
+A database of free games on major online gaming storefronts as well as games in major gaming subcriptions.
 
 ## Files
 
