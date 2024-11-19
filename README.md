@@ -28,7 +28,6 @@ Active giveaways as of 2024-11-19:
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/9nbx3zg9zz8j) | Microsoft |
 | [Tetromino Zen](https://apps.microsoft.com/detail/9nwzwmqt3410) | Microsoft |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
-| [Hotline Miami](https://store.playstation.com/en-us/concept/202006) | Playstation Plus [new] |
 | [A Dandy Election (Election Sim)](https://15joldersmat.itch.io/a-dandy-election) | Itch.io |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Americannon Civil War Sokoban for NES](https://zartan917.itch.io/americannon) | Itch.io |
@@ -56,6 +55,7 @@ Active giveaways as of 2024-11-19:
 | [Daunting](https://sdevscares.itch.io/daunting) | Itch.io |
 | [Dead Coliseum](https://alexbaza.itch.io/coliseum) | Itch.io |
 | [DEAR NIGHT](https://gwa123.itch.io/dear-night) | Itch.io |
+| [Devyard](https://thethil.itch.io/devyard) | Itch.io |
 | [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
