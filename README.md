@@ -23,11 +23,6 @@ Active giveaways as of 2024-11-19:
 
 | Game | Store |
 | --- | --- |
-| [Half-Life 2](https://store.steampowered.com/app/220) | Steam |
-| [Half-Life 2: Deathmatch](https://store.steampowered.com/app/320) | Steam |
-| [Half-Life 2: Episode One](https://store.steampowered.com/app/380) | Steam |
-| [Half-Life 2: Episode Two](https://store.steampowered.com/app/420) | Steam |
-| [Half-Life 2: Lost Coast](https://store.steampowered.com/app/340) | Steam |
 | [Castlevania Anniversary Collection](https://store.epicgames.com/en-US/p/32b3e0adbe0c4399be1874958194f97f) | Epic |
 | [Snakebird Complete](https://store.epicgames.com/en-US/p/f66c32ab3a354f208d5e7522af8d141d) | Epic |
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/9nbx3zg9zz8j) | Microsoft |
@@ -54,9 +49,7 @@ Active giveaways as of 2024-11-19:
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io |
 | [Block Run 1000](https://dreamerkid.itch.io/block-run) | Itch.io |
 | [Boke](https://gwa123.itch.io/boke) | Itch.io |
-| [Bone-ER-Clicker](https://b-render.itch.io/bone-clicker) | Itch.io |
 | [Brawl Star Simulator](https://gwa123.itch.io/brawl-star-simulator) | Itch.io |
-| [Celestial Front](https://15joldersmat.itch.io/celestial-front) | Itch.io |
 | [Champion](https://gwa123.itch.io/champion) | Itch.io |
 | [Christmas Kids](https://alexbaza.itch.io/christmas-kids) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
@@ -68,8 +61,6 @@ Active giveaways as of 2024-11-19:
 | [DEAR NIGHT](https://gwa123.itch.io/dear-night) | Itch.io |
 | [Desktop Car](https://magnus-froelund.itch.io/desktop-car) | Itch.io |
 | [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io |
-| [Drug Dealin Sim 2024](https://b-render.itch.io/drug-dealin-simulator-2024) | Itch.io |
-| [Dummy Smasher](https://b-render.itch.io/dummy-smasher) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
@@ -83,7 +74,6 @@ Active giveaways as of 2024-11-19:
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
 | [FragmentsOfTyranny(Demo)](https://khoyman.itch.io/fragmentsoftyrannydemo) | Itch.io |
 | [Get Free W.I.P](https://kunai-studios.itch.io/get-free-wip) | Itch.io |
-| [Gold Digger](https://b-render.itch.io/gold-digger) | Itch.io |
 | [GRAVITY Pilot!](https://diadas.itch.io/gravity-pilot) | Itch.io |
 | [Here We Go Again](https://al7ussain.itch.io/hear-we-go-again) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
@@ -101,7 +91,6 @@ Active giveaways as of 2024-11-19:
 | [Larger Than Light](https://1010meha.itch.io/larger-than-light) | Itch.io |
 | [MAD? FROGG - Multiplayer PVP](https://pumpp-studios.itch.io/madfrogg) | Itch.io |
 | [Make Money Simulation](https://gwa123.itch.io/make-money-simulation) | Itch.io |
-| [Manuee's Adventure](https://jampley-dev.itch.io/manuees-adventure) | Itch.io |
 | [Maze](https://al7ussain.itch.io/maze) | Itch.io |
 | [Minimperiums](https://15joldersmat.itch.io/minimperiums) | Itch.io |
 | [Name The Pokemon](https://gwa123.itch.io/name-the-pokemon) | Itch.io |
@@ -123,7 +112,6 @@ Active giveaways as of 2024-11-19:
 | [Sherlock Holmes and The Secret Weapon for Commodore 64](https://zartan917.itch.io/sherlock-holmes-and-the-secret-weapon-for-commodore-64) | Itch.io |
 | [Simple Tasks](https://al7ussain.itch.io/simple-tasks) | Itch.io |
 | [Sky Lab Defender](https://kasperv.itch.io/skylabdefender) | Itch.io |
-| [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io |
 | [STAaRS](https://ayfjay.itch.io/staars) | Itch.io |
 | [Stalker](https://gamingtgt.itch.io/stalker) | Itch.io |
 | [Stargates](https://magnus-froelund.itch.io/stargates) | Itch.io |
@@ -144,7 +132,6 @@ Active giveaways as of 2024-11-19:
 | [Theme Park Tycoon](https://gwa123.itch.io/theme-park-tycoon) | Itch.io |
 | [Thermo Puzzle](https://diadas.itch.io/thermo-game) | Itch.io |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
-| [Trespasser's Labyrinth](https://ethan-winters.itch.io/trespassers-labyrinth) | Itch.io |
 | [UnrealityDread](https://sdevscares.itch.io/unreality-dread) | Itch.io |
 | [Untitled Gore Game](https://magnus-froelund.itch.io/untitled-gore-game) | Itch.io |
 | [V.H.S](https://alexbaza.itch.io/vhs) | Itch.io |
