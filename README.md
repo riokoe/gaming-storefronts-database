@@ -27,19 +27,15 @@ Active giveaways as of 2024-11-19:
 | [Snakebird Complete](https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae) | Epic |
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/9nbx3zg9zz8j) | Microsoft |
 | [Tetromino Zen](https://apps.microsoft.com/detail/9nwzwmqt3410) | Microsoft |
-| [Hotline Miami](https://store.playstation.com/en-us/concept/10005940) | Playstation Plus [new] |
-| [1943](https://magnus-froelund.itch.io/1943) | Itch.io |
-| [5 in 1 Retro Games](https://magnus-froelund.itch.io/5-in-1-retro-games) | Itch.io |
+| [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
+| [Hotline Miami](https://store.playstation.com/en-us/concept/202006) | Playstation Plus [new] |
 | [A Dandy Election (Election Sim)](https://15joldersmat.itch.io/a-dandy-election) | Itch.io |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Americannon Civil War Sokoban for NES](https://zartan917.itch.io/americannon) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
-| [Are you There?](https://magnus-froelund.itch.io/are-you-there) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
-| [Asteroids](https://magnus-froelund.itch.io/asteroids) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Ball Down Hill](https://kasperv.itch.io/ball-down-hill) | Itch.io |
-| [Basic Shooter (Pre Alpha)](https://magnus-froelund.itch.io/campers-killers-pre-alpha) | Itch.io |
 | [Basketball](https://gwa123.itch.io/football) | Itch.io |
 | [Battle Hell: Tral!](https://15joldersmat.itch.io/battle-hell-tral) | Itch.io |
 | [Battleground Powers](https://gwa123.itch.io/battleground-powers) | Itch.io |
@@ -50,6 +46,7 @@ Active giveaways as of 2024-11-19:
 | [Block Run 1000](https://dreamerkid.itch.io/block-run) | Itch.io |
 | [Boke](https://gwa123.itch.io/boke) | Itch.io |
 | [Brawl Star Simulator](https://gwa123.itch.io/brawl-star-simulator) | Itch.io |
+| [CatUp](https://dazaizer0.itch.io/catup) | Itch.io |
 | [Champion](https://gwa123.itch.io/champion) | Itch.io |
 | [Christmas Kids](https://alexbaza.itch.io/christmas-kids) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
@@ -59,7 +56,6 @@ Active giveaways as of 2024-11-19:
 | [Daunting](https://sdevscares.itch.io/daunting) | Itch.io |
 | [Dead Coliseum](https://alexbaza.itch.io/coliseum) | Itch.io |
 | [DEAR NIGHT](https://gwa123.itch.io/dear-night) | Itch.io |
-| [Desktop Car](https://magnus-froelund.itch.io/desktop-car) | Itch.io |
 | [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
@@ -102,7 +98,6 @@ Active giveaways as of 2024-11-19:
 | [Pigeon West: El Diablo](https://squidsquadpapi.itch.io/pigeon-west-el-diablo) | Itch.io |
 | [Pigeon West: Johnny the Pigeon](https://squidsquadpapi.itch.io/johnny-the-pigeon) | Itch.io |
 | [Please Remember Me!](https://jjbeats99.itch.io/please-remember-me) | Itch.io |
-| [Proster](https://rtvr5656.itch.io/proster) | Itch.io |
 | [Puzzle Box Island](https://puzzle-box-island.itch.io/puzzle-box-island) | Itch.io |
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
@@ -114,12 +109,9 @@ Active giveaways as of 2024-11-19:
 | [Sky Lab Defender](https://kasperv.itch.io/skylabdefender) | Itch.io |
 | [STAaRS](https://ayfjay.itch.io/staars) | Itch.io |
 | [Stalker](https://gamingtgt.itch.io/stalker) | Itch.io |
-| [Stargates](https://magnus-froelund.itch.io/stargates) | Itch.io |
 | [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io |
-| [The backrooms: Uncovered](https://magnus-froelund.itch.io/the-backrooms) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
 | [The Cropping Night](https://onequidgames.itch.io/the-cropping-night) | Itch.io |
-| [The Drifters](https://magnus-froelund.itch.io/the-drifters) | Itch.io |
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Lost Apartment Demo](https://sdevscares.itch.io/the-lost-apartment) | Itch.io |
 | [The Lost Arctic](https://puzzle-box-island.itch.io/the-lost-arctic) | Itch.io |
@@ -133,7 +125,6 @@ Active giveaways as of 2024-11-19:
 | [Thermo Puzzle](https://diadas.itch.io/thermo-game) | Itch.io |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
 | [UnrealityDread](https://sdevscares.itch.io/unreality-dread) | Itch.io |
-| [Untitled Gore Game](https://magnus-froelund.itch.io/untitled-gore-game) | Itch.io |
 | [V.H.S](https://alexbaza.itch.io/vhs) | Itch.io |
 | [V.H.S Chapter 2: Remastered](https://alexbaza.itch.io/vhs-chapter-2-remastered) | Itch.io |
 | [V.H.S: Chapter 2](https://alexbaza.itch.io/vhs-chapter-2) | Itch.io |
