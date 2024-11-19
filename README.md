@@ -35,6 +35,7 @@ Active giveaways as of 2024-11-19:
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Ball Down Hill](https://kasperv.itch.io/ball-down-hill) | Itch.io |
+| [Banana Clicker – Join the Fun! 🍌](https://mrpaul667.itch.io/banana-clicker) | Itch.io |
 | [Basketball](https://gwa123.itch.io/football) | Itch.io |
 | [Battle Hell: Tral!](https://15joldersmat.itch.io/battle-hell-tral) | Itch.io |
 | [Battleground Powers](https://gwa123.itch.io/battleground-powers) | Itch.io |
@@ -69,7 +70,6 @@ Active giveaways as of 2024-11-19:
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
 | [FragmentsOfTyranny(Demo)](https://khoyman.itch.io/fragmentsoftyrannydemo) | Itch.io |
-| [Get Free W.I.P](https://kunai-studios.itch.io/get-free-wip) | Itch.io |
 | [GRAVITY Pilot!](https://diadas.itch.io/gravity-pilot) | Itch.io |
 | [Here We Go Again](https://al7ussain.itch.io/hear-we-go-again) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
