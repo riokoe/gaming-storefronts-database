@@ -27,7 +27,7 @@ Active giveaways as of 2024-11-19:
 | [Snakebird Complete](https://store.epicgames.com/en-US/p/f66c32ab3a354f208d5e7522af8d141d) | Epic |
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/9nbx3zg9zz8j) | Microsoft |
 | [Tetromino Zen](https://apps.microsoft.com/detail/9nwzwmqt3410) | Microsoft |
-| [Hotline Miami](https://store.playstation.com/en-us/concept/10005940) | Playstation Plus |
+| [Hotline Miami](https://store.playstation.com/en-us/concept/10005940) | Playstation Plus [new] |
 | [1943](https://magnus-froelund.itch.io/1943) | Itch.io |
 | [5 in 1 Retro Games](https://magnus-froelund.itch.io/5-in-1-retro-games) | Itch.io |
 | [A Dandy Election (Election Sim)](https://15joldersmat.itch.io/a-dandy-election) | Itch.io |
