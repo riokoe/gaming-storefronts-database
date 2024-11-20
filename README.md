@@ -19,20 +19,21 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-19:
+Active giveaways as of 2024-11-20:
 
 | Game | Store |
 | --- | --- |
 | [Castlevania Anniversary Collection](https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94) | Epic |
 | [Snakebird Complete](https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae) | Epic |
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/9nbx3zg9zz8j) | Microsoft |
-| [Tetromino Zen](https://apps.microsoft.com/detail/9nwzwmqt3410) | Microsoft |
+| [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
 | [A Dandy Election (Election Sim)](https://15joldersmat.itch.io/a-dandy-election) | Itch.io |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Americannon Civil War Sokoban for NES](https://zartan917.itch.io/americannon) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
+| [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Ball Down Hill](https://kasperv.itch.io/ball-down-hill) | Itch.io |
 | [Banana Clicker – Join the Fun! 🍌](https://mrpaul667.itch.io/banana-clicker) | Itch.io |
@@ -41,7 +42,6 @@ Active giveaways as of 2024-11-19:
 | [Battleground Powers](https://gwa123.itch.io/battleground-powers) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
 | [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io |
-| [Being Stalked](https://gamingtgt.itch.io/being-stalked) | Itch.io |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io |
 | [Block Run 1000](https://dreamerkid.itch.io/block-run) | Itch.io |
 | [Boke](https://gwa123.itch.io/boke) | Itch.io |
@@ -59,6 +59,7 @@ Active giveaways as of 2024-11-19:
 | [Devyard](https://thethil.itch.io/devyard) | Itch.io |
 | [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
+| [Escape The Challenge](https://voidkiller.itch.io/escape-the-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [Extracted](https://warlines.itch.io/extracted) | Itch.io |
@@ -74,6 +75,7 @@ Active giveaways as of 2024-11-19:
 | [Here We Go Again](https://al7ussain.itch.io/hear-we-go-again) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io |
+| [Hose Hero](https://mr-ying.itch.io/hosehero) | Itch.io |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io |
 | [How my Brain Works](https://blobbyweirdthing.itch.io/how-my-brain-works) | Itch.io |
@@ -84,7 +86,6 @@ Active giveaways as of 2024-11-19:
 | [Jungle Jumper](https://adamnn.itch.io/jungle-jumpertt) | Itch.io |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io |
-| [Larger Than Light](https://1010meha.itch.io/larger-than-light) | Itch.io |
 | [MAD? FROGG - Multiplayer PVP](https://pumpp-studios.itch.io/madfrogg) | Itch.io |
 | [Make Money Simulation](https://gwa123.itch.io/make-money-simulation) | Itch.io |
 | [Maze](https://al7ussain.itch.io/maze) | Itch.io |
@@ -98,24 +99,19 @@ Active giveaways as of 2024-11-19:
 | [Pigeon West: El Diablo](https://squidsquadpapi.itch.io/pigeon-west-el-diablo) | Itch.io |
 | [Pigeon West: Johnny the Pigeon](https://squidsquadpapi.itch.io/johnny-the-pigeon) | Itch.io |
 | [Please Remember Me!](https://jjbeats99.itch.io/please-remember-me) | Itch.io |
-| [Puzzle Box Island](https://puzzle-box-island.itch.io/puzzle-box-island) | Itch.io |
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
-| [Roses Of Love](https://kagarisoft.itch.io/rol) | Itch.io |
 | [Sheris Dungeon: PROTECT THE BALLS](https://kittycreampuff.itch.io/sd) | Itch.io |
 | [Sherlock Holmes and The Secret Weapon for Commodore 64](https://zartan917.itch.io/sherlock-holmes-and-the-secret-weapon-for-commodore-64) | Itch.io |
 | [Simple Tasks](https://al7ussain.itch.io/simple-tasks) | Itch.io |
 | [Sky Lab Defender](https://kasperv.itch.io/skylabdefender) | Itch.io |
-| [STAaRS](https://ayfjay.itch.io/staars) | Itch.io |
-| [Stalker](https://gamingtgt.itch.io/stalker) | Itch.io |
 | [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
 | [The Cropping Night](https://onequidgames.itch.io/the-cropping-night) | Itch.io |
+| [The Cursed Canvas](https://saiko-games.itch.io/the-cursed-canvas) | Itch.io |
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Lost Apartment Demo](https://sdevscares.itch.io/the-lost-apartment) | Itch.io |
-| [The Lost Arctic](https://puzzle-box-island.itch.io/the-lost-arctic) | Itch.io |
-| [The Parking](https://gamingtgt.itch.io/the-parking) | Itch.io |
 | [The Quest for the Loot](https://jjbeats99.itch.io/the-quest-for-the-loot) | Itch.io |
 | [The Simple Life](https://kasperv.itch.io/the-simple-life) | Itch.io |
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
