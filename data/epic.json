@@ -1,1 +1,20 @@
-[{"id":"fddca2297b9a4354b59f8f83d4975c90","title":"Snakebird Complete","added":1731173398853,"platform":4,"uri":"https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae","tags":[],"archived":false},{"id":"8f80897c0b6e4e678fed08da169d44be","title":"Castlevania Anniversary Collection","added":1731173398853,"platform":4,"uri":"https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94","tags":[],"archived":false}]
+[
+  {
+    "id": "3cd3dbc1fd",
+    "title": "Snakebird Complete",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "8e090cbf38",
+    "title": "Castlevania Anniversary Collection",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "tags": [],
+    "archived": false
+  }
+]
