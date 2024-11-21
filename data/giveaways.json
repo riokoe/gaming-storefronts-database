@@ -53,15 +53,6 @@
     "archived": false
   },
   {
-    "id": "a2ab693bc7",
-    "title": "Oddworld: Smile Factory",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://pupbenny.itch.io/oddworld",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "449b79504c",
     "title": "The Cursed Canvas",
     "added": 1731431500019,
@@ -71,65 +62,11 @@
     "archived": false
   },
   {
-    "id": "8cdae11a09",
-    "title": "Extracted",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://warlines.itch.io/extracted",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "2ac4a7bfcf",
     "title": "Evidence of 96'",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://teammelon.itch.io/evidence-of-96",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "92105a86d0",
-    "title": "The Lost Apartment Demo",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://sdevscares.itch.io/the-lost-apartment",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "987d219609",
-    "title": "Clean ATTACK!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://diadas.itch.io/clean-attack",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "b08ed1e862",
-    "title": "The Cropping Night",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://onequidgames.itch.io/the-cropping-night",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "bb7b55d290",
-    "title": "Fear the light",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://tomython.itch.io/fear-the-light",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "1c92f817b3",
-    "title": "Pass Problems for PLAYDATE",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://zartan917.itch.io/pass-problems-for-playdate",
     "tags": [],
     "archived": false
   },
@@ -152,60 +89,6 @@
     "archived": false
   },
   {
-    "id": "e6308add5a",
-    "title": "GRAVITY Pilot!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://diadas.itch.io/gravity-pilot",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "aebcb3335a",
-    "title": "Daunting",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://sdevscares.itch.io/daunting",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "646d661daa",
-    "title": "Pigeon West: El Diablo",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "2219a01da7",
-    "title": "Pigeon West: Johnny the Pigeon",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "1bb040a6aa",
-    "title": "Jungle Jumper",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://adamnn.itch.io/jungle-jumpertt",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "f9f9d7a78c",
-    "title": "V.H.S: Remastered",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/vhs-remastered",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "0c29b01af7",
     "title": "Quiet West: Butcher noose",
     "added": 1731431500019,
@@ -215,65 +98,11 @@
     "archived": false
   },
   {
-    "id": "d98e3e6a5a",
-    "title": "UnrealityDread",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://sdevscares.itch.io/unreality-dread",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "311a6fd63a",
-    "title": "Thermo Puzzle",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://diadas.itch.io/thermo-game",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "71fb7d4d18",
-    "title": "V.H.S Chapter 2: Remastered",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/vhs-chapter-2-remastered",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "c485fed189",
     "title": "HOME GAME",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://iamqqqqqqq.itch.io/homegame",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "0f33b242cc",
-    "title": "Cubic Void",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://blobbyweirdthing.itch.io/cubic-void",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "f9d77710d9",
-    "title": "Sherlock Holmes and The Secret Weapon for Commodore 64",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://zartan917.itch.io/sherlock-holmes-and-the-secret-weapon-for-commodore-64",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "712db7a4df",
-    "title": "Americannon Civil War Sokoban for NES",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://zartan917.itch.io/americannon",
     "tags": [],
     "archived": false
   },
@@ -296,65 +125,11 @@
     "archived": false
   },
   {
-    "id": "1a901faf82",
-    "title": "How my Brain Works",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://blobbyweirdthing.itch.io/how-my-brain-works",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "a7a2ca7941",
-    "title": "Cubic Void WebGL (Broken)",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://blobbyweirdthing.itch.io/cubic-void-webgl",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "d09dae95c1",
-    "title": "Fabric",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/fabric",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "77868c422c",
     "title": "Капитал Шоу + Супер Игра",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://existical.itch.io/capitalshow",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "9ae7bb7dde",
-    "title": "Sheris Dungeon: PROTECT THE BALLS",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kittycreampuff.itch.io/sd",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "af90978a18",
-    "title": "Very bad Flappy Bird",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://blobbyweirdthing.itch.io/very-bad-flappy-bird",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "142f40716e",
-    "title": "Block Run 1000",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://dreamerkid.itch.io/block-run",
     "tags": [],
     "archived": false
   },
@@ -377,15 +152,6 @@
     "archived": false
   },
   {
-    "id": "91b666be8d",
-    "title": "A Dandy Election (Election Sim)",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/a-dandy-election",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "31019100c4",
     "title": "Red Tail",
     "added": 1731431500019,
@@ -404,47 +170,11 @@
     "archived": false
   },
   {
-    "id": "8a3aed0845",
-    "title": "Christmas Kids",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/christmas-kids",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "21e5b86a4d",
-    "title": "V.H.S",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/vhs",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "0cc3e5739b",
-    "title": "Get Free W.I.P",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kunai-studios.itch.io/get-free-wip",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "50960c77cf",
     "title": "Armored Crucible: The Crimson Dunes",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://fontty.itch.io/ac-tcd",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "3e5aa09339",
-    "title": "V.H.S: Chapter 2",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/vhs-chapter-2",
     "tags": [],
     "archived": false
   },
@@ -458,47 +188,11 @@
     "archived": false
   },
   {
-    "id": "35bcfe352b",
-    "title": "Please Remember Me!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://jjbeats99.itch.io/please-remember-me",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "6acd67302e",
-    "title": "The Simple Life",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kasperv.itch.io/the-simple-life",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "fdb91190cf",
-    "title": "Wawi's Mod 3",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://mundoraroxd.itch.io/wawis-mod-3",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "42fb568abb",
     "title": "Devyard",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://thethil.itch.io/devyard",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "b486f89d13",
-    "title": "Ball Down Hill",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kasperv.itch.io/ball-down-hill",
     "tags": [],
     "archived": false
   },
@@ -521,15 +215,6 @@
     "archived": false
   },
   {
-    "id": "776d2fcea9",
-    "title": "Orbital Empires",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/orbital-empires",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "6961397ea5",
     "title": "Kookie",
     "added": 1731431500019,
@@ -548,24 +233,6 @@
     "archived": false
   },
   {
-    "id": "fc3f3a623f",
-    "title": "FragmentsOfTyranny(Demo)",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "efaedbd2d0",
-    "title": "Dead Coliseum",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/coliseum",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "66a7e29bf7",
     "title": "The Labyrinth of Kur",
     "added": 1731431500019,
@@ -575,38 +242,11 @@
     "archived": false
   },
   {
-    "id": "53f375692f",
-    "title": "Between two Worlds - Family Day",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://pixelpun.itch.io/betweentwoworldsfamilyday",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "a8002d961f",
-    "title": "War of Ants!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/ants",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "5222933170",
     "title": "Kasperias Arenas",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://kasperv.itch.io/kasperias-arenas",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "06d968ae71",
-    "title": "Fabric: Chapter 2",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alexbaza.itch.io/fabric-chapter-2",
     "tags": [],
     "archived": false
   },
@@ -629,38 +269,11 @@
     "archived": false
   },
   {
-    "id": "23c8ac16bc",
-    "title": "The Quest for the Loot",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://jjbeats99.itch.io/the-quest-for-the-loot",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "b7e88789bf",
     "title": "Banana Clicker – Join the Fun! 🍌",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://mrpaul667.itch.io/banana-clicker",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "2cb4cb5c37",
-    "title": "Minimperiums",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/minimperiums",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "fdc7e72dee",
-    "title": "MAD? FROGG - Multiplayer PVP",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://pumpp-studios.itch.io/madfrogg",
     "tags": [],
     "archived": false
   },
@@ -674,29 +287,11 @@
     "archived": false
   },
   {
-    "id": "14dd26d7cf",
-    "title": "Battle Hell: Tral!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/battle-hell-tral",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "a2ecfd1763",
     "title": "Beanman",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://archimedean-gaming.itch.io/beanman",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "9e4e582689",
-    "title": "flappy effects",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alessandro06-0.itch.io/flappy-effects",
     "tags": [],
     "archived": false
   },
@@ -719,15 +314,6 @@
     "archived": false
   },
   {
-    "id": "f5bc490b51",
-    "title": "Sky Lab Defender",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kasperv.itch.io/skylabdefender",
-    "tags": [],
-    "archived": false
-  },
-  {
     "id": "66d9e2a4af",
     "title": "Baldi's Basics Songkran In Education And Learning X",
     "added": 1731431500019,
@@ -742,60 +328,6 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://iamqqqqqqq.itch.io/classicgame",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "d582f94749",
-    "title": "Tubey! PainGiver",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/tubey-paingiver",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "9b5aca690b",
-    "title": "Combat",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/combat",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "84d68acca7",
-    "title": "Top Down Showdown",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/top-down-showdown",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "940ac0794d",
-    "title": "Speed Run!",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/speed-run",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "ec812b3dc9",
-    "title": "Text Trivia Pro",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/text-trivia-pro",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "14b64b7a2f",
-    "title": "Space Adventure",
-    "added": 1732184723806,
-    "platform": 2,
-    "uri": "https://ahsanmakesgames.itch.io/space-adventure",
     "tags": [],
     "archived": false
   },
@@ -825,86 +357,5 @@
     "uri": "https://apps.microsoft.com/detail/28d30f7d9f",
     "tags": [],
     "archived": false
-  },
-  {
-    "id": "722aaa7e08",
-    "title": "Simple Tasks",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/simple-tasks",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "cd74908336",
-    "title": "Foxy Man",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/foxy-man",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "f8cf98de72",
-    "title": "House Cleaner",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/housecleaner",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "aafb341813",
-    "title": "House Cleaner 2",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/house-cleaner-2",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "92b81b6617",
-    "title": "Zombie Hunter",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/zombie-hunter",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "fde7ac4003",
-    "title": "Tiny Tails: The Whale’s Tale",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/whale-game",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "656ec82383",
-    "title": "Here We Go Again",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/hear-we-go-again",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "6aae4d7662",
-    "title": "Maze",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/maze",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "fd7d70a675",
-    "title": "One Spike",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/one-spike",
-    "tags": [],
-    "archived": true
   }
 ]
