@@ -46,6 +46,7 @@ Active giveaways as of 2024-11-21:
 | [Christmas Kids](https://alexbaza.itch.io/christmas-kids) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
 | [Clean ATTACK!](https://diadas.itch.io/clean-attack) | Itch.io |
+| [Combat](https://ahsanmakesgames.itch.io/combat) | Itch.io |
 | [Cubic Void](https://blobbyweirdthing.itch.io/cubic-void) | Itch.io |
 | [Cubic Void WebGL (Broken)](https://blobbyweirdthing.itch.io/cubic-void-webgl) | Itch.io |
 | [Daunting](https://sdevscares.itch.io/daunting) | Itch.io |
@@ -60,17 +61,13 @@ Active giveaways as of 2024-11-21:
 | [Fear the light](https://tomython.itch.io/fear-the-light) | Itch.io |
 | [flappy effects](https://alessandro06-0.itch.io/flappy-effects) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
-| [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
 | [FragmentsOfTyranny(Demo)](https://khoyman.itch.io/fragmentsoftyrannydemo) | Itch.io |
 | [GameDay Mayhem!!](https://indifferentpenguin.itch.io/gamedaymayhem) | Itch.io |
 | [Get Free W.I.P](https://kunai-studios.itch.io/get-free-wip) | Itch.io |
 | [GRAVITY Pilot!](https://diadas.itch.io/gravity-pilot) | Itch.io |
-| [Here We Go Again](https://al7ussain.itch.io/hear-we-go-again) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io |
 | [Hose Hero](https://mr-ying.itch.io/hosehero) | Itch.io |
-| [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io |
-| [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io |
 | [How my Brain Works](https://blobbyweirdthing.itch.io/how-my-brain-works) | Itch.io |
 | [JACKER](https://ry2110.itch.io/jacker) | Itch.io |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io |
@@ -78,12 +75,10 @@ Active giveaways as of 2024-11-21:
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io |
 | [MAD? FROGG - Multiplayer PVP](https://pumpp-studios.itch.io/madfrogg) | Itch.io |
-| [Maze](https://al7ussain.itch.io/maze) | Itch.io |
 | [Minimperiums](https://15joldersmat.itch.io/minimperiums) | Itch.io |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io |
 | [Oddworld: Smile Factory](https://pupbenny.itch.io/oddworld) | Itch.io |
 | [Omega No Sunshine 24](https://galoxyum.itch.io/ons24) | Itch.io |
-| [One Spike](https://al7ussain.itch.io/one-spike) | Itch.io |
 | [Orbital Empires](https://15joldersmat.itch.io/orbital-empires) | Itch.io |
 | [Pass Problems for PLAYDATE](https://zartan917.itch.io/pass-problems-for-playdate) | Itch.io |
 | [Pigeon West: El Diablo](https://squidsquadpapi.itch.io/pigeon-west-el-diablo) | Itch.io |
@@ -94,8 +89,10 @@ Active giveaways as of 2024-11-21:
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
 | [Sheris Dungeon: PROTECT THE BALLS](https://kittycreampuff.itch.io/sd) | Itch.io |
 | [Sherlock Holmes and The Secret Weapon for Commodore 64](https://zartan917.itch.io/sherlock-holmes-and-the-secret-weapon-for-commodore-64) | Itch.io |
-| [Simple Tasks](https://al7ussain.itch.io/simple-tasks) | Itch.io |
 | [Sky Lab Defender](https://kasperv.itch.io/skylabdefender) | Itch.io |
+| [Space Adventure](https://ahsanmakesgames.itch.io/space-adventure) | Itch.io |
+| [Speed Run!](https://ahsanmakesgames.itch.io/speed-run) | Itch.io |
+| [Text Trivia Pro](https://ahsanmakesgames.itch.io/text-trivia-pro) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
 | [The Cropping Night](https://onequidgames.itch.io/the-cropping-night) | Itch.io |
 | [The Cursed Canvas](https://saiko-games.itch.io/the-cursed-canvas) | Itch.io |
@@ -106,7 +103,8 @@ Active giveaways as of 2024-11-21:
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |
 | [Thermo Puzzle](https://diadas.itch.io/thermo-game) | Itch.io |
-| [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
+| [Top Down Showdown](https://ahsanmakesgames.itch.io/top-down-showdown) | Itch.io |
+| [Tubey! PainGiver](https://ahsanmakesgames.itch.io/tubey-paingiver) | Itch.io |
 | [UnrealityDread](https://sdevscares.itch.io/unreality-dread) | Itch.io |
 | [V.H.S](https://alexbaza.itch.io/vhs) | Itch.io |
 | [V.H.S Chapter 2: Remastered](https://alexbaza.itch.io/vhs-chapter-2-remastered) | Itch.io |
@@ -115,5 +113,4 @@ Active giveaways as of 2024-11-21:
 | [Very bad Flappy Bird](https://blobbyweirdthing.itch.io/very-bad-flappy-bird) | Itch.io |
 | [War of Ants!](https://15joldersmat.itch.io/ants) | Itch.io |
 | [Wawi's Mod 3](https://mundoraroxd.itch.io/wawis-mod-3) | Itch.io |
-| [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io |
