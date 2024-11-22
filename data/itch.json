@@ -441,5 +441,49 @@
       "Action"
     ],
     "archived": false
+  },
+  {
+    "id": "fde7ac4003",
+    "title": "Tiny Tails: The Whale’s Tale",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/whale-game",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": false
+  },
+  {
+    "id": "fc3f3a623f",
+    "title": "FragmentsOfTyranny(Demo)",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
+    "tags": [
+      "Action"
+    ],
+    "archived": false
+  },
+  {
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/football",
+    "tags": [
+      "Sports"
+    ],
+    "archived": false
+  },
+  {
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "archived": false
   }
 ]

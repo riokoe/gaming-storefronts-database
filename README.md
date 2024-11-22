@@ -39,6 +39,7 @@ Active giveaways as of 2024-11-22:
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Banana Clicker – Join the Fun! 🍌](https://mrpaul667.itch.io/banana-clicker) | Itch.io |
+| [Basketball](https://gwa123.itch.io/football) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
 | [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io |
@@ -50,6 +51,7 @@ Active giveaways as of 2024-11-22:
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
+| [FragmentsOfTyranny(Demo)](https://khoyman.itch.io/fragmentsoftyrannydemo) | Itch.io |
 | [GameDay Mayhem!!](https://indifferentpenguin.itch.io/gamedaymayhem) | Itch.io |
 | [Guardians of the Zodiac](https://evans018creations.itch.io/guardians-of-the-zodiac) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
@@ -77,6 +79,8 @@ Active giveaways as of 2024-11-22:
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
 | [THE WHOLE WORLD](https://gwa123.itch.io/the-whole-world) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |
+| [Theme Park Tycoon](https://gwa123.itch.io/theme-park-tycoon) | Itch.io |
+| [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
 | [Zizzy Zombie](https://gwa123.itch.io/zizzy-zombie) | Itch.io |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io |
