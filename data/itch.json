@@ -485,5 +485,18 @@
       "Simulation"
     ],
     "archived": false
+  },
+  {
+    "id": "8f9bf67367",
+    "title": "Shadows of Souls",
+    "price": 4,
+    "end": 1732464000000,
+    "added": 1732297453768,
+    "platform": 2,
+    "uri": "https://ayfjay.itch.io/shadows-of-souls",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": false
   }
 ]

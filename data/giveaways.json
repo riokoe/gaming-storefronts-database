@@ -513,40 +513,28 @@
     "archived": false
   },
   {
+    "id": "8f9bf67367",
+    "title": "Shadows of Souls",
+    "price": 4,
+    "end": 1732464000000,
+    "added": 1732297453768,
+    "platform": 2,
+    "uri": "https://ayfjay.itch.io/shadows-of-souls",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": false
+  },
+  {
     "id": "33c45fe27f",
     "title": "Beholder",
-    "added": 1732267827822,
+    "price": 13.99,
+    "end": 1732809600000,
+    "added": 1732204800000,
     "platform": 4,
     "uri": "https://store.epicgames.com/en-US/p/beholder-8c3b4c",
     "tags": [],
     "archived": false
-  },
-  {
-    "id": "28d30f7d9f",
-    "title": "Flight Masters: The Horizon Chase",
-    "added": 1731431503240,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/28d30f7d9f",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "3cd3dbc1fd",
-    "title": "Snakebird Complete",
-    "added": 1731431501819,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "8e090cbf38",
-    "title": "Castlevania Anniversary Collection",
-    "added": 1731431501819,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
-    "tags": [],
-    "archived": true
   },
   {
     "id": "6348a0eeae",
@@ -601,5 +589,32 @@
     "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false
+  },
+  {
+    "id": "28d30f7d9f",
+    "title": "Flight Masters: The Horizon Chase",
+    "added": 1731431503240,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nbx3zg9zz8j",
+    "tags": [],
+    "archived": true
+  },
+  {
+    "id": "3cd3dbc1fd",
+    "title": "Snakebird Complete",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "tags": [],
+    "archived": true
+  },
+  {
+    "id": "8e090cbf38",
+    "title": "Castlevania Anniversary Collection",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "tags": [],
+    "archived": true
   }
 ]

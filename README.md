@@ -24,7 +24,6 @@ Active giveaways as of 2024-11-22:
 | Game | Store |
 | --- | --- |
 | [Beholder](https://store.epicgames.com/en-US/p/beholder-8c3b4c) | Epic |
-| [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/28d30f7d9f) | Microsoft |
 | [Gloomy Tales: One-Way Ticket - CE](https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Max: The Curse of Brotherhood](https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN) | Prime Gaming [new] |
 | [Moonscars](https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN) | Prime Gaming [new] |
@@ -70,6 +69,7 @@ Active giveaways as of 2024-11-22:
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
+| [Shadows of Souls](https://ayfjay.itch.io/shadows-of-souls) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
 | [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io |
