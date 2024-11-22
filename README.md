@@ -25,12 +25,12 @@ Active giveaways as of 2024-11-22:
 | --- | --- |
 | [Beholder](https://store.epicgames.com/en-US/p/beholder-8c3b4c) | Epic |
 | [Flight Masters: The Horizon Chase](https://apps.microsoft.com/detail/28d30f7d9f) | Microsoft |
-| [Gloomy Tales: One-Way Ticket - CE](https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ingress=amzn&ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN) | Prime Gaming [new] |
-| [Max: The Curse of Brotherhood](https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ingress=amzn&ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN) | Prime Gaming [new] |
-| [Moonscars](https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ingress=amzn&ref_=SM_Moonscars_S01_FGWP_CRWN) | Prime Gaming [new] |
-| [Overcooked! Gourmet Edition](https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ingress=amzn&ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN) | Prime Gaming [new] |
-| [RIOT - Civil Unrest](https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ingress=amzn&ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN) | Prime Gaming [new] |
-| [Super Meat Boy](https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ingress=amzn&ref_=SM_SuperMeatBoy_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [Gloomy Tales: One-Way Ticket - CE](https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [Max: The Curse of Brotherhood](https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN) | Prime Gaming [new] |
+| [Moonscars](https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [Overcooked! Gourmet Edition](https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [RIOT - Civil Unrest](https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [Super Meat Boy](https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
