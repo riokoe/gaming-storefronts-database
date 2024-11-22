@@ -304,5 +304,142 @@
     "uri": "https://iamqqqqqqq.itch.io/classicgame",
     "tags": [],
     "archived": false
+  },
+  {
+    "id": "59dc37343d",
+    "title": "Strange Toilet",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet",
+    "tags": [
+      "Puzzle"
+    ],
+    "archived": false
+  },
+  {
+    "id": "32f18a0436",
+    "title": "Strange Toilet 2",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet-2",
+    "tags": [
+      "Puzzle"
+    ],
+    "archived": false
+  },
+  {
+    "id": "cd74908336",
+    "title": "Foxy Man",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/foxy-man",
+    "tags": [
+      "Platformer"
+    ],
+    "archived": false
+  },
+  {
+    "id": "92b81b6617",
+    "title": "Zombie Hunter",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/zombie-hunter",
+    "tags": [
+      "Shooter"
+    ],
+    "archived": false
+  },
+  {
+    "id": "f8cf98de72",
+    "title": "House Cleaner",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/housecleaner",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "aafb341813",
+    "title": "House Cleaner 2",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/house-cleaner-2",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "41dd856d10",
+    "title": "Guardians of the Zodiac",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://evans018creations.itch.io/guardians-of-the-zodiac",
+    "tags": [
+      "Strategy"
+    ],
+    "archived": false
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": false
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "archived": false
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "archived": false
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "archived": false
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "archived": false
   }
 ]

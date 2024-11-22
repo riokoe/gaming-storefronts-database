@@ -332,20 +332,148 @@
     "archived": false
   },
   {
-    "id": "3cd3dbc1fd",
-    "title": "Snakebird Complete",
-    "added": 1731431501819,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "id": "59dc37343d",
+    "title": "Strange Toilet",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet",
+    "tags": [
+      "Puzzle"
+    ],
+    "archived": false
+  },
+  {
+    "id": "32f18a0436",
+    "title": "Strange Toilet 2",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet-2",
+    "tags": [
+      "Puzzle"
+    ],
+    "archived": false
+  },
+  {
+    "id": "cd74908336",
+    "title": "Foxy Man",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/foxy-man",
+    "tags": [
+      "Platformer"
+    ],
+    "archived": false
+  },
+  {
+    "id": "92b81b6617",
+    "title": "Zombie Hunter",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/zombie-hunter",
+    "tags": [
+      "Shooter"
+    ],
+    "archived": false
+  },
+  {
+    "id": "f8cf98de72",
+    "title": "House Cleaner",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/housecleaner",
     "tags": [],
     "archived": false
   },
   {
-    "id": "8e090cbf38",
-    "title": "Castlevania Anniversary Collection",
-    "added": 1731431501819,
+    "id": "aafb341813",
+    "title": "House Cleaner 2",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/house-cleaner-2",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "41dd856d10",
+    "title": "Guardians of the Zodiac",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://evans018creations.itch.io/guardians-of-the-zodiac",
+    "tags": [
+      "Strategy"
+    ],
+    "archived": false
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": false
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "archived": false
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "archived": false
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "archived": false
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "archived": false
+  },
+  {
+    "id": "33c45fe27f",
+    "title": "Beholder",
+    "added": 1732267827822,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "uri": "https://store.epicgames.com/en-US/p/beholder-8c3b4c",
     "tags": [],
     "archived": false
   },
@@ -357,5 +485,77 @@
     "uri": "https://apps.microsoft.com/detail/28d30f7d9f",
     "tags": [],
     "archived": false
+  },
+  {
+    "id": "3bc8bdd9bf",
+    "title": "Overcooked! Gourmet Edition",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ingress=amzn&ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "7171ec2327",
+    "title": "Super Meat Boy",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ingress=amzn&ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "343b23af8a",
+    "title": "Max: The Curse of Brotherhood",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ingress=amzn&ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "46056e110e",
+    "title": "Moonscars",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ingress=amzn&ref_=SM_Moonscars_S01_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "e60328ac3c",
+    "title": "RIOT - Civil Unrest",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ingress=amzn&ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "5c6061fe26",
+    "title": "Gloomy Tales: One-Way Ticket - CE",
+    "added": 1732267857964,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ingress=amzn&ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
+    "tags": [],
+    "archived": false
+  },
+  {
+    "id": "3cd3dbc1fd",
+    "title": "Snakebird Complete",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "tags": [],
+    "archived": true
+  },
+  {
+    "id": "8e090cbf38",
+    "title": "Castlevania Anniversary Collection",
+    "added": 1731431501819,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "tags": [],
+    "archived": true
   }
 ]
