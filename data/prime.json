@@ -7,7 +7,8 @@
     "uri": "https://gaming.amazon.com/blade-of-darkness-gog/dp/amzn1.pg.item.c3135620-1685-4c93-aed3-d5337d399348?ref_=SM_BladeofDarkness_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "blade-of-darkness"
   },
   {
     "id": "6348a0eeae",
@@ -17,7 +18,8 @@
     "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "overcooked-gourmet-e"
   },
   {
     "id": "93d152bed5",
@@ -27,7 +29,8 @@
     "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "super-meat-boy"
   },
   {
     "id": "5ef66ccb2c",
@@ -37,7 +40,8 @@
     "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "max-the-curse-of-bro"
   },
   {
     "id": "93adf1d525",
@@ -47,7 +51,8 @@
     "uri": "https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1739988000000
+    "end": 1739988000000,
+    "slug": "moonscars"
   },
   {
     "id": "49726f3562",
@@ -57,7 +62,8 @@
     "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "riot-civil-unrest"
   },
   {
     "id": "7c8667eaab",
@@ -67,7 +73,8 @@
     "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "gloomy-tales-one-way"
   },
   {
     "id": "7904a8e720",
@@ -77,7 +84,8 @@
     "uri": "https://gaming.amazon.com/marvels-guardians-of-the-galaxy-epic/dp/amzn1.pg.item.65ab6ff9-d3b0-4dd6-a000-add80106fc9b?ref_=SM_MarvelsGuardiansoftheGalaxy_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732471200000
+    "end": 1732471200000,
+    "slug": "marvels-guardians-of"
   },
   {
     "id": "d7e57b257b",
@@ -87,7 +95,8 @@
     "uri": "https://gaming.amazon.com/tomb-raider-anniversary-gog/dp/amzn1.pg.item.3913b4e6-1bef-4bab-b599-76a0d4b303e3?ref_=SM_TombRaiderAnniversary_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "tomb-raider-annivers"
   },
   {
     "id": "2a28815b46",
@@ -97,7 +106,8 @@
     "uri": "https://gaming.amazon.com/disney-pixar-cars-aga/dp/amzn1.pg.item.ebea312c-a434-4b2a-942f-4229272d18fd?ref_=SM_DisneyPixarCars_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "disneypixar-cars"
   },
   {
     "id": "5eb8449901",
@@ -107,7 +117,8 @@
     "uri": "https://gaming.amazon.com/mafia-definitive-edition-gog/dp/amzn1.pg.item.e4bad3f3-f5e0-484c-b8df-dd2680e4910f?ref_=SM_MafiaDefinitiveEdition_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735668000000
+    "end": 1735668000000,
+    "slug": "mafia-definitive-edi"
   },
   {
     "id": "ef144c3fb8",
@@ -117,7 +128,8 @@
     "uri": "https://gaming.amazon.com/dishonored-definitive-edition-gog/dp/amzn1.pg.item.958e1a1b-d496-42b7-ad49-501b4761a868?ref_=SM_DishonoredDefinitiveEdition_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "dishonored-definitiv"
   },
   {
     "id": "b548db7c00",
@@ -127,7 +139,8 @@
     "uri": "https://gaming.amazon.com/chasm-the-rift-gog/dp/amzn1.pg.item.d9f9b981-707e-430c-a349-6fa2e53c6c71?ref_=SM_ChasmTheRift_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "chasm-the-rift"
   },
   {
     "id": "c78cd5443c",
@@ -137,7 +150,8 @@
     "uri": "https://gaming.amazon.com/a-plague-tale-innocence-gog/dp/amzn1.pg.item.09661e4b-9ac0-4a58-b80b-eaf0b4af8957?ref_=SM_APlagueTaleInnocence_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735754400000
+    "end": 1735754400000,
+    "slug": "a-plague-tale-innoce"
   },
   {
     "id": "fe1b868ef0",
@@ -147,7 +161,8 @@
     "uri": "https://gaming.amazon.com/ms-holmes-the-case-of-the-dancing-men-ce-aga/dp/amzn1.pg.item.c832d855-1d1c-4498-8df3-087a45dbd208?ref_=SM_MsHolmesTheCaseoftheDancingMenCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736964000000
+    "end": 1736964000000,
+    "slug": "ms-holmes-the-case-o"
   },
   {
     "id": "2e00e1e611",
@@ -157,7 +172,8 @@
     "uri": "https://gaming.amazon.com/house-of-golf-2-epic/dp/amzn1.pg.item.9bc909c7-2bfa-4466-b6a9-5203ee751919?ref_=SM_HouseofGolf2_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1739383200000
+    "end": 1739383200000,
+    "slug": "house-of-golf-2"
   },
   {
     "id": "d38d0a541e",
@@ -167,7 +183,8 @@
     "uri": "https://gaming.amazon.com/deaths-door-epic/dp/amzn1.pg.item.dc5b4794-e4bf-4f86-870e-d24f1ab2b0b2?ref_=SM_DeathsDoor_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1738173600000
+    "end": 1738173600000,
+    "slug": "deaths-door"
   },
   {
     "id": "11340689f5",
@@ -177,7 +194,8 @@
     "uri": "https://gaming.amazon.com/snakebird-complete-epic/dp/amzn1.pg.item.eb536b82-eab8-451e-8f13-cd139cb33157?ref_=SM_SnakebirdComplete_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "snakebird-complete"
   },
   {
     "id": "9ffd507216",
@@ -187,7 +205,8 @@
     "uri": "https://gaming.amazon.com/close-to-the-sun-gog/dp/amzn1.pg.item.95bae0aa-fad6-4c3b-a807-e3053b65c462?ref_=SM_ClosetotheSun_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736359200000
+    "end": 1736359200000,
+    "slug": "close-to-the-sun"
   },
   {
     "id": "ae8cd50195",
@@ -197,7 +216,8 @@
     "uri": "https://gaming.amazon.com/duck-paradox-gog/dp/amzn1.pg.item.7c14c6bf-0bc3-41b9-b4a3-34dc1dbd8b1d?ref_=SM_DuckParadox_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736359200000
+    "end": 1736359200000,
+    "slug": "duck-paradox"
   },
   {
     "id": "c987adfc08",
@@ -207,7 +227,8 @@
     "uri": "https://gaming.amazon.com/bang-bang-racing-aga/dp/amzn1.adg.product.e13c50c9-d548-4e6f-a85a-7f70308279e8?ref_=SM_BangBangRacing_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1738778400000
+    "end": 1738778400000,
+    "slug": "bang-bang-racing"
   },
   {
     "id": "8a4707104a",
@@ -217,7 +238,8 @@
     "uri": "https://gaming.amazon.com/scorn-gog/dp/amzn1.pg.item.34eb9ece-c1c8-42f9-8e18-0bf1c3c8c704?ref_=SM_Scorn_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735668000000
+    "end": 1735668000000,
+    "slug": "scorn"
   },
   {
     "id": "44814f9609",
@@ -227,7 +249,8 @@
     "uri": "https://gaming.amazon.com/coromon-gog/dp/amzn1.pg.item.cf7557a9-a65d-49b5-b6e7-b98604150d78?ref_=SM_Coromon_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1738173600000
+    "end": 1738173600000,
+    "slug": "coromon"
   },
   {
     "id": "f58293e27f",
@@ -237,7 +260,8 @@
     "uri": "https://gaming.amazon.com/bioshock-remastered-gog/dp/amzn1.pg.item.47e3beb4-fa93-4141-8bbb-dd75cfbe25c8?ref_=SM_BioShockRemastered_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736359200000
+    "end": 1736359200000,
+    "slug": "bioshock-remastered"
   },
   {
     "id": "1a734a066d",
@@ -247,7 +271,8 @@
     "uri": "https://gaming.amazon.com/gargoyles-remastered-aga/dp/amzn1.pg.item.551a3513-05a9-4466-9034-d112c0e27c52?ref_=SM_GargoylesRemastered_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "gargoyles-remastered"
   },
   {
     "id": "9c0d5da616",
@@ -257,7 +282,8 @@
     "uri": "https://gaming.amazon.com/killing-floor-2-epic/dp/amzn1.pg.item.ceccd1c8-4bcf-4164-98b8-41b6e92e10ee?ref_=SM_KillingFloor2_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "killing-floor-2"
   },
   {
     "id": "3fe7d114f5",
@@ -267,7 +293,8 @@
     "uri": "https://gaming.amazon.com/haunted-hotel-personal-nightmare-ce-aga/dp/amzn1.pg.item.41f7e313-4225-4d71-a0a4-0dea5a6b04d5?ref_=SM_HauntedHotelPersonalNightmareCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735754400000
+    "end": 1735754400000,
+    "slug": "haunted-hotel-person"
   },
   {
     "id": "1f80286426",
@@ -277,7 +304,8 @@
     "uri": "https://gaming.amazon.com/monster-train-gog/dp/amzn1.pg.item.935352db-da17-4dc0-891c-5f7fcdfbf691?ref_=SM_MonsterTrain_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1737568800000
+    "end": 1737568800000,
+    "slug": "monster-train"
   },
   {
     "id": "7008821174",
@@ -287,7 +315,8 @@
     "uri": "https://gaming.amazon.com/pumpkin-jack-gog/dp/amzn1.pg.item.a04f8021-81e2-456c-aa16-c0ceb7d8be0d?ref_=SM_PumpkinJack_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1737568800000
+    "end": 1737568800000,
+    "slug": "pumpkin-jack"
   },
   {
     "id": "8d4593d922",
@@ -297,7 +326,8 @@
     "uri": "https://gaming.amazon.com/stasis-bone-totem-epic/dp/amzn1.pg.item.96e6beeb-913f-4eba-8471-e8188e94b744?ref_=SM_STASISBONETOTEM_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1737568800000
+    "end": 1737568800000,
+    "slug": "stasis-bone-totem"
   },
   {
     "id": "94e445a67a",
@@ -307,7 +337,8 @@
     "uri": "https://gaming.amazon.com/the-gunk-gog/dp/amzn1.pg.item.eb579093-f15f-40f1-ae81-259e4104ac1e?ref_=SM_TheGunk_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1737568800000
+    "end": 1737568800000,
+    "slug": "the-gunk"
   },
   {
     "id": "472b0e88a1",
@@ -317,7 +348,8 @@
     "uri": "https://gaming.amazon.com/morbid-the-seven-acolytes-epic/dp/amzn1.pg.item.d3295a8d-1dd7-4f0c-a02a-4c0e9932929b?ref_=SM_MorbidTheSevenAcolytes_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "morbid-the-seven-aco"
   },
   {
     "id": "b841270060",
@@ -327,7 +359,8 @@
     "uri": "https://gaming.amazon.com/the-gap-aga/dp/amzn1.pg.item.4e43dec0-5cc0-43b4-a970-c110605935f6?ref_=SM_TheGap_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736272800000
+    "end": 1736272800000,
+    "slug": "the-gap"
   },
   {
     "id": "d8f8eb8ccb",
@@ -337,7 +370,8 @@
     "uri": "https://gaming.amazon.com/dreadout-2-aga/dp/amzn1.pg.item.c90fbab6-a7f2-4e80-8233-632431cf565d?ref_=SM_DreadOut2_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736359200000
+    "end": 1736359200000,
+    "slug": "dreadout-2"
   },
   {
     "id": "ccb18e2456",
@@ -347,7 +381,8 @@
     "uri": "https://gaming.amazon.com/priest-simulator-vampire-show-epic/dp/amzn1.pg.item.a9e49c29-b2fc-45f5-b40e-91f68011bc9d?ref_=SM_PriestSimulatorVampireShow_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "priest-simulator-vam"
   },
   {
     "id": "76ca074b5e",
@@ -357,7 +392,8 @@
     "uri": "https://gaming.amazon.com/through-the-darkest-of-times-aga/dp/amzn1.pg.item.f7492ab7-439e-4e1c-8439-86323c6fc9db?ref_=SM_ThroughtheDarkestofTimes_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1736964000000
+    "end": 1736964000000,
+    "slug": "through-the-darkest"
   },
   {
     "id": "2baee76223",
@@ -367,7 +403,8 @@
     "uri": "https://gaming.amazon.com/no-straight-roads-epic/dp/amzn1.pg.item.261f39ef-7817-4333-9685-913c07486a41?ref_=SM_NoStraightRoads_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735754400000
+    "end": 1735754400000,
+    "slug": "no-straight-roads"
   },
   {
     "id": "d26bcb2d48",
@@ -377,7 +414,8 @@
     "uri": "https://gaming.amazon.com/the-eternal-cylinder-epic/dp/amzn1.pg.item.6fc06cc3-039a-4f6a-b788-100a5fa9c87e?ref_=SM_TheEternalCylinder_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735754400000
+    "end": 1735754400000,
+    "slug": "the-eternal-cylinder"
   },
   {
     "id": "553508d163",
@@ -387,7 +425,8 @@
     "uri": "https://gaming.amazon.com/scarf-epic/dp/amzn1.pg.item.3aebbea1-94fe-4226-8aef-4aa349d655e2?ref_=SM_SCARF_S03_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735754400000
+    "end": 1735754400000,
+    "slug": "scarf"
   },
   {
     "id": "075e91ca9b",
@@ -397,7 +436,8 @@
     "uri": "https://gaming.amazon.com/hive-jump-2-survivors-gog/dp/amzn1.pg.item.515e88ec-eb84-4f1e-9cf4-9da6e1b8b625?ref_=SM_HiveJump2Survivors_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733335200000
+    "end": 1733335200000,
+    "slug": "hive-jump-2-survivor"
   },
   {
     "id": "53c281db57",
@@ -407,7 +447,8 @@
     "uri": "https://gaming.amazon.com/borderlands-2-epic/dp/amzn1.pg.item.a29bb597-81eb-46b9-b1ee-8a0490bb8cfc?ref_=SM_Borderlands2_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "borderlands-2"
   },
   {
     "id": "a1daa6c63c",
@@ -417,7 +458,8 @@
     "uri": "https://gaming.amazon.com/kerbal-space-program-gog/dp/amzn1.pg.item.86a1a1cd-19c4-40d8-9f13-abeb3ed8b54c?ref_=SM_KerbalSpaceProgram_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "kerbal-space-program"
   },
   {
     "id": "14e6a4774b",
@@ -427,7 +469,8 @@
     "uri": "https://gaming.amazon.com/ghost-song-gog/dp/amzn1.pg.item.317f4613-e5ff-4b03-9129-246f32fb8feb?ref_=SM_GhostSong_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "ghost-song"
   },
   {
     "id": "a83ecc8df9",
@@ -437,7 +480,8 @@
     "uri": "https://gaming.amazon.com/ynglet-aga/dp/amzn1.pg.item.0d5b027c-2be2-4ef4-aa84-af98321816fc?ref_=SM_Ynglet_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "ynglet"
   },
   {
     "id": "46b3ee2bcf",
@@ -447,7 +491,8 @@
     "uri": "https://gaming.amazon.com/mystery-case-files-black-crown-ce-aga/dp/amzn1.pg.item.bb904e75-7a7f-4b8a-baff-5413b6ddae8c?ref_=SM_MysteryCaseFilesBlackCrownCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "mystery-case-files-b"
   },
   {
     "id": "718cca12a4",
@@ -457,7 +502,8 @@
     "uri": "https://gaming.amazon.com/borderlands-the-pre-sequel-epic/dp/amzn1.pg.item.4604b37c-3756-4d7b-8564-4ade5943b150?ref_=SM_BorderlandsThePreSequel_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733335200000
+    "end": 1733335200000,
+    "slug": "borderlands-the-pre"
   },
   {
     "id": "c63d256b34",
@@ -467,7 +513,8 @@
     "uri": "https://gaming.amazon.com/tales-from-the-borderlands-epic/dp/amzn1.pg.item.7d8968f0-b1ff-4c44-a61a-5e5186ab9a35?ref_=SM_TalesfromtheBorderlands_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "tales-from-the-borde"
   },
   {
     "id": "244b256811",
@@ -477,7 +524,8 @@
     "uri": "https://gaming.amazon.com/the-falconeer-gog/dp/amzn1.pg.item.aaef19ff-9974-4a7c-8dd3-6193db174385?ref_=SM_TheFalconeer_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "the-falconeer"
   },
   {
     "id": "ba7ef4eed7",
@@ -487,7 +535,8 @@
     "uri": "https://gaming.amazon.com/giana-sisters-twisted-dreams-aga/dp/amzn1.adg.product.0a76e83e-1ecc-43eb-84bd-93e6675ec697?ref_=SM_GianaSistersTwistedDreams_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1734544800000
+    "end": 1734544800000,
+    "slug": "giana-sisters-twiste"
   },
   {
     "id": "fd479ba9f6",
@@ -497,7 +546,8 @@
     "uri": "https://gaming.amazon.com/showgunners-gog/dp/amzn1.pg.item.082f19d6-1d83-44a9-b2ab-af80d3e3e32c?ref_=SM_Showgunners_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "showgunners"
   },
   {
     "id": "b9cd6d00aa",
@@ -507,7 +557,8 @@
     "uri": "https://gaming.amazon.com/9-years-of-shadows-gog/dp/amzn1.pg.item.a8cae2e2-07cf-4185-9a1e-48b15d213b46?ref_=SM_9YearsofShadows_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "9-years-of-shadows"
   },
   {
     "id": "fd1930dd35",
@@ -517,7 +568,8 @@
     "uri": "https://gaming.amazon.com/cursed-to-golf-gog/dp/amzn1.pg.item.b925bbe0-b052-454f-b357-381547048085?ref_=SM_CursedtoGolf_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "cursed-to-golf"
   },
   {
     "id": "443d26dbc1",
@@ -527,7 +579,8 @@
     "uri": "https://gaming.amazon.com/hell-pie-gog/dp/amzn1.pg.item.31e693f1-75af-4002-a89b-40bb92b8c70e?ref_=SM_HellPie_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733940000000
+    "end": 1733940000000,
+    "slug": "hell-pie"
   },
   {
     "id": "7a1239cc74",
@@ -537,7 +590,8 @@
     "uri": "https://gaming.amazon.com/eternights-epic/dp/amzn1.pg.item.4a731808-e7d4-4efb-8b9b-1387f51b8f61?ref_=SM_Eternights_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733335200000
+    "end": 1733335200000,
+    "slug": "eternights"
   },
   {
     "id": "1653c15df9",
@@ -547,7 +601,8 @@
     "uri": "https://gaming.amazon.com/minabo-a-walk-through-life-aga/dp/amzn1.pg.item.e8d7a350-f629-47e4-9fe7-1802d9e414bf?ref_=SM_MinaboAwalkthroughlife_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1733335200000
+    "end": 1733335200000,
+    "slug": "minabo-a-walk-throug"
   },
   {
     "id": "e21608c51c",
@@ -557,7 +612,8 @@
     "uri": "https://gaming.amazon.com/industria-gog/dp/amzn1.pg.item.c46b4bf8-fc9b-47dc-8e93-91d3c64289d9?ref_=SM_Industria_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "industria"
   },
   {
     "id": "1f9f8064f1",
@@ -567,7 +623,8 @@
     "uri": "https://gaming.amazon.com/arcade-paradise-gog/dp/amzn1.pg.item.7f530d31-58d7-487d-b315-3ff74e28aa60?ref_=SM_ArcadeParadise_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1732730400000
+    "end": 1732730400000,
+    "slug": "arcade-paradise"
   },
   {
     "id": "2476398d88",
@@ -577,7 +634,8 @@
     "uri": "https://gaming.amazon.com/the-collage-atlas-aga/dp/amzn1.pg.item.b8184700-cec4-46b6-bab7-1024eff47044?ref_=SM_TheCollageAtlas_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1740765600000
+    "end": 1740765600000,
+    "slug": "the-collage-atlas"
   },
   {
     "id": "6534ff321c",
@@ -587,7 +645,8 @@
     "uri": "https://gaming.amazon.com/tiny-robots-recharged-aga/dp/amzn1.adg.product.20b87aa4-24b1-444b-80d0-8a5cbc277c56?ref_=SM_TinyRobotsRecharged_S03_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735668000000
+    "end": 1735668000000,
+    "slug": "tiny-robots-recharge"
   },
   {
     "id": "bb6845fa3f",
@@ -597,7 +656,8 @@
     "uri": "https://gaming.amazon.com/dexter-stardust-adventures-in-outer-space-aga/dp/amzn1.pg.item.c03a78f6-a72e-4ceb-b0a2-5793ce667d51?ref_=SM_DexterStardustAdventuresinOuterSpace_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735711200000
+    "end": 1735711200000,
+    "slug": "dexter-stardust-adve"
   },
   {
     "id": "23fee43f66",
@@ -607,7 +667,8 @@
     "uri": "https://gaming.amazon.com/faraway-arctic-escape-aga/dp/amzn1.pg.item.c357e5eb-fddf-44b3-b986-206dcc4247f2?ref_=SM_FarawayArcticEscape_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735668000000
+    "end": 1735668000000,
+    "slug": "faraway-arctic-escap"
   },
   {
     "id": "49095c8cbf",
@@ -617,7 +678,8 @@
     "uri": "https://gaming.amazon.com/faraway-ii-jungle-escape-aga/dp/amzn1.pg.item.f3867a3a-b3ce-4d33-b43a-aa9192d8dd93?ref_=SM_Faraway2JungleEscape_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735668000000
+    "end": 1735668000000,
+    "slug": "faraway-2-jungle-esc"
   },
   {
     "id": "9433616c3a",
@@ -629,7 +691,8 @@
       "dlc"
     ],
     "archived": false,
-    "end": 1732906800000
+    "end": 1732906800000,
+    "slug": "new-world-starlight"
   },
   {
     "id": "cc75b44853",
@@ -641,6 +704,7 @@
       "dlc"
     ],
     "archived": false,
-    "end": 1732647600000
+    "end": 1732647600000,
+    "slug": "lost-ark-behemoth-ca"
   }
 ]

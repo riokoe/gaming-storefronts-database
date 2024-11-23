@@ -10,7 +10,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "genshin-impact"
   },
   {
     "id": "83dd52e87e",
@@ -23,7 +24,8 @@
       "Desktop",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "microsoft-flight-sim2024"
   },
   {
     "id": "3d91180d90",
@@ -37,7 +39,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stalker-2-heart-of-c"
   },
   {
     "id": "a245c08065",
@@ -48,7 +51,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "juice-galaxy-formerl"
   },
   {
     "id": "720976e2ba",
@@ -59,7 +63,8 @@
     "tags": [
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "beep-sheep-simulator"
   },
   {
     "id": "4301f88b73",
@@ -70,7 +75,8 @@
     "tags": [
       "Puzzle"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-whitakers-librar"
   },
   {
     "id": "449b79504c",
@@ -81,7 +87,8 @@
     "tags": [
       "Survival"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-cursed-canvas"
   },
   {
     "id": "2ac4a7bfcf",
@@ -92,7 +99,8 @@
     "tags": [
       "Visual Novel"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "evidence-of-96"
   },
   {
     "id": "9f36ff1433",
@@ -103,7 +111,8 @@
     "tags": [
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "evolvedustry"
   },
   {
     "id": "0ec288f9e1",
@@ -114,7 +123,8 @@
     "tags": [
       "Visual Novel"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "a-date-to-remember"
   },
   {
     "id": "0c29b01af7",
@@ -125,7 +135,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quiet-west-butcher-n"
   },
   {
     "id": "c485fed189",
@@ -136,7 +147,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "home-game"
   },
   {
     "id": "76356d3b19",
@@ -147,7 +159,8 @@
     "tags": [
       "Platformer"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "catup"
   },
   {
     "id": "d4fd805051",
@@ -158,7 +171,8 @@
     "tags": [
       "Action"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forgotten-cowboys"
   },
   {
     "id": "77868c422c",
@@ -169,7 +183,8 @@
     "tags": [
       "Puzzle"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "77868c422c"
   },
   {
     "id": "48f65ce8ac",
@@ -180,7 +195,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ancient-evil"
   },
   {
     "id": "d680829cbe",
@@ -191,7 +207,8 @@
     "tags": [
       "Platformer"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rise-above"
   },
   {
     "id": "31019100c4",
@@ -202,7 +219,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "red-tail"
   },
   {
     "id": "0583beb2ac",
@@ -213,7 +231,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "omega-no-sunshine-24"
   },
   {
     "id": "50960c77cf",
@@ -224,7 +243,8 @@
     "tags": [
       "Action"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "armored-crucible-the"
   },
   {
     "id": "1d6628befe",
@@ -235,7 +255,8 @@
     "tags": [
       "Visual Novel"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "my-favorite-vtuber-j"
   },
   {
     "id": "42fb568abb",
@@ -246,7 +267,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "devyard"
   },
   {
     "id": "1202c3fd53",
@@ -257,7 +279,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "their-navy-is-their"
   },
   {
     "id": "af95409b81",
@@ -268,7 +291,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "home-game-2"
   },
   {
     "id": "6961397ea5",
@@ -279,7 +303,8 @@
     "tags": [
       "Visual Novel"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kookie"
   },
   {
     "id": "a230b8d714",
@@ -290,7 +315,8 @@
     "tags": [
       "Action"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ball-46"
   },
   {
     "id": "66a7e29bf7",
@@ -301,7 +327,8 @@
     "tags": [
       "Action"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-labyrinth-of-kur"
   },
   {
     "id": "5222933170",
@@ -312,7 +339,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kasperias-arenas"
   },
   {
     "id": "559b337a90",
@@ -323,7 +351,8 @@
     "tags": [
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hose-hero"
   },
   {
     "id": "e3a5857e16",
@@ -334,7 +363,8 @@
     "tags": [
       "Educational"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "endless-math-challen"
   },
   {
     "id": "b7e88789bf",
@@ -345,7 +375,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "banana-clicker-join"
   },
   {
     "id": "c622221920",
@@ -356,7 +387,8 @@
     "tags": [
       "Card Game"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "jacker"
   },
   {
     "id": "a2ecfd1763",
@@ -367,7 +399,8 @@
     "tags": [
       "Platformer"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "beanman"
   },
   {
     "id": "b6cb08a872",
@@ -378,7 +411,8 @@
     "tags": [
       "Sports"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gameday-mayhem"
   },
   {
     "id": "ec40a71ae0",
@@ -389,7 +423,8 @@
     "tags": [
       "Visual Novel"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-burrow"
   },
   {
     "id": "66d9e2a4af",
@@ -400,7 +435,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "baldis-basics-songkr"
   },
   {
     "id": "75a1160825",
@@ -411,7 +447,8 @@
     "tags": [
       "Role Playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "classic-game"
   },
   {
     "id": "59dc37343d",
@@ -422,7 +459,8 @@
     "tags": [
       "Puzzle"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "strange-toilet"
   },
   {
     "id": "32f18a0436",
@@ -433,7 +471,8 @@
     "tags": [
       "Puzzle"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "strange-toilet-2"
   },
   {
     "id": "cd74908336",
@@ -444,7 +483,8 @@
     "tags": [
       "Platformer"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "foxy-man"
   },
   {
     "id": "92b81b6617",
@@ -455,7 +495,8 @@
     "tags": [
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "zombie-hunter"
   },
   {
     "id": "f8cf98de72",
@@ -464,7 +505,8 @@
     "platform": 2,
     "uri": "https://al7ussain.itch.io/housecleaner",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "slug": "house-cleaner"
   },
   {
     "id": "aafb341813",
@@ -473,7 +515,8 @@
     "platform": 2,
     "uri": "https://al7ussain.itch.io/house-cleaner-2",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "slug": "house-cleaner-2"
   },
   {
     "id": "41dd856d10",
@@ -484,71 +527,8 @@
     "tags": [
       "Strategy"
     ],
-    "archived": false
-  },
-  {
-    "id": "3f87d5016b",
-    "title": "THE WHOLE WORLD",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/the-whole-world",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false
-  },
-  {
-    "id": "684f71313b",
-    "title": "SUD GAME",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/sud-game",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": false
-  },
-  {
-    "id": "b44940d495",
-    "title": "Its Time To Fight",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/its-time-to-fight",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false
-  },
-  {
-    "id": "809c9152bd",
-    "title": "Doctor Abhas",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/doctor-abhas",
-    "tags": [
-      "Action"
-    ],
-    "archived": false
-  },
-  {
-    "id": "519cf7bcfe",
-    "title": "Name The Pokemon",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/name-the-pokemon",
-    "tags": [],
-    "archived": false
-  },
-  {
-    "id": "fa3d2ffa91",
-    "title": "Zizzy Zombie",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/zizzy-zombie",
-    "tags": [
-      "Action"
-    ],
-    "archived": false
+    "archived": false,
+    "slug": "guardians-of-the-zod"
   },
   {
     "id": "fde7ac4003",
@@ -559,7 +539,8 @@
     "tags": [
       "Adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tiny-tails-the-whale"
   },
   {
     "id": "fc3f3a623f",
@@ -570,29 +551,8 @@
     "tags": [
       "Action"
     ],
-    "archived": false
-  },
-  {
-    "id": "e5436b9f81",
-    "title": "Basketball",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/football",
-    "tags": [
-      "Sports"
-    ],
-    "archived": false
-  },
-  {
-    "id": "501d47fc56",
-    "title": "Theme Park Tycoon",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/theme-park-tycoon",
-    "tags": [
-      "Simulation"
-    ],
-    "archived": false
+    "archived": false,
+    "slug": "fragmentsoftyrannyde"
   },
   {
     "id": "8f9bf67367",
@@ -605,6 +565,35 @@
     "tags": [
       "Adventure"
     ],
+    "archived": false,
+    "slug": "shadows-of-souls"
+  },
+  {
+    "id": "84b7e239aa",
+    "title": "Kurio",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732367985135,
+    "platform": 2,
+    "uri": "https://kuriokingdom.itch.io/kurio",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "kurio",
+    "archived": false
+  },
+  {
+    "id": "bdaf4634b9",
+    "title": "Enoch Never Dies",
+    "price": 9.99,
+    "end": 1732424400000,
+    "added": 1732367985135,
+    "platform": 2,
+    "uri": "https://dylancassidy.itch.io/enoch-never-dies",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "enoch-never-dies",
     "archived": false
   },
   {
@@ -616,7 +605,8 @@
     "platform": 4,
     "uri": "https://store.epicgames.com/en-US/p/beholder-8c3b4c",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "slug": "beholder"
   },
   {
     "id": "6348a0eeae",
@@ -626,7 +616,8 @@
     "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "overcooked-gourmet-e"
   },
   {
     "id": "93d152bed5",
@@ -636,7 +627,8 @@
     "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "super-meat-boy"
   },
   {
     "id": "5ef66ccb2c",
@@ -646,7 +638,8 @@
     "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "max-the-curse-of-bro"
   },
   {
     "id": "93adf1d525",
@@ -656,7 +649,8 @@
     "uri": "https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1739988000000
+    "end": 1739988000000,
+    "slug": "moonscars"
   },
   {
     "id": "49726f3562",
@@ -666,7 +660,8 @@
     "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "riot-civil-unrest"
   },
   {
     "id": "7c8667eaab",
@@ -676,7 +671,94 @@
     "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
     "tags": [],
     "archived": false,
-    "end": 1735149600000
+    "end": 1735149600000,
+    "slug": "gloomy-tales-one-way"
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "archived": true
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "archived": true
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "archived": true
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "archived": true
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "archived": true
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "added": 1732267825149,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "archived": true
+  },
+  {
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/football",
+    "tags": [
+      "Sports"
+    ],
+    "archived": true
+  },
+  {
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "added": 1732270600257,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "archived": true
   },
   {
     "id": "28d30f7d9f",

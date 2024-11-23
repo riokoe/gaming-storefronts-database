@@ -11,7 +11,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-gunk"
   },
   {
     "id": "99373d24e6",
@@ -25,7 +26,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "a-little-to-the-left"
   },
   {
     "id": "ba40d7b531",
@@ -38,7 +40,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "a-plague-tale-requie"
   },
   {
     "id": "8b4ed436d1",
@@ -51,7 +54,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "a-way-out"
   },
   {
     "id": "b1ca4b3f01",
@@ -64,7 +68,8 @@
       "Desktop",
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-empires-ii-de"
   },
   {
     "id": "7560b2229c",
@@ -76,7 +81,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-empires-iv-an"
   },
   {
     "id": "3abc4f0c2d",
@@ -89,7 +95,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-mythology-ret"
   },
   {
     "id": "790682f3d0",
@@ -102,7 +109,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "alice-madness-return"
   },
   {
     "id": "c04ff6a2ff",
@@ -116,7 +124,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "all-you-need-is-help"
   },
   {
     "id": "c1633abad7",
@@ -129,7 +138,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "amnesia-the-bunker"
   },
   {
     "id": "f946b81339",
@@ -142,7 +152,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "among-us"
   },
   {
     "id": "45639e51a8",
@@ -156,7 +167,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "another-crabs-treasu"
   },
   {
     "id": "b91751855c",
@@ -169,7 +181,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "anthem"
   },
   {
     "id": "2075c8ed79",
@@ -183,7 +196,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "anuchard"
   },
   {
     "id": "913f563011",
@@ -198,7 +212,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "arcade-paradise"
   },
   {
     "id": "0270108826",
@@ -213,7 +228,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ark-survival-ascende"
   },
   {
     "id": "c54b05c939",
@@ -225,7 +241,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ark-ultimate-survivo"
   },
   {
     "id": "7f120ee669",
@@ -238,7 +255,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "army-of-two"
   },
   {
     "id": "c99e30960c",
@@ -252,7 +270,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "as-dusk-falls"
   },
   {
     "id": "c23d5193f2",
@@ -266,7 +285,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ashen"
   },
   {
     "id": "6a6887b733",
@@ -278,7 +298,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "assassins-creed-odys"
   },
   {
     "id": "d8f2ed652f",
@@ -290,7 +311,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "assassins-creed-orig"
   },
   {
     "id": "79b7057305",
@@ -302,7 +324,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "assassins-creed-valh"
   },
   {
     "id": "6c44f80bbb",
@@ -316,7 +339,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "astroneer"
   },
   {
     "id": "e60b6a3ee8",
@@ -328,7 +352,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "atlas-fallen-reign-o"
   },
   {
     "id": "81203dde3d",
@@ -342,7 +367,8 @@
       "Racing & flying",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "banjo-kazooie-n-n-b"
   },
   {
     "id": "2b4cd6a739",
@@ -355,7 +381,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "banjo-kazooie"
   },
   {
     "id": "1043f5879d",
@@ -368,7 +395,8 @@
       "Classics",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "banjo-tooie"
   },
   {
     "id": "9bd2881bd3",
@@ -380,7 +408,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "batman-arkham-knight"
   },
   {
     "id": "23e1f4e0bd",
@@ -393,7 +422,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-3"
   },
   {
     "id": "c0c79e5b42",
@@ -406,7 +436,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-4"
   },
   {
     "id": "1c85386632",
@@ -419,7 +450,8 @@
       "EA-Play",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-1-revolu"
   },
   {
     "id": "27a8ee2a06",
@@ -432,7 +464,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-2042-xbo"
   },
   {
     "id": "7b7ed2cbac",
@@ -445,7 +478,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-2042-xbo"
   },
   {
     "id": "f8be3e4a17",
@@ -458,7 +492,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-hardline"
   },
   {
     "id": "de265a4fad",
@@ -471,7 +506,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battlefield-v"
   },
   {
     "id": "18a8873761",
@@ -486,7 +522,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battletoads"
   },
   {
     "id": "28031a4cfb",
@@ -499,7 +536,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bejeweled-2"
   },
   {
     "id": "4145fc1538",
@@ -513,7 +551,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bejeweled-3"
   },
   {
     "id": "75bdf87ed8",
@@ -527,7 +566,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ben-10-power-trip"
   },
   {
     "id": "70da3c0af6",
@@ -540,7 +580,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "black"
   },
   {
     "id": "6a27624240",
@@ -553,7 +594,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "blazblue-cross-tag-b"
   },
   {
     "id": "82c66fd0a3",
@@ -567,7 +609,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bleeding-edge"
   },
   {
     "id": "5d1003f94f",
@@ -579,7 +622,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "blinx-the-time-sweep"
   },
   {
     "id": "5a24c0e674",
@@ -591,7 +635,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bloodstained-ritual"
   },
   {
     "id": "6ef96fc558",
@@ -605,7 +650,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bluey-the-videogame"
   },
   {
     "id": "b909f804f2",
@@ -617,7 +663,8 @@
       "Puzzle & trivia",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "botany-manor"
   },
   {
     "id": "5820dbc911",
@@ -630,7 +677,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "broforce"
   },
   {
     "id": "869b6c33f1",
@@ -642,7 +690,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "broken-age"
   },
   {
     "id": "365dab1be1",
@@ -658,7 +707,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "brotato"
   },
   {
     "id": "e26e9e228b",
@@ -670,7 +720,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "brothers-a-tale-of-t"
   },
   {
     "id": "455b365cb0",
@@ -684,7 +735,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "brtal-legend"
   },
   {
     "id": "8004c3053e",
@@ -697,7 +749,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "burnout-paradise-rem"
   },
   {
     "id": "0cffce4f31",
@@ -709,7 +762,8 @@
       "Console",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "call-of-duty-black-o6"
   },
   {
     "id": "001b5b3afc",
@@ -721,7 +775,8 @@
       "Console",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "call-of-duty-modern"
   },
   {
     "id": "c263beecf2",
@@ -735,7 +790,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "call-of-the-wild-the"
   },
   {
     "id": "60dd0b4177",
@@ -749,7 +805,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "car-mechanic-simulat2021"
   },
   {
     "id": "526c0297ac",
@@ -763,7 +820,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cassette-beasts"
   },
   {
     "id": "5fff80f72d",
@@ -776,7 +834,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "celeste"
   },
   {
     "id": "d0037547bf",
@@ -788,7 +847,8 @@
       "Puzzle & trivia",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "chants-of-sennaar"
   },
   {
     "id": "c74ebd7b58",
@@ -803,7 +863,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "chivalry-2"
   },
   {
     "id": "4b95cca792",
@@ -815,7 +876,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cities-skylines-rema"
   },
   {
     "id": "0cf9f00c60",
@@ -827,7 +889,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cities-skylines-xbox"
   },
   {
     "id": "a053653f59",
@@ -841,7 +904,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "citizen-sleeper"
   },
   {
     "id": "df867caa18",
@@ -855,7 +919,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "clone-drone-in-the-d"
   },
   {
     "id": "e6c991ff39",
@@ -867,7 +932,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "close-to-the-sun"
   },
   {
     "id": "c94c6a8487",
@@ -881,7 +947,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cocoon"
   },
   {
     "id": "649bd2f3c3",
@@ -894,7 +961,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "commonhood"
   },
   {
     "id": "ea2225b96f",
@@ -907,7 +975,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "conan-exiles"
   },
   {
     "id": "fd7010a99c",
@@ -919,7 +988,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "contrast"
   },
   {
     "id": "41363ad4e5",
@@ -932,7 +1002,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "control"
   },
   {
     "id": "74d20154e5",
@@ -945,7 +1016,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "control-ultimate-edi"
   },
   {
     "id": "4109579dcb",
@@ -957,7 +1029,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cooking-simulator"
   },
   {
     "id": "9ef0ab8032",
@@ -971,7 +1044,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "coral-island"
   },
   {
     "id": "dc8b96c753",
@@ -986,7 +1060,8 @@
       "Other",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "core-keeper"
   },
   {
     "id": "7f01fd41e6",
@@ -999,7 +1074,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "costume-quest"
   },
   {
     "id": "1442be7cc5",
@@ -1011,7 +1087,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "costume-quest-2"
   },
   {
     "id": "882648e627",
@@ -1024,7 +1101,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crackdown-3"
   },
   {
     "id": "16e9e2f11d",
@@ -1036,7 +1114,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crash-bandicoot-n-sa"
   },
   {
     "id": "ccf9254063",
@@ -1049,7 +1128,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "creatures-of-ava"
   },
   {
     "id": "4dbe17899f",
@@ -1061,7 +1141,8 @@
       "Sports",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cricket-24"
   },
   {
     "id": "7a34d97280",
@@ -1073,7 +1154,8 @@
       "Racing & flying",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crimson-skies-high-r"
   },
   {
     "id": "b4725642e3",
@@ -1087,7 +1169,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crusader-kings-iii"
   },
   {
     "id": "4562ed9778",
@@ -1100,7 +1183,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crysis"
   },
   {
     "id": "a2c032000b",
@@ -1113,7 +1197,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crysis-2"
   },
   {
     "id": "27ccc559fd",
@@ -1126,7 +1211,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crysis-3"
   },
   {
     "id": "88835f1f12",
@@ -1139,7 +1225,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dantes-inferno"
   },
   {
     "id": "7716e86efc",
@@ -1154,7 +1241,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "darkest-dungeon"
   },
   {
     "id": "33440718e7",
@@ -1167,7 +1255,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "day-of-the-tentacle"
   },
   {
     "id": "198286fb2a",
@@ -1181,7 +1270,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dayz"
   },
   {
     "id": "ed0b638e90",
@@ -1194,7 +1284,8 @@
       "Other",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-by-daylight"
   },
   {
     "id": "f1b9ca0ac9",
@@ -1207,7 +1298,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-cells"
   },
   {
     "id": "7df934c639",
@@ -1220,7 +1312,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-island-2"
   },
   {
     "id": "4ca3c818d2",
@@ -1235,7 +1328,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-space"
   },
   {
     "id": "016604287a",
@@ -1248,7 +1342,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-space-2008"
   },
   {
     "id": "91cd596e34",
@@ -1261,7 +1356,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-space-2"
   },
   {
     "id": "ca14ceb720",
@@ -1274,7 +1370,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-space-3"
   },
   {
     "id": "e22819c87b",
@@ -1288,7 +1385,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-space-ignition"
   },
   {
     "id": "2482e14130",
@@ -1300,7 +1398,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "deaths-door"
   },
   {
     "id": "a081245667",
@@ -1314,7 +1413,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "deathloop"
   },
   {
     "id": "26dfa40c36",
@@ -1327,7 +1427,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "deep-rock-galactic"
   },
   {
     "id": "4328198888",
@@ -1341,7 +1442,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "descenders"
   },
   {
     "id": "dd0fa534aa",
@@ -1354,7 +1456,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "diablo-iv"
   },
   {
     "id": "572f9ea48e",
@@ -1370,7 +1473,8 @@
       "Desktop",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dirt-5"
   },
   {
     "id": "bb0db14f51",
@@ -1386,7 +1490,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dirt-rally-20"
   },
   {
     "id": "a529b39b24",
@@ -1398,7 +1503,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-2"
   },
   {
     "id": "17800e2eec",
@@ -1410,7 +1516,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-definitiv"
   },
   {
     "id": "f9f29abd1f",
@@ -1422,7 +1529,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-death-of"
   },
   {
     "id": "9fb9fbce53",
@@ -1437,7 +1545,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "disney-dreamlight-va"
   },
   {
     "id": "972433fec8",
@@ -1450,7 +1559,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "disneyland-adventure"
   },
   {
     "id": "815f4ab053",
@@ -1465,7 +1575,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "donut-county"
   },
   {
     "id": "01aa7dc522",
@@ -1477,7 +1588,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom"
   },
   {
     "id": "ef7bb96c25",
@@ -1490,7 +1602,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom-doom-ii"
   },
   {
     "id": "75cc429498",
@@ -1503,7 +1616,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom-3"
   },
   {
     "id": "f19cff0e53",
@@ -1517,7 +1631,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom-64"
   },
   {
     "id": "c047c0ba05",
@@ -1529,7 +1644,8 @@
       "Console",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom-eternal-standar"
   },
   {
     "id": "45ba1678d0",
@@ -1541,7 +1657,8 @@
       "Other",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dordogne"
   },
   {
     "id": "2c065e5247",
@@ -1554,7 +1671,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dragon-age-origins"
   },
   {
     "id": "08ad2a2e90",
@@ -1568,7 +1686,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dragon-age-2"
   },
   {
     "id": "97986feb54",
@@ -1581,7 +1700,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dragon-age-inquisiti"
   },
   {
     "id": "91fa489d45",
@@ -1594,7 +1714,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dune-spice-wars"
   },
   {
     "id": "05410c1e6e",
@@ -1607,7 +1728,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dungeons-of-hinterbe"
   },
   {
     "id": "12bf728f54",
@@ -1621,7 +1743,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ea-sports-fc-24-xbox"
   },
   {
     "id": "eedd9852fd",
@@ -1635,7 +1758,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ea-sports-fc-24-xbox"
   },
   {
     "id": "041486904a",
@@ -1652,7 +1776,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ea-sports-pga-tour"
   },
   {
     "id": "e0977cbe80",
@@ -1665,7 +1790,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ea-sports-ufc-3"
   },
   {
     "id": "da6a999b56",
@@ -1678,7 +1804,8 @@
       "Desktop",
       "Role playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "eiyuden-chronicle-hu"
   },
   {
     "id": "ef31395e74",
@@ -1692,7 +1819,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "escape-academy"
   },
   {
     "id": "1618f008d7",
@@ -1705,7 +1833,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "evil-west"
   },
   {
     "id": "702adea46b",
@@ -1719,7 +1848,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "exoprimal"
   },
   {
     "id": "6f285c628e",
@@ -1731,7 +1861,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "expeditions-a-mudrun"
   },
   {
     "id": "79f5931c4e",
@@ -1746,7 +1877,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "f1-22-xbox-one"
   },
   {
     "id": "50f17429fa",
@@ -1761,7 +1893,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "f1-22-xbox-series-xs"
   },
   {
     "id": "4b839806da",
@@ -1777,7 +1910,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "f1-23"
   },
   {
     "id": "355f43352f",
@@ -1789,7 +1923,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fable-anniversary"
   },
   {
     "id": "e547923ff4",
@@ -1801,7 +1936,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fable-ii"
   },
   {
     "id": "a51c215cb5",
@@ -1815,7 +1951,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fable-iii"
   },
   {
     "id": "1cdb2173e6",
@@ -1827,7 +1964,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-3"
   },
   {
     "id": "e807f39dfb",
@@ -1839,7 +1977,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-4"
   },
   {
     "id": "712acf93d6",
@@ -1851,7 +1990,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-76"
   },
   {
     "id": "ff82e38add",
@@ -1865,7 +2005,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-new-vegas"
   },
   {
     "id": "5f3d7bf785",
@@ -1877,7 +2018,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "far-cry-5"
   },
   {
     "id": "e8983267e7",
@@ -1890,7 +2032,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "far-cry-6"
   },
   {
     "id": "388f97f370",
@@ -1902,7 +2045,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "farming-simulator-22"
   },
   {
     "id": "26c13b5d2a",
@@ -1915,7 +2059,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fe"
   },
   {
     "id": "c31c49659d",
@@ -1929,7 +2074,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "feeding-frenzy"
   },
   {
     "id": "f879902198",
@@ -1943,7 +2089,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "feeding-frenzy-2"
   },
   {
     "id": "c542327ab8",
@@ -1957,7 +2104,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fight-night-champion"
   },
   {
     "id": "f30193eef6",
@@ -1971,7 +2119,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "figment-journey-into"
   },
   {
     "id": "370bb94131",
@@ -1984,7 +2133,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "firewatch"
   },
   {
     "id": "0460401b54",
@@ -1998,7 +2148,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "flintlock-the-siege"
   },
   {
     "id": "33064a78e1",
@@ -2011,7 +2162,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "flock"
   },
   {
     "id": "a5649e5629",
@@ -2025,7 +2177,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "football-manager-2024"
   },
   {
     "id": "0867985f92",
@@ -2037,7 +2190,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "for-honor-marching-f"
   },
   {
     "id": "094667e20c",
@@ -2051,7 +2205,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forager"
   },
   {
     "id": "fab5098a22",
@@ -2064,7 +2219,8 @@
       "Desktop",
       "Racing & flying"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forza-horizon-4-stan"
   },
   {
     "id": "77a3316a3e",
@@ -2077,7 +2233,8 @@
       "Desktop",
       "Racing & flying"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forza-horizon-5-stan"
   },
   {
     "id": "019535efd7",
@@ -2090,7 +2247,8 @@
       "Desktop",
       "Racing & flying"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forza-motorsport-sta"
   },
   {
     "id": "99dc154301",
@@ -2103,7 +2261,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "frostpunk-console-ed"
   },
   {
     "id": "42831d6573",
@@ -2116,7 +2275,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "full-throttle-remast"
   },
   {
     "id": "66c1ab534d",
@@ -2128,7 +2288,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fuzion-frenzy"
   },
   {
     "id": "948d30c398",
@@ -2143,7 +2304,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "galacticare"
   },
   {
     "id": "d2ea38a700",
@@ -2157,7 +2319,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gang-beasts"
   },
   {
     "id": "67ed7df4e5",
@@ -2170,7 +2333,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-5-game-of-the"
   },
   {
     "id": "67481311f8",
@@ -2182,7 +2346,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war"
   },
   {
     "id": "713281c1a5",
@@ -2194,7 +2359,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-2"
   },
   {
     "id": "27df091cc5",
@@ -2206,7 +2372,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-3"
   },
   {
     "id": "6423c53703",
@@ -2219,7 +2386,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-4"
   },
   {
     "id": "244b0d34ac",
@@ -2231,7 +2399,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-judgmen"
   },
   {
     "id": "211c120d81",
@@ -2243,7 +2412,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-ultimat"
   },
   {
     "id": "93ec04a3bb",
@@ -2256,7 +2426,8 @@
       "Desktop",
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-tactics"
   },
   {
     "id": "13b44d8b51",
@@ -2270,7 +2441,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "generation-zero"
   },
   {
     "id": "5b26f14693",
@@ -2284,7 +2456,8 @@
       "Puzzle & trivia",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "genesis-noir"
   },
   {
     "id": "fe67eb4bc9",
@@ -2297,7 +2470,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "genshin-impact"
   },
   {
     "id": "a63cee7c85",
@@ -2310,7 +2484,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ghostwire-tokyo"
   },
   {
     "id": "6751ddc4ff",
@@ -2324,7 +2499,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "go-mecha-ball"
   },
   {
     "id": "556f92f160",
@@ -2336,7 +2512,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator"
   },
   {
     "id": "dba7acc024",
@@ -2350,7 +2527,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator-3"
   },
   {
     "id": "7f8405ecb6",
@@ -2364,7 +2542,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator-3-xbo"
   },
   {
     "id": "3de76d0802",
@@ -2376,7 +2555,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator-remas"
   },
   {
     "id": "bfe7fa7e9e",
@@ -2390,7 +2570,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goldeneye-007"
   },
   {
     "id": "a2493778fe",
@@ -2403,7 +2584,8 @@
       "Sports",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "golf-with-your-frien"
   },
   {
     "id": "10ae0e9903",
@@ -2416,7 +2598,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "grid-legends"
   },
   {
     "id": "4006b60cf7",
@@ -2429,7 +2612,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "grim-fandango-remast"
   },
   {
     "id": "f0651f4a1a",
@@ -2442,7 +2626,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gris"
   },
   {
     "id": "e584427706",
@@ -2456,7 +2641,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "grounded"
   },
   {
     "id": "b4179e6c7c",
@@ -2468,7 +2654,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-5-guardians"
   },
   {
     "id": "f0f7a46d77",
@@ -2481,7 +2668,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-infinite-campai"
   },
   {
     "id": "3c42066ab7",
@@ -2493,7 +2681,8 @@
       "Console",
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-wars-2-standard"
   },
   {
     "id": "c529c01a09",
@@ -2506,7 +2695,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-wars-definitive"
   },
   {
     "id": "c4d5e8394e",
@@ -2520,7 +2710,8 @@
       "Multi-player Online Battle Arena",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-spartan-assault"
   },
   {
     "id": "94e8e48171",
@@ -2532,7 +2723,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-the-master-chie"
   },
   {
     "id": "7acfcd35ba",
@@ -2545,7 +2737,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "harold-halibut"
   },
   {
     "id": "f46adcfed1",
@@ -2560,7 +2753,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hauntii"
   },
   {
     "id": "9d141bc0f1",
@@ -2573,7 +2767,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "have-a-nice-death"
   },
   {
     "id": "bcb1ba4430",
@@ -2586,7 +2781,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "heavy-weapon"
   },
   {
     "id": "2beff245da",
@@ -2599,7 +2795,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hell-let-loose"
   },
   {
     "id": "fc9fec9c09",
@@ -2611,7 +2808,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hellblade-senuas-sac"
   },
   {
     "id": "5ca635e488",
@@ -2625,7 +2823,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hello-neighbor-2"
   },
   {
     "id": "5204bb50c8",
@@ -2638,7 +2837,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hi-fi-rush"
   },
   {
     "id": "2328fe4e74",
@@ -2652,7 +2852,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hollow-knight-voidhe"
   },
   {
     "id": "41117b120f",
@@ -2665,7 +2866,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "homestead-arcana"
   },
   {
     "id": "66cd4c40de",
@@ -2679,7 +2881,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hot-wheels-unleashed2"
   },
   {
     "id": "47e1641690",
@@ -2692,7 +2895,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "house-flipper"
   },
   {
     "id": "93aed91022",
@@ -2707,7 +2911,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "human-fall-flat"
   },
   {
     "id": "0205a7d870",
@@ -2722,7 +2927,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "humanity"
   },
   {
     "id": "5828f71b33",
@@ -2735,7 +2941,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "humankind"
   },
   {
     "id": "3df8825c88",
@@ -2749,7 +2956,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hypnospace-outlaw"
   },
   {
     "id": "91b81deacb",
@@ -2761,7 +2969,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "immortals-fenyx-risi"
   },
   {
     "id": "f0ef5c5e5d",
@@ -2775,7 +2984,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "immortals-of-aveum"
   },
   {
     "id": "356821d9a7",
@@ -2789,7 +2999,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "indivisible"
   },
   {
     "id": "8ace3b0691",
@@ -2801,7 +3012,8 @@
       "Fighting",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "injustice-2"
   },
   {
     "id": "c55e4126ed",
@@ -2816,7 +3028,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "inscryption"
   },
   {
     "id": "72049b678e",
@@ -2830,7 +3043,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "inside"
   },
   {
     "id": "9f809ec16e",
@@ -2845,7 +3059,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "insurgency-sandstorm"
   },
   {
     "id": "52fda676a0",
@@ -2858,7 +3073,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "iron-brigade"
   },
   {
     "id": "1d08c3a1a7",
@@ -2873,7 +3089,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "isonzo"
   },
   {
     "id": "1a55dbb76c",
@@ -2886,7 +3103,8 @@
       "EA-Play",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "it-takes-two-digital"
   },
   {
     "id": "2253b84c08",
@@ -2899,7 +3117,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "jetpac-refuelled"
   },
   {
     "id": "462e03c3dc",
@@ -2912,7 +3131,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "journey-to-the-savag"
   },
   {
     "id": "2a009b7462",
@@ -2926,7 +3146,8 @@
       "Sports",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "joy-ride-turbo"
   },
   {
     "id": "12fdcf7daf",
@@ -2940,7 +3161,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "jurassic-world-evolu2"
   },
   {
     "id": "3c4c7fe32c",
@@ -2954,7 +3176,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "jusant"
   },
   {
     "id": "5aa0cb5c8d",
@@ -2967,7 +3190,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kameo"
   },
   {
     "id": "7a355a82ef",
@@ -2979,7 +3203,8 @@
       "Console",
       "Fighting"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "killer-instinct-anni"
   },
   {
     "id": "0a7f6919ca",
@@ -2991,7 +3216,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kona"
   },
   {
     "id": "837cabfa37",
@@ -3005,7 +3231,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kona-ii-brume"
   },
   {
     "id": "8969dee18a",
@@ -3019,7 +3246,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "kunitsu-gami-path-of"
   },
   {
     "id": "506da2d8d5",
@@ -3034,7 +3262,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "legend-of-mana"
   },
   {
     "id": "5221e90758",
@@ -3046,7 +3275,8 @@
       "Console",
       "Racing & flying"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lego-2k-drive-cross"
   },
   {
     "id": "35a133c17d",
@@ -3059,7 +3289,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lego-star-wars-the-s"
   },
   {
     "id": "4a0fd5bff9",
@@ -3073,7 +3304,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lies-of-p"
   },
   {
     "id": "10cbba7f94",
@@ -3088,7 +3320,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lightyear-frontier-g"
   },
   {
     "id": "97446497ee",
@@ -3102,7 +3335,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lil-gator-game"
   },
   {
     "id": "bbcec979f4",
@@ -3114,7 +3348,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "limbo"
   },
   {
     "id": "30b18ceb89",
@@ -3128,7 +3363,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "little-kitty-big-cit"
   },
   {
     "id": "8c18ad81eb",
@@ -3141,7 +3377,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lords-of-the-fallen"
   },
   {
     "id": "b80db79b83",
@@ -3156,7 +3393,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lost-in-random"
   },
   {
     "id": "f2f46e0055",
@@ -3170,7 +3408,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mad-streets"
   },
   {
     "id": "c8129a1f43",
@@ -3183,7 +3422,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "madden-nfl-23-xbox-o"
   },
   {
     "id": "ea7ebedc86",
@@ -3196,7 +3436,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "madden-nfl-23-xbox-s"
   },
   {
     "id": "2ef8287b82",
@@ -3209,7 +3450,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "madden-nfl-24-xbox-o"
   },
   {
     "id": "49bc89a4e0",
@@ -3222,7 +3464,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "madden-nfl-24-xbox-s"
   },
   {
     "id": "4d1d722f1f",
@@ -3234,7 +3477,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mafia-definitive-edi"
   },
   {
     "id": "312848f169",
@@ -3249,7 +3493,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "magical-delicacy"
   },
   {
     "id": "80c270ac91",
@@ -3263,7 +3508,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "maneater"
   },
   {
     "id": "3426662e83",
@@ -3276,7 +3522,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "maquette"
   },
   {
     "id": "8d3867ec77",
@@ -3288,7 +3535,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mass-effect"
   },
   {
     "id": "284d2fc886",
@@ -3301,7 +3549,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mass-effect-2"
   },
   {
     "id": "42bddc8103",
@@ -3315,7 +3564,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mass-effect-3"
   },
   {
     "id": "f839e290f8",
@@ -3332,7 +3582,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mass-effect-legendar"
   },
   {
     "id": "cd4b6ce1e4",
@@ -3345,7 +3596,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mass-effect-andromed"
   },
   {
     "id": "b1fbe23783",
@@ -3358,7 +3610,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "massive-chalice"
   },
   {
     "id": "df87fc5bd2",
@@ -3370,7 +3623,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "max-the-curse-of-bro"
   },
   {
     "id": "d8255f4006",
@@ -3384,7 +3638,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mcpixel-3"
   },
   {
     "id": "1f94461cf3",
@@ -3398,7 +3653,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mechwarrior-5-clans"
   },
   {
     "id": "2cf548f25f",
@@ -3412,7 +3668,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mechwarrior-5-mercen"
   },
   {
     "id": "00964c57d4",
@@ -3426,7 +3683,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "medal-of-honor-airbo"
   },
   {
     "id": "ef6b4a1d4a",
@@ -3441,7 +3699,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "medieval-dynasty"
   },
   {
     "id": "912e837c95",
@@ -3455,7 +3714,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "medieval-dynasty-xbo"
   },
   {
     "id": "5ff3f5e894",
@@ -3472,7 +3732,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "merge-blade"
   },
   {
     "id": "0da21b4b18",
@@ -3488,7 +3749,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "metal-slug-tactics"
   },
   {
     "id": "83dd52e87e",
@@ -3501,7 +3763,8 @@
       "Desktop",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "microsoft-flight-sim2024"
   },
   {
     "id": "bc2e904a84",
@@ -3514,7 +3777,8 @@
       "Desktop",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "microsoft-flight-sim40"
   },
   {
     "id": "9761c2f18c",
@@ -3527,7 +3791,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "middle-earth-shadow"
   },
   {
     "id": "3867c1c02f",
@@ -3540,7 +3805,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft"
   },
   {
     "id": "ea442bbe5b",
@@ -3553,7 +3819,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-dungeons"
   },
   {
     "id": "6e06e24346",
@@ -3566,7 +3833,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-legends"
   },
   {
     "id": "a3d44a71be",
@@ -3580,7 +3848,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-preview"
   },
   {
     "id": "6088807ea4",
@@ -3593,7 +3862,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mirrors-edge"
   },
   {
     "id": "8d86b64ca6",
@@ -3606,7 +3876,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mirrors-edge-catalys"
   },
   {
     "id": "fcca5cf715",
@@ -3620,7 +3891,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mlb-the-show-24-xbox"
   },
   {
     "id": "75c1f80c5f",
@@ -3634,7 +3906,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mlb-the-show-24-xbox"
   },
   {
     "id": "b7a5c3b4c6",
@@ -3648,7 +3921,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "monster-hunter-rise"
   },
   {
     "id": "960dcea9de",
@@ -3661,7 +3935,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "monster-sanctuary"
   },
   {
     "id": "2232ec7d4d",
@@ -3674,7 +3949,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "moonlighter"
   },
   {
     "id": "b04fbc5ed9",
@@ -3687,7 +3963,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mortal-kombat-11"
   },
   {
     "id": "c6b8805597",
@@ -3702,7 +3979,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mount-blade-ii-banne"
   },
   {
     "id": "9d5e19a8ae",
@@ -3716,7 +3994,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "moving-out-2"
   },
   {
     "id": "864a7f826d",
@@ -3729,7 +4008,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "my-friend-peppa-pig"
   },
   {
     "id": "1d17266759",
@@ -3744,7 +4024,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "my-time-at-sandrock"
   },
   {
     "id": "ff21219cd7",
@@ -3757,7 +4038,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nba-live-19"
   },
   {
     "id": "d478e1ffe2",
@@ -3770,7 +4052,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed-rival"
   },
   {
     "id": "15dba32dbd",
@@ -3783,7 +4066,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed"
   },
   {
     "id": "4c6981937f",
@@ -3796,7 +4080,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed-heat"
   },
   {
     "id": "2702b2e106",
@@ -3810,7 +4095,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed-hot-p"
   },
   {
     "id": "9f7d7d919c",
@@ -3823,7 +4109,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed-payba"
   },
   {
     "id": "6556148511",
@@ -3837,7 +4124,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "need-for-speed-unbou"
   },
   {
     "id": "18a633f197",
@@ -3850,7 +4138,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "neon-abyss"
   },
   {
     "id": "c48d9860e5",
@@ -3864,7 +4153,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "neon-white"
   },
   {
     "id": "f4ef5d6c75",
@@ -3878,7 +4168,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "new-super-luckys-tal"
   },
   {
     "id": "fe815624be",
@@ -3891,7 +4182,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nhl-23-xbox-one"
   },
   {
     "id": "6bb65d00bb",
@@ -3904,7 +4196,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nhl-23-xbox-series-x"
   },
   {
     "id": "415955c390",
@@ -3917,7 +4210,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nhl-24-xbox-one"
   },
   {
     "id": "dd39be3eac",
@@ -3930,7 +4224,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nhl-24-xbox-series-x"
   },
   {
     "id": "dae5dcc478",
@@ -3943,7 +4238,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nhl-94-rewind"
   },
   {
     "id": "afea1fa982",
@@ -3956,7 +4252,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ni-no-kuni-wrath-of"
   },
   {
     "id": "a7c5efa062",
@@ -3969,7 +4266,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ni-no-kuni-ii-revena"
   },
   {
     "id": "f0c3a26bcb",
@@ -3983,7 +4281,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "nickelodeon-all-star2"
   },
   {
     "id": "fa66cb06f1",
@@ -3996,7 +4295,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ninja-gaiden-3-razor"
   },
   {
     "id": "1f9f38db3b",
@@ -4009,7 +4309,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ninja-gaiden"
   },
   {
     "id": "6271c621bf",
@@ -4022,7 +4323,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ninja-gaiden-2"
   },
   {
     "id": "ad50b44b44",
@@ -4035,7 +4337,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ninja-gaiden-master"
   },
   {
     "id": "c0904b9231",
@@ -4050,7 +4353,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "no-mans-sky"
   },
   {
     "id": "5c808a4529",
@@ -4062,7 +4366,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "no-more-heroes-3-xbo"
   },
   {
     "id": "caac548ac5",
@@ -4075,7 +4380,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "octopath-traveler"
   },
   {
     "id": "7a5d188704",
@@ -4088,7 +4394,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "octopath-traveler-ii"
   },
   {
     "id": "1e428854d0",
@@ -4101,7 +4408,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "open-roads"
   },
   {
     "id": "59a646a406",
@@ -4116,7 +4424,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "orcs-must-die-3"
   },
   {
     "id": "6cb8e1ed89",
@@ -4129,7 +4438,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ori-and-the-blind-fo"
   },
   {
     "id": "496ca865e2",
@@ -4143,7 +4453,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ori-and-the-will-of"
   },
   {
     "id": "508c77c309",
@@ -4155,7 +4466,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "overcooked-2"
   },
   {
     "id": "6b29ce2b0e",
@@ -4167,7 +4479,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "overwatch-2"
   },
   {
     "id": "c34d29b36c",
@@ -4181,7 +4494,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "palworld-game-previe"
   },
   {
     "id": "f5e462f47d",
@@ -4195,7 +4509,8 @@
       "Fighting",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "party-animals"
   },
   {
     "id": "faa2acb5f3",
@@ -4210,7 +4525,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "paw-patrol-mighty-pu"
   },
   {
     "id": "81ad258a57",
@@ -4225,7 +4541,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "paw-patrol-world"
   },
   {
     "id": "6a9805282a",
@@ -4237,7 +4554,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "payday-2-crimewave-e"
   },
   {
     "id": "4ad721fc38",
@@ -4250,7 +4568,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "peggle"
   },
   {
     "id": "b4ecd6a2b2",
@@ -4263,7 +4582,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "peggle-2"
   },
   {
     "id": "d580b0f376",
@@ -4276,7 +4596,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "pentiment"
   },
   {
     "id": "cd4ae7a5ba",
@@ -4289,7 +4610,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "perfect-dark"
   },
   {
     "id": "30595154bd",
@@ -4302,7 +4624,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "perfect-dark-zero"
   },
   {
     "id": "435900485e",
@@ -4315,7 +4638,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "persona-3-reload"
   },
   {
     "id": "8d32b46af0",
@@ -4331,7 +4655,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "phoenix-point"
   },
   {
     "id": "585f596c00",
@@ -4344,7 +4669,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "pillars-of-eternity"
   },
   {
     "id": "724434fce6",
@@ -4357,7 +4683,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "pillars-of-eternity"
   },
   {
     "id": "25dc683721",
@@ -4371,7 +4698,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "planet-of-lana"
   },
   {
     "id": "95fb77beda",
@@ -4386,7 +4714,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "plants-vs-zombies"
   },
   {
     "id": "801af8de50",
@@ -4399,7 +4728,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "plants-vs-zombies-ga"
   },
   {
     "id": "d6775e77c9",
@@ -4412,7 +4742,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "plants-vs-zombies-ba"
   },
   {
     "id": "cb6082cabc",
@@ -4425,7 +4756,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "plants-vs-zombies-ga2"
   },
   {
     "id": "4906e732c0",
@@ -4438,7 +4770,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "plateup"
   },
   {
     "id": "e8fd9c3113",
@@ -4451,7 +4784,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "powerwash-simulator"
   },
   {
     "id": "c91b90e52f",
@@ -4463,7 +4797,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "prey"
   },
   {
     "id": "997b3cfcdb",
@@ -4477,7 +4812,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "psychonauts"
   },
   {
     "id": "526fb38cbc",
@@ -4491,7 +4827,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "psychonauts-2"
   },
   {
     "id": "d32d2a8359",
@@ -4504,7 +4841,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quake"
   },
   {
     "id": "1436c4b720",
@@ -4517,7 +4855,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quake-ii"
   },
   {
     "id": "f085458578",
@@ -4529,7 +4868,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quantum-break"
   },
   {
     "id": "eaa510a5f1",
@@ -4542,7 +4882,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rage"
   },
   {
     "id": "27459e0e3e",
@@ -4555,7 +4896,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rage-2"
   },
   {
     "id": "a2d4a7d862",
@@ -4569,7 +4911,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rainbow-billy-the-cu"
   },
   {
     "id": "c76422d02a",
@@ -4581,7 +4924,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rare-replay"
   },
   {
     "id": "f8a9930c71",
@@ -4594,7 +4938,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "recore"
   },
   {
     "id": "dd745a1e76",
@@ -4608,7 +4953,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "redfall"
   },
   {
     "id": "e0d48732d4",
@@ -4622,7 +4968,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "remnant-ii-standard"
   },
   {
     "id": "dcae749e84",
@@ -4637,7 +4984,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "remnant-from-the-ash"
   },
   {
     "id": "56d5adaf46",
@@ -4650,7 +4998,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "resident-evil-2"
   },
   {
     "id": "00e9db63da",
@@ -4662,7 +5011,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "resident-evil-3-for"
   },
   {
     "id": "3944a45c46",
@@ -4675,7 +5025,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "return-to-grace"
   },
   {
     "id": "d52dd5aa61",
@@ -4689,7 +5040,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "return-to-monkey-isl"
   },
   {
     "id": "837452d48c",
@@ -4701,7 +5053,8 @@
       "Console",
       "Sports"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "riders-republic"
   },
   {
     "id": "2c3b1043c9",
@@ -4713,7 +5066,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rise-of-the-tomb-rai"
   },
   {
     "id": "68883d20c4",
@@ -4727,7 +5081,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "robin-hood-sherwood"
   },
   {
     "id": "526b6b617f",
@@ -4740,7 +5095,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "roboquest"
   },
   {
     "id": "68457251cf",
@@ -4754,7 +5110,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rollerdrome"
   },
   {
     "id": "8155b02800",
@@ -4767,7 +5124,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rolling-hills-make-s"
   },
   {
     "id": "5e14013eeb",
@@ -4780,7 +5138,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rush-a-disneypixar-a"
   },
   {
     "id": "3a78ef2391",
@@ -4792,7 +5151,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ryse-legendary-editi"
   },
   {
     "id": "3d91180d90",
@@ -4806,7 +5166,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stalker-2-heart-of-c"
   },
   {
     "id": "16727ee112",
@@ -4821,7 +5182,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sandrock-online"
   },
   {
     "id": "a47daf0144",
@@ -4835,7 +5197,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "screamride"
   },
   {
     "id": "29aea9aa67",
@@ -4848,7 +5211,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sea-of-solitude"
   },
   {
     "id": "b67a5d5ec5",
@@ -4861,7 +5225,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sea-of-stars"
   },
   {
     "id": "b3c0fe7440",
@@ -4874,7 +5239,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sea-of-thieves-2024"
   },
   {
     "id": "88a99985d2",
@@ -4887,7 +5253,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "senuas-saga-hellblad"
   },
   {
     "id": "4d660f3b6e",
@@ -4900,7 +5267,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "serious-sam-siberian"
   },
   {
     "id": "13acd60f30",
@@ -4913,7 +5281,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadow-of-the-tomb-r"
   },
   {
     "id": "0d4476fb29",
@@ -4926,7 +5295,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-returns"
   },
   {
     "id": "8b959055dd",
@@ -4939,7 +5309,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-dragonfall"
   },
   {
     "id": "67255f29cf",
@@ -4952,7 +5323,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-hong-kong"
   },
   {
     "id": "1d0bec230f",
@@ -4966,7 +5338,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sifu"
   },
   {
     "id": "371e01ee83",
@@ -4979,7 +5352,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "skate-3"
   },
   {
     "id": "932cea63d5",
@@ -4992,7 +5366,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "skate-2007"
   },
   {
     "id": "ddda09cc4b",
@@ -5006,7 +5381,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "slay-the-spire"
   },
   {
     "id": "3e2c01c573",
@@ -5020,7 +5396,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "slayers-x-terminal-a"
   },
   {
     "id": "50ec979501",
@@ -5035,7 +5412,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sniper-elite-5"
   },
   {
     "id": "07afb01a07",
@@ -5047,7 +5425,8 @@
       "Console",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "snowrunner"
   },
   {
     "id": "2fd16588af",
@@ -5063,7 +5442,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "soccer-story"
   },
   {
     "id": "f7f080eac0",
@@ -5077,7 +5457,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "solar-ash"
   },
   {
     "id": "2038aaeb2c",
@@ -5089,7 +5470,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "south-park-the-fract"
   },
   {
     "id": "de23cb666c",
@@ -5103,7 +5485,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "space-engineers"
   },
   {
     "id": "42653c7f3c",
@@ -5117,7 +5500,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spirit-of-the-north"
   },
   {
     "id": "9f6afe392e",
@@ -5132,7 +5516,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spiritfarer-farewell"
   },
   {
     "id": "28c123258b",
@@ -5146,7 +5531,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spirittea"
   },
   {
     "id": "4e92ca5fb8",
@@ -5160,7 +5546,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spongebob-squarepant"
   },
   {
     "id": "921230e3cc",
@@ -5172,7 +5559,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spyro-reignited-tril"
   },
   {
     "id": "16f5f6ceca",
@@ -5185,7 +5573,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ssx"
   },
   {
     "id": "cdfdc3b3a3",
@@ -5198,7 +5587,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stacking"
   },
   {
     "id": "b45c483738",
@@ -5212,7 +5602,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-trucker"
   },
   {
     "id": "b8d87d9aed",
@@ -5225,7 +5616,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-wars-jedi-falle"
   },
   {
     "id": "2a514fe52d",
@@ -5238,7 +5630,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-wars-jedi-survi"
   },
   {
     "id": "62890c7f96",
@@ -5251,7 +5644,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-wars-battlefron"
   },
   {
     "id": "f8e0db70ba",
@@ -5264,7 +5658,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-wars-battlefron"
   },
   {
     "id": "9a5382a71f",
@@ -5281,7 +5676,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "star-wars-squadrons"
   },
   {
     "id": "6274a0f8a3",
@@ -5295,7 +5691,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stardew-valley"
   },
   {
     "id": "d3d722cdd4",
@@ -5308,7 +5705,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "starfield"
   },
   {
     "id": "3f80640625",
@@ -5322,7 +5720,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "state-of-decay-2-jug"
   },
   {
     "id": "178f0c15a6",
@@ -5336,7 +5735,8 @@
       "Simulation",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "state-of-decay-year"
   },
   {
     "id": "9a70f768c8",
@@ -5351,7 +5751,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "steamworld-build"
   },
   {
     "id": "3ea1a3a4a6",
@@ -5364,7 +5765,8 @@
       "Platformer",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "steamworld-dig"
   },
   {
     "id": "0f1dec199b",
@@ -5378,7 +5780,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "steamworld-dig-2"
   },
   {
     "id": "1cd4cf81c9",
@@ -5391,7 +5794,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stellaris-console-ed"
   },
   {
     "id": "415b684ab0",
@@ -5404,7 +5808,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "still-wakes-the-deep"
   },
   {
     "id": "fded53f077",
@@ -5417,7 +5822,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sunset-overdrive"
   },
   {
     "id": "630a9edd30",
@@ -5430,7 +5836,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "super-luckys-tale"
   },
   {
     "id": "2e598bb9ad",
@@ -5446,7 +5853,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "super-mega-baseball-3"
   },
   {
     "id": "4bab57f496",
@@ -5461,7 +5869,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "super-mega-baseball-4"
   },
   {
     "id": "13a5f5f62e",
@@ -5476,7 +5885,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "superhot-mind-contro"
   },
   {
     "id": "9004e990c4",
@@ -5491,7 +5901,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "superliminal"
   },
   {
     "id": "ab2ff8cb09",
@@ -5503,7 +5914,8 @@
       "Console",
       "Role playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tales-of-arise-cross"
   },
   {
     "id": "0828bc90d3",
@@ -5515,7 +5927,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tales-of-arise-xbox"
   },
   {
     "id": "af6112beef",
@@ -5527,7 +5940,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tales-of-arise-xbox"
   },
   {
     "id": "019678d7b8",
@@ -5540,7 +5954,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tchia"
   },
   {
     "id": "16dfdc3f3d",
@@ -5553,7 +5968,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "techtonica-game-prev"
   },
   {
     "id": "630d23293a",
@@ -5566,7 +5982,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "teenage-mutant-ninja"
   },
   {
     "id": "e1206c531e",
@@ -5579,7 +5996,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tell-me-why-chapters13"
   },
   {
     "id": "f9ee238cf3",
@@ -5593,7 +6011,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "terraria"
   },
   {
     "id": "13a64b79b1",
@@ -5608,7 +6027,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-bards-tale-arpg"
   },
   {
     "id": "b8309225a1",
@@ -5622,7 +6042,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-bards-tale-iv-di"
   },
   {
     "id": "2a88b8b671",
@@ -5637,7 +6058,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-bards-tale-trilo"
   },
   {
     "id": "39ec0a0cb0",
@@ -5650,7 +6072,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-big-con"
   },
   {
     "id": "8a455aa881",
@@ -5663,7 +6086,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-callisto-protoco"
   },
   {
     "id": "f6dc334d35",
@@ -5675,7 +6099,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-callisto-protoco"
   },
   {
     "id": "e965397980",
@@ -5688,7 +6113,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-case-of-the-gold"
   },
   {
     "id": "80780b83ff",
@@ -5700,7 +6126,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-cave"
   },
   {
     "id": "79ef5adb79",
@@ -5712,7 +6139,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-ii"
   },
   {
     "id": "fd31e3e1f7",
@@ -5724,7 +6152,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-iv"
   },
   {
     "id": "fdfa449e92",
@@ -5736,7 +6165,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-v"
   },
   {
     "id": "f5792fa281",
@@ -5748,7 +6178,8 @@
       "Console",
       "Role playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-on"
   },
   {
     "id": "47363cc232",
@@ -5760,7 +6191,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-evil-within"
   },
   {
     "id": "a9eb8e1c64",
@@ -5772,7 +6204,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-evil-within-2"
   },
   {
     "id": "e3cc521189",
@@ -5786,7 +6219,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-lamplighters-lea"
   },
   {
     "id": "592c010330",
@@ -5801,7 +6235,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-last-case-of-ben"
   },
   {
     "id": "700b972d68",
@@ -5814,7 +6249,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-outer-worlds"
   },
   {
     "id": "2c3837cf2e",
@@ -5827,7 +6263,8 @@
       "Other",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-quarry-for-xbox"
   },
   {
     "id": "1c866419b2",
@@ -5840,7 +6277,8 @@
       "Other",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-quarry-for-xbox"
   },
   {
     "id": "24782e2619",
@@ -5855,7 +6293,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-rewinder"
   },
   {
     "id": "2b8fdaaab8",
@@ -5868,7 +6307,8 @@
       "EA-Play",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-sims-4-ea-play-e"
   },
   {
     "id": "2d34e98b65",
@@ -5880,7 +6320,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-a-n15"
   },
   {
     "id": "ee364f60b1",
@@ -5892,7 +6333,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-mic"
   },
   {
     "id": "66d9e35f06",
@@ -5904,7 +6346,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-sea"
   },
   {
     "id": "d77d66108c",
@@ -5916,7 +6359,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-the"
   },
   {
     "id": "b32057eb14",
@@ -5928,7 +6372,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-the"
   },
   {
     "id": "062654df31",
@@ -5944,7 +6389,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "thehunter-call-of-th"
   },
   {
     "id": "1c52966ada",
@@ -5957,7 +6403,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "thirsty-suitors"
   },
   {
     "id": "3dc9db1201",
@@ -5970,7 +6417,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "this-war-of-mine-fin"
   },
   {
     "id": "0325f9a471",
@@ -5983,7 +6431,8 @@
       "Puzzle & trivia",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "those-who-remain"
   },
   {
     "id": "c1d9e29cc1",
@@ -5999,7 +6448,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tin-hearts"
   },
   {
     "id": "d9a80c085e",
@@ -6012,7 +6462,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "titanfall-2"
   },
   {
     "id": "4fbc20db65",
@@ -6024,7 +6475,8 @@
       "Console",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tom-clancys-rainbow"
   },
   {
     "id": "460d1a186a",
@@ -6036,7 +6488,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tom-clancys-ghost-re"
   },
   {
     "id": "865ddc806e",
@@ -6049,7 +6502,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tomb-raider-definiti"
   },
   {
     "id": "62295d685b",
@@ -6062,7 +6516,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "torment-tides-of-num"
   },
   {
     "id": "60968f00f8",
@@ -6076,7 +6531,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "totally-accurate-bat"
   },
   {
     "id": "084cde76d1",
@@ -6090,7 +6546,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "totally-reliable-del"
   },
   {
     "id": "bdae30e7ab",
@@ -6104,7 +6561,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "trailmakers"
   },
   {
     "id": "58fafe451f",
@@ -6117,7 +6575,8 @@
       "Desktop",
       "Simulation"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "train-sim-world-5-st"
   },
   {
     "id": "9a57de2576",
@@ -6131,7 +6590,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "trials-of-mana"
   },
   {
     "id": "384bde0086",
@@ -6144,7 +6604,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tunic"
   },
   {
     "id": "3eb8f1bbc9",
@@ -6158,7 +6619,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "turbo-golf-racing"
   },
   {
     "id": "535ef23d2a",
@@ -6171,7 +6633,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "turnip-boy-robs-a-ba"
   },
   {
     "id": "1ce91352de",
@@ -6186,7 +6649,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ufc-4"
   },
   {
     "id": "a6e1b4e471",
@@ -6202,7 +6666,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "unpacking"
   },
   {
     "id": "5a83868be6",
@@ -6215,7 +6680,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "unravel"
   },
   {
     "id": "364b02929b",
@@ -6228,7 +6694,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "unravel-two"
   },
   {
     "id": "e4768a1a86",
@@ -6242,7 +6709,8 @@
       "Strategy",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "valorant"
   },
   {
     "id": "5eae1bb02f",
@@ -6255,7 +6723,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "vampire-survivors"
   },
   {
     "id": "016b947f4c",
@@ -6267,7 +6736,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "viva-piata"
   },
   {
     "id": "a09a45fb72",
@@ -6279,7 +6749,8 @@
       "Family & kids",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "viva-piata-tip"
   },
   {
     "id": "1650353dd7",
@@ -6292,7 +6763,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wargroove-2"
   },
   {
     "id": "9d7df969f1",
@@ -6304,7 +6776,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "warhammer-40000-bolt"
   },
   {
     "id": "32e87aae16",
@@ -6319,7 +6792,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "warhammer-40000-dark"
   },
   {
     "id": "9072feae85",
@@ -6333,7 +6807,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wartales"
   },
   {
     "id": "de0dab81ac",
@@ -6349,7 +6824,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wasteland-2-director"
   },
   {
     "id": "ab10d2e02d",
@@ -6361,7 +6837,8 @@
       "Role playing",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wasteland-3"
   },
   {
     "id": "10ee992572",
@@ -6376,7 +6853,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wasteland-remastered"
   },
   {
     "id": "fa213462b4",
@@ -6388,7 +6866,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "watch-dogs2"
   },
   {
     "id": "ac207fdee6",
@@ -6400,7 +6879,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "we-happy-few"
   },
   {
     "id": "94c3460f75",
@@ -6413,7 +6893,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "we-love-katamari-rer"
   },
   {
     "id": "dc8bae0980",
@@ -6427,7 +6908,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "while-the-irons-hot"
   },
   {
     "id": "d3fc5de491",
@@ -6440,7 +6922,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wild-hearts-standard"
   },
   {
     "id": "e2300593a4",
@@ -6455,7 +6938,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wo-long-fallen-dynas"
   },
   {
     "id": "7539c2bc8a",
@@ -6468,7 +6952,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-the-new"
   },
   {
     "id": "85e5008c2a",
@@ -6480,7 +6965,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-the-old"
   },
   {
     "id": "4de0ea986e",
@@ -6493,7 +6979,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-youngblo"
   },
   {
     "id": "4dc717a455",
@@ -6506,7 +6993,8 @@
       "Shooter",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-ii-the-n"
   },
   {
     "id": "5866edb8d1",
@@ -6518,7 +7006,8 @@
       "Console",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "world-war-z-aftermat"
   },
   {
     "id": "71f002823c",
@@ -6531,7 +7020,8 @@
       "Racing & flying",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wreckfest"
   },
   {
     "id": "2c21eb089b",
@@ -6543,7 +7033,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-0"
   },
   {
     "id": "479dfaee83",
@@ -6555,7 +7046,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-3-remastered"
   },
   {
     "id": "18e3d7a990",
@@ -6567,7 +7059,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-4-remastered"
   },
   {
     "id": "5c2dc13c4f",
@@ -6579,7 +7072,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-5-remastered"
   },
   {
     "id": "3dfdd224fe",
@@ -6591,7 +7085,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-6-the-song-of"
   },
   {
     "id": "3b376e90cc",
@@ -6603,7 +7098,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-kiwami"
   },
   {
     "id": "48c2a79643",
@@ -6615,7 +7111,8 @@
       "Action & adventure",
       "Console"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-kiwami-2"
   },
   {
     "id": "f82dd3d0c4",
@@ -6628,7 +7125,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-like-a-dragon"
   },
   {
     "id": "0eb62519f9",
@@ -6642,7 +7140,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "zombie-army-4-dead-w"
   },
   {
     "id": "7eb2364480",
@@ -6655,7 +7154,8 @@
       "Console",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "zoo-tycoon-ultimate"
   },
   {
     "id": "04e5e5fb6b",
@@ -6668,7 +7168,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "zuma"
   },
   {
     "id": "2dbea85551",
@@ -6682,7 +7183,8 @@
       "Console",
       "EA-Play"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "zumas-revenge"
   },
   {
     "id": "5c7be6d1e9",
@@ -6695,7 +7197,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "a-plague-tale-requie"
   },
   {
     "id": "17b311c763",
@@ -6708,7 +7211,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "against-the-storm"
   },
   {
     "id": "04a8a6e3e9",
@@ -6720,7 +7224,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-empires-defin"
   },
   {
     "id": "1f9c6fe4fd",
@@ -6732,7 +7237,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-empires-iii-d"
   },
   {
     "id": "055b062cc7",
@@ -6744,7 +7250,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "age-of-empires-iv-an"
   },
   {
     "id": "a48a9de27d",
@@ -6756,7 +7263,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "an-elder-scrolls-leg"
   },
   {
     "id": "4867911658",
@@ -6768,7 +7276,8 @@
       "Desktop",
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ara-history-untold-s"
   },
   {
     "id": "c12b41b1e8",
@@ -6780,7 +7289,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ark-ultimate-survivo"
   },
   {
     "id": "d9ead73730",
@@ -6792,7 +7302,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "arx-fatalis"
   },
   {
     "id": "371ff0a811",
@@ -6805,7 +7316,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "atlas-fallen-reign-o"
   },
   {
     "id": "1db0ef0d3e",
@@ -6818,7 +7330,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "battletech"
   },
   {
     "id": "c396936311",
@@ -6830,7 +7343,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "bloodstained-ritual"
   },
   {
     "id": "3924ac5275",
@@ -6842,7 +7356,8 @@
       "Puzzle & trivia",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "botany-manor"
   },
   {
     "id": "0897819f17",
@@ -6854,7 +7369,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "broken-age"
   },
   {
     "id": "5e730808e6",
@@ -6866,7 +7382,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "brothers-a-tale-of-t"
   },
   {
     "id": "ee938b61ef",
@@ -6878,7 +7395,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "call-of-duty-black-o6"
   },
   {
     "id": "6f5f0a3149",
@@ -6890,7 +7408,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "call-of-duty-modern"
   },
   {
     "id": "f9a9359178",
@@ -6902,7 +7421,8 @@
       "Puzzle & trivia",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "chants-of-sennaar-wi"
   },
   {
     "id": "8145e7ae9b",
@@ -6914,7 +7434,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cities-skylines-wind10"
   },
   {
     "id": "5542853ac2",
@@ -6926,7 +7447,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cities-skylines-ii-p"
   },
   {
     "id": "e581dbd221",
@@ -6938,7 +7460,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "close-to-the-sun"
   },
   {
     "id": "3d4ec263e7",
@@ -6950,7 +7473,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "control-ultimate-edi"
   },
   {
     "id": "5514864503",
@@ -6962,7 +7486,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cooking-simulator-wi"
   },
   {
     "id": "bfc88bf0e5",
@@ -6977,7 +7502,8 @@
       "Family & kids",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "core-keeper"
   },
   {
     "id": "bddf7a8ea8",
@@ -6989,7 +7515,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crash-bandicoot-n-sa"
   },
   {
     "id": "445fedebef",
@@ -7001,7 +7528,8 @@
       "Sports",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "cricket-24-the-offic"
   },
   {
     "id": "4b3f121eee",
@@ -7015,7 +7543,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "crusader-kings-iii"
   },
   {
     "id": "712bafc862",
@@ -7029,7 +7558,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "darkest-dungeon-pc"
   },
   {
     "id": "40a6bdc12a",
@@ -7042,7 +7572,8 @@
       "Other",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-by-daylight-win"
   },
   {
     "id": "f13e4cf978",
@@ -7055,7 +7586,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-cells"
   },
   {
     "id": "3fb49b5894",
@@ -7068,7 +7600,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dead-island-2-window"
   },
   {
     "id": "1b1598b95c",
@@ -7080,7 +7613,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "deaths-door"
   },
   {
     "id": "c4b7917933",
@@ -7095,7 +7629,8 @@
       "Other",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "depersonalization"
   },
   {
     "id": "4cc2785fd0",
@@ -7107,7 +7642,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-2"
   },
   {
     "id": "8cb48e1d6a",
@@ -7119,7 +7655,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-definitiv"
   },
   {
     "id": "b0c684b280",
@@ -7131,7 +7668,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dishonored-death-of"
   },
   {
     "id": "f281320a4e",
@@ -7143,7 +7681,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "doom-eternal-standar"
   },
   {
     "id": "dbb5bbd45a",
@@ -7155,7 +7694,8 @@
       "Other",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "dordogne-windows"
   },
   {
     "id": "6bd7659d70",
@@ -7168,7 +7708,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "evil-west-windows"
   },
   {
     "id": "b80b54395c",
@@ -7180,7 +7721,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "expeditions-a-mudrun"
   },
   {
     "id": "091ff67a58",
@@ -7192,7 +7734,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout"
   },
   {
     "id": "1f12865aef",
@@ -7204,7 +7747,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-2"
   },
   {
     "id": "d9db72ea08",
@@ -7216,7 +7760,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-3-game-of-th"
   },
   {
     "id": "7b947a4ecf",
@@ -7228,7 +7773,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-4-pc"
   },
   {
     "id": "4f70a5a5b5",
@@ -7240,7 +7786,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-76-pc"
   },
   {
     "id": "42db93301d",
@@ -7252,7 +7799,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-tactics"
   },
   {
     "id": "440838bc88",
@@ -7264,7 +7812,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "fallout-new-vegas-ul"
   },
   {
     "id": "80a6066399",
@@ -7276,7 +7825,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "farming-simulator-22"
   },
   {
     "id": "5079b883a5",
@@ -7289,7 +7839,8 @@
       "Other",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "firework-windows"
   },
   {
     "id": "daf89a64c6",
@@ -7302,7 +7853,8 @@
       "Sports",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "football-manager-2024"
   },
   {
     "id": "119980f22e",
@@ -7316,7 +7868,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "forager"
   },
   {
     "id": "4531b89328",
@@ -7329,7 +7882,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "frostpunk"
   },
   {
     "id": "db25737aba",
@@ -7341,7 +7895,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "frostpunk-2"
   },
   {
     "id": "1ca7fbbceb",
@@ -7353,7 +7908,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gears-of-war-ultimat10"
   },
   {
     "id": "ca12bd9a99",
@@ -7367,7 +7923,8 @@
       "Puzzle & trivia",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "genesis-noir-windows"
   },
   {
     "id": "ef5fe3bd86",
@@ -7381,7 +7938,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator-3-win"
   },
   {
     "id": "0db0c9f473",
@@ -7394,7 +7952,8 @@
       "Family & kids",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "goat-simulator-remas"
   },
   {
     "id": "0ddfdbbf68",
@@ -7407,7 +7966,8 @@
       "Sports",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "golf-with-your-frien"
   },
   {
     "id": "2d9e273d7d",
@@ -7419,7 +7979,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "gris"
   },
   {
     "id": "646bd94c86",
@@ -7431,7 +7992,8 @@
       "Desktop",
       "Strategy"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-wars-2-standard"
   },
   {
     "id": "3c8dc520cb",
@@ -7443,7 +8005,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-wars-definitive"
   },
   {
     "id": "76380a49f7",
@@ -7455,7 +8018,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-spartan-assault"
   },
   {
     "id": "00bd285e20",
@@ -7467,7 +8031,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-spartan-strike"
   },
   {
     "id": "8fb6653b10",
@@ -7479,7 +8044,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "halo-the-master-chie"
   },
   {
     "id": "a3355199ec",
@@ -7491,7 +8057,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "hellblade-senuas-sac"
   },
   {
     "id": "f1fa3aa639",
@@ -7504,7 +8071,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "humankind"
   },
   {
     "id": "2ddf3234dc",
@@ -7518,7 +8086,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "indivisible"
   },
   {
     "id": "4c5512202c",
@@ -7530,7 +8099,8 @@
       "Fighting",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "injustice-2-standard"
   },
   {
     "id": "78abb76cee",
@@ -7545,7 +8115,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "insurgency-sandstorm"
   },
   {
     "id": "7a9ef7af39",
@@ -7560,7 +8131,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "isonzo-windows"
   },
   {
     "id": "75c16e3f2a",
@@ -7573,7 +8145,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "journey-to-the-savag"
   },
   {
     "id": "ffb84319e4",
@@ -7587,7 +8160,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "keplerth"
   },
   {
     "id": "43d4eddad0",
@@ -7599,7 +8173,8 @@
       "Desktop",
       "Fighting"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "killer-instinct-anni"
   },
   {
     "id": "30b6d49258",
@@ -7612,7 +8187,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "limbo"
   },
   {
     "id": "71b00d4f45",
@@ -7625,7 +8201,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "lords-of-the-fallen"
   },
   {
     "id": "f404dda80d",
@@ -7637,7 +8214,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "mafia-definitive-edi"
   },
   {
     "id": "30a7e9d341",
@@ -7649,7 +8227,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "manor-lords-game-pre"
   },
   {
     "id": "f65f2945ef",
@@ -7663,7 +8242,8 @@
       "Puzzle & trivia",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "microsoft-solitaire"
   },
   {
     "id": "55cf016476",
@@ -7675,7 +8255,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-dungeons-f"
   },
   {
     "id": "caca47c5b1",
@@ -7687,7 +8268,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-legends-fo"
   },
   {
     "id": "181f7e8541",
@@ -7701,7 +8283,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-preview-fo"
   },
   {
     "id": "0e6352e01a",
@@ -7713,7 +8296,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "minecraft-java-bedro"
   },
   {
     "id": "a5f03d0d05",
@@ -7726,7 +8310,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "monster-sanctuary-wi"
   },
   {
     "id": "a12d5d6960",
@@ -7739,7 +8324,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "neon-abyss"
   },
   {
     "id": "88368bc45b",
@@ -7751,7 +8337,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "no-more-heroes-3-win"
   },
   {
     "id": "08b53c5268",
@@ -7763,7 +8350,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "ori-and-the-blind-fo"
   },
   {
     "id": "86d077761d",
@@ -7775,7 +8363,8 @@
       "Family & kids",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "overcooked-2"
   },
   {
     "id": "ffb4b21535",
@@ -7788,7 +8377,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "pillars-of-eternity-2"
   },
   {
     "id": "e42a1c4d61",
@@ -7800,7 +8390,8 @@
       "Desktop",
       "Role playing"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "pillars-of-eternity"
   },
   {
     "id": "89e94050b1",
@@ -7813,7 +8404,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "prey"
   },
   {
     "id": "a0413970cc",
@@ -7826,7 +8418,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "psychonauts-windows-10"
   },
   {
     "id": "77592aaf93",
@@ -7838,7 +8431,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quake-4"
   },
   {
     "id": "c472ba1eaf",
@@ -7850,7 +8444,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quake-iii-arena"
   },
   {
     "id": "dcbdd6cc5d",
@@ -7863,7 +8458,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "quantum-break"
   },
   {
     "id": "235b91c59d",
@@ -7876,7 +8472,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rage-2-pc"
   },
   {
     "id": "a826af7934",
@@ -7888,7 +8485,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "resident-evil-3-for"
   },
   {
     "id": "b05546dc26",
@@ -7900,7 +8498,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "return-to-castle-wol"
   },
   {
     "id": "9f521c71cd",
@@ -7913,7 +8512,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rise-of-nations-exte"
   },
   {
     "id": "2a28833baa",
@@ -7925,7 +8525,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "rise-of-the-tomb-rai"
   },
   {
     "id": "609074c5a9",
@@ -7939,7 +8540,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stalker-2-heart-of-c"
   },
   {
     "id": "ff5038804e",
@@ -7952,7 +8554,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "serious-sam-siberian"
   },
   {
     "id": "38cfb5b68a",
@@ -7965,7 +8568,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-returns-pc"
   },
   {
     "id": "c06648360a",
@@ -7978,7 +8582,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-dragonfall"
   },
   {
     "id": "873e79fb7e",
@@ -7991,7 +8596,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "shadowrun-hong-kong"
   },
   {
     "id": "84977f203c",
@@ -8005,7 +8611,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "slay-the-spire"
   },
   {
     "id": "c5d514de9d",
@@ -8017,7 +8624,8 @@
       "Simulation",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "snowrunner-windows-10"
   },
   {
     "id": "c097ba7b3e",
@@ -8031,7 +8639,8 @@
       "Platformer",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spongebob-squarepant"
   },
   {
     "id": "102a298f08",
@@ -8043,7 +8652,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "spyro-reignited-tril"
   },
   {
     "id": "d014cf3c19",
@@ -8055,7 +8665,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "starbound"
   },
   {
     "id": "99db8dcee7",
@@ -8069,7 +8680,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stardew-valley"
   },
   {
     "id": "15d023a873",
@@ -8081,7 +8693,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "stellaris"
   },
   {
     "id": "dc91e539dd",
@@ -8094,7 +8707,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "sunset-overdrive"
   },
   {
     "id": "12fd1c237e",
@@ -8106,7 +8720,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "tales-of-arise-windo"
   },
   {
     "id": "192ece1459",
@@ -8119,7 +8734,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "terra-invicta-game-p"
   },
   {
     "id": "bdc1439d33",
@@ -8131,7 +8747,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-ad"
   },
   {
     "id": "e8cadcaaf5",
@@ -8143,7 +8760,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-ii"
   },
   {
     "id": "51369561c3",
@@ -8155,7 +8773,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-iv"
   },
   {
     "id": "09bff5d070",
@@ -8167,7 +8786,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-elder-scrolls-v"
   },
   {
     "id": "4cae7dd5a8",
@@ -8179,7 +8799,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-evil-within-pc"
   },
   {
     "id": "1adda7858e",
@@ -8191,7 +8812,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-evil-within-2-pc"
   },
   {
     "id": "14a6165c2c",
@@ -8205,7 +8827,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-lamplighters-lea"
   },
   {
     "id": "6cefdd78af",
@@ -8218,7 +8841,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-outer-worlds"
   },
   {
     "id": "93ac37ed92",
@@ -8230,7 +8854,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "the-walking-dead-the"
   },
   {
     "id": "29b8ff0822",
@@ -8246,7 +8871,8 @@
       "Strategy",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "thehunter-call-of-th10"
   },
   {
     "id": "c78d041d81",
@@ -8259,7 +8885,8 @@
       "Puzzle & trivia",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "those-who-remain"
   },
   {
     "id": "237a9426fc",
@@ -8271,7 +8898,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "torment-tides-of-num"
   },
   {
     "id": "2f1972c01e",
@@ -8283,7 +8911,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "warhammer-40000-bolt"
   },
   {
     "id": "52144b3512",
@@ -8295,7 +8924,8 @@
       "Role playing",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wasteland-3-pc"
   },
   {
     "id": "0a6f97c961",
@@ -8307,7 +8937,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "we-happy-few"
   },
   {
     "id": "81886e2e40",
@@ -8319,7 +8950,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-3d"
   },
   {
     "id": "d2509680d4",
@@ -8331,7 +8963,8 @@
       "Desktop",
       "Shooter"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-ii-stand"
   },
   {
     "id": "1abefcf000",
@@ -8343,7 +8976,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-the-new"
   },
   {
     "id": "6a801725ab",
@@ -8355,7 +8989,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-the-old"
   },
   {
     "id": "05193181d9",
@@ -8368,7 +9003,8 @@
       "Shooter",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wolfenstein-youngblo"
   },
   {
     "id": "cdc1628b28",
@@ -8380,7 +9016,8 @@
       "Desktop",
       "Action & adventure"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "world-war-z-aftermat"
   },
   {
     "id": "f273b3d0c7",
@@ -8393,7 +9030,8 @@
       "Racing & flying",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "wreckfest"
   },
   {
     "id": "f0313a8e69",
@@ -8405,7 +9043,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-0-for-windows10"
   },
   {
     "id": "1becb7ca89",
@@ -8417,7 +9056,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-3-remastered-10"
   },
   {
     "id": "fd2a4a8f61",
@@ -8429,7 +9069,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-4-remastered-10"
   },
   {
     "id": "e6914dcb8e",
@@ -8441,7 +9082,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-5-remastered-10"
   },
   {
     "id": "9abc0aee0c",
@@ -8453,7 +9095,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-6-the-song-of10"
   },
   {
     "id": "68719057e8",
@@ -8465,7 +9108,8 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-kiwami-2-for-10"
   },
   {
     "id": "d749145384",
@@ -8477,6 +9121,7 @@
       "Action & adventure",
       "Desktop"
     ],
-    "archived": false
+    "archived": false,
+    "slug": "yakuza-kiwami-for-wi10"
   }
 ]

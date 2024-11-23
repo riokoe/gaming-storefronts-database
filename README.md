@@ -39,14 +39,13 @@ Active giveaways as of 2024-11-23:
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Banana Clicker – Join the Fun! 🍌](https://mrpaul667.itch.io/banana-clicker) | Itch.io |
-| [Basketball](https://gwa123.itch.io/football) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
 | [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
 | [Devyard](https://thethil.itch.io/devyard) | Itch.io |
-| [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
+| [Enoch Never Dies](https://dylancassidy.itch.io/enoch-never-dies) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
@@ -59,13 +58,12 @@ Active giveaways as of 2024-11-23:
 | [Hose Hero](https://mr-ying.itch.io/hosehero) | Itch.io |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io |
-| [Its Time To Fight](https://gwa123.itch.io/its-time-to-fight) | Itch.io |
 | [JACKER](https://ry2110.itch.io/jacker) | Itch.io |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io |
+| [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io |
-| [Name The Pokemon](https://gwa123.itch.io/name-the-pokemon) | Itch.io |
 | [Omega No Sunshine 24](https://galoxyum.itch.io/ons24) | Itch.io |
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
@@ -73,15 +71,11 @@ Active giveaways as of 2024-11-23:
 | [Shadows of Souls](https://ayfjay.itch.io/shadows-of-souls) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
-| [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
 | [The Cursed Canvas](https://saiko-games.itch.io/the-cursed-canvas) | Itch.io |
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
-| [THE WHOLE WORLD](https://gwa123.itch.io/the-whole-world) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |
-| [Theme Park Tycoon](https://gwa123.itch.io/theme-park-tycoon) | Itch.io |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
-| [Zizzy Zombie](https://gwa123.itch.io/zizzy-zombie) | Itch.io |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io |
