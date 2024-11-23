@@ -19,7 +19,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-22:
+Active giveaways as of 2024-11-23:
 
 | Game | Store |
 | --- | --- |
@@ -32,6 +32,7 @@ Active giveaways as of 2024-11-22:
 | [Super Meat Boy](https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
+| [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS) | Xbox Game Pass [new] |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |

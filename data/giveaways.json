@@ -26,12 +26,28 @@
     "archived": false
   },
   {
+    "id": "3d91180d90",
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition",
+    "added": 1732184554281,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS",
+    "tags": [
+      "Shooter",
+      "Action & adventure",
+      "Role playing",
+      "Console"
+    ],
+    "archived": false
+  },
+  {
     "id": "a245c08065",
     "title": "Juice Galaxy (formerly Juice World)",
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://fishlicka.itch.io/juice-galaxy",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -40,7 +56,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
-    "tags": [],
+    "tags": [
+      "Simulation"
+    ],
     "archived": false
   },
   {
@@ -49,7 +67,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://lorex-games.itch.io/the-whitakers-library-part-1",
-    "tags": [],
+    "tags": [
+      "Puzzle"
+    ],
     "archived": false
   },
   {
@@ -58,7 +78,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://saiko-games.itch.io/the-cursed-canvas",
-    "tags": [],
+    "tags": [
+      "Survival"
+    ],
     "archived": false
   },
   {
@@ -67,7 +89,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://teammelon.itch.io/evidence-of-96",
-    "tags": [],
+    "tags": [
+      "Visual Novel"
+    ],
     "archived": false
   },
   {
@@ -76,7 +100,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://evolvedustry.itch.io/evolvedustry",
-    "tags": [],
+    "tags": [
+      "Strategy"
+    ],
     "archived": false
   },
   {
@@ -85,7 +111,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://jjbeats99.itch.io/a-date-to-remember",
-    "tags": [],
+    "tags": [
+      "Visual Novel"
+    ],
     "archived": false
   },
   {
@@ -94,7 +122,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-    "tags": [],
+    "tags": [
+      "Adventure"
+    ],
     "archived": false
   },
   {
@@ -103,7 +133,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://iamqqqqqqq.itch.io/homegame",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -112,7 +144,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://dazaizer0.itch.io/catup",
-    "tags": [],
+    "tags": [
+      "Platformer"
+    ],
     "archived": false
   },
   {
@@ -121,7 +155,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://musialkov.itch.io/forgotten-cobwoys",
-    "tags": [],
+    "tags": [
+      "Action"
+    ],
     "archived": false
   },
   {
@@ -130,7 +166,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://existical.itch.io/capitalshow",
-    "tags": [],
+    "tags": [
+      "Puzzle"
+    ],
     "archived": false
   },
   {
@@ -139,7 +177,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://musialkov.itch.io/ancient-evil",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -148,7 +188,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://alessandro06-0.itch.io/rise-above",
-    "tags": [],
+    "tags": [
+      "Platformer"
+    ],
     "archived": false
   },
   {
@@ -157,7 +199,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://musialkov.itch.io/redtail",
-    "tags": [],
+    "tags": [
+      "Adventure"
+    ],
     "archived": false
   },
   {
@@ -166,7 +210,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://galoxyum.itch.io/ons24",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -175,7 +221,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://fontty.itch.io/ac-tcd",
-    "tags": [],
+    "tags": [
+      "Action"
+    ],
     "archived": false
   },
   {
@@ -184,7 +232,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://jjbeats99.itch.io/jjbeats-gaming",
-    "tags": [],
+    "tags": [
+      "Visual Novel"
+    ],
     "archived": false
   },
   {
@@ -193,7 +243,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://thethil.itch.io/devyard",
-    "tags": [],
+    "tags": [
+      "Adventure"
+    ],
     "archived": false
   },
   {
@@ -202,7 +254,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://pressfstudio.itch.io/their-navy-is-their-doom",
-    "tags": [],
+    "tags": [
+      "Adventure"
+    ],
     "archived": false
   },
   {
@@ -211,7 +265,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://iamqqqqqqq.itch.io/homegame2",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -220,7 +276,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://jjbeats99.itch.io/kookie",
-    "tags": [],
+    "tags": [
+      "Visual Novel"
+    ],
     "archived": false
   },
   {
@@ -229,7 +287,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://yahay-games.itch.io/ball-46",
-    "tags": [],
+    "tags": [
+      "Action"
+    ],
     "archived": false
   },
   {
@@ -238,7 +298,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://fontty.itch.io/kur",
-    "tags": [],
+    "tags": [
+      "Action"
+    ],
     "archived": false
   },
   {
@@ -247,7 +309,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://kasperv.itch.io/kasperias-arenas",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -256,7 +320,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://mr-ying.itch.io/hosehero",
-    "tags": [],
+    "tags": [
+      "Shooter"
+    ],
     "archived": false
   },
   {
@@ -265,7 +331,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://notritter.itch.io/endless-math-challenge",
-    "tags": [],
+    "tags": [
+      "Educational"
+    ],
     "archived": false
   },
   {
@@ -274,7 +342,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://mrpaul667.itch.io/banana-clicker",
-    "tags": [],
+    "tags": [
+      "Adventure"
+    ],
     "archived": false
   },
   {
@@ -283,7 +353,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://ry2110.itch.io/jacker",
-    "tags": [],
+    "tags": [
+      "Card Game"
+    ],
     "archived": false
   },
   {
@@ -292,7 +364,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://archimedean-gaming.itch.io/beanman",
-    "tags": [],
+    "tags": [
+      "Platformer"
+    ],
     "archived": false
   },
   {
@@ -301,7 +375,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
-    "tags": [],
+    "tags": [
+      "Sports"
+    ],
     "archived": false
   },
   {
@@ -310,7 +386,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://saladin786.itch.io/the-burrow",
-    "tags": [],
+    "tags": [
+      "Visual Novel"
+    ],
     "archived": false
   },
   {
@@ -319,7 +397,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -328,7 +408,9 @@
     "added": 1731431500019,
     "platform": 2,
     "uri": "https://iamqqqqqqq.itch.io/classicgame",
-    "tags": [],
+    "tags": [
+      "Role Playing"
+    ],
     "archived": false
   },
   {
@@ -543,7 +625,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1735149600000
   },
   {
     "id": "93d152bed5",
@@ -552,7 +635,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1735149600000
   },
   {
     "id": "5ef66ccb2c",
@@ -561,7 +645,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1735149600000
   },
   {
     "id": "93adf1d525",
@@ -570,7 +655,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1739988000000
   },
   {
     "id": "49726f3562",
@@ -579,7 +665,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1735149600000
   },
   {
     "id": "7c8667eaab",
@@ -588,7 +675,8 @@
     "platform": 6,
     "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
     "tags": [],
-    "archived": false
+    "archived": false,
+    "end": 1735149600000
   },
   {
     "id": "28d30f7d9f",

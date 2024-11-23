@@ -1873,11 +1873,11 @@
     "title": "Hotline Miami",
     "added": 1731431590108,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005940",
+    "uri": "https://store.playstation.com/en-us/concept/202006",
     "tags": [
       "Action",
-      "PS4",
-      "PS5"
+      "Arcade",
+      "PS4"
     ],
     "archived": false
   },
@@ -2758,7 +2758,8 @@
     "uri": "https://store.playstation.com/en-us/concept/233621",
     "tags": [
       "Role playing games",
-      "PS4"
+      "PS4",
+      "PS5"
     ],
     "archived": false
   },
