@@ -37,7 +37,6 @@ Active giveaways as of 2024-11-24:
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
-| [Atlas Ablaze](https://wetsockywocky.itch.io/atlas-ablaze) | Itch.io |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
