@@ -67,7 +67,6 @@ Active giveaways as of 2024-11-24:
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
-| [Shadows of Souls](https://ayfjay.itch.io/shadows-of-souls) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
@@ -75,6 +74,7 @@ Active giveaways as of 2024-11-24:
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |
+| [Thru The Webs](https://themetalcarrotdev.itch.io/thru-the-webs) | Itch.io |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io |

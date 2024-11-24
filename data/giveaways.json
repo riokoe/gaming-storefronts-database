@@ -85,20 +85,6 @@
     "archived": false
   },
   {
-    "id": "8f9bf67367",
-    "title": "Shadows of Souls",
-    "price": 4,
-    "end": 1732464000000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://ayfjay.itch.io/shadows-of-souls",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "shadows-of-souls",
-    "archived": false
-  },
-  {
     "id": "449b79504c",
     "title": "The Cursed Canvas",
     "price": 2,
@@ -655,6 +641,20 @@
     "archived": false
   },
   {
+    "id": "be797b8aef",
+    "title": "Thru The Webs",
+    "price": 2,
+    "end": 1732542720000,
+    "added": 1732472031437,
+    "platform": 2,
+    "uri": "https://themetalcarrotdev.itch.io/thru-the-webs",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "thru-the-webs",
+    "archived": false
+  },
+  {
     "id": "33c45fe27f",
     "title": "Beholder",
     "price": 13.99,
@@ -743,6 +743,20 @@
     ],
     "slug": "donkey-kong-land-gb",
     "archived": false
+  },
+  {
+    "id": "8f9bf67367",
+    "title": "Shadows of Souls",
+    "price": 4,
+    "end": 1732464000000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://ayfjay.itch.io/shadows-of-souls",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "shadows-of-souls",
+    "archived": true
   },
   {
     "id": "3304d1c2d9",
