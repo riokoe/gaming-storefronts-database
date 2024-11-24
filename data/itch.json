@@ -2,535 +2,121 @@
   {
     "id": "a245c08065",
     "title": "Juice Galaxy (formerly Juice World)",
-    "added": 1731431500019,
+    "price": 5,
+    "end": 1733598000000,
+    "added": 1732441396468,
     "platform": 2,
     "uri": "https://fishlicka.itch.io/juice-galaxy",
     "tags": [
       "Role Playing"
     ],
-    "archived": false,
-    "slug": "juice-galaxy-formerl"
-  },
-  {
-    "id": "720976e2ba",
-    "title": "Beep Sheep Simulator",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
-    "tags": [
-      "Simulation"
-    ],
-    "archived": false,
-    "slug": "beep-sheep-simulator"
+    "slug": "juice-galaxy-formerly-world",
+    "archived": false
   },
   {
     "id": "4301f88b73",
     "title": "The Whitaker's Library",
-    "added": 1731431500019,
+    "price": 2.99,
+    "end": 1732910280000,
+    "added": 1732441396468,
     "platform": 2,
     "uri": "https://lorex-games.itch.io/the-whitakers-library-part-1",
     "tags": [
       "Puzzle"
     ],
-    "archived": false,
-    "slug": "the-whitakers-librar"
+    "slug": "the-whitakers-library",
+    "archived": false
   },
   {
-    "id": "449b79504c",
-    "title": "The Cursed Canvas",
-    "added": 1731431500019,
+    "id": "720976e2ba",
+    "title": "Beep Sheep Simulator",
+    "price": 5.2,
+    "end": 1732312380000,
+    "added": 1732441396468,
     "platform": 2,
-    "uri": "https://saiko-games.itch.io/the-cursed-canvas",
+    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
     "tags": [
-      "Survival"
+      "Simulation"
     ],
-    "archived": false,
-    "slug": "the-cursed-canvas"
-  },
-  {
-    "id": "2ac4a7bfcf",
-    "title": "Evidence of 96'",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://teammelon.itch.io/evidence-of-96",
-    "tags": [
-      "Visual Novel"
-    ],
-    "archived": false,
-    "slug": "evidence-of-96"
-  },
-  {
-    "id": "9f36ff1433",
-    "title": "Evolvedustry",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://evolvedustry.itch.io/evolvedustry",
-    "tags": [
-      "Strategy"
-    ],
-    "archived": false,
-    "slug": "evolvedustry"
-  },
-  {
-    "id": "0ec288f9e1",
-    "title": "A Date to Remember",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://jjbeats99.itch.io/a-date-to-remember",
-    "tags": [
-      "Visual Novel"
-    ],
-    "archived": false,
-    "slug": "a-date-to-remember"
-  },
-  {
-    "id": "0c29b01af7",
-    "title": "Quiet West: Butcher noose",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "quiet-west-butcher-n"
-  },
-  {
-    "id": "c485fed189",
-    "title": "HOME GAME",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://iamqqqqqqq.itch.io/homegame",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "home-game"
-  },
-  {
-    "id": "76356d3b19",
-    "title": "CatUp",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://dazaizer0.itch.io/catup",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": false,
-    "slug": "catup"
-  },
-  {
-    "id": "d4fd805051",
-    "title": "Forgotten Cowboys",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
-    "tags": [
-      "Action"
-    ],
-    "archived": false,
-    "slug": "forgotten-cowboys"
-  },
-  {
-    "id": "77868c422c",
-    "title": "Капитал Шоу + Супер Игра",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://existical.itch.io/capitalshow",
-    "tags": [
-      "Puzzle"
-    ],
-    "archived": false,
-    "slug": "77868c422c"
-  },
-  {
-    "id": "48f65ce8ac",
-    "title": "Ancient Evil",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/ancient-evil",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "ancient-evil"
-  },
-  {
-    "id": "d680829cbe",
-    "title": "Rise Above!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://alessandro06-0.itch.io/rise-above",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": false,
-    "slug": "rise-above"
-  },
-  {
-    "id": "31019100c4",
-    "title": "Red Tail",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/redtail",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "red-tail"
-  },
-  {
-    "id": "0583beb2ac",
-    "title": "Omega No Sunshine 24",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://galoxyum.itch.io/ons24",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "omega-no-sunshine-24"
-  },
-  {
-    "id": "50960c77cf",
-    "title": "Armored Crucible: The Crimson Dunes",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://fontty.itch.io/ac-tcd",
-    "tags": [
-      "Action"
-    ],
-    "archived": false,
-    "slug": "armored-crucible-the"
-  },
-  {
-    "id": "1d6628befe",
-    "title": "My Favorite Vtuber (JJBEATS GAMING)",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://jjbeats99.itch.io/jjbeats-gaming",
-    "tags": [
-      "Visual Novel"
-    ],
-    "archived": false,
-    "slug": "my-favorite-vtuber-j"
-  },
-  {
-    "id": "42fb568abb",
-    "title": "Devyard",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://thethil.itch.io/devyard",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "devyard"
-  },
-  {
-    "id": "1202c3fd53",
-    "title": "Their Navy Is Their Doom",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://pressfstudio.itch.io/their-navy-is-their-doom",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "their-navy-is-their"
-  },
-  {
-    "id": "af95409b81",
-    "title": "HOME GAME 2",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://iamqqqqqqq.itch.io/homegame2",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "home-game-2"
-  },
-  {
-    "id": "6961397ea5",
-    "title": "Kookie",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://jjbeats99.itch.io/kookie",
-    "tags": [
-      "Visual Novel"
-    ],
-    "archived": false,
-    "slug": "kookie"
-  },
-  {
-    "id": "a230b8d714",
-    "title": "Ball 46",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://yahay-games.itch.io/ball-46",
-    "tags": [
-      "Action"
-    ],
-    "archived": false,
-    "slug": "ball-46"
-  },
-  {
-    "id": "66a7e29bf7",
-    "title": "The Labyrinth of Kur",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://fontty.itch.io/kur",
-    "tags": [
-      "Action"
-    ],
-    "archived": false,
-    "slug": "the-labyrinth-of-kur"
-  },
-  {
-    "id": "5222933170",
-    "title": "Kasperias Arenas",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://kasperv.itch.io/kasperias-arenas",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "kasperias-arenas"
-  },
-  {
-    "id": "559b337a90",
-    "title": "Hose Hero",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://mr-ying.itch.io/hosehero",
-    "tags": [
-      "Shooter"
-    ],
-    "archived": false,
-    "slug": "hose-hero"
-  },
-  {
-    "id": "e3a5857e16",
-    "title": "Endless Math Challenge",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://notritter.itch.io/endless-math-challenge",
-    "tags": [
-      "Educational"
-    ],
-    "archived": false,
-    "slug": "endless-math-challen"
-  },
-  {
-    "id": "b7e88789bf",
-    "title": "Banana Clicker – Join the Fun! 🍌",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://mrpaul667.itch.io/banana-clicker",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "banana-clicker-join"
-  },
-  {
-    "id": "c622221920",
-    "title": "JACKER",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://ry2110.itch.io/jacker",
-    "tags": [
-      "Card Game"
-    ],
-    "archived": false,
-    "slug": "jacker"
-  },
-  {
-    "id": "a2ecfd1763",
-    "title": "Beanman",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://archimedean-gaming.itch.io/beanman",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": false,
-    "slug": "beanman"
-  },
-  {
-    "id": "b6cb08a872",
-    "title": "GameDay Mayhem!!",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
-    "tags": [
-      "Sports"
-    ],
-    "archived": false,
-    "slug": "gameday-mayhem"
-  },
-  {
-    "id": "ec40a71ae0",
-    "title": "The Burrow",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://saladin786.itch.io/the-burrow",
-    "tags": [
-      "Visual Novel"
-    ],
-    "archived": false,
-    "slug": "the-burrow"
-  },
-  {
-    "id": "66d9e2a4af",
-    "title": "Baldi's Basics Songkran In Education And Learning X",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "baldis-basics-songkr"
-  },
-  {
-    "id": "75a1160825",
-    "title": "CLASSIC GAME",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://iamqqqqqqq.itch.io/classicgame",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": false,
-    "slug": "classic-game"
-  },
-  {
-    "id": "59dc37343d",
-    "title": "Strange Toilet",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://thethil.itch.io/strange-toilet",
-    "tags": [
-      "Puzzle"
-    ],
-    "archived": false,
-    "slug": "strange-toilet"
-  },
-  {
-    "id": "32f18a0436",
-    "title": "Strange Toilet 2",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://thethil.itch.io/strange-toilet-2",
-    "tags": [
-      "Puzzle"
-    ],
-    "archived": false,
-    "slug": "strange-toilet-2"
-  },
-  {
-    "id": "cd74908336",
-    "title": "Foxy Man",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/foxy-man",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": false,
-    "slug": "foxy-man"
-  },
-  {
-    "id": "92b81b6617",
-    "title": "Zombie Hunter",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/zombie-hunter",
-    "tags": [
-      "Shooter"
-    ],
-    "archived": false,
-    "slug": "zombie-hunter"
-  },
-  {
-    "id": "f8cf98de72",
-    "title": "House Cleaner",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/housecleaner",
-    "tags": [],
-    "archived": false,
-    "slug": "house-cleaner"
-  },
-  {
-    "id": "aafb341813",
-    "title": "House Cleaner 2",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/house-cleaner-2",
-    "tags": [],
-    "archived": false,
-    "slug": "house-cleaner-2"
-  },
-  {
-    "id": "41dd856d10",
-    "title": "Guardians of the Zodiac",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://evans018creations.itch.io/guardians-of-the-zodiac",
-    "tags": [
-      "Strategy"
-    ],
-    "archived": false,
-    "slug": "guardians-of-the-zod"
-  },
-  {
-    "id": "fde7ac4003",
-    "title": "Tiny Tails: The Whale’s Tale",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://al7ussain.itch.io/whale-game",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": false,
-    "slug": "tiny-tails-the-whale"
-  },
-  {
-    "id": "fc3f3a623f",
-    "title": "FragmentsOfTyranny(Demo)",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
-    "tags": [
-      "Action"
-    ],
-    "archived": false,
-    "slug": "fragmentsoftyrannyde"
+    "slug": "beep-sheep-simulator",
+    "archived": false
   },
   {
     "id": "8f9bf67367",
     "title": "Shadows of Souls",
     "price": 4,
     "end": 1732464000000,
-    "added": 1732297453768,
+    "added": 1732441396468,
     "platform": 2,
     "uri": "https://ayfjay.itch.io/shadows-of-souls",
     "tags": [
       "Adventure"
     ],
-    "archived": false,
-    "slug": "shadows-of-souls"
+    "slug": "shadows-of-souls",
+    "archived": false
+  },
+  {
+    "id": "449b79504c",
+    "title": "The Cursed Canvas",
+    "price": 2,
+    "end": 1732987740000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://saiko-games.itch.io/the-cursed-canvas",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "the-cursed-canvas",
+    "archived": false
+  },
+  {
+    "id": "59dc37343d",
+    "title": "Strange Toilet",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "strange-toilet",
+    "archived": false
+  },
+  {
+    "id": "b6cb08a872",
+    "title": "GameDay Mayhem!!",
+    "price": 3.5,
+    "end": 1732913700000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "gameday-mayhem",
+    "archived": false
+  },
+  {
+    "id": "2ac4a7bfcf",
+    "title": "Evidence of 96'",
+    "price": 2,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://teammelon.itch.io/evidence-of-96",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "evidence-of-96",
+    "archived": false
   },
   {
     "id": "84b7e239aa",
     "title": "Kurio",
     "price": 5,
     "end": 1733374800000,
-    "added": 1732367985135,
+    "added": 1732441396468,
     "platform": 2,
     "uri": "https://kuriokingdom.itch.io/kurio",
     "tags": [
@@ -540,17 +126,503 @@
     "archived": false
   },
   {
-    "id": "bdaf4634b9",
-    "title": "Enoch Never Dies",
-    "price": 9.99,
-    "end": 1732424400000,
-    "added": 1732367985135,
+    "id": "32f18a0436",
+    "title": "Strange Toilet 2",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732441396468,
     "platform": 2,
-    "uri": "https://dylancassidy.itch.io/enoch-never-dies",
+    "uri": "https://thethil.itch.io/strange-toilet-2",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "strange-toilet-2",
+    "archived": false
+  },
+  {
+    "id": "42fb568abb",
+    "title": "Devyard",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/devyard",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "devyard",
+    "archived": false
+  },
+  {
+    "id": "559b337a90",
+    "title": "Hose Hero",
+    "price": 2.99,
+    "end": 1733019720000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://mr-ying.itch.io/hosehero",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "hose-hero",
+    "archived": false
+  },
+  {
+    "id": "0ec288f9e1",
+    "title": "A Date to Remember",
+    "price": 5,
+    "end": 1732970040000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/a-date-to-remember",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "a-date-to-remember",
+    "archived": false
+  },
+  {
+    "id": "9f36ff1433",
+    "title": "Evolvedustry",
+    "price": 5,
+    "end": 1732946400000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://evolvedustry.itch.io/evolvedustry",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "evolvedustry",
+    "archived": false
+  },
+  {
+    "id": "c485fed189",
+    "title": "HOME GAME",
+    "price": 4,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/homegame",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "home-game",
+    "archived": false
+  },
+  {
+    "id": "76356d3b19",
+    "title": "CatUp",
+    "price": 2.4,
+    "end": 1733004000000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://dazaizer0.itch.io/catup",
     "tags": [
       "Platformer"
     ],
-    "slug": "enoch-never-dies",
+    "slug": "catup",
+    "archived": false
+  },
+  {
+    "id": "31019100c4",
+    "title": "Red Tail",
+    "price": 2,
+    "end": 1732976100000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/redtail",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "red-tail",
+    "archived": false
+  },
+  {
+    "id": "1202c3fd53",
+    "title": "Their Navy Is Their Doom",
+    "price": 3,
+    "end": 1734044700000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://pressfstudio.itch.io/their-navy-is-their-doom",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "their-navy-is-their-doom",
+    "archived": false
+  },
+  {
+    "id": "d4fd805051",
+    "title": "Forgotten Cowboys",
+    "price": 2,
+    "end": 1732976100000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
+    "tags": [
+      "Action"
+    ],
+    "slug": "forgotten-cowboys",
+    "archived": false
+  },
+  {
+    "id": "0c29b01af7",
+    "title": "Quiet West: Butcher noose",
+    "price": 2,
+    "end": 1733001120000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "quiet-west-butcher-noose",
+    "archived": false
+  },
+  {
+    "id": "50960c77cf",
+    "title": "Armored Crucible: The Crimson Dunes",
+    "price": 2.99,
+    "end": 1732873560000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://fontty.itch.io/ac-tcd",
+    "tags": [
+      "Action"
+    ],
+    "slug": "armored-crucible-dunes",
+    "archived": false
+  },
+  {
+    "id": "77868c422c",
+    "title": "Капитал Шоу + Супер Игра",
+    "price": 7.99,
+    "end": 1733000340000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://existical.itch.io/capitalshow",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "77868c422c",
+    "archived": false
+  },
+  {
+    "id": "fc3f3a623f",
+    "title": "FragmentsOfTyranny(Demo)",
+    "price": 1.99,
+    "end": 1732822260000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
+    "tags": [
+      "Action"
+    ],
+    "slug": "fragmentsoftyrannydemo",
+    "archived": false
+  },
+  {
+    "id": "66a7e29bf7",
+    "title": "The Labyrinth of Kur",
+    "price": 2.99,
+    "end": 1732873560000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://fontty.itch.io/kur",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-labyrinth-of-kur",
+    "archived": false
+  },
+  {
+    "id": "48f65ce8ac",
+    "title": "Ancient Evil",
+    "price": 2,
+    "end": 1732976100000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/ancient-evil",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "ancient-evil",
+    "archived": false
+  },
+  {
+    "id": "f8cf98de72",
+    "title": "House Cleaner",
+    "price": 6.99,
+    "end": 1732653240000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/housecleaner",
+    "tags": [],
+    "slug": "house-cleaner",
+    "archived": false
+  },
+  {
+    "id": "92b81b6617",
+    "title": "Zombie Hunter",
+    "price": 5,
+    "end": 1732653240000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/zombie-hunter",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "zombie-hunter",
+    "archived": false
+  },
+  {
+    "id": "cd74908336",
+    "title": "Foxy Man",
+    "price": 5,
+    "end": 1732653240000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/foxy-man",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "foxy-man",
+    "archived": false
+  },
+  {
+    "id": "af95409b81",
+    "title": "HOME GAME 2",
+    "price": 4,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/homegame2",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "home-game-2",
+    "archived": false
+  },
+  {
+    "id": "5222933170",
+    "title": "Kasperias Arenas",
+    "price": 2,
+    "end": 1733000400000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://kasperv.itch.io/kasperias-arenas",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "kasperias-arenas",
+    "archived": false
+  },
+  {
+    "id": "0583beb2ac",
+    "title": "Omega No Sunshine 24",
+    "price": 5,
+    "end": 1733003940000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://galoxyum.itch.io/ons24",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "omega-no-sunshine-24",
+    "archived": false
+  },
+  {
+    "id": "fde7ac4003",
+    "title": "Tiny Tails: The Whale’s Tale",
+    "price": 1.01,
+    "end": 1732653240000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/whale-game",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "tiny-tails-the-whales-tale",
+    "archived": false
+  },
+  {
+    "id": "41dd856d10",
+    "title": "Guardians of the Zodiac",
+    "price": 9,
+    "end": 1734795000000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://evans018creations.itch.io/guardians-of-the-zodiac",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "guardians-of-the-zodiac",
+    "archived": false
+  },
+  {
+    "id": "aafb341813",
+    "title": "House Cleaner 2",
+    "price": 6.99,
+    "end": 1732653240000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/house-cleaner-2",
+    "tags": [],
+    "slug": "house-cleaner-2",
+    "archived": false
+  },
+  {
+    "id": "e3a5857e16",
+    "title": "Endless Math Challenge",
+    "price": 3.99,
+    "end": 1733025599000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://notritter.itch.io/endless-math-challenge",
+    "tags": [
+      "Educational"
+    ],
+    "slug": "endless-math-challenge",
+    "archived": false
+  },
+  {
+    "id": "d680829cbe",
+    "title": "Rise Above!",
+    "price": 5,
+    "end": 1732982220000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://alessandro06-0.itch.io/rise-above",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "rise-above",
+    "archived": false
+  },
+  {
+    "id": "1d6628befe",
+    "title": "My Favorite Vtuber (JJBEATS GAMING)",
+    "price": 5,
+    "end": 1732988220000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/jjbeats-gaming",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "my-favorite-vtuber-gaming",
+    "archived": false
+  },
+  {
+    "id": "a230b8d714",
+    "title": "Ball 46",
+    "price": 2,
+    "end": 1733083140000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://yahay-games.itch.io/ball-46",
+    "tags": [
+      "Action"
+    ],
+    "slug": "ball-46",
+    "archived": false
+  },
+  {
+    "id": "c622221920",
+    "title": "JACKER",
+    "price": 2.99,
+    "end": 1733047200000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://ry2110.itch.io/jacker",
+    "tags": [
+      "Card Game"
+    ],
+    "slug": "jacker",
+    "archived": false
+  },
+  {
+    "id": "6961397ea5",
+    "title": "Kookie",
+    "price": 5,
+    "end": 1733106420000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/kookie",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "kookie",
+    "archived": false
+  },
+  {
+    "id": "a2ecfd1763",
+    "title": "Beanman",
+    "price": 4.99,
+    "end": 1732999260000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://archimedean-gaming.itch.io/beanman",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "beanman",
+    "archived": false
+  },
+  {
+    "id": "ec40a71ae0",
+    "title": "The Burrow",
+    "price": 5,
+    "end": 1733046480000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://saladin786.itch.io/the-burrow",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "the-burrow",
+    "archived": false
+  },
+  {
+    "id": "3304d1c2d9",
+    "title": "Atlas Ablaze",
+    "price": 5,
+    "end": 1732434600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://wetsockywocky.itch.io/atlas-ablaze",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "atlas-ablaze",
+    "archived": false
+  },
+  {
+    "id": "66d9e2a4af",
+    "title": "Baldi's Basics Songkran In Education And Learning X",
+    "price": 10,
+    "end": 1735637640000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "baldis-basics-songkran-learning-x-x",
+    "archived": false
+  },
+  {
+    "id": "75a1160825",
+    "title": "CLASSIC GAME",
+    "price": 8,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/classicgame",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "classic-game",
     "archived": false
   }
 ]

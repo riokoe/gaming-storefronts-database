@@ -19,7 +19,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-23:
+Active giveaways as of 2024-11-24:
 
 | Game | Store |
 | --- | --- |
@@ -33,19 +33,19 @@ Active giveaways as of 2024-11-23:
 | [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS) | Xbox Game Pass [new] |
+| [Donkey Kong Land](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
+| [Atlas Ablaze](https://wetsockywocky.itch.io/atlas-ablaze) | Itch.io |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
-| [Banana Clicker – Join the Fun! 🍌](https://mrpaul667.itch.io/banana-clicker) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
 | [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
 | [Devyard](https://thethil.itch.io/devyard) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
-| [Enoch Never Dies](https://dylancassidy.itch.io/enoch-never-dies) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |

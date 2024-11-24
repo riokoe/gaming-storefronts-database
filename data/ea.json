@@ -9,7 +9,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "dragon-age-the-veilg"
+    "slug": "dragon-age-the-veilguard"
   },
   {
     "id": "44c49b75a2",
@@ -33,26 +33,26 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "ea-sports-madden-nfl25"
+    "slug": "ea-sports-madden-nfl-25"
   },
   {
     "id": "ccb11f3d11",
     "title": "F1® 24",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/f1/f1-24",
     "tags": [
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "f1-24"
+    "slug": "f-124"
   },
   {
     "id": "dda5935c34",
     "title": "Tales of Kenzera™: ZAU",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/tales-of-kenzera/zau",
     "tags": [
       "EA Play Pro"
     ],
@@ -64,7 +64,7 @@
     "title": "Super Mega Baseball™ 4\n",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/super-mega-baseball/super-mega-baseball-4",
     "tags": [
       "EA Play",
       "EA Play Pro"
@@ -95,7 +95,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "ea-sports-fc24"
+    "slug": "ea-sports-fc-24"
   },
   {
     "id": "08f3931947",
@@ -115,7 +115,7 @@
     "title": "Madden NFL 24",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/madden-nfl/madden-nfl-24",
     "tags": [
       "EA Play",
       "EA Play Pro"
@@ -134,7 +134,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "f1-23"
+    "slug": "f-123"
   },
   {
     "id": "5524be3510",
@@ -147,7 +147,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-survi"
+    "slug": "star-wars-jedi-survivor"
   },
   {
     "id": "4bc0368c79",
@@ -167,7 +167,7 @@
     "title": "WILD HEARTS™",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/wild-hearts/wild-hearts",
     "tags": [
       "EA Play",
       "EA Play Pro"
@@ -180,7 +180,7 @@
     "title": "Dead Space™",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/dead-space/dead-space",
     "tags": [
       "EA Play",
       "EA Play Pro"
@@ -199,7 +199,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "crysis-2-remastered"
+    "slug": "crysis-remastered-2"
   },
   {
     "id": "4e8550f8cf",
@@ -212,7 +212,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "crysis-3-remastered"
+    "slug": "crysis-remastered-3"
   },
   {
     "id": "d6d6a235ec",
@@ -225,7 +225,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "crysis-trilogy-remas"
+    "slug": "crysis-trilogy-remastered"
   },
   {
     "id": "c9aca94121",
@@ -238,7 +238,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "need-for-speed-unbou"
+    "slug": "need-for-speed-unbound"
   },
   {
     "id": "a4035cb947",
@@ -264,7 +264,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "f1-22"
+    "slug": "f-122"
   },
   {
     "id": "5933376d80",
@@ -329,7 +329,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "mass-effect-legendar"
+    "slug": "mass-effect-legendary"
   },
   {
     "id": "a4715e570e",
@@ -355,7 +355,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "need-for-speed-hot-p"
+    "slug": "need-for-speed-remastered"
   },
   {
     "id": "b0e52ce39f",
@@ -381,7 +381,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "command-conquer-rema"
+    "slug": "command-conquer-remastered"
   },
   {
     "id": "4b8a792268",
@@ -419,7 +419,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-falle"
+    "slug": "star-wars-jedi-order"
   },
   {
     "id": "a3bb38a528",
@@ -457,7 +457,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "plants-vs-zombies-ba"
+    "slug": "plants-vs-zombies-neighborville"
   },
   {
     "id": "65e9744d9f",
@@ -507,7 +507,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "warhammer-40000-mech"
+    "slug": "warhammer-mechanicus-40000"
   },
   {
     "id": "bcae430628",
@@ -520,7 +520,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "battlefield-v"
+    "slug": "battlefield-v-v"
   },
   {
     "id": "781be55440",
@@ -545,7 +545,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "burnout-paradise-rem"
+    "slug": "burnout-paradise-remastered"
   },
   {
     "id": "ec140dfba2",
@@ -558,7 +558,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "the-bards-tale-trilo"
+    "slug": "the-bards-tale-trilogy"
   },
   {
     "id": "18263d1b43",
@@ -583,7 +583,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "judgment-apocalypse"
+    "slug": "judgment-apocalypse-simulation"
   },
   {
     "id": "ef62f97ae8",
@@ -682,7 +682,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-battlefron"
+    "slug": "star-wars-battlefront-ii-ii"
   },
   {
     "id": "8dd61324c5",
@@ -695,7 +695,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "need-for-speed-payba"
+    "slug": "need-for-speed-payback"
   },
   {
     "id": "b82b0ff542",
@@ -731,7 +731,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "halcyon-6-lightspeed"
+    "slug": "halcyon-lightspeed-6"
   },
   {
     "id": "7889c52199",
@@ -756,7 +756,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "mass-effect-andromed"
+    "slug": "mass-effect-andromeda"
   },
   {
     "id": "8913f862f2",
@@ -843,7 +843,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "mirrors-edge-catalys"
+    "slug": "mirrors-edge-catalyst"
   },
   {
     "id": "df31ef9ff1",
@@ -893,7 +893,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "plants-vs-zombies-ga2"
+    "slug": "plants-vs-zombies-warfare-2"
   },
   {
     "id": "fbc9ea6784",
@@ -931,7 +931,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-battlefron"
+    "slug": "star-wars-battlefront"
   },
   {
     "id": "334ff4bf95",
@@ -994,7 +994,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "plants-vs-zombies-ga"
+    "slug": "plants-vs-zombies-warfare"
   },
   {
     "id": "df8f8fe96f",
@@ -1020,7 +1020,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "dragon-age-inquisiti"
+    "slug": "dragon-age-inquisition"
   },
   {
     "id": "38cdfaf5b4",
@@ -1033,7 +1033,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "need-for-speed-rival"
+    "slug": "need-for-speed-rivals"
   },
   {
     "id": "5a989d67e0",
@@ -1110,7 +1110,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "command-conquer-the"
+    "slug": "command-conquer-ultimate"
   },
   {
     "id": "6ef33f87f3",
@@ -1122,7 +1122,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "ftl-faster-than-ligh"
+    "slug": "ftl-faster-than-light"
   },
   {
     "id": "0a9444c030",
@@ -1135,7 +1135,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "mass-effect-3-2012"
+    "slug": "mass-effect-32012"
   },
   {
     "id": "2791d365b9",
@@ -1167,20 +1167,20 @@
     "title": "Alice: Madness Returns™",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/alice/alice-madness-returns",
     "tags": [
       "EA Play",
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "alice-madness-return"
+    "slug": "alice-madness-returns"
   },
   {
     "id": "23c6167ee5",
     "title": "Crysis 2",
     "added": 1731492404945,
     "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
+    "uri": "https://www.ea.com/games/crysis/crysis-2",
     "tags": [
       "EA Play",
       "EA Play Pro"
@@ -1224,7 +1224,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-the-force"
+    "slug": "star-wars-the-force-unleashed-ii-ii"
   },
   {
     "id": "c8074fb485",
@@ -1250,7 +1250,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "mass-effect-2-2010"
+    "slug": "mass-effect-22010"
   },
   {
     "id": "0c4569d13c",
@@ -1275,7 +1275,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-the-force"
+    "slug": "star-wars-the-force-ultimate-sith"
   },
   {
     "id": "d9455a32fd",
@@ -1392,7 +1392,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "medal-of-honor-airbo"
+    "slug": "medal-of-honor-airborne"
   },
   {
     "id": "460a3e0180",
@@ -1417,7 +1417,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-empire-at"
+    "slug": "star-wars-empire-gold-pack"
   },
   {
     "id": "768160068e",
@@ -1430,7 +1430,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "need-for-speed-most"
+    "slug": "need-for-speed-wanted"
   },
   {
     "id": "6a3166bed2",
@@ -1442,7 +1442,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-battlefron2005"
+    "slug": "star-wars-battlefront-classic-ii-2005"
   },
   {
     "id": "f7ec4cb631",
@@ -1467,7 +1467,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-republic-c"
+    "slug": "star-wars-republic-commando"
   },
   {
     "id": "88a93fb3bb",
@@ -1479,7 +1479,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-knights-of"
+    "slug": "star-wars-knights-lords-ii"
   },
   {
     "id": "5c17010fbc",
@@ -1491,7 +1491,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-battlefron2004"
+    "slug": "star-wars-battlefront-classic-2004"
   },
   {
     "id": "e595257c87",
@@ -1503,7 +1503,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-knights-of"
+    "slug": "star-wars-knights-republic"
   },
   {
     "id": "98d50b8fe4",
@@ -1528,7 +1528,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-knigh"
+    "slug": "star-wars-jedi-outcast-ii"
   },
   {
     "id": "7d36945ecd",
@@ -1540,7 +1540,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-knigh"
+    "slug": "star-wars-jedi-academy"
   },
   {
     "id": "23fde2553b",
@@ -1552,7 +1552,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-starfighte"
+    "slug": "star-wars-starfighter"
   },
   {
     "id": "c909e1b85d",
@@ -1564,7 +1564,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-galactic-b"
+    "slug": "star-wars-galactic-battlegrounds-saga"
   },
   {
     "id": "25fb6199d9",
@@ -1589,7 +1589,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-episode-i"
+    "slug": "star-wars-episode-racer-i"
   },
   {
     "id": "975605ef8e",
@@ -1601,7 +1601,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-x-wing-all"
+    "slug": "star-wars-x-wing-alliance-x"
   },
   {
     "id": "63edd90f23",
@@ -1614,7 +1614,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "sim-city-3000-unlimi"
+    "slug": "sim-city-unlimited-3000"
   },
   {
     "id": "f22ba7bd62",
@@ -1627,7 +1627,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "sid-meiers-alpha-cen"
+    "slug": "sid-meiers-alpha-centauri"
   },
   {
     "id": "a4e52e7638",
@@ -1639,7 +1639,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-rogue-squa3"
+    "slug": "star-wars-rogue-squadron-d-3"
   },
   {
     "id": "9cec7a460a",
@@ -1663,7 +1663,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-knigh"
+    "slug": "star-wars-jedi-of-sith"
   },
   {
     "id": "8b078877f9",
@@ -1675,7 +1675,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-jedi-knigh"
+    "slug": "star-wars-jedi-forces-ii-ii"
   },
   {
     "id": "300d0b8bd1",
@@ -1687,7 +1687,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-shadows-of"
+    "slug": "star-wars-shadows-empire"
   },
   {
     "id": "21b6ac81ff",
@@ -1712,7 +1712,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-x-wing-vs"
+    "slug": "star-wars-x-wing-campaigns-x"
   },
   {
     "id": "0b2d4f5424",
@@ -1737,7 +1737,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-tie-fighte"
+    "slug": "star-wars-tie-fighter-special"
   },
   {
     "id": "9f989d154f",
@@ -1749,7 +1749,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-x-wing-spe"
+    "slug": "star-wars-x-wing-special-x"
   },
   {
     "id": "59c6afddcf",
@@ -1761,7 +1761,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "star-wars-rebel-assa"
+    "slug": "star-wars-rebel-assault-i-ii-i-ii"
   },
   {
     "id": "b8c7d5febb",
@@ -1813,7 +1813,7 @@
       "EA Play Pro"
     ],
     "archived": false,
-    "slug": "populous-ii-trials-o"
+    "slug": "populous-ii-trials-olympian-gods-ii"
   },
   {
     "id": "8c5c22f156",
