@@ -73,7 +73,6 @@ Active giveaways as of 2024-11-25:
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |
-| [Thru The Webs](https://themetalcarrotdev.itch.io/thru-the-webs) | Itch.io |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io |
