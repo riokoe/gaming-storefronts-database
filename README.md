@@ -19,7 +19,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-24:
+Active giveaways as of 2024-11-25:
 
 | Game | Store |
 | --- | --- |
@@ -49,7 +49,6 @@ Active giveaways as of 2024-11-24:
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
-| [FragmentsOfTyranny(Demo)](https://khoyman.itch.io/fragmentsoftyrannydemo) | Itch.io |
 | [GameDay Mayhem!!](https://indifferentpenguin.itch.io/gamedaymayhem) | Itch.io |
 | [Guardians of the Zodiac](https://evans018creations.itch.io/guardians-of-the-zodiac) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
@@ -67,10 +66,10 @@ Active giveaways as of 2024-11-24:
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
+| [Santa's little helper(downloadable)](https://michelegalbiati.itch.io/santas-little-helperdownloadable) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
-| [The Cursed Canvas](https://saiko-games.itch.io/the-cursed-canvas) | Itch.io |
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Whitaker's Library](https://lorex-games.itch.io/the-whitakers-library-part-1) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |

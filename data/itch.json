@@ -42,20 +42,6 @@
     "archived": false
   },
   {
-    "id": "449b79504c",
-    "title": "The Cursed Canvas",
-    "price": 2,
-    "end": 1732987740000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://saiko-games.itch.io/the-cursed-canvas",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "the-cursed-canvas",
-    "archived": false
-  },
-  {
     "id": "59dc37343d",
     "title": "Strange Toilet",
     "price": 2,
@@ -291,20 +277,6 @@
       "Puzzle"
     ],
     "slug": "77868c422c",
-    "archived": false
-  },
-  {
-    "id": "fc3f3a623f",
-    "title": "FragmentsOfTyranny(Demo)",
-    "price": 1.99,
-    "end": 1732822260000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
-    "tags": [
-      "Action"
-    ],
-    "slug": "fragmentsoftyrannydemo",
     "archived": false
   },
   {
@@ -609,6 +581,20 @@
       "Shooter"
     ],
     "slug": "thru-the-webs",
+    "archived": false
+  },
+  {
+    "id": "18e69eda6a",
+    "title": "Santa's little helper(downloadable)",
+    "price": 2,
+    "end": 1733090400000,
+    "added": 1732521276261,
+    "platform": 2,
+    "uri": "https://michelegalbiati.itch.io/santas-little-helperdownloadable",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "santas-little-helperdownloadable",
     "archived": false
   }
 ]

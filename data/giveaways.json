@@ -85,20 +85,6 @@
     "archived": false
   },
   {
-    "id": "449b79504c",
-    "title": "The Cursed Canvas",
-    "price": 2,
-    "end": 1732987740000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://saiko-games.itch.io/the-cursed-canvas",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "the-cursed-canvas",
-    "archived": false
-  },
-  {
     "id": "59dc37343d",
     "title": "Strange Toilet",
     "price": 2,
@@ -334,20 +320,6 @@
       "Puzzle"
     ],
     "slug": "77868c422c",
-    "archived": false
-  },
-  {
-    "id": "fc3f3a623f",
-    "title": "FragmentsOfTyranny(Demo)",
-    "price": 1.99,
-    "end": 1732822260000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://khoyman.itch.io/fragmentsoftyrannydemo",
-    "tags": [
-      "Action"
-    ],
-    "slug": "fragmentsoftyrannydemo",
     "archived": false
   },
   {
@@ -655,6 +627,20 @@
     "archived": false
   },
   {
+    "id": "18e69eda6a",
+    "title": "Santa's little helper(downloadable)",
+    "price": 2,
+    "end": 1733090400000,
+    "added": 1732521276261,
+    "platform": 2,
+    "uri": "https://michelegalbiati.itch.io/santas-little-helperdownloadable",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "santas-little-helperdownloadable",
+    "archived": false
+  },
+  {
     "id": "33c45fe27f",
     "title": "Beholder",
     "price": 13.99,
@@ -743,172 +729,5 @@
     ],
     "slug": "donkey-kong-land-gb",
     "archived": false
-  },
-  {
-    "id": "8f9bf67367",
-    "title": "Shadows of Souls",
-    "price": 4,
-    "end": 1732464000000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://ayfjay.itch.io/shadows-of-souls",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "shadows-of-souls",
-    "archived": true
-  },
-  {
-    "id": "3304d1c2d9",
-    "title": "Atlas Ablaze",
-    "price": 5,
-    "end": 1732434600000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://wetsockywocky.itch.io/atlas-ablaze",
-    "tags": [
-      "Visual Novel"
-    ],
-    "slug": "atlas-ablaze",
-    "archived": true
-  },
-  {
-    "id": "b7e88789bf",
-    "title": "Banana Clicker – Join the Fun! 🍌",
-    "added": 1731431500019,
-    "platform": 2,
-    "uri": "https://mrpaul667.itch.io/banana-clicker",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": true,
-    "slug": "banana-clicker-join-fun"
-  },
-  {
-    "id": "bdaf4634b9",
-    "title": "Enoch Never Dies",
-    "price": 9.99,
-    "end": 1732424400000,
-    "added": 1732367985135,
-    "platform": 2,
-    "uri": "https://dylancassidy.itch.io/enoch-never-dies",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "enoch-never-dies",
-    "archived": true
-  },
-  {
-    "id": "3f87d5016b",
-    "title": "THE WHOLE WORLD",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/the-whole-world",
-    "tags": [
-      "Adventure"
-    ],
-    "archived": true
-  },
-  {
-    "id": "684f71313b",
-    "title": "SUD GAME",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/sud-game",
-    "tags": [
-      "Platformer"
-    ],
-    "archived": true
-  },
-  {
-    "id": "b44940d495",
-    "title": "Its Time To Fight",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/its-time-to-fight",
-    "tags": [
-      "Role Playing"
-    ],
-    "archived": true
-  },
-  {
-    "id": "809c9152bd",
-    "title": "Doctor Abhas",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/doctor-abhas",
-    "tags": [
-      "Action"
-    ],
-    "archived": true
-  },
-  {
-    "id": "519cf7bcfe",
-    "title": "Name The Pokemon",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/name-the-pokemon",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "fa3d2ffa91",
-    "title": "Zizzy Zombie",
-    "added": 1732267825149,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/zizzy-zombie",
-    "tags": [
-      "Action"
-    ],
-    "archived": true
-  },
-  {
-    "id": "e5436b9f81",
-    "title": "Basketball",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/football",
-    "tags": [
-      "Sports"
-    ],
-    "archived": true
-  },
-  {
-    "id": "501d47fc56",
-    "title": "Theme Park Tycoon",
-    "added": 1732270600257,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/theme-park-tycoon",
-    "tags": [
-      "Simulation"
-    ],
-    "archived": true
-  },
-  {
-    "id": "28d30f7d9f",
-    "title": "Flight Masters: The Horizon Chase",
-    "added": 1731431503240,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9nbx3zg9zz8j",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "3cd3dbc1fd",
-    "title": "Snakebird Complete",
-    "added": 1731431501819,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
-    "tags": [],
-    "archived": true
-  },
-  {
-    "id": "8e090cbf38",
-    "title": "Castlevania Anniversary Collection",
-    "added": 1731431501819,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
-    "tags": [],
-    "archived": true
   }
 ]
