@@ -776,6 +776,19 @@
     "slug": "gloomy-tales-one-ticket-ce"
   },
   {
+    "id": "2a87f20c40",
+    "title": "Lost Ark - Behemoth Cache",
+    "end": 1734634800000,
+    "added": 1732647600000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "lost-ark-behemoth-cache",
+    "archived": false
+  },
+  {
     "id": "820d9e92a5",
     "title": "Donkey Kong Land",
     "added": 1732437151574,

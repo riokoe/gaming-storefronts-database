@@ -25,6 +25,7 @@ Active giveaways as of 2024-11-26:
 | --- | --- |
 | [Beholder](https://store.epicgames.com/en-US/p/beholder-8c3b4c) | Epic |
 | [Gloomy Tales: One-Way Ticket - CE](https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN) | Prime Gaming [new] |
+| [Lost Ark - Behemoth Cache](https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN) | Prime Gaming [new] |
 | [Max: The Curse of Brotherhood](https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN) | Prime Gaming [new] |
 | [Moonscars](https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Overcooked! Gourmet Edition](https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN) | Prime Gaming [new] |
