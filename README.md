@@ -19,7 +19,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-25:
+Active giveaways as of 2024-11-26:
 
 | Game | Store |
 | --- | --- |
@@ -32,9 +32,11 @@ Active giveaways as of 2024-11-25:
 | [Super Meat Boy](https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |
 | [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |
+| [Nine Sols](https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2) | Xbox Game Pass [new] |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS) | Xbox Game Pass [new] |
 | [Donkey Kong Land](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
+| [Always Sunset](https://kombuchaman.itch.io/always-sunset) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
@@ -44,6 +46,7 @@ Active giveaways as of 2024-11-25:
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io |
 | [Devyard](https://thethil.itch.io/devyard) | Itch.io |
+| [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
 | [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
@@ -56,6 +59,7 @@ Active giveaways as of 2024-11-25:
 | [Hose Hero](https://mr-ying.itch.io/hosehero) | Itch.io |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io |
+| [Hypercore](https://hyperforg.itch.io/hypercore) | Itch.io |
 | [JACKER](https://ry2110.itch.io/jacker) | Itch.io |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io |
@@ -67,6 +71,7 @@ Active giveaways as of 2024-11-25:
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io |
 | [Santa's little helper(downloadable)](https://michelegalbiati.itch.io/santas-little-helperdownloadable) | Itch.io |
+| [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |

@@ -43,6 +43,21 @@
     "slug": "stalker-heart-of-chornobyl-2-x"
   },
   {
+    "id": "44eeee851d",
+    "title": "Nine Sols",
+    "added": 1732619481576,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2",
+    "tags": [
+      "Action & adventure",
+      "Platformer",
+      "Console",
+      "Desktop"
+    ],
+    "slug": "nine-sols-x-pc",
+    "archived": false
+  },
+  {
     "id": "a245c08065",
     "title": "Juice Galaxy (formerly Juice World)",
     "price": 5,
@@ -624,6 +639,62 @@
       "Simulation"
     ],
     "slug": "santas-little-helperdownloadable",
+    "archived": false
+  },
+  {
+    "id": "556dead9fc",
+    "title": "egg5's adventure",
+    "price": 16,
+    "end": 1735161240000,
+    "added": 1732619482482,
+    "platform": 2,
+    "uri": "https://egg12345.itch.io/egg5s-adventure",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "eggs-adventure-5",
+    "archived": false
+  },
+  {
+    "id": "cc31076d88",
+    "title": "SCMALLUM THE GAME",
+    "price": 5,
+    "end": 1735161240000,
+    "added": 1732619482482,
+    "platform": 2,
+    "uri": "https://egg12345.itch.io/scmallum-the-game",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "scmallum-the-game",
+    "archived": false
+  },
+  {
+    "id": "0186346f34",
+    "title": "Always Sunset",
+    "price": 5,
+    "end": 1733436000000,
+    "added": 1732619482482,
+    "platform": 2,
+    "uri": "https://kombuchaman.itch.io/always-sunset",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "always-sunset",
+    "archived": false
+  },
+  {
+    "id": "386ba14837",
+    "title": "Hypercore",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1732619844573,
+    "platform": 2,
+    "uri": "https://hyperforg.itch.io/hypercore",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "hypercore",
     "archived": false
   },
   {

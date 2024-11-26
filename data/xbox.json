@@ -9123,5 +9123,20 @@
     ],
     "archived": false,
     "slug": "yakuza-kiwami-for-windows-10-pc"
+  },
+  {
+    "id": "44eeee851d",
+    "title": "Nine Sols",
+    "added": 1732619481576,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2",
+    "tags": [
+      "Action & adventure",
+      "Platformer",
+      "Console",
+      "Desktop"
+    ],
+    "slug": "nine-sols-x-pc",
+    "archived": false
   }
 ]
