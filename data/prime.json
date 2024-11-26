@@ -682,18 +682,5 @@
     "archived": false,
     "end": 1732906800000,
     "slug": "new-world-starlight-grimalkin"
-  },
-  {
-    "id": "cc75b44853",
-    "title": "Lost Ark - Behemoth Cache",
-    "added": 1729011600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.82e2a6f6-d8e1-4330-8787-f7de08dcdf63?ref_=SM_LostArk_S03_D02_CRWN",
-    "tags": [
-      "dlc"
-    ],
-    "archived": false,
-    "end": 1732647600000,
-    "slug": "lost-ark-behemoth-cache"
   }
 ]
