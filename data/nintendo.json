@@ -2821,7 +2821,7 @@
   },
   {
     "id": "820d9e92a5",
-    "title": "Donkey Kong Land",
+    "title": "Donkey Kong Land™",
     "added": 1732437151574,
     "platform": 8,
     "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
@@ -2829,6 +2829,18 @@
       "Game Boy"
     ],
     "slug": "donkey-kong-land-gb",
+    "archived": false
+  },
+  {
+    "id": "d19b1dd5ec",
+    "title": "Donkey Kong Land 2™",
+    "added": 1732695325553,
+    "platform": 8,
+    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "tags": [
+      "Game Boy"
+    ],
+    "slug": "donkey-kong-land-2-gb",
     "archived": false
   }
 ]

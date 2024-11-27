@@ -58,6 +58,32 @@
     "archived": false
   },
   {
+    "id": "d6e883a1c0",
+    "title": "Aliens: Dark Descent",
+    "added": 1732695174761,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9MX7DMHK13SC",
+    "tags": [
+      "Strategy",
+      "Console"
+    ],
+    "slug": "aliens-dark-descent-x",
+    "archived": false
+  },
+  {
+    "id": "e285f05edb",
+    "title": "Aliens: Dark Descent (Windows)",
+    "added": 1732695174762,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N1M64W9XZQ7",
+    "tags": [
+      "Strategy",
+      "Desktop"
+    ],
+    "slug": "aliens-dark-descent-windows-pc",
+    "archived": false
+  },
+  {
     "id": "a245c08065",
     "title": "Juice Galaxy (formerly Juice World)",
     "price": 5,
@@ -69,20 +95,6 @@
       "Role Playing"
     ],
     "slug": "juice-galaxy-formerly-world",
-    "archived": false
-  },
-  {
-    "id": "4301f88b73",
-    "title": "The Whitaker's Library",
-    "price": 2.99,
-    "end": 1732910280000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://lorex-games.itch.io/the-whitakers-library-part-1",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "the-whitakers-library",
     "archived": false
   },
   {
@@ -684,20 +696,6 @@
     "archived": false
   },
   {
-    "id": "386ba14837",
-    "title": "Hypercore",
-    "price": 4.99,
-    "end": 1733374800000,
-    "added": 1732619844573,
-    "platform": 2,
-    "uri": "https://hyperforg.itch.io/hypercore",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "hypercore",
-    "archived": false
-  },
-  {
     "id": "33c45fe27f",
     "title": "Beholder",
     "price": 13.99,
@@ -790,7 +788,7 @@
   },
   {
     "id": "820d9e92a5",
-    "title": "Donkey Kong Land",
+    "title": "Donkey Kong Land™",
     "added": 1732437151574,
     "platform": 8,
     "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
@@ -799,6 +797,46 @@
     ],
     "slug": "donkey-kong-land-gb",
     "archived": false
+  },
+  {
+    "id": "d19b1dd5ec",
+    "title": "Donkey Kong Land 2™",
+    "added": 1732695325553,
+    "platform": 8,
+    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "tags": [
+      "Game Boy"
+    ],
+    "slug": "donkey-kong-land-2-gb",
+    "archived": false
+  },
+  {
+    "id": "4301f88b73",
+    "title": "The Whitaker's Library",
+    "price": 2.99,
+    "end": 1732910280000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://lorex-games.itch.io/the-whitakers-library-part-1",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "the-whitakers-library",
+    "archived": true
+  },
+  {
+    "id": "386ba14837",
+    "title": "Hypercore",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1732619844573,
+    "platform": 2,
+    "uri": "https://hyperforg.itch.io/hypercore",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "hypercore",
+    "archived": true
   },
   {
     "id": "be797b8aef",
