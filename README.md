@@ -23,6 +23,7 @@ Active giveaways as of 2024-11-27:
 
 | Game | Store |
 | --- | --- |
+| [Dark Sector](https://store.steampowered.com/app/29900/Dark_Sector) | Steam |
 | [Beholder](https://store.epicgames.com/en-US/p/beholder-8c3b4c) | Epic |
 | [Gloomy Tales: One-Way Ticket - CE](https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN) | Prime Gaming [new] |
 | [Lost Ark - Behemoth Cache](https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN) | Prime Gaming [new] |
@@ -63,6 +64,7 @@ Active giveaways as of 2024-11-27:
 | [Hose Hero](https://mr-ying.itch.io/hosehero) | Itch.io |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io |
+| [Hypercore](https://hyperforg.itch.io/hypercore) | Itch.io |
 | [JACKER](https://ry2110.itch.io/jacker) | Itch.io |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io |
@@ -77,6 +79,7 @@ Active giveaways as of 2024-11-27:
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
+| [The Bunker](https://cyber752.itch.io/the-bunker) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
 | [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |

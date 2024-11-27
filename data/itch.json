@@ -610,5 +610,33 @@
     ],
     "slug": "always-sunset",
     "archived": false
+  },
+  {
+    "id": "386ba14837",
+    "title": "Hypercore",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1732719297196,
+    "platform": 2,
+    "uri": "https://hyperforg.itch.io/hypercore",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "hypercore",
+    "archived": false
+  },
+  {
+    "id": "9f7aec38e9",
+    "title": "The Bunker",
+    "price": 2,
+    "end": 1732730040000,
+    "added": 1732728466853,
+    "platform": 2,
+    "uri": "https://cyber752.itch.io/the-bunker",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "the-bunker",
+    "archived": false
   }
 ]
