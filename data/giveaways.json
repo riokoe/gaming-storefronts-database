@@ -2,7 +2,7 @@
   {
     "id": "fe67eb4bc9",
     "title": "Genshin Impact",
-    "added": 1732184554281,
+    "added": 1732616554281,
     "platform": 0,
     "uri": "https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9",
     "tags": [
@@ -16,7 +16,7 @@
   {
     "id": "83dd52e87e",
     "title": "Microsoft Flight Simulator 2024 - Standard Edition",
-    "added": 1732184554281,
+    "added": 1732616554281,
     "platform": 0,
     "uri": "https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52",
     "tags": [
@@ -30,7 +30,7 @@
   {
     "id": "3d91180d90",
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition",
-    "added": 1732184554281,
+    "added": 1732616554281,
     "platform": 0,
     "uri": "https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS",
     "tags": [
@@ -725,17 +725,449 @@
     "archived": false
   },
   {
-    "id": "9f7aec38e9",
-    "title": "The Bunker",
-    "price": 2,
-    "end": 1732730040000,
-    "added": 1732728466853,
+    "id": "3f6a2b801b",
+    "title": "Kingdom Ka",
+    "price": 4,
+    "end": 1733374800000,
+    "added": 1732790889874,
     "platform": 2,
-    "uri": "https://cyber752.itch.io/the-bunker",
+    "uri": "https://carrotcakestudio.itch.io/kingdomka",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "kingdom-ka",
+    "archived": false
+  },
+  {
+    "id": "ebe6489475",
+    "title": "10 Minutes Down",
+    "price": 1.99,
+    "end": 1733598420000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://anoverthinker.itch.io/10minutesdown",
     "tags": [
       "Survival"
     ],
-    "slug": "the-bunker",
+    "slug": "minutes-down-10",
+    "archived": false
+  },
+  {
+    "id": "7a724581af",
+    "title": "Assassin at Crimson Keep",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "assassin-at-crimson-keep",
+    "archived": false
+  },
+  {
+    "id": "e752adf485",
+    "title": "Krunchy Fried Games Kollection",
+    "price": 11.97,
+    "end": 1735685940000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "krunchy-fried-games-kollection",
+    "archived": false
+  },
+  {
+    "id": "8bfb553210",
+    "title": "SOLRAID",
+    "price": 2.5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://projectyaarj.itch.io/solraid",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "solraid",
+    "archived": false
+  },
+  {
+    "id": "637adc3aba",
+    "title": "Puzzle Box Island",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://puzzle-box-island.itch.io/puzzle-box-island",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "puzzle-box-island",
+    "archived": false
+  },
+  {
+    "id": "2e380efa0a",
+    "title": "SOLROVER",
+    "price": 2.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://projectyaarj.itch.io/solrover",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "solrover",
+    "archived": false
+  },
+  {
+    "id": "860fa9f2e6",
+    "title": "Zombie CCTV",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://algoca155.itch.io/zombie-cctv",
+    "tags": [
+      "Action"
+    ],
+    "slug": "zombie-cctv",
+    "archived": false
+  },
+  {
+    "id": "4a932fccbd",
+    "title": "Room 64",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://kazueuwu.itch.io/room-64",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "room-64",
+    "archived": false
+  },
+  {
+    "id": "7e79ecbbd9",
+    "title": "Jessie Kicks Ass - Grandma and the Gremlins",
+    "price": 4.99,
+    "end": 1733090400000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://hrtz.itch.io/jessie1",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "jessie-kicks-ass-gremlins",
+    "archived": false
+  },
+  {
+    "id": "f23b35cb9e",
+    "title": "Shadows Of Lir'ah",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://moonkey-lab.itch.io/shadows-of-lirah",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "shadows-of-lirah",
+    "archived": false
+  },
+  {
+    "id": "c288fbb309",
+    "title": "Walker-Adventure",
+    "price": 10,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://kish-mish1.itch.io/walker-adventure",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "walker-adventure",
+    "archived": false
+  },
+  {
+    "id": "3c9005f4ba",
+    "title": "FIG",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://daiconv.itch.io/fig",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "fig",
+    "archived": false
+  },
+  {
+    "id": "fc7e2e6aad",
+    "title": "Monkey Milk",
+    "price": 3.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://snobunni.itch.io/monkey-milk",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "monkey-milk",
+    "archived": false
+  },
+  {
+    "id": "48e6e04371",
+    "title": "Vampie Tale",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://ozaki-studio.itch.io/vampie-tale",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "vampie-tale",
+    "archived": false
+  },
+  {
+    "id": "1e28c048b4",
+    "title": "Touch Is Jump",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://tawusgames.itch.io/touchisjump",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "touch-is-jump",
+    "archived": false
+  },
+  {
+    "id": "a68fb9669a",
+    "title": "Buy'in n Sell'in",
+    "price": 2.5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/buyin-n-sellin",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "buyin-n-sellin",
+    "archived": false
+  },
+  {
+    "id": "6b6f7e74c2",
+    "title": "FOLLOW ME",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://night3hhhhh.itch.io/follow-me",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "follow-me",
+    "archived": false
+  },
+  {
+    "id": "ede91cb310",
+    "title": "Midi Keyboard 3D model",
+    "price": 3.5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/midi-keyboard",
+    "tags": [
+      "Rhythm"
+    ],
+    "slug": "midi-keyboard-d-model-3",
+    "archived": false
+  },
+  {
+    "id": "a2decb5d9d",
+    "title": "Small RPG",
+    "price": 9.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/small-rpg",
+    "tags": [
+      "Action"
+    ],
+    "slug": "small-rpg",
+    "archived": false
+  },
+  {
+    "id": "9c2e80c43b",
+    "title": "Drug Dealin Sim 2024",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/drug-dealin-simulator-2024",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "drug-dealin-sim-2024",
+    "archived": false
+  },
+  {
+    "id": "ed2176b8e2",
+    "title": "The Lost Arctic",
+    "price": 3,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://puzzle-box-island.itch.io/the-lost-arctic",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-lost-arctic",
+    "archived": false
+  },
+  {
+    "id": "c210ccdf6f",
+    "title": "Dummy Smasher",
+    "price": 3.5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/dummy-smasher",
+    "tags": [
+      "Action"
+    ],
+    "slug": "dummy-smasher",
+    "archived": false
+  },
+  {
+    "id": "4a2bcc69ce",
+    "title": "Bone-ER-Clicker",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/bone-clicker",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "bone-er-clicker",
+    "archived": false
+  },
+  {
+    "id": "f4cb934e6d",
+    "title": "Candy Cartel",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/candy-cartel",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "candy-cartel",
+    "archived": false
+  },
+  {
+    "id": "f6b20bb7b4",
+    "title": "The Three Lane Shooting Game",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/threelane",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-three-lane-shooting-game",
+    "archived": false
+  },
+  {
+    "id": "649109f462",
+    "title": "Stacky Stacky Game Game",
+    "price": 3.99,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/clicky-clicky-game-game",
+    "tags": [],
+    "slug": "stacky-stacky-game-game",
+    "archived": false
+  },
+  {
+    "id": "5338a16234",
+    "title": "Ball Peg Gravity Game",
+    "price": 5.95,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/ball-peg-gravity-game",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "ball-peg-gravity-game",
+    "archived": false
+  },
+  {
+    "id": "df0eba993d",
+    "title": "Drug Dealer (The Re-Build and Re-Birth)",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/drug-dealer",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "drug-dealer-the-birth",
+    "archived": false
+  },
+  {
+    "id": "df99b1833f",
+    "title": "Gold Digger",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/gold-digger",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "gold-digger",
+    "archived": false
+  },
+  {
+    "id": "5822ca5185",
+    "title": "Controller Checker 2022",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/controller-checker",
+    "tags": [
+      "Educational"
+    ],
+    "slug": "controller-checker-2022",
+    "archived": false
+  },
+  {
+    "id": "8184cabc23",
+    "title": "Custom Name Plate Decorations",
+    "price": 3.33,
+    "end": 1733374800000,
+    "added": 1732790889874,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/custom-name-plate-decorations",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "custom-name-plate-decorations",
     "archived": false
   },
   {
@@ -751,72 +1183,6 @@
     "slug": "beholder"
   },
   {
-    "id": "6348a0eeae",
-    "title": "Overcooked! Gourmet Edition",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "overcooked-gourmet"
-  },
-  {
-    "id": "93d152bed5",
-    "title": "Super Meat Boy",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "super-meat-boy"
-  },
-  {
-    "id": "5ef66ccb2c",
-    "title": "Max: The Curse of Brotherhood",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "max-the-curse-of-brotherhood"
-  },
-  {
-    "id": "93adf1d525",
-    "title": "Moonscars",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/moonscars-gog/dp/amzn1.pg.item.0f9215fa-e5d8-4683-99d5-defc6cd63c68?ref_=SM_Moonscars_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1739988000000,
-    "slug": "moonscars"
-  },
-  {
-    "id": "49726f3562",
-    "title": "RIOT - Civil Unrest",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "riot-civil-unrest"
-  },
-  {
-    "id": "7c8667eaab",
-    "title": "Gloomy Tales: One-Way Ticket - CE",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "gloomy-tales-one-ticket-ce"
-  },
-  {
     "id": "2a87f20c40",
     "title": "Lost Ark - Behemoth Cache",
     "end": 1734634800000,
@@ -827,6 +1193,61 @@
       "dlc"
     ],
     "slug": "lost-ark-behemoth-cache",
+    "archived": false
+  },
+  {
+    "id": "2c10e70910",
+    "title": "Jurassic World Evolution",
+    "end": 1740506400000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "jurassic-world-evolution",
+    "archived": false
+  },
+  {
+    "id": "bc1bbc1706",
+    "title": "Elite Dangerous",
+    "end": 1740506400000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "elite-dangerous",
+    "archived": false
+  },
+  {
+    "id": "5729014502",
+    "title": "Shogun Showdown",
+    "end": 1738087200000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/shogun-showdown-gog/dp/amzn1.pg.item.c3a4b220-2762-416d-ae9c-e849044cc918?ref_=SM_ShogunShowdown_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "shogun-showdown",
+    "archived": false
+  },
+  {
+    "id": "5131a2d150",
+    "title": "Sir Whoopass: Immortal Death",
+    "end": 1735668000000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/sir-whoopass-immortal-death-gog/dp/amzn1.pg.item.e6dbfe9b-01d8-4b6e-b804-e35656e9d143?ref_=SM_SirWhoopassImmortalDeath_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "sir-whoopass-immortal-death",
+    "archived": false
+  },
+  {
+    "id": "5cf63c1822",
+    "title": "Mystery Case Files: The Dalimar Legacy - CE",
+    "end": 1738087200000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/mystery-case-files-the-dalimar-legacy-ce-aga/dp/amzn1.pg.item.1683372f-d154-479e-85b9-47f1430ac849?ref_=SM_MysteryCaseFilesTheDalimarLegacyCE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "mystery-case-files-legacy-ce",
     "archived": false
   },
   {
@@ -852,6 +1273,50 @@
     ],
     "slug": "donkey-kong-land-2-gb",
     "archived": false
+  },
+  {
+    "id": "86bf047cfd",
+    "title": "Breathedge",
+    "price": 24.99,
+    "end": 1733011140000,
+    "added": 1732716000000,
+    "platform": 12,
+    "uri": "https://www.fanatical.com/en/game/breathedge",
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Adventure"
+    ],
+    "slug": "breathedge-1",
+    "archived": false
+  },
+  {
+    "id": "2da242ab34",
+    "title": "World of Warships Booster Pack 2024 - New Players",
+    "price": 28.87,
+    "end": 1735804800000,
+    "added": 1727776800000,
+    "platform": 12,
+    "uri": "https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "world-of-warships-players-2024",
+    "archived": false
+  },
+  {
+    "id": "9f7aec38e9",
+    "title": "The Bunker",
+    "price": 2,
+    "end": 1732730040000,
+    "added": 1732728466853,
+    "platform": 2,
+    "uri": "https://cyber752.itch.io/the-bunker",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "the-bunker",
+    "archived": true
   },
   {
     "id": "4301f88b73",

@@ -253,17 +253,6 @@
     "slug": "bioshock-remastered"
   },
   {
-    "id": "1a734a066d",
-    "title": "Gargoyles Remastered",
-    "added": 1729789200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/gargoyles-remastered-aga/dp/amzn1.pg.item.551a3513-05a9-4466-9034-d112c0e27c52?ref_=SM_GargoylesRemastered_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "gargoyles-remastered"
-  },
-  {
     "id": "9c0d5da616",
     "title": "Killing Floor 2",
     "added": 1729184400000,
@@ -429,17 +418,6 @@
     "slug": "hive-jump-survivors-2"
   },
   {
-    "id": "53c281db57",
-    "title": "Borderlands 2",
-    "added": 1724950800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/borderlands-2-epic/dp/amzn1.pg.item.a29bb597-81eb-46b9-b1ee-8a0490bb8cfc?ref_=SM_Borderlands2_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "borderlands-2"
-  },
-  {
     "id": "a1daa6c63c",
     "title": "Kerbal Space Program",
     "added": 1726765200000,
@@ -460,28 +438,6 @@
     "archived": false,
     "end": 1735149600000,
     "slug": "ghost-song"
-  },
-  {
-    "id": "a83ecc8df9",
-    "title": "Ynglet",
-    "added": 1727370000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/ynglet-aga/dp/amzn1.pg.item.0d5b027c-2be2-4ef4-aa84-af98321816fc?ref_=SM_Ynglet_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "ynglet"
-  },
-  {
-    "id": "46b3ee2bcf",
-    "title": "Mystery Case Files: Black Crown - CE",
-    "added": 1727370000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/mystery-case-files-black-crown-ce-aga/dp/amzn1.pg.item.bb904e75-7a7f-4b8a-baff-5413b6ddae8c?ref_=SM_MysteryCaseFilesBlackCrownCE_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "mystery-case-files-crown-ce"
   },
   {
     "id": "718cca12a4",
@@ -594,28 +550,6 @@
     "slug": "minabo-a-walk-through-life"
   },
   {
-    "id": "e21608c51c",
-    "title": "INDUSTRIA",
-    "added": 1724950800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/industria-gog/dp/amzn1.pg.item.c46b4bf8-fc9b-47dc-8e93-91d3c64289d9?ref_=SM_Industria_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "industria"
-  },
-  {
-    "id": "1f9f8064f1",
-    "title": "Arcade Paradise",
-    "added": 1724950800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/arcade-paradise-gog/dp/amzn1.pg.item.7f530d31-58d7-487d-b315-3ff74e28aa60?ref_=SM_ArcadeParadise_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1732730400000,
-    "slug": "arcade-paradise"
-  },
-  {
     "id": "2476398d88",
     "title": "The Collage Atlas",
     "added": 1724950800000,
@@ -694,6 +628,61 @@
       "dlc"
     ],
     "slug": "lost-ark-behemoth-cache",
+    "archived": false
+  },
+  {
+    "id": "2c10e70910",
+    "title": "Jurassic World Evolution",
+    "end": 1740506400000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "jurassic-world-evolution",
+    "archived": false
+  },
+  {
+    "id": "bc1bbc1706",
+    "title": "Elite Dangerous",
+    "end": 1740506400000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "elite-dangerous",
+    "archived": false
+  },
+  {
+    "id": "5729014502",
+    "title": "Shogun Showdown",
+    "end": 1738087200000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/shogun-showdown-gog/dp/amzn1.pg.item.c3a4b220-2762-416d-ae9c-e849044cc918?ref_=SM_ShogunShowdown_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "shogun-showdown",
+    "archived": false
+  },
+  {
+    "id": "5131a2d150",
+    "title": "Sir Whoopass: Immortal Death",
+    "end": 1735668000000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/sir-whoopass-immortal-death-gog/dp/amzn1.pg.item.e6dbfe9b-01d8-4b6e-b804-e35656e9d143?ref_=SM_SirWhoopassImmortalDeath_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "sir-whoopass-immortal-death",
+    "archived": false
+  },
+  {
+    "id": "5cf63c1822",
+    "title": "Mystery Case Files: The Dalimar Legacy - CE",
+    "end": 1738087200000,
+    "added": 1732730400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/mystery-case-files-the-dalimar-legacy-ce-aga/dp/amzn1.pg.item.1683372f-d154-479e-85b9-47f1430ac849?ref_=SM_MysteryCaseFilesTheDalimarLegacyCE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "mystery-case-files-legacy-ce",
     "archived": false
   }
 ]
