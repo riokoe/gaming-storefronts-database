@@ -1054,5 +1054,19 @@
     "tags": [],
     "slug": "spiral-paint-shoot-create",
     "archived": false
+  },
+  {
+    "id": "c677aa553f",
+    "title": "LabirintAdventure",
+    "price": 15,
+    "end": 1733374800000,
+    "added": 1732808326398,
+    "platform": 2,
+    "uri": "https://infdevteam.itch.io/labirintadventure",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "labirintadventure",
+    "archived": false
   }
 ]

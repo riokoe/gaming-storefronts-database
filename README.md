@@ -89,6 +89,7 @@ Active giveaways as of 2024-11-28:
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io |
 | [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io |
+| [LabirintAdventure](https://infdevteam.itch.io/labirintadventure) | Itch.io |
 | [Midi Keyboard 3D model](https://b-render.itch.io/midi-keyboard) | Itch.io |
 | [Monkey Milk](https://snobunni.itch.io/monkey-milk) | Itch.io |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io |
