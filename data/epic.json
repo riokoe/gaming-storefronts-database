@@ -1,14 +1,14 @@
 [
   {
-    "id": "33c45fe27f",
-    "title": "Beholder",
-    "price": 13.99,
-    "end": 1732809600000,
-    "added": 1732204800000,
+    "id": "3d475390ce",
+    "title": "Brotato",
+    "price": 4.99,
+    "end": 1733414400000,
+    "added": 1732809600000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/beholder-8c3b4c",
+    "uri": "https://store.epicgames.com/en-US/p/brotato-ed4097",
     "tags": [],
-    "archived": false,
-    "slug": "beholder"
+    "slug": "brotato",
+    "archived": false
   }
 ]

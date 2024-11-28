@@ -27,7 +27,7 @@ Active giveaways as of 2024-11-28:
 | Game | Store |
 | --- | --- |
 | [Dark Sector](https://store.steampowered.com/app/29900/Dark_Sector) | Steam |
-| [Beholder](https://store.epicgames.com/en-US/p/beholder-8c3b4c) | Epic |
+| [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic |
 | [Breathedge](https://www.fanatical.com/en/game/breathedge) | Fanatical |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical |
 | [Elite Dangerous](https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN) | Prime Gaming [new] |
