@@ -50,7 +50,6 @@ Active giveaways as of 2024-11-28:
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
 | [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
 | [Assassin at Crimson Keep](https://shadowglass.itch.io/assassin-at-crimson-keep) | Itch.io |
-| [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Ball Peg Gravity Game](https://b-render.itch.io/ball-peg-gravity-game) | Itch.io |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io |
@@ -74,7 +73,6 @@ Active giveaways as of 2024-11-28:
 | [FOLLOW ME](https://night3hhhhh.itch.io/follow-me) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io |
-| [GameDay Mayhem!!](https://indifferentpenguin.itch.io/gamedaymayhem) | Itch.io |
 | [Gold Digger](https://b-render.itch.io/gold-digger) | Itch.io |
 | [Guardians of the Zodiac](https://evans018creations.itch.io/guardians-of-the-zodiac) | Itch.io |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io |
@@ -106,6 +104,7 @@ Active giveaways as of 2024-11-28:
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io |
 | [SOLRAID](https://projectyaarj.itch.io/solraid) | Itch.io |
 | [SOLROVER](https://projectyaarj.itch.io/solrover) | Itch.io |
+| [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io |
 | [Stacky Stacky Game Game](https://b-render.itch.io/clicky-clicky-game-game) | Itch.io |
 | [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |

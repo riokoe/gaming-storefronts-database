@@ -42,20 +42,6 @@
     "archived": false
   },
   {
-    "id": "b6cb08a872",
-    "title": "GameDay Mayhem!!",
-    "price": 3.5,
-    "end": 1732913700000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
-    "tags": [
-      "Sports"
-    ],
-    "slug": "gameday-mayhem",
-    "archived": false
-  },
-  {
     "id": "2ac4a7bfcf",
     "title": "Evidence of 96'",
     "price": 2,
@@ -525,20 +511,6 @@
       "Visual Novel"
     ],
     "slug": "the-burrow",
-    "archived": false
-  },
-  {
-    "id": "66d9e2a4af",
-    "title": "Baldi's Basics Songkran In Education And Learning X",
-    "price": 10,
-    "end": 1735637640000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "baldis-basics-songkran-learning-x-x",
     "archived": false
   },
   {
@@ -1069,6 +1041,18 @@
       "Interactive Fiction"
     ],
     "slug": "custom-name-plate-decorations",
+    "archived": false
+  },
+  {
+    "id": "673fb25548",
+    "title": "spiral paint: shoot & create!",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732800707063,
+    "platform": 2,
+    "uri": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
+    "tags": [],
+    "slug": "spiral-paint-shoot-create",
     "archived": false
   }
 ]
