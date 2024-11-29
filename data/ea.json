@@ -486,18 +486,6 @@
     "slug": "anthem"
   },
   {
-    "id": "c1bb4bca63",
-    "title": "Beholder 2",
-    "added": 1731492404945,
-    "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
-    "tags": [
-      "EA Play Pro"
-    ],
-    "archived": false,
-    "slug": "beholder-2"
-  },
-  {
     "id": "9cc27bd33a",
     "title": "Warhammer 40,000: Mechanicus",
     "added": 1731492404945,
@@ -858,18 +846,6 @@
     "slug": "turmoil"
   },
   {
-    "id": "835de5eccc",
-    "title": "Hyper Light Drifter",
-    "added": 1731492404945,
-    "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
-    "tags": [
-      "EA Play Pro"
-    ],
-    "archived": false,
-    "slug": "hyper-light-drifter"
-  },
-  {
     "id": "a73eccde6a",
     "title": "Need for Speed",
     "added": 1731492404945,
@@ -907,18 +883,6 @@
     ],
     "archived": false,
     "slug": "unravel"
-  },
-  {
-    "id": "406bb3bfab",
-    "title": "Crashlands",
-    "added": 1731492404945,
-    "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
-    "tags": [
-      "EA Play Pro"
-    ],
-    "archived": false,
-    "slug": "crashlands"
   },
   {
     "id": "b514e070fd",
@@ -970,18 +934,6 @@
     ],
     "archived": false,
     "slug": "battlefield-hardline"
-  },
-  {
-    "id": "0be44b576c",
-    "title": "Hand of Fate",
-    "added": 1731492404945,
-    "platform": 7,
-    "uri": "https://www.ea.com/ea-play",
-    "tags": [
-      "EA Play Pro"
-    ],
-    "archived": false,
-    "slug": "hand-of-fate"
   },
   {
     "id": "e8d8986049",

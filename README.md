@@ -22,11 +22,12 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-28:
+Active giveaways as of 2024-11-29:
 
 | Game | Store |
 | --- | --- |
 | [Dark Sector](https://store.steampowered.com/app/29900/Dark_Sector) | Steam |
+| [World of Warships — Ning Hai](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai) | Steam |
 | [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic |
 | [Breathedge](https://www.fanatical.com/en/game/breathedge) | Fanatical |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical |
