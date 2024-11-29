@@ -49,7 +49,6 @@ Active giveaways as of 2024-11-29:
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io |
 | [Always Sunset](https://kombuchaman.itch.io/always-sunset) | Itch.io |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io |
-| [Armored Crucible: The Crimson Dunes](https://fontty.itch.io/ac-tcd) | Itch.io |
 | [Assassin at Crimson Keep](https://shadowglass.itch.io/assassin-at-crimson-keep) | Itch.io |
 | [Ball 46](https://yahay-games.itch.io/ball-46) | Itch.io |
 | [Ball Peg Gravity Game](https://b-render.itch.io/ball-peg-gravity-game) | Itch.io |
@@ -69,7 +68,6 @@ Active giveaways as of 2024-11-29:
 | [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io |
-| [Evolvedustry](https://evolvedustry.itch.io/evolvedustry) | Itch.io |
 | [FIG](https://daiconv.itch.io/fig) | Itch.io |
 | [FOLLOW ME](https://night3hhhhh.itch.io/follow-me) | Itch.io |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io |
@@ -106,12 +104,11 @@ Active giveaways as of 2024-11-29:
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io |
 | [SOLRAID](https://projectyaarj.itch.io/solraid) | Itch.io |
 | [SOLROVER](https://projectyaarj.itch.io/solrover) | Itch.io |
+| [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io |
 | [Stacky Stacky Game Game](https://b-render.itch.io/clicky-clicky-game-game) | Itch.io |
-| [Strange Toilet](https://thethil.itch.io/strange-toilet) | Itch.io |
 | [Strange Toilet 2](https://thethil.itch.io/strange-toilet-2) | Itch.io |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io |
-| [The Labyrinth of Kur](https://fontty.itch.io/kur) | Itch.io |
 | [The Lost Arctic](https://puzzle-box-island.itch.io/the-lost-arctic) | Itch.io |
 | [The Three Lane Shooting Game](https://b-render.itch.io/threelane) | Itch.io |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io |

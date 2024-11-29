@@ -28,20 +28,6 @@
     "archived": false
   },
   {
-    "id": "59dc37343d",
-    "title": "Strange Toilet",
-    "price": 2,
-    "end": 1733374800000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://thethil.itch.io/strange-toilet",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "strange-toilet",
-    "archived": false
-  },
-  {
     "id": "2ac4a7bfcf",
     "title": "Evidence of 96'",
     "price": 2,
@@ -123,20 +109,6 @@
       "Visual Novel"
     ],
     "slug": "a-date-to-remember",
-    "archived": false
-  },
-  {
-    "id": "9f36ff1433",
-    "title": "Evolvedustry",
-    "price": 5,
-    "end": 1732946400000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://evolvedustry.itch.io/evolvedustry",
-    "tags": [
-      "Strategy"
-    ],
-    "slug": "evolvedustry",
     "archived": false
   },
   {
@@ -224,20 +196,6 @@
     "archived": false
   },
   {
-    "id": "50960c77cf",
-    "title": "Armored Crucible: The Crimson Dunes",
-    "price": 2.99,
-    "end": 1732873560000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://fontty.itch.io/ac-tcd",
-    "tags": [
-      "Action"
-    ],
-    "slug": "armored-crucible-dunes",
-    "archived": false
-  },
-  {
     "id": "77868c422c",
     "title": "Капитал Шоу + Супер Игра",
     "price": 7.99,
@@ -249,20 +207,6 @@
       "Puzzle"
     ],
     "slug": "77868c422c",
-    "archived": false
-  },
-  {
-    "id": "66a7e29bf7",
-    "title": "The Labyrinth of Kur",
-    "price": 2.99,
-    "end": 1732873560000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://fontty.itch.io/kur",
-    "tags": [
-      "Action"
-    ],
-    "slug": "the-labyrinth-of-kur",
     "archived": false
   },
   {
@@ -1067,6 +1011,20 @@
       "Puzzle"
     ],
     "slug": "labirintadventure",
+    "archived": false
+  },
+  {
+    "id": "f2159c787e",
+    "title": "SPEED OF LIFE 3D",
+    "price": 1.99,
+    "end": 1748660400000,
+    "added": 1732885824899,
+    "platform": 2,
+    "uri": "https://towi-1.itch.io/speed-of-life-3d",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "speed-of-life-d-3",
     "archived": false
   }
 ]
