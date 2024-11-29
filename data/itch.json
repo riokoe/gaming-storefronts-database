@@ -278,20 +278,6 @@
     "archived": false
   },
   {
-    "id": "5222933170",
-    "title": "Kasperias Arenas",
-    "price": 2,
-    "end": 1733000400000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://kasperv.itch.io/kasperias-arenas",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "kasperias-arenas",
-    "archived": false
-  },
-  {
     "id": "0583beb2ac",
     "title": "Omega No Sunshine 24",
     "price": 5,
@@ -1000,20 +986,6 @@
     "archived": false
   },
   {
-    "id": "c677aa553f",
-    "title": "LabirintAdventure",
-    "price": 15,
-    "end": 1733374800000,
-    "added": 1732808326398,
-    "platform": 2,
-    "uri": "https://infdevteam.itch.io/labirintadventure",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "labirintadventure",
-    "archived": false
-  },
-  {
     "id": "f2159c787e",
     "title": "SPEED OF LIFE 3D",
     "price": 1.99,
@@ -1025,6 +997,130 @@
       "Racing"
     ],
     "slug": "speed-of-life-d-3",
+    "archived": false
+  },
+  {
+    "id": "59dc37343d",
+    "title": "Strange Toilet",
+    "price": 2,
+    "end": 1733374800000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://thethil.itch.io/strange-toilet",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "strange-toilet",
+    "archived": false
+  },
+  {
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "price": 1.02,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/football",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "basketball",
+    "archived": false
+  },
+  {
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "price": 1.5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "theme-park-tycoon",
+    "archived": false
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "price": 3,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "sud-game",
+    "archived": false
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "price": 2,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-whole-world",
+    "archived": false
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "slug": "name-the-pokemon",
+    "archived": false
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "slug": "zizzy-zombie",
+    "archived": false
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "price": 2,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "its-time-to-fight",
+    "archived": false
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "slug": "doctor-abhas",
     "archived": false
   }
 ]
