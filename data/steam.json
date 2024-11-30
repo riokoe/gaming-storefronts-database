@@ -1,20 +1,5 @@
 [
   {
-    "id": "4896af2635",
-    "title": "Dark Sector",
-    "price": 9.99,
-    "added": 1732728374376,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/29900/Dark_Sector",
-    "tags": [
-      "Action",
-      "Third-Person Shooter",
-      "Gore"
-    ],
-    "slug": "dark-sector",
-    "archived": false
-  },
-  {
     "id": "50b8870e45",
     "title": "World of Warships — Ning Hai",
     "price": 9.99,

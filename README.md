@@ -26,7 +26,6 @@ Active giveaways as of 2024-11-30:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
-| [Dark Sector](https://store.steampowered.com/app/29900/Dark_Sector) | Steam | ~~9.99~~ | Action, Third-Person Shooter, Gore |
 | [World of Warships — Ning Hai](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai) | Steam | ~~9.99~~ | Massively Multiplayer, Simulation, Free to Play, dlc |
 | [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic | ~~4.99~~ |  |
 | [Oaken](https://www.gog.com/en/game/oaken) | GOG |  |  |
