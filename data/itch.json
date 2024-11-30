@@ -14,20 +14,6 @@
     "archived": false
   },
   {
-    "id": "720976e2ba",
-    "title": "Beep Sheep Simulator",
-    "price": 5.2,
-    "end": 1732312380000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "beep-sheep-simulator",
-    "archived": false
-  },
-  {
     "id": "2ac4a7bfcf",
     "title": "Evidence of 96'",
     "price": 2,
@@ -1121,6 +1107,200 @@
       "Action"
     ],
     "slug": "doctor-abhas",
+    "archived": false
+  },
+  {
+    "id": "309a3ce455",
+    "title": "Solace Inc.",
+    "price": 3.99,
+    "end": 1733493600000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://aplovestudio.itch.io/solace-inc",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "solace-inc",
+    "archived": false
+  },
+  {
+    "id": "c7a656c516",
+    "title": "Roseblight",
+    "price": 7.99,
+    "end": 1733493600000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://aplovestudio.itch.io/roseblight",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "roseblight",
+    "archived": false
+  },
+  {
+    "id": "2f9845ecbc",
+    "title": "Buckler 2",
+    "price": 3.99,
+    "end": 1733493600000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://aplovestudio.itch.io/buckler2",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "buckler-2",
+    "archived": false
+  },
+  {
+    "id": "3f8cbbd34d",
+    "title": "Project Malice",
+    "price": 9.99,
+    "end": 1733493600000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://aplovestudio.itch.io/malice",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "project-malice",
+    "archived": false
+  },
+  {
+    "id": "c09a03d2a6",
+    "title": "Bunny Hill Horror",
+    "price": 3.99,
+    "end": 1735685999000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://krunchyfriedgames.itch.io/bunny-hill-horror",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "bunny-hill-horror",
+    "archived": false
+  },
+  {
+    "id": "3501abb303",
+    "title": "Dont Turn Around | Atlantic Hotel",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://karim-froukh.itch.io/dont-turn-around",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "dont-turn-around-hotel",
+    "archived": false
+  },
+  {
+    "id": "05569848a2",
+    "title": "Bunny Hill Horror: Bunny Boiler",
+    "price": 3.99,
+    "end": 1735685999000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "bunny-hill-horror-boiler",
+    "archived": false
+  },
+  {
+    "id": "6f72d631d9",
+    "title": "Rewind To Fear - The Mansion",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://endsmeet-production.itch.io/rewind-to-fear",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "rewind-to-fear-mansion",
+    "archived": false
+  },
+  {
+    "id": "7661aaf406",
+    "title": "Witches and Bandits and Swords (Oh My)",
+    "price": 3.99,
+    "end": 1735685999000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "witches-and-bandits-oh-my",
+    "archived": false
+  },
+  {
+    "id": "7cf059fba9",
+    "title": "A Small Man",
+    "price": 5,
+    "end": 1733443800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://jasiolakstudios.itch.io/a-small-man",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "a-small-man",
+    "archived": false
+  },
+  {
+    "id": "b45c4d4490",
+    "title": "A Small Man Maker",
+    "price": 2.5,
+    "end": 1733443800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://jasiolakstudios.itch.io/a-small-man-maker",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "a-small-man-maker",
+    "archived": false
+  },
+  {
+    "id": "55f480d630",
+    "title": "Mały człowiek (A small man polish version)",
+    "price": 7,
+    "end": 1733443800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://jasiolakstudios.itch.io/a-small-man-polish-version",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "may-czowiek-a-small-version",
+    "archived": false
+  },
+  {
+    "id": "7cec1ac914",
+    "title": "маленький человек (a small man russian version)",
+    "price": 7,
+    "end": 1733443800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://jasiolakstudios.itch.io/a-small-man-russian-version",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "a-small-man-russian-version",
+    "archived": false
+  },
+  {
+    "id": "bb5a8eda2f",
+    "title": "jasiolakstudios game launcher",
+    "price": 2,
+    "end": 1733443800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://jasiolakstudios.itch.io/jasiolakstudios-game-luncher",
+    "tags": [],
+    "slug": "jasiolakstudios-launcher",
     "archived": false
   }
 ]

@@ -48,6 +48,8 @@ Active giveaways as of 2024-11-30:
 | [Donkey Kong Land™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
+| [A Small Man](https://jasiolakstudios.itch.io/a-small-man) | Itch.io | ~~5.00~~ | Platformer |
+| [A Small Man Maker](https://jasiolakstudios.itch.io/a-small-man-maker) | Itch.io | ~~2.50~~ | Platformer |
 | [Always Sunset](https://kombuchaman.itch.io/always-sunset) | Itch.io | ~~5.00~~ | Adventure |
 | [Ancient Evil](https://musialkov.itch.io/ancient-evil) | Itch.io | ~~2.00~~ | Role Playing |
 | [Assassin at Crimson Keep](https://shadowglass.itch.io/assassin-at-crimson-keep) | Itch.io | ~~4.99~~ | Visual Novel |
@@ -55,8 +57,10 @@ Active giveaways as of 2024-11-30:
 | [Ball Peg Gravity Game](https://b-render.itch.io/ball-peg-gravity-game) | Itch.io | ~~5.95~~ | Simulation |
 | [Basketball](https://gwa123.itch.io/football) | Itch.io | ~~1.02~~ | Sports |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
-| [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io | ~~5.20~~ | Simulation |
 | [Bone-ER-Clicker](https://b-render.itch.io/bone-clicker) | Itch.io | ~~5.00~~ | Role Playing |
+| [Buckler 2](https://aplovestudio.itch.io/buckler2) | Itch.io | ~~3.99~~ | Platformer |
+| [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
+| [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Buy'in n Sell'in](https://b-render.itch.io/buyin-n-sellin) | Itch.io | ~~2.50~~ | Simulation |
 | [Candy Cartel](https://b-render.itch.io/candy-cartel) | Itch.io | ~~2.00~~ | Simulation |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io | ~~2.40~~ | Platformer |
@@ -65,6 +69,7 @@ Active giveaways as of 2024-11-30:
 | [Custom Name Plate Decorations](https://b-render.itch.io/custom-name-plate-decorations) | Itch.io | ~~3.33~~ | Interactive Fiction |
 | [Devyard](https://thethil.itch.io/devyard) | Itch.io | ~~2.00~~ | Adventure |
 | [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io | ~~5.00~~ | Action |
+| [Dont Turn Around  Atlantic Hotel](https://karim-froukh.itch.io/dont-turn-around) | Itch.io | ~~5.00~~ | Adventure |
 | [Drug Dealer (The Re-Build and Re-Birth)](https://b-render.itch.io/drug-dealer) | Itch.io | ~~5.00~~ | Simulation |
 | [Drug Dealin Sim 2024](https://b-render.itch.io/drug-dealin-simulator-2024) | Itch.io | ~~5.00~~ | Role Playing |
 | [Dummy Smasher](https://b-render.itch.io/dummy-smasher) | Itch.io | ~~3.50~~ | Action |
@@ -85,26 +90,32 @@ Active giveaways as of 2024-11-30:
 | [Hypercore](https://hyperforg.itch.io/hypercore) | Itch.io | ~~1.99~~ | Platformer |
 | [Its Time To Fight](https://gwa123.itch.io/its-time-to-fight) | Itch.io | ~~2.00~~ | Role Playing |
 | [JACKER](https://ry2110.itch.io/jacker) | Itch.io | ~~2.99~~ | Card Game |
+| [jasiolakstudios game launcher](https://jasiolakstudios.itch.io/jasiolakstudios-game-luncher) | Itch.io | ~~2.00~~ |  |
 | [Jessie Kicks Ass - Grandma and the Gremlins](https://hrtz.itch.io/jessie1) | Itch.io | ~~4.99~~ | Adventure |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io | ~~5.00~~ | Role Playing |
 | [Kingdom Ka](https://carrotcakestudio.itch.io/kingdomka) | Itch.io | ~~4.00~~ | Adventure |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
 | [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io | ~~5.00~~ | Role Playing |
+| [Mały człowiek (A small man polish version)](https://jasiolakstudios.itch.io/a-small-man-polish-version) | Itch.io | ~~7.00~~ | Platformer |
 | [Midi Keyboard 3D model](https://b-render.itch.io/midi-keyboard) | Itch.io | ~~3.50~~ | Rhythm |
 | [Monkey Milk](https://snobunni.itch.io/monkey-milk) | Itch.io | ~~3.99~~ | Adventure |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Name The Pokemon](https://gwa123.itch.io/name-the-pokemon) | Itch.io | ~~5.00~~ |  |
 | [Omega No Sunshine 24](https://galoxyum.itch.io/ons24) | Itch.io | ~~5.00~~ | Role Playing |
+| [Project Malice](https://aplovestudio.itch.io/malice) | Itch.io | ~~9.99~~ | Shooter |
 | [Puzzle Box Island](https://puzzle-box-island.itch.io/puzzle-box-island) | Itch.io | ~~2.00~~ | Adventure |
 | [Quiet West: Butcher noose](https://squidsquadpapi.itch.io/quiet-west-butcher-noose) | Itch.io | ~~2.00~~ | Adventure |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io | ~~2.00~~ | Adventure |
+| [Rewind To Fear - The Mansion](https://endsmeet-production.itch.io/rewind-to-fear) | Itch.io | ~~1.99~~ | Survival |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io | ~~5.00~~ | Platformer |
 | [Room 64](https://kazueuwu.itch.io/room-64) | Itch.io | ~~2.00~~ | Platformer |
+| [Roseblight](https://aplovestudio.itch.io/roseblight) | Itch.io | ~~7.99~~ | Adventure |
 | [Santa's little helper(downloadable)](https://michelegalbiati.itch.io/santas-little-helperdownloadable) | Itch.io | ~~2.00~~ | Simulation |
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io | ~~5.00~~ | Puzzle |
 | [Shadows Of Lir'ah](https://moonkey-lab.itch.io/shadows-of-lirah) | Itch.io | ~~2.00~~ | Adventure |
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io | ~~9.99~~ | Action |
+| [Solace Inc.](https://aplovestudio.itch.io/solace-inc) | Itch.io | ~~3.99~~ | Survival |
 | [SOLRAID](https://projectyaarj.itch.io/solraid) | Itch.io | ~~2.50~~ | Shooter |
 | [SOLROVER](https://projectyaarj.itch.io/solrover) | Itch.io | ~~2.99~~ | Survival |
 | [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io | ~~1.99~~ | Racing |
@@ -123,7 +134,9 @@ Active giveaways as of 2024-11-30:
 | [Touch Is Jump](https://tawusgames.itch.io/touchisjump) | Itch.io | ~~2.00~~ | Platformer |
 | [Vampie Tale](https://ozaki-studio.itch.io/vampie-tale) | Itch.io | ~~2.00~~ | Visual Novel |
 | [Walker-Adventure](https://kish-mish1.itch.io/walker-adventure) | Itch.io | ~~10.00~~ | Adventure |
+| [Witches and Bandits and Swords (Oh My)](https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my) | Itch.io | ~~3.99~~ | Visual Novel |
 | [Zizzy Zombie](https://gwa123.itch.io/zizzy-zombie) | Itch.io | ~~5.00~~ | Action |
 | [Zombie CCTV](https://algoca155.itch.io/zombie-cctv) | Itch.io | ~~1.99~~ | Action |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io | ~~5.00~~ | Shooter |
 | [Капитал Шоу + Супер Игра](https://existical.itch.io/capitalshow) | Itch.io | ~~7.99~~ | Puzzle |
+| [маленький человек (a small man russian version)](https://jasiolakstudios.itch.io/a-small-man-russian-version) | Itch.io | ~~7.00~~ | Platformer |
