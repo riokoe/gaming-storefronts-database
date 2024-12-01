@@ -1426,6 +1426,20 @@
     "archived": false
   },
   {
+    "id": "2a5d2a05d4",
+    "title": "So Many Words",
+    "price": 5.49,
+    "added": 1733044445131,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
+    "tags": [
+      "Family & kids",
+      "Word"
+    ],
+    "slug": "so-many-words",
+    "archived": false
+  },
+  {
     "id": "2a87f20c40",
     "title": "Lost Ark - Behemoth Cache",
     "end": 1734634800000,
@@ -1494,18 +1508,6 @@
     "archived": false
   },
   {
-    "id": "820d9e92a5",
-    "title": "Donkey Kong Land™",
-    "added": 1732437151574,
-    "platform": 8,
-    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
-    "tags": [
-      "Game Boy"
-    ],
-    "slug": "donkey-kong-land-gb",
-    "archived": false
-  },
-  {
     "id": "d19b1dd5ec",
     "title": "Donkey Kong Land 2™",
     "added": 1732695325553,
@@ -1515,6 +1517,20 @@
       "Game Boy"
     ],
     "slug": "donkey-kong-land-2-gb",
+    "archived": false
+  },
+  {
+    "id": "2da242ab34",
+    "title": "World of Warships Booster Pack 2024 - New Players",
+    "price": 28.87,
+    "end": 1735804800000,
+    "added": 1727776800000,
+    "platform": 12,
+    "uri": "https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "world-of-warships-players-2024",
     "archived": false
   },
   {
@@ -1531,21 +1547,7 @@
       "Adventure"
     ],
     "slug": "breathedge-1",
-    "archived": false
-  },
-  {
-    "id": "2da242ab34",
-    "title": "World of Warships Booster Pack 2024 - New Players",
-    "price": 28.87,
-    "end": 1735804800000,
-    "added": 1727776800000,
-    "platform": 12,
-    "uri": "https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players",
-    "tags": [
-      "dlc"
-    ],
-    "slug": "world-of-warships-players-2024",
-    "archived": false
+    "archived": true
   },
   {
     "id": "4896af2635",

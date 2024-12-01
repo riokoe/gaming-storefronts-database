@@ -22,14 +22,14 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-11-30:
+Active giveaways as of 2024-12-1:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [World of Warships — Ning Hai](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai) | Steam | ~~9.99~~ | Massively Multiplayer, Simulation, Free to Play, dlc |
 | [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic | ~~4.99~~ |  |
 | [Oaken](https://www.gog.com/en/game/oaken) | GOG |  |  |
-| [Breathedge](https://www.fanatical.com/en/game/breathedge) | Fanatical | ~~24.99~~ | Survival, Open World Survival Craft, Adventure |
+| [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
 | [Elite Dangerous](https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Jurassic World Evolution](https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
@@ -44,7 +44,6 @@ Active giveaways as of 2024-11-30:
 | [Nine Sols](https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2) | Xbox Game Pass [new] |  | Action & adventure, Platformer, Console, Desktop |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS) | Xbox Game Pass [new] |  | Shooter, Action & adventure, Role playing, Console |
 | [Donkey Kong Land 2™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
-| [Donkey Kong Land™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [A Small Man](https://jasiolakstudios.itch.io/a-small-man) | Itch.io | ~~5.00~~ | Platformer |

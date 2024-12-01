@@ -1,21 +1,5 @@
 [
   {
-    "id": "86bf047cfd",
-    "title": "Breathedge",
-    "price": 24.99,
-    "end": 1733011140000,
-    "added": 1732716000000,
-    "platform": 12,
-    "uri": "https://www.fanatical.com/en/game/breathedge",
-    "tags": [
-      "Survival",
-      "Open World Survival Craft",
-      "Adventure"
-    ],
-    "slug": "breathedge-1",
-    "archived": false
-  },
-  {
     "id": "2da242ab34",
     "title": "World of Warships Booster Pack 2024 - New Players",
     "price": 28.87,

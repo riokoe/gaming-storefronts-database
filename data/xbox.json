@@ -965,20 +965,6 @@
     "slug": "commonhood-x-pc"
   },
   {
-    "id": "ea2225b96f",
-    "title": "Conan Exiles",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/C2X6ZCNKN2WR",
-    "tags": [
-      "Action & adventure",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "conan-exiles-x-pc"
-  },
-  {
     "id": "fd7010a99c",
     "title": "Contrast",
     "added": 1731431367336,
@@ -1041,11 +1027,10 @@
     "tags": [
       "Role playing",
       "Simulation",
-      "Console",
-      "Desktop"
+      "Console"
     ],
     "archived": false,
-    "slug": "coral-island-x-pc"
+    "slug": "coral-island-x"
   },
   {
     "id": "dc8b96c753",
@@ -4972,22 +4957,6 @@
     "slug": "remnant-ii-standard-ii-x-pc"
   },
   {
-    "id": "dcae749e84",
-    "title": "Remnant: From the Ashes",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PBHXGWZTS2N",
-    "tags": [
-      "Action & adventure",
-      "Role playing",
-      "Shooter",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "remnant-from-the-ashes-x-pc"
-  },
-  {
     "id": "56d5adaf46",
     "title": "RESIDENT EVIL 2",
     "added": 1731431367336,
@@ -5097,21 +5066,6 @@
     ],
     "archived": false,
     "slug": "roboquest-x-pc"
-  },
-  {
-    "id": "68457251cf",
-    "title": "Rollerdrome",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PH4TQ1T0VRZ",
-    "tags": [
-      "Shooter",
-      "Sports",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "rollerdrome-x-pc"
   },
   {
     "id": "8155b02800",
@@ -5429,23 +5383,6 @@
     "slug": "snowrunner-x"
   },
   {
-    "id": "2fd16588af",
-    "title": "Soccer Story",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PJ1045MHZJ0",
-    "tags": [
-      "Action & adventure",
-      "Family & kids",
-      "Role playing",
-      "Sports",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "soccer-story-x-pc"
-  },
-  {
     "id": "f7f080eac0",
     "title": "Solar Ash",
     "added": 1731431367336,
@@ -5487,21 +5424,6 @@
     ],
     "archived": false,
     "slug": "space-engineers-x-pc"
-  },
-  {
-    "id": "42653c7f3c",
-    "title": "Spirit of the North: Enhanced Edition",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MVL42NJFVZ2",
-    "tags": [
-      "Action & adventure",
-      "Role playing",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "spirit-of-the-north-enhanced-x-pc"
   },
   {
     "id": "9f6afe392e",
@@ -6895,21 +6817,6 @@
     ],
     "archived": false,
     "slug": "we-love-katamari-reverie-x-pc"
-  },
-  {
-    "id": "dc8bae0980",
-    "title": "While the Iron's Hot",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9P2F4C1XFZJ4",
-    "tags": [
-      "Action & adventure",
-      "Role playing",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "while-the-irons-hot-x-pc"
   },
   {
     "id": "d3fc5de491",
@@ -8843,19 +8750,6 @@
     ],
     "archived": false,
     "slug": "the-outer-worlds-pc"
-  },
-  {
-    "id": "93ac37ed92",
-    "title": "The Walking Dead: The Final Season",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NL9XP529G4Q",
-    "tags": [
-      "Action & adventure",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "the-walking-dead-final-pc"
   },
   {
     "id": "29b8ff0822",

@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "2a5d2a05d4",
+    "title": "So Many Words",
+    "price": 5.49,
+    "added": 1733044445131,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
+    "tags": [
+      "Family & kids",
+      "Word"
+    ],
+    "slug": "so-many-words",
+    "archived": false
+  }
+]
