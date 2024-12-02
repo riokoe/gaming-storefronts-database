@@ -1678,6 +1678,61 @@
     "archived": false
   },
   {
+    "id": "e3d291b26a",
+    "title": "Overcooked! 2",
+    "end": 1736100000000,
+    "added": 1733162400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/overcooked-2-gog/dp/amzn1.pg.item.b6910650-0c3f-4d55-b114-71995e792dc3?ref_=SM_Overcooked2_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "overcooked-2",
+    "archived": false
+  },
+  {
+    "id": "9324d58e12",
+    "title": "DREDGE",
+    "end": 1736100000000,
+    "added": 1733162400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/dredge-gog/dp/amzn1.pg.item.c2739dbe-88cc-43a3-861b-982aa14dbf22?ref_=SM_DREDGE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "dredge",
+    "archived": false
+  },
+  {
+    "id": "5ec3a756f9",
+    "title": "Tomb Raider: Underworld",
+    "end": 1736100000000,
+    "added": 1733162400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "tomb-raider-underworld",
+    "archived": false
+  },
+  {
+    "id": "219c35885d",
+    "title": "Call of Juarez: Gunslinger",
+    "end": 1735668000000,
+    "added": 1733162400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "call-of-juarez-gunslinger",
+    "archived": false
+  },
+  {
+    "id": "0e6d6bb268",
+    "title": "Star Wars: Bounty Hunter",
+    "end": 1734976800000,
+    "added": 1733162400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/star-wars-bounty-hunter-gog/dp/amzn1.pg.item.86eb5bf7-ba42-4b3a-a29e-c8d1b0c7acb9?ref_=SM_StarWarsBountyHunter_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "star-wars-bounty-hunter",
+    "archived": false
+  },
+  {
     "id": "d19b1dd5ec",
     "title": "Donkey Kong Land 2™",
     "added": 1732695325553,

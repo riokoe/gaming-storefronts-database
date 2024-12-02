@@ -30,12 +30,17 @@ Active giveaways as of 2024-12-2:
 | [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic | ~~4.99~~ |  |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
+| [Call of Juarez: Gunslinger](https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [DREDGE](https://gaming.amazon.com/dredge-gog/dp/amzn1.pg.item.c2739dbe-88cc-43a3-861b-982aa14dbf22?ref_=SM_DREDGE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Elite Dangerous](https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Jurassic World Evolution](https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Lost Ark - Behemoth Cache](https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN) | Prime Gaming [new] |  | dlc |
 | [Mystery Case Files: The Dalimar Legacy - CE](https://gaming.amazon.com/mystery-case-files-the-dalimar-legacy-ce-aga/dp/amzn1.pg.item.1683372f-d154-479e-85b9-47f1430ac849?ref_=SM_MysteryCaseFilesTheDalimarLegacyCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Overcooked! 2](https://gaming.amazon.com/overcooked-2-gog/dp/amzn1.pg.item.b6910650-0c3f-4d55-b114-71995e792dc3?ref_=SM_Overcooked2_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Shogun Showdown](https://gaming.amazon.com/shogun-showdown-gog/dp/amzn1.pg.item.c3a4b220-2762-416d-ae9c-e849044cc918?ref_=SM_ShogunShowdown_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Sir Whoopass: Immortal Death](https://gaming.amazon.com/sir-whoopass-immortal-death-gog/dp/amzn1.pg.item.e6dbfe9b-01d8-4b6e-b804-e35656e9d143?ref_=SM_SirWhoopassImmortalDeath_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Star Wars: Bounty Hunter](https://gaming.amazon.com/star-wars-bounty-hunter-gog/dp/amzn1.pg.item.86eb5bf7-ba42-4b3a-a29e-c8d1b0c7acb9?ref_=SM_StarWarsBountyHunter_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Tomb Raider: Underworld](https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Aliens: Dark Descent](https://www.xbox.com/en-en/games/store/-/9MX7DMHK13SC) | Xbox Game Pass [new] |  | Strategy, Console |
 | [Aliens: Dark Descent (Windows)](https://www.xbox.com/en-en/games/store/-/9N1M64W9XZQ7) | Xbox Game Pass [new] |  | Strategy, Desktop |
 | [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |  | Action & adventure, Role playing, Console |
