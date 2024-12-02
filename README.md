@@ -28,7 +28,6 @@ Active giveaways as of 2024-12-2:
 | --- | --- | --- | --- |
 | [World of Warships — Ning Hai](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai) | Steam | ~~9.99~~ | Massively Multiplayer, Simulation, Free to Play, dlc |
 | [Brotato](https://store.epicgames.com/en-US/p/brotato-ed4097) | Epic | ~~4.99~~ |  |
-| [Oaken](https://www.gog.com/en/game/oaken) | GOG |  |  |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
 | [Elite Dangerous](https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
