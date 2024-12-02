@@ -344,20 +344,6 @@
     "archived": false
   },
   {
-    "id": "c622221920",
-    "title": "JACKER",
-    "price": 2.99,
-    "end": 1733047200000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://ry2110.itch.io/jacker",
-    "tags": [
-      "Card Game"
-    ],
-    "slug": "jacker",
-    "archived": false
-  },
-  {
     "id": "6961397ea5",
     "title": "Kookie",
     "price": 5,
@@ -372,20 +358,6 @@
     "archived": false
   },
   {
-    "id": "ec40a71ae0",
-    "title": "The Burrow",
-    "price": 5,
-    "end": 1733046480000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://saladin786.itch.io/the-burrow",
-    "tags": [
-      "Visual Novel"
-    ],
-    "slug": "the-burrow",
-    "archived": false
-  },
-  {
     "id": "75a1160825",
     "title": "CLASSIC GAME",
     "price": 8,
@@ -397,20 +369,6 @@
       "Role Playing"
     ],
     "slug": "classic-game",
-    "archived": false
-  },
-  {
-    "id": "18e69eda6a",
-    "title": "Santa's little helper(downloadable)",
-    "price": 2,
-    "end": 1733090400000,
-    "added": 1732521276261,
-    "platform": 2,
-    "uri": "https://michelegalbiati.itch.io/santas-little-helperdownloadable",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "santas-little-helperdownloadable",
     "archived": false
   },
   {
@@ -593,20 +551,6 @@
       "Platformer"
     ],
     "slug": "room-64",
-    "archived": false
-  },
-  {
-    "id": "7e79ecbbd9",
-    "title": "Jessie Kicks Ass - Grandma and the Gremlins",
-    "price": 4.99,
-    "end": 1733090400000,
-    "added": 1732790889874,
-    "platform": 2,
-    "uri": "https://hrtz.itch.io/jessie1",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "jessie-kicks-ass-gremlins",
     "archived": false
   },
   {
@@ -928,20 +872,6 @@
     "archived": false
   },
   {
-    "id": "f2159c787e",
-    "title": "SPEED OF LIFE 3D",
-    "price": 1.99,
-    "end": 1748660400000,
-    "added": 1732885824899,
-    "platform": 2,
-    "uri": "https://towi-1.itch.io/speed-of-life-3d",
-    "tags": [
-      "Racing"
-    ],
-    "slug": "speed-of-life-d-3",
-    "archived": false
-  },
-  {
     "id": "59dc37343d",
     "title": "Strange Toilet",
     "price": 2,
@@ -953,116 +883,6 @@
       "Puzzle"
     ],
     "slug": "strange-toilet",
-    "archived": false
-  },
-  {
-    "id": "e5436b9f81",
-    "title": "Basketball",
-    "price": 1.02,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/football",
-    "tags": [
-      "Sports"
-    ],
-    "slug": "basketball",
-    "archived": false
-  },
-  {
-    "id": "501d47fc56",
-    "title": "Theme Park Tycoon",
-    "price": 1.5,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/theme-park-tycoon",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "theme-park-tycoon",
-    "archived": false
-  },
-  {
-    "id": "684f71313b",
-    "title": "SUD GAME",
-    "price": 3,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/sud-game",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "sud-game",
-    "archived": false
-  },
-  {
-    "id": "3f87d5016b",
-    "title": "THE WHOLE WORLD",
-    "price": 2,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/the-whole-world",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "the-whole-world",
-    "archived": false
-  },
-  {
-    "id": "519cf7bcfe",
-    "title": "Name The Pokemon",
-    "price": 5,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/name-the-pokemon",
-    "tags": [],
-    "slug": "name-the-pokemon",
-    "archived": false
-  },
-  {
-    "id": "fa3d2ffa91",
-    "title": "Zizzy Zombie",
-    "price": 5,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/zizzy-zombie",
-    "tags": [
-      "Action"
-    ],
-    "slug": "zizzy-zombie",
-    "archived": false
-  },
-  {
-    "id": "b44940d495",
-    "title": "Its Time To Fight",
-    "price": 2,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/its-time-to-fight",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "its-time-to-fight",
-    "archived": false
-  },
-  {
-    "id": "809c9152bd",
-    "title": "Doctor Abhas",
-    "price": 5,
-    "end": 1733061660000,
-    "added": 1732896278114,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/doctor-abhas",
-    "tags": [
-      "Action"
-    ],
-    "slug": "doctor-abhas",
     "archived": false
   },
   {
@@ -1133,20 +953,6 @@
       "Interactive Fiction"
     ],
     "slug": "bunny-hill-horror",
-    "archived": false
-  },
-  {
-    "id": "3501abb303",
-    "title": "Dont Turn Around | Atlantic Hotel",
-    "price": 5,
-    "end": 1733374800000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://karim-froukh.itch.io/dont-turn-around",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "dont-turn-around-hotel",
     "archived": false
   },
   {
@@ -1580,6 +1386,214 @@
     "archived": false
   },
   {
+    "id": "b88cd37c44",
+    "title": "Croaking Around",
+    "price": 3,
+    "end": 1735664340000,
+    "added": 1733125110875,
+    "platform": 2,
+    "uri": "https://scallybag.itch.io/croaking-around",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "croaking-around",
+    "archived": false
+  },
+  {
+    "id": "a1d5dfa5e1",
+    "title": "The Door! 4",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1733125110875,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-4",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-4",
+    "archived": false
+  },
+  {
+    "id": "dd4e108408",
+    "title": "The Door! 3",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1733125110875,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-3",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-3",
+    "archived": false
+  },
+  {
+    "id": "5991085705",
+    "title": "Leucanthemum Eyes",
+    "price": 1.99,
+    "end": 1733374800000,
+    "added": 1733125110875,
+    "platform": 2,
+    "uri": "https://kuraishimi.itch.io/leucanthemum-eyes",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "leucanthemum-eyes",
+    "archived": false
+  },
+  {
+    "id": "d4fd805051",
+    "title": "Forgotten Cowboys",
+    "price": 2,
+    "end": 1734263640000,
+    "added": 1733125110877,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
+    "tags": [
+      "Action"
+    ],
+    "slug": "forgotten-cowboys",
+    "archived": false
+  },
+  {
+    "id": "ef0410e8d1",
+    "title": "Toony's Daycare Episode 2",
+    "price": 2,
+    "end": 1735704000000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://littleghostgames.itch.io/toonys-daycare-episode-2",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "toonys-daycare-episode-2",
+    "archived": false
+  },
+  {
+    "id": "6f5a6e436e",
+    "title": "Double Chance",
+    "price": 1.99,
+    "end": 1735675200000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://sumergamestudio.itch.io/double-chance",
+    "tags": [
+      "Action"
+    ],
+    "slug": "double-chance",
+    "archived": false
+  },
+  {
+    "id": "c09b8c9283",
+    "title": "Deluxe Worlds Browser MMORPG",
+    "price": 6,
+    "end": 1733374800000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://pllstudios.itch.io/deluxe-worlds",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "deluxe-worlds-browser-mmorpg",
+    "archived": false
+  },
+  {
+    "id": "49b36b74bd",
+    "title": "Toony's Daycare Episode 1",
+    "price": 2,
+    "end": 1735704000000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://littleghostgames.itch.io/toonys-daycare",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "toonys-daycare-episode-1",
+    "archived": false
+  },
+  {
+    "id": "f3fe042745",
+    "title": "The Door!",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door",
+    "archived": false
+  },
+  {
+    "id": "030b739acd",
+    "title": "The Door! 2",
+    "price": 4.99,
+    "end": 1733374800000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-2",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-2",
+    "archived": false
+  },
+  {
+    "id": "e4c36a8ef6",
+    "title": "Nightmare Labyrinth",
+    "price": 3,
+    "end": 1735667760000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://gamerevolutionx.itch.io/nightmare",
+    "tags": [],
+    "slug": "nightmare-labyrinth",
+    "archived": false
+  },
+  {
+    "id": "3007cf51aa",
+    "title": "Z invasion",
+    "price": 4.99,
+    "end": 1735667760000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://gamerevolutionx.itch.io/zinvasion2",
+    "tags": [
+      "Action"
+    ],
+    "slug": "z-invasion",
+    "archived": false
+  },
+  {
+    "id": "087ed8ce0c",
+    "title": "FIGMEM 1",
+    "price": 2,
+    "end": 1735664220000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://nasdab.itch.io/figmem",
+    "tags": [
+      "Educational"
+    ],
+    "slug": "figmem-1",
+    "archived": false
+  },
+  {
+    "id": "f2e624edcd",
+    "title": "ScaleBound",
+    "price": 3,
+    "end": 1733374800000,
+    "added": 1733125110878,
+    "platform": 2,
+    "uri": "https://luckystudios.itch.io/scalebound",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "scalebound",
+    "archived": false
+  },
+  {
     "id": "3d475390ce",
     "title": "Brotato",
     "price": 4.99,
@@ -1700,326 +1714,197 @@
     "archived": false
   },
   {
-    "id": "2ac4a7bfcf",
-    "title": "Evidence of 96'",
-    "price": 2,
-    "end": 1733025600000,
+    "id": "c622221920",
+    "title": "JACKER",
+    "price": 2.99,
+    "end": 1733047200000,
     "added": 1732441396468,
     "platform": 2,
-    "uri": "https://teammelon.itch.io/evidence-of-96",
+    "uri": "https://ry2110.itch.io/jacker",
+    "tags": [
+      "Card Game"
+    ],
+    "slug": "jacker",
+    "archived": true
+  },
+  {
+    "id": "ec40a71ae0",
+    "title": "The Burrow",
+    "price": 5,
+    "end": 1733046480000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://saladin786.itch.io/the-burrow",
     "tags": [
       "Visual Novel"
     ],
-    "slug": "evidence-of-96",
+    "slug": "the-burrow",
     "archived": true
   },
   {
-    "id": "559b337a90",
-    "title": "Hose Hero",
-    "price": 2.99,
-    "end": 1733019720000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://mr-ying.itch.io/hosehero",
-    "tags": [
-      "Shooter"
-    ],
-    "slug": "hose-hero",
-    "archived": true
-  },
-  {
-    "id": "31019100c4",
-    "title": "Red Tail",
+    "id": "18e69eda6a",
+    "title": "Santa's little helper(downloadable)",
     "price": 2,
-    "end": 1732976100000,
-    "added": 1732441396468,
+    "end": 1733090400000,
+    "added": 1732521276261,
     "platform": 2,
-    "uri": "https://musialkov.itch.io/redtail",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "red-tail",
-    "archived": true
-  },
-  {
-    "id": "d4fd805051",
-    "title": "Forgotten Cowboys",
-    "price": 2,
-    "end": 1732976100000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
-    "tags": [
-      "Action"
-    ],
-    "slug": "forgotten-cowboys",
-    "archived": true
-  },
-  {
-    "id": "0c29b01af7",
-    "title": "Quiet West: Butcher noose",
-    "price": 2,
-    "end": 1733001120000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "quiet-west-butcher-noose",
-    "archived": true
-  },
-  {
-    "id": "77868c422c",
-    "title": "Капитал Шоу + Супер Игра",
-    "price": 7.99,
-    "end": 1733000340000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://existical.itch.io/capitalshow",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "77868c422c",
-    "archived": true
-  },
-  {
-    "id": "48f65ce8ac",
-    "title": "Ancient Evil",
-    "price": 2,
-    "end": 1732976100000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/ancient-evil",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "ancient-evil",
-    "archived": true
-  },
-  {
-    "id": "0583beb2ac",
-    "title": "Omega No Sunshine 24",
-    "price": 5,
-    "end": 1733003940000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://galoxyum.itch.io/ons24",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "omega-no-sunshine-24",
-    "archived": true
-  },
-  {
-    "id": "41dd856d10",
-    "title": "Guardians of the Zodiac",
-    "price": 9,
-    "end": 1734795000000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://evans018creations.itch.io/guardians-of-the-zodiac",
-    "tags": [
-      "Strategy"
-    ],
-    "slug": "guardians-of-the-zodiac",
-    "archived": true
-  },
-  {
-    "id": "d680829cbe",
-    "title": "Rise Above!",
-    "price": 5,
-    "end": 1732982220000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://alessandro06-0.itch.io/rise-above",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "rise-above",
-    "archived": true
-  },
-  {
-    "id": "a2ecfd1763",
-    "title": "Beanman",
-    "price": 4.99,
-    "end": 1732999260000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://archimedean-gaming.itch.io/beanman",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "beanman",
-    "archived": true
-  },
-  {
-    "id": "86bf047cfd",
-    "title": "Breathedge",
-    "price": 24.99,
-    "end": 1733011140000,
-    "added": 1732716000000,
-    "platform": 12,
-    "uri": "https://www.fanatical.com/en/game/breathedge",
-    "tags": [
-      "Survival",
-      "Open World Survival Craft",
-      "Adventure"
-    ],
-    "slug": "breathedge-1",
-    "archived": true
-  },
-  {
-    "id": "4896af2635",
-    "title": "Dark Sector",
-    "price": 9.99,
-    "added": 1732728374376,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/29900/Dark_Sector",
-    "tags": [
-      "Action",
-      "Third-Person Shooter",
-      "Gore"
-    ],
-    "slug": "dark-sector",
-    "archived": true
-  },
-  {
-    "id": "720976e2ba",
-    "title": "Beep Sheep Simulator",
-    "price": 5.2,
-    "end": 1732312380000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
+    "uri": "https://michelegalbiati.itch.io/santas-little-helperdownloadable",
     "tags": [
       "Simulation"
     ],
-    "slug": "beep-sheep-simulator",
+    "slug": "santas-little-helperdownloadable",
     "archived": true
   },
   {
-    "id": "c677aa553f",
-    "title": "LabirintAdventure",
-    "price": 15,
-    "end": 1733374800000,
-    "added": 1732808326398,
+    "id": "7e79ecbbd9",
+    "title": "Jessie Kicks Ass - Grandma and the Gremlins",
+    "price": 4.99,
+    "end": 1733090400000,
+    "added": 1732790889874,
     "platform": 2,
-    "uri": "https://infdevteam.itch.io/labirintadventure",
+    "uri": "https://hrtz.itch.io/jessie1",
     "tags": [
-      "Puzzle"
+      "Adventure"
     ],
-    "slug": "labirintadventure",
+    "slug": "jessie-kicks-ass-gremlins",
     "archived": true
   },
   {
-    "id": "9f36ff1433",
-    "title": "Evolvedustry",
-    "price": 5,
-    "end": 1732946400000,
-    "added": 1732441396468,
+    "id": "f2159c787e",
+    "title": "SPEED OF LIFE 3D",
+    "price": 1.99,
+    "end": 1748660400000,
+    "added": 1732885824899,
     "platform": 2,
-    "uri": "https://evolvedustry.itch.io/evolvedustry",
+    "uri": "https://towi-1.itch.io/speed-of-life-3d",
     "tags": [
-      "Strategy"
+      "Racing"
     ],
-    "slug": "evolvedustry",
+    "slug": "speed-of-life-d-3",
     "archived": true
   },
   {
-    "id": "50960c77cf",
-    "title": "Armored Crucible: The Crimson Dunes",
-    "price": 2.99,
-    "end": 1732873560000,
-    "added": 1732441396468,
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "price": 1.02,
+    "end": 1733061660000,
+    "added": 1732896278114,
     "platform": 2,
-    "uri": "https://fontty.itch.io/ac-tcd",
-    "tags": [
-      "Action"
-    ],
-    "slug": "armored-crucible-dunes",
-    "archived": true
-  },
-  {
-    "id": "66a7e29bf7",
-    "title": "The Labyrinth of Kur",
-    "price": 2.99,
-    "end": 1732873560000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://fontty.itch.io/kur",
-    "tags": [
-      "Action"
-    ],
-    "slug": "the-labyrinth-of-kur",
-    "archived": true
-  },
-  {
-    "id": "33c45fe27f",
-    "title": "Beholder",
-    "price": 13.99,
-    "end": 1732809600000,
-    "added": 1732204800000,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/beholder-8c3b4c",
-    "tags": [],
-    "archived": true,
-    "slug": "beholder"
-  },
-  {
-    "id": "b6cb08a872",
-    "title": "GameDay Mayhem!!",
-    "price": 3.5,
-    "end": 1732913700000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
+    "uri": "https://gwa123.itch.io/football",
     "tags": [
       "Sports"
     ],
-    "slug": "gameday-mayhem",
+    "slug": "basketball",
     "archived": true
   },
   {
-    "id": "9f7aec38e9",
-    "title": "The Bunker",
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "price": 1.5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "theme-park-tycoon",
+    "archived": true
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "price": 3,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "sud-game",
+    "archived": true
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
     "price": 2,
-    "end": 1732730040000,
-    "added": 1732728466853,
+    "end": 1733061660000,
+    "added": 1732896278114,
     "platform": 2,
-    "uri": "https://cyber752.itch.io/the-bunker",
+    "uri": "https://gwa123.itch.io/the-whole-world",
     "tags": [
-      "Survival"
+      "Adventure"
     ],
-    "slug": "the-bunker",
+    "slug": "the-whole-world",
     "archived": true
   },
   {
-    "id": "4301f88b73",
-    "title": "The Whitaker's Library",
-    "price": 2.99,
-    "end": 1732910280000,
-    "added": 1732441396468,
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
     "platform": 2,
-    "uri": "https://lorex-games.itch.io/the-whitakers-library-part-1",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "the-whitakers-library",
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "slug": "name-the-pokemon",
     "archived": true
   },
   {
-    "id": "be797b8aef",
-    "title": "Thru The Webs",
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "slug": "zizzy-zombie",
+    "archived": true
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
     "price": 2,
-    "end": 1732542720000,
-    "added": 1732472031437,
+    "end": 1733061660000,
+    "added": 1732896278114,
     "platform": 2,
-    "uri": "https://themetalcarrotdev.itch.io/thru-the-webs",
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
     "tags": [
-      "Shooter"
+      "Role Playing"
     ],
-    "slug": "thru-the-webs",
+    "slug": "its-time-to-fight",
+    "archived": true
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "price": 5,
+    "end": 1733061660000,
+    "added": 1732896278114,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "slug": "doctor-abhas",
+    "archived": true
+  },
+  {
+    "id": "3501abb303",
+    "title": "Dont Turn Around | Atlantic Hotel",
+    "price": 5,
+    "end": 1733374800000,
+    "added": 1732959305828,
+    "platform": 2,
+    "uri": "https://karim-froukh.itch.io/dont-turn-around",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "dont-turn-around-hotel",
     "archived": true
   }
 ]
