@@ -1,63 +1,5 @@
 [
   {
-    "id": "fe67eb4bc9",
-    "title": "Genshin Impact",
-    "added": 1732616554281,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9",
-    "tags": [
-      "Action & adventure",
-      "Role playing",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "genshin-impact-x"
-  },
-  {
-    "id": "83dd52e87e",
-    "title": "Microsoft Flight Simulator 2024 - Standard Edition",
-    "added": 1732616554281,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52",
-    "tags": [
-      "Console",
-      "Desktop",
-      "Simulation"
-    ],
-    "archived": false,
-    "slug": "microsoft-flight-standard-2024-x-pc"
-  },
-  {
-    "id": "3d91180d90",
-    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition",
-    "added": 1732616554281,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS",
-    "tags": [
-      "Shooter",
-      "Action & adventure",
-      "Role playing",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "stalker-heart-of-chornobyl-2-x"
-  },
-  {
-    "id": "44eeee851d",
-    "title": "Nine Sols",
-    "added": 1732619481576,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2",
-    "tags": [
-      "Action & adventure",
-      "Platformer",
-      "Console",
-      "Desktop"
-    ],
-    "slug": "nine-sols-x-pc",
-    "archived": false
-  },
-  {
     "id": "d6e883a1c0",
     "title": "Aliens: Dark Descent",
     "added": 1732695174761,
@@ -1607,19 +1549,6 @@
       "Word"
     ],
     "slug": "so-many-words",
-    "archived": false
-  },
-  {
-    "id": "2a87f20c40",
-    "title": "Lost Ark - Behemoth Cache",
-    "end": 1734634800000,
-    "added": 1732647600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN",
-    "tags": [
-      "dlc"
-    ],
-    "slug": "lost-ark-behemoth-cache",
     "archived": false
   },
   {

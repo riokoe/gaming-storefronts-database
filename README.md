@@ -34,7 +34,6 @@ Active giveaways as of 2024-12-3:
 | [DREDGE](https://gaming.amazon.com/dredge-gog/dp/amzn1.pg.item.c2739dbe-88cc-43a3-861b-982aa14dbf22?ref_=SM_DREDGE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Elite Dangerous](https://gaming.amazon.com/elite-dangerous-epic/dp/amzn1.pg.item.26dc4db5-9ad6-4a58-bd73-276adf5411bb?ref_=SM_EliteDangerous_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Jurassic World Evolution](https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Lost Ark - Behemoth Cache](https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN) | Prime Gaming [new] |  | dlc |
 | [Mystery Case Files: The Dalimar Legacy - CE](https://gaming.amazon.com/mystery-case-files-the-dalimar-legacy-ce-aga/dp/amzn1.pg.item.1683372f-d154-479e-85b9-47f1430ac849?ref_=SM_MysteryCaseFilesTheDalimarLegacyCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Overcooked! 2](https://gaming.amazon.com/overcooked-2-gog/dp/amzn1.pg.item.b6910650-0c3f-4d55-b114-71995e792dc3?ref_=SM_Overcooked2_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Shogun Showdown](https://gaming.amazon.com/shogun-showdown-gog/dp/amzn1.pg.item.c3a4b220-2762-416d-ae9c-e849044cc918?ref_=SM_ShogunShowdown_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
@@ -43,10 +42,6 @@ Active giveaways as of 2024-12-3:
 | [Tomb Raider: Underworld](https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Aliens: Dark Descent](https://www.xbox.com/en-en/games/store/-/9MX7DMHK13SC) | Xbox Game Pass [new] |  | Strategy, Console |
 | [Aliens: Dark Descent (Windows)](https://www.xbox.com/en-en/games/store/-/9N1M64W9XZQ7) | Xbox Game Pass [new] |  | Strategy, Desktop |
-| [Genshin Impact](https://www.xbox.com/en-en/games/store/-/9N7TFFRRZCC9) | Xbox Game Pass [new] |  | Action & adventure, Role playing, Console |
-| [Microsoft Flight Simulator 2024 - Standard Edition](https://www.xbox.com/en-en/games/store/-/9P2VGCTBMM52) | Xbox Game Pass [new] |  | Console, Desktop, Simulation |
-| [Nine Sols](https://www.xbox.com/en-en/games/store/-/9N3LGKGF3CC2) | Xbox Game Pass [new] |  | Action & adventure, Platformer, Console, Desktop |
-| [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://www.xbox.com/en-en/games/store/-/9P7ZBF3S7PSS) | Xbox Game Pass [new] |  | Shooter, Action & adventure, Role playing, Console |
 | [Donkey Kong Land 2™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
