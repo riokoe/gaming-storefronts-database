@@ -251,22 +251,6 @@
     "slug": "battle-chasers-nightwar-ps"
   },
   {
-    "id": "ddbd7d5430",
-    "title": "Bee Simulator",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/233889",
-    "tags": [
-      "Simulation",
-      "Family",
-      "Adventure",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "bee-simulator-ps"
-  },
-  {
     "id": "7c04b82ab5",
     "title": "Ben 10",
     "added": 1731431590108,
@@ -2162,11 +2146,11 @@
     "title": "Hotline Miami",
     "added": 1731431590108,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/202006",
+    "uri": "https://store.playstation.com/en-us/concept/10005940",
     "tags": [
       "Action",
-      "Arcade",
       "PS4",
+      "PS5",
       "Plus"
     ],
     "archived": false,
@@ -9067,50 +9051,48 @@
     "archived": false
   },
   {
-    "id": "2fc03cde80",
-    "title": "DEATH NOTE Killer Within PS4 & PS5",
-    "added": 1731928284271,
+    "id": "5a54684ed8",
+    "title": "Aliens: Dark Descent",
+    "added": 1733303839042,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10009279",
+    "uri": "https://store.playstation.com/en-us/concept/10005351",
     "tags": [
       "Strategy",
-      "Casual",
       "PS4",
       "PS5",
       "Monthly"
     ],
-    "slug": "death-note-killer-within-45-ps",
+    "slug": "aliens-dark-descent-ps",
     "archived": false
   },
   {
-    "id": "8676ea3f1c",
-    "title": "Ghostwire: Tokyo",
-    "added": 1731928284271,
+    "id": "ea3d75766f",
+    "title": "It Takes Two PS4™ & PS5™",
+    "added": 1733303839042,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10000301",
+    "uri": "https://store.playstation.com/en-us/concept/234689",
     "tags": [
+      "Unique",
+      "PS4",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "it-takes-two-45-ps",
+    "archived": false
+  },
+  {
+    "id": "fee1b776ba",
+    "title": "Temtem",
+    "added": 1733303839042,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001170",
+    "tags": [
+      "Role playing games",
       "Adventure",
-      "Action",
       "PS5",
       "Monthly"
     ],
-    "slug": "ghostwire-tokyo-ps",
-    "archived": false
-  },
-  {
-    "id": "bbec168d0f",
-    "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5",
-    "added": 1731928284271,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005765",
-    "tags": [
-      "Arcade",
-      "Racing",
-      "PS4",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "hot-wheels-unleashed-turbocharged-245-ps",
+    "slug": "temtem-ps",
     "archived": false
   }
 ]

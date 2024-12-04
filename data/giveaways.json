@@ -1,28 +1,15 @@
 [
   {
-    "id": "d6e883a1c0",
-    "title": "Aliens: Dark Descent",
-    "added": 1732695174761,
+    "id": "1257f46947",
+    "title": "Crash™ Team Racing Nitro-Fueled",
+    "added": 1733303824001,
     "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MX7DMHK13SC",
+    "uri": "https://www.xbox.com/en-en/games/store/-/BQRB60PW2SDL",
     "tags": [
-      "Strategy",
+      "Racing & flying",
       "Console"
     ],
-    "slug": "aliens-dark-descent-x",
-    "archived": false
-  },
-  {
-    "id": "e285f05edb",
-    "title": "Aliens: Dark Descent (Windows)",
-    "added": 1732695174762,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N1M64W9XZQ7",
-    "tags": [
-      "Strategy",
-      "Desktop"
-    ],
-    "slug": "aliens-dark-descent-windows-pc",
+    "slug": "crash-team-racing-fueled-x",
     "archived": false
   },
   {
@@ -1662,15 +1649,48 @@
     "archived": false
   },
   {
-    "id": "d19b1dd5ec",
-    "title": "Donkey Kong Land 2™",
-    "added": 1732695325553,
-    "platform": 8,
-    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "id": "5a54684ed8",
+    "title": "Aliens: Dark Descent",
+    "added": 1733303839042,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10005351",
     "tags": [
-      "Game Boy"
+      "Strategy",
+      "PS4",
+      "PS5",
+      "Monthly"
     ],
-    "slug": "donkey-kong-land-2-gb",
+    "slug": "aliens-dark-descent-ps",
+    "archived": false
+  },
+  {
+    "id": "ea3d75766f",
+    "title": "It Takes Two PS4™ & PS5™",
+    "added": 1733303839042,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/234689",
+    "tags": [
+      "Unique",
+      "PS4",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "it-takes-two-45-ps",
+    "archived": false
+  },
+  {
+    "id": "fee1b776ba",
+    "title": "Temtem",
+    "added": 1733303839042,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001170",
+    "tags": [
+      "Role playing games",
+      "Adventure",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "temtem-ps",
     "archived": false
   },
   {

@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-3:
+Active giveaways as of 2024-12-4:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -40,9 +40,10 @@ Active giveaways as of 2024-12-3:
 | [Sir Whoopass: Immortal Death](https://gaming.amazon.com/sir-whoopass-immortal-death-gog/dp/amzn1.pg.item.e6dbfe9b-01d8-4b6e-b804-e35656e9d143?ref_=SM_SirWhoopassImmortalDeath_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Star Wars: Bounty Hunter](https://gaming.amazon.com/star-wars-bounty-hunter-gog/dp/amzn1.pg.item.86eb5bf7-ba42-4b3a-a29e-c8d1b0c7acb9?ref_=SM_StarWarsBountyHunter_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Tomb Raider: Underworld](https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Aliens: Dark Descent](https://www.xbox.com/en-en/games/store/-/9MX7DMHK13SC) | Xbox Game Pass [new] |  | Strategy, Console |
-| [Aliens: Dark Descent (Windows)](https://www.xbox.com/en-en/games/store/-/9N1M64W9XZQ7) | Xbox Game Pass [new] |  | Strategy, Desktop |
-| [Donkey Kong Land 2™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
+| [Crash™ Team Racing Nitro-Fueled](https://www.xbox.com/en-en/games/store/-/BQRB60PW2SDL) | Xbox Game Pass [new] |  | Racing & flying, Console |
+| [Aliens: Dark Descent](https://store.playstation.com/en-us/concept/10005351) | Playstation Plus [new] |  | Strategy, PS4, PS5, Monthly |
+| [It Takes Two PS4™ & PS5™](https://store.playstation.com/en-us/concept/234689) | Playstation Plus [new] |  | Unique, PS4, PS5, Monthly |
+| [Temtem](https://store.playstation.com/en-us/concept/10001170) | Playstation Plus [new] |  | Role playing games, Adventure, PS5, Monthly |
 | [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [A Small Man](https://jasiolakstudios.itch.io/a-small-man) | Itch.io | ~~5.00~~ | Platformer |
