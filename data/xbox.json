@@ -9056,5 +9056,38 @@
     ],
     "slug": "crash-team-racing-fueled-x",
     "archived": false
+  },
+  {
+    "id": "b3e9840a7e",
+    "title": "EA SPORTS™ WRC",
+    "added": 1733423214326,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R",
+    "tags": [
+      "Racing & flying",
+      "Simulation",
+      "Sports",
+      "Family & kids",
+      "Console",
+      "EA-Play"
+    ],
+    "slug": "ea-sports-wrc-x",
+    "archived": false
+  },
+  {
+    "id": "baef5a0b48",
+    "title": "Overthrown (Game Preview)",
+    "added": 1733423214326,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD",
+    "tags": [
+      "Action & adventure",
+      "Simulation",
+      "Platformer",
+      "Console",
+      "Desktop"
+    ],
+    "slug": "overthrown-game-preview-x-pc",
+    "archived": false
   }
 ]

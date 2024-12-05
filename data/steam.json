@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "55e104eff8",
+    "title": "Pankapu",
+    "price": 11.99,
+    "added": 1733423215484,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/418670/Pankapu",
+    "tags": [
+      "Indie",
+      "Action",
+      "Adventure"
+    ],
+    "slug": "pankapu",
+    "archived": false
+  }
+]

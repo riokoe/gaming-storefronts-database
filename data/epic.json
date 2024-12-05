@@ -1,14 +1,26 @@
 [
   {
-    "id": "3d475390ce",
-    "title": "Brotato",
-    "price": 4.99,
-    "end": 1733414400000,
-    "added": 1732809600000,
+    "id": "fb610d2cf9",
+    "title": "LEGO® Star Wars™: The Skywalker Saga",
+    "price": 49.99,
+    "end": 1734019200000,
+    "added": 1733414400000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/brotato-ed4097",
+    "uri": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga",
     "tags": [],
-    "slug": "brotato",
+    "slug": "lego-star-wars-skywalker-saga",
+    "archived": false
+  },
+  {
+    "id": "b2673d867a",
+    "title": "Bus Simulator 21 Next Stop",
+    "price": 34.99,
+    "end": 1734019200000,
+    "added": 1733414400000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/bus-simulator-21",
+    "tags": [],
+    "slug": "bus-simulator-next-stop-21",
     "archived": false
   }
 ]

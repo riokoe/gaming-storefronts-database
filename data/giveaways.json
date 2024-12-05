@@ -13,6 +13,54 @@
     "archived": false
   },
   {
+    "id": "b3e9840a7e",
+    "title": "EA SPORTS™ WRC",
+    "added": 1733423214326,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R",
+    "tags": [
+      "Racing & flying",
+      "Simulation",
+      "Sports",
+      "Family & kids",
+      "Console",
+      "EA-Play"
+    ],
+    "slug": "ea-sports-wrc-x",
+    "archived": false
+  },
+  {
+    "id": "baef5a0b48",
+    "title": "Overthrown (Game Preview)",
+    "added": 1733423214326,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD",
+    "tags": [
+      "Action & adventure",
+      "Simulation",
+      "Platformer",
+      "Console",
+      "Desktop"
+    ],
+    "slug": "overthrown-game-preview-x-pc",
+    "archived": false
+  },
+  {
+    "id": "55e104eff8",
+    "title": "Pankapu",
+    "price": 11.99,
+    "added": 1733423215484,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/418670/Pankapu",
+    "tags": [
+      "Indie",
+      "Action",
+      "Adventure"
+    ],
+    "slug": "pankapu",
+    "archived": false
+  },
+  {
     "id": "a245c08065",
     "title": "Juice Galaxy (formerly Juice World)",
     "price": 5,
@@ -917,15 +965,27 @@
     "archived": false
   },
   {
-    "id": "3d475390ce",
-    "title": "Brotato",
-    "price": 4.99,
-    "end": 1733414400000,
-    "added": 1732809600000,
+    "id": "fb610d2cf9",
+    "title": "LEGO® Star Wars™: The Skywalker Saga",
+    "price": 49.99,
+    "end": 1734019200000,
+    "added": 1733414400000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/brotato-ed4097",
+    "uri": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga",
     "tags": [],
-    "slug": "brotato",
+    "slug": "lego-star-wars-skywalker-saga",
+    "archived": false
+  },
+  {
+    "id": "b2673d867a",
+    "title": "Bus Simulator 21 Next Stop",
+    "price": 34.99,
+    "end": 1734019200000,
+    "added": 1733414400000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/bus-simulator-21",
+    "tags": [],
+    "slug": "bus-simulator-next-stop-21",
     "archived": false
   },
   {
@@ -998,6 +1058,127 @@
     "archived": false
   },
   {
+    "id": "59a247a01e",
+    "title": "Disney•Pixar WALL-E",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/disney-pixar-wall-e-aga/dp/amzn1.pg.item.35850bb0-ac60-4455-96cd-c95a1b84c3b1?ref_=SM_DisneyPixarWALLE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "disneypixar-wall-e",
+    "archived": false
+  },
+  {
+    "id": "ea255c3987",
+    "title": "The Outer Worlds",
+    "end": 1741197600000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-outer-worlds-gog/dp/amzn1.pg.item.538ee4d5-dbf8-48d9-a835-44062e2acec0?ref_=SM_TheOuterWorlds_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-outer-worlds",
+    "archived": false
+  },
+  {
+    "id": "33c23da45e",
+    "title": "Warhammer 40,000: Space Marine",
+    "end": 1734544800000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/warhammer-40000-space-marine-aga/dp/amzn1.pg.item.294add5f-5b43-4132-b008-6c1b4027a9a4?ref_=SM_Warhammer40000SpaceMarine_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "warhammer-space-marine-40000",
+    "archived": false
+  },
+  {
+    "id": "dded105be8",
+    "title": "Spelunky",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/spelunky-gog/dp/amzn1.pg.item.ea6d2b0c-a00f-4db6-a54e-59e35fb13038?ref_=SM_Spelunky_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "spelunky",
+    "archived": false
+  },
+  {
+    "id": "ebfc815c80",
+    "title": "Baldur's Gate: Enhanced Edition",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/baldurs-gate-enhanced-edition-gog/dp/amzn1.pg.item.a7bdaa9f-df98-488e-97af-5322512c05e2?ref_=SM_BaldursGateEnhancedEdition_S03_FGWP_CRWN",
+    "tags": [],
+    "slug": "baldurs-gate-enhanced",
+    "archived": false
+  },
+  {
+    "id": "f63ee4cb9d",
+    "title": "Baldur's Gate II: Enhanced Edition",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/baldurs-gate-ii-enhanced-edition-gog/dp/amzn1.pg.item.132cb562-d492-4313-90fc-6335eeab7676?ref_=SM_BaldursGateIIEnhancedEdition_S03_FGWP_CRWN",
+    "tags": [],
+    "slug": "baldurs-gate-ii-enhanced-ii",
+    "archived": false
+  },
+  {
+    "id": "c358f9b419",
+    "title": "Neverwinter Nights: Enhanced Edition",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/neverwinter-nights-gog/dp/amzn1.pg.item.acee8e4d-cbd6-4a9e-add2-b3e52d825c51?ref_=SM_NeverwinterNightsEnhancedEdition_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "neverwinter-nights-enhanced",
+    "archived": false
+  },
+  {
+    "id": "7fcf0a9c30",
+    "title": "Warhammer 40,000: Dawn of War",
+    "end": 1734544800000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-aga/dp/amzn1.pg.item.b24ab4d2-5bc4-4518-8778-140c5263aa5b?ref_=SM_Warhammer40000DawnofWar_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "warhammer-dawn-of-war-40000",
+    "archived": false
+  },
+  {
+    "id": "ec1001bc5e",
+    "title": "Space Hulk: Deathwing - Enhanced Edition",
+    "end": 1734631200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/space-hulk-deathwing-enhanced-edition-gog/dp/amzn1.pg.item.99563eca-c95a-43d4-8d44-4b04948f35f0?ref_=SM_SpaceHulkDeathwingEnhancedEdition_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "space-hulk-deathwing-enhanced",
+    "archived": false
+  },
+  {
+    "id": "492af3663b",
+    "title": "Necromunda: Hired Gun",
+    "end": 1734631200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/necromunda-hired-gun-epic/dp/amzn1.pg.item.12e533f9-96d1-41f9-a812-0fa7fba3624c?ref_=SM_NecromundaHiredGun_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "necromunda-hired-gun",
+    "archived": false
+  },
+  {
+    "id": "e5fcf38450",
+    "title": "Quake II",
+    "end": 1736359200000,
+    "added": 1733410800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/quake-ii-gog/dp/amzn1.pg.item.757cffc7-88f9-433b-965a-207899450dd4?ref_=SM_QuakeII_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "quake-ii-ii",
+    "archived": false
+  },
+  {
     "id": "5a54684ed8",
     "title": "Aliens: Dark Descent",
     "added": 1733303839042,
@@ -1067,6 +1248,18 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "3d475390ce",
+    "title": "Brotato",
+    "price": 4.99,
+    "end": 1733414400000,
+    "added": 1732809600000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/brotato-ed4097",
+    "tags": [],
+    "slug": "brotato",
+    "archived": true
   },
   {
     "id": "84b7e239aa",
