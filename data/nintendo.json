@@ -2809,7 +2809,7 @@
   },
   {
     "id": "c343c3b30e",
-    "title": "Donkey Kong Land  ::: Game Boy",
+    "title": "Donkey Kong Land III™ ::: Game Boy",
     "added": 1731431725789,
     "platform": 8,
     "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
@@ -2817,7 +2817,7 @@
       "Game Boy"
     ],
     "archived": false,
-    "slug": "donkey-kong-land-game-boy-gb"
+    "slug": "donkey-kong-land-game-boy-iii-gb"
   },
   {
     "id": "820d9e92a5",
@@ -2841,6 +2841,18 @@
       "Game Boy"
     ],
     "slug": "donkey-kong-land-2-gb",
+    "archived": false
+  },
+  {
+    "id": "f9ff773bf5",
+    "title": "Donkey Kong Land III™",
+    "added": 1733384072687,
+    "platform": 8,
+    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "tags": [
+      "Game Boy"
+    ],
+    "slug": "donkey-kong-land-iii-iii-gb",
     "archived": false
   }
 ]

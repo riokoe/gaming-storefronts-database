@@ -407,17 +407,6 @@
     "slug": "scarf"
   },
   {
-    "id": "075e91ca9b",
-    "title": "Hive Jump 2: Survivors",
-    "added": 1727974800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/hive-jump-2-survivors-gog/dp/amzn1.pg.item.515e88ec-eb84-4f1e-9cf4-9da6e1b8b625?ref_=SM_HiveJump2Survivors_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733335200000,
-    "slug": "hive-jump-survivors-2"
-  },
-  {
     "id": "a1daa6c63c",
     "title": "Kerbal Space Program",
     "added": 1726765200000,
@@ -438,17 +427,6 @@
     "archived": false,
     "end": 1735149600000,
     "slug": "ghost-song"
-  },
-  {
-    "id": "718cca12a4",
-    "title": "Borderlands: The Pre-Sequel",
-    "added": 1725555600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/borderlands-the-pre-sequel-epic/dp/amzn1.pg.item.4604b37c-3756-4d7b-8564-4ade5943b150?ref_=SM_BorderlandsThePreSequel_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733335200000,
-    "slug": "borderlands-the-sequel"
   },
   {
     "id": "c63d256b34",
@@ -526,28 +504,6 @@
     "archived": false,
     "end": 1733940000000,
     "slug": "hell-pie"
-  },
-  {
-    "id": "7a1239cc74",
-    "title": "Eternights",
-    "added": 1725555600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/eternights-epic/dp/amzn1.pg.item.4a731808-e7d4-4efb-8b9b-1387f51b8f61?ref_=SM_Eternights_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733335200000,
-    "slug": "eternights"
-  },
-  {
-    "id": "1653c15df9",
-    "title": "Minabo – A Walk Through Life",
-    "added": 1725555600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/minabo-a-walk-through-life-aga/dp/amzn1.pg.item.e8d7a350-f629-47e4-9fe7-1802d9e414bf?ref_=SM_MinaboAwalkthroughlife_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733335200000,
-    "slug": "minabo-a-walk-through-life"
   },
   {
     "id": "2476398d88",
