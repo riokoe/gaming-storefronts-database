@@ -22,11 +22,11 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-5:
+Active giveaways as of 2024-12-6:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
-| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
+| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Action, Indie, Adventure |
 | [Bus Simulator 21 Next Stop](https://store.epicgames.com/en-US/p/bus-simulator-21) | Epic | ~~34.99~~ |  |
 | [LEGO® Star Wars™: The Skywalker Saga](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga) | Epic | ~~49.99~~ |  |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
@@ -55,9 +55,7 @@ Active giveaways as of 2024-12-5:
 | [Temtem](https://store.playstation.com/en-us/concept/10001170) | Playstation Plus [new] |  | Role playing games, Adventure, PS5, Monthly |
 | [Donkey Kong Land III™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
-| [A Small Man](https://jasiolakstudios.itch.io/a-small-man) | Itch.io | ~~5.00~~ | Platformer |
-| [A Small Man Maker](https://jasiolakstudios.itch.io/a-small-man-maker) | Itch.io | ~~2.50~~ | Platformer |
-| [Always Sunset](https://kombuchaman.itch.io/always-sunset) | Itch.io | ~~5.00~~ | Adventure |
+| [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
 | [Battle Hell: The Vant](https://15joldersmat.itch.io/battle-hell-the-vant) | Itch.io | ~~2.00~~ | Strategy |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
@@ -78,18 +76,20 @@ Active giveaways as of 2024-12-5:
 | [Fairy Penguin Parade](https://jdmgames.itch.io/fairy-penguin-parade) | Itch.io | ~~1.11~~ |  |
 | [FIGMEM 1](https://nasdab.itch.io/figmem) | Itch.io | ~~2.00~~ | Educational |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io | ~~2.00~~ | Action |
+| [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io | ~~5.00~~ | Platformer |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io | ~~4.00~~ | Role Playing |
-| [Iridescent Crown / 虹色の王冠](https://dylancassidy.itch.io/iridescent-crown) | Itch.io | ~~9.99~~ | Platformer |
-| [jasiolakstudios game launcher](https://jasiolakstudios.itch.io/jasiolakstudios-game-luncher) | Itch.io | ~~2.00~~ |  |
+| [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
+| [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
 | [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io | ~~5.00~~ | Role Playing |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
+| [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
-| [Mały człowiek (A small man polish version)](https://jasiolakstudios.itch.io/a-small-man-polish-version) | Itch.io | ~~7.00~~ | Platformer |
 | [MECH ZERO: Lost in Space](https://aethercode.itch.io/mech-zero-lost-in-space) | Itch.io | ~~3.00~~ | Action |
 | [Memento](https://jjbeats99.itch.io/memento-omori) | Itch.io | ~~3.00~~ | Visual Novel |
+| [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
 | [Orbital Paladin Melchior Y](https://jdmgames.itch.io/orbital-paladin-melchior-y) | Itch.io | ~~3.79~~ | Visual Novel |
 | [Parallel Problems](https://jdmgames.itch.io/parallel-problems) | Itch.io | ~~1.99~~ | Platformer |
@@ -105,12 +105,15 @@ Active giveaways as of 2024-12-5:
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Solace Inc.](https://aplovestudio.itch.io/solace-inc) | Itch.io | ~~3.99~~ | Survival |
 | [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io | ~~2.99~~ | Racing |
+| [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io | ~~5.00~~ | Visual Novel |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
+| [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
 | [The Wind Turbine](https://jemcraftstudios.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io | ~~3.00~~ | Adventure |
 | [Ticoban](https://juegosenlazaruscr.itch.io/ticoban) | Itch.io | ~~2.00~~ | Puzzle |
+| [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io | ~~1.01~~ | Adventure |
 | [Toony's Daycare Episode 1](https://littleghostgames.itch.io/toonys-daycare) | Itch.io | ~~2.00~~ | Puzzle |
 | [Toony's Daycare Episode 2](https://littleghostgames.itch.io/toonys-daycare-episode-2) | Itch.io | ~~2.00~~ | Puzzle |
 | [Ungrateful Birds: No Good Deed](https://jdmgames.itch.io/ungrateful-birds-no-good-deed) | Itch.io | ~~3.99~~ | Platformer |
@@ -118,4 +121,4 @@ Active giveaways as of 2024-12-5:
 | [Witches and Bandits and Swords (Oh My)](https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my) | Itch.io | ~~3.99~~ | Visual Novel |
 | [Wysaddle Tribe Simulator: 2D Spectator Experience](https://15joldersmat.itch.io/wysaddle) | Itch.io | ~~4.00~~ | Simulation |
 | [Z invasion](https://gamerevolutionx.itch.io/zinvasion2) | Itch.io | ~~4.99~~ | Action |
-| [маленький человек (a small man russian version)](https://jasiolakstudios.itch.io/a-small-man-russian-version) | Itch.io | ~~7.00~~ | Platformer |
+| [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io | ~~5.00~~ | Shooter |
