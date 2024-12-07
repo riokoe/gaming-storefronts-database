@@ -154,62 +154,6 @@
     "archived": false
   },
   {
-    "id": "309a3ce455",
-    "title": "Solace Inc.",
-    "price": 3.99,
-    "end": 1733493600000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://aplovestudio.itch.io/solace-inc",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "solace-inc",
-    "archived": false
-  },
-  {
-    "id": "c7a656c516",
-    "title": "Roseblight",
-    "price": 7.99,
-    "end": 1733493600000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://aplovestudio.itch.io/roseblight",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "roseblight",
-    "archived": false
-  },
-  {
-    "id": "2f9845ecbc",
-    "title": "Buckler 2",
-    "price": 3.99,
-    "end": 1733493600000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://aplovestudio.itch.io/buckler2",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "buckler-2",
-    "archived": false
-  },
-  {
-    "id": "3f8cbbd34d",
-    "title": "Project Malice",
-    "price": 9.99,
-    "end": 1733493600000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://aplovestudio.itch.io/malice",
-    "tags": [
-      "Shooter"
-    ],
-    "slug": "project-malice",
-    "archived": false
-  },
-  {
     "id": "c09a03d2a6",
     "title": "Bunny Hill Horror",
     "price": 3.99,
@@ -238,20 +182,6 @@
     "archived": false
   },
   {
-    "id": "6f72d631d9",
-    "title": "Rewind To Fear - The Mansion",
-    "price": 1.99,
-    "end": 1733374800000,
-    "added": 1732959305828,
-    "platform": 2,
-    "uri": "https://endsmeet-production.itch.io/rewind-to-fear",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "rewind-to-fear-mansion",
-    "archived": false
-  },
-  {
     "id": "7661aaf406",
     "title": "Witches and Bandits and Swords (Oh My)",
     "price": 3.99,
@@ -263,20 +193,6 @@
       "Visual Novel"
     ],
     "slug": "witches-and-bandits-oh-my",
-    "archived": false
-  },
-  {
-    "id": "a312c386f2",
-    "title": "Signal Lost",
-    "price": 2.99,
-    "end": 1733504100000,
-    "added": 1733049773482,
-    "platform": 2,
-    "uri": "https://endsmeet-production.itch.io/signallost",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "signal-lost",
     "archived": false
   },
   {
@@ -502,48 +418,6 @@
     "archived": false
   },
   {
-    "id": "96e327435d",
-    "title": "Wysaddle Tribe Simulator: 2D Spectator Experience",
-    "price": 4,
-    "end": 1733474340000,
-    "added": 1733049773483,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/wysaddle",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "wysaddle-tribe-experience-2",
-    "archived": false
-  },
-  {
-    "id": "faa89ac292",
-    "title": "Bots of Boria",
-    "price": 3,
-    "end": 1733474340000,
-    "added": 1733049773483,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/bots-of-boria",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "bots-of-boria",
-    "archived": false
-  },
-  {
-    "id": "e4daf1b1c8",
-    "title": "Covens of Xetta",
-    "price": 2.99,
-    "end": 1733474340000,
-    "added": 1733049773483,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/covens-of-xetta",
-    "tags": [
-      "Strategy"
-    ],
-    "slug": "covens-of-xetta",
-    "archived": false
-  },
-  {
     "id": "eb1db23323",
     "title": "The Last Bee",
     "price": 2,
@@ -555,20 +429,6 @@
       "Action"
     ],
     "slug": "the-last-bee",
-    "archived": false
-  },
-  {
-    "id": "847ec802c8",
-    "title": "Battle Hell: The Vant",
-    "price": 2,
-    "end": 1733474340000,
-    "added": 1733049773483,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/battle-hell-the-vant",
-    "tags": [
-      "Strategy"
-    ],
-    "slug": "battle-hell-the-vant",
     "archived": false
   },
   {
@@ -939,6 +799,62 @@
       "Shooter"
     ],
     "slug": "zombie-hunter",
+    "archived": false
+  },
+  {
+    "id": "e8466ca64a",
+    "title": "Space Factory",
+    "price": 4.99,
+    "end": 1735135200000,
+    "added": 1733496384797,
+    "platform": 2,
+    "uri": "https://mindgames-studios.itch.io/spacefactory",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "space-factory",
+    "archived": false
+  },
+  {
+    "id": "a8d0037fea",
+    "title": "World War 2 Dogfight Simulator",
+    "price": 6,
+    "end": 1736096400000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://retrovr.itch.io/dogfightsim",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "world-war-dogfight-simulator-2",
+    "archived": false
+  },
+  {
+    "id": "580b510c7e",
+    "title": "1942: Spitfire Dogfight VR",
+    "price": 6,
+    "end": 1736096400000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://retrovr.itch.io/spitfire-dogfight-vr",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "spitfire-dogfight-vr-1942",
+    "archived": false
+  },
+  {
+    "id": "7b542e44e3",
+    "title": "New Meat",
+    "price": 4.99,
+    "end": 1735792980000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://rocketlex.itch.io/new-meat",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "new-meat",
     "archived": false
   }
 ]
