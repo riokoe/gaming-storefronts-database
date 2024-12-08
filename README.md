@@ -73,6 +73,7 @@ Active giveaways as of 2024-12-8:
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io | ~~2.00~~ | Visual Novel |
 | [Fairy Penguin Parade](https://jdmgames.itch.io/fairy-penguin-parade) | Itch.io | ~~1.11~~ |  |
 | [FIGMEM 1](https://nasdab.itch.io/figmem) | Itch.io | ~~2.00~~ | Educational |
+| [Five Shoots at Bob: FUNTIMEKILLER](https://quadss.itch.io/five-shoots-at-bob-funtimekiller) | Itch.io | ~~2.00~~ | Shooter |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io | ~~2.00~~ | Action |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io | ~~5.00~~ | Platformer |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
