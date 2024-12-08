@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-7:
+Active giveaways as of 2024-12-8:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -54,7 +54,6 @@ Active giveaways as of 2024-12-7:
 | [It Takes Two PS4™ & PS5™](https://store.playstation.com/en-us/concept/234689) | Playstation Plus [new] |  | Unique, PS4, PS5, Monthly |
 | [Temtem](https://store.playstation.com/en-us/concept/10001170) | Playstation Plus [new] |  | Role playing games, Adventure, PS5, Monthly |
 | [Donkey Kong Land III™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
-| [10 Minutes Down](https://anoverthinker.itch.io/10minutesdown) | Itch.io | ~~1.99~~ | Survival |
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
@@ -71,6 +70,7 @@ Active giveaways as of 2024-12-7:
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io | ~~16.00~~ | Adventure |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io | ~~3.99~~ | Educational |
+| [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io | ~~2.00~~ | Visual Novel |
 | [Fairy Penguin Parade](https://jdmgames.itch.io/fairy-penguin-parade) | Itch.io | ~~1.11~~ |  |
 | [FIGMEM 1](https://nasdab.itch.io/figmem) | Itch.io | ~~2.00~~ | Educational |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io | ~~2.00~~ | Action |
@@ -79,7 +79,6 @@ Active giveaways as of 2024-12-7:
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io | ~~4.00~~ | Role Playing |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
-| [Juice Galaxy (formerly Juice World)](https://fishlicka.itch.io/juice-galaxy) | Itch.io | ~~5.00~~ | Role Playing |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
@@ -90,12 +89,16 @@ Active giveaways as of 2024-12-7:
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [New Meat](https://rocketlex.itch.io/new-meat) | Itch.io | ~~4.99~~ | Role Playing |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
+| [Nyghtmare: The Ninth King](https://elvies.itch.io/nightmare-tnk-gbc) | Itch.io | ~~6.66~~ | Platformer |
 | [Orbital Paladin Melchior Y](https://jdmgames.itch.io/orbital-paladin-melchior-y) | Itch.io | ~~3.79~~ | Visual Novel |
 | [Parallel Problems](https://jdmgames.itch.io/parallel-problems) | Itch.io | ~~1.99~~ | Platformer |
 | [Particle](https://jeremyulrich.itch.io/particle) | Itch.io | ~~3.00~~ | Shooter |
 | [Peacely Online](https://apeacez.itch.io/peacely-online) | Itch.io | ~~19.99~~ | Role Playing |
+| [Photoluminescence](https://messier9000.itch.io/luminescence) | Itch.io | ~~2.99~~ | Puzzle |
+| [Rewind To Fear - The Mansion](https://endsmeet-production.itch.io/rewind-to-fear) | Itch.io | ~~1.99~~ | Survival |
 | [River Strike](https://hoglet.itch.io/river-strike) | Itch.io | ~~2.00~~ | Action |
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io | ~~5.00~~ | Puzzle |
+| [Signal Lost](https://endsmeet-production.itch.io/signallost) | Itch.io | ~~1.99~~ | Survival |
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |

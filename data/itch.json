@@ -1,19 +1,5 @@
 [
   {
-    "id": "a245c08065",
-    "title": "Juice Galaxy (formerly Juice World)",
-    "price": 5,
-    "end": 1733598000000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://fishlicka.itch.io/juice-galaxy",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "juice-galaxy-formerly-world",
-    "archived": false
-  },
-  {
     "id": "c485fed189",
     "title": "HOME GAME",
     "price": 4,
@@ -123,20 +109,6 @@
       "Puzzle"
     ],
     "slug": "scmallum-the-game",
-    "archived": false
-  },
-  {
-    "id": "ebe6489475",
-    "title": "10 Minutes Down",
-    "price": 1.99,
-    "end": 1733598420000,
-    "added": 1732790889874,
-    "platform": 2,
-    "uri": "https://anoverthinker.itch.io/10minutesdown",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "minutes-down-10",
     "archived": false
   },
   {
@@ -869,6 +841,76 @@
       "Simulation"
     ],
     "slug": "beep-sheep-simulator",
+    "archived": false
+  },
+  {
+    "id": "a312c386f2",
+    "title": "Signal Lost",
+    "price": 1.99,
+    "end": 1736184840000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://endsmeet-production.itch.io/signallost",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "signal-lost",
+    "archived": false
+  },
+  {
+    "id": "1aaaea34d9",
+    "title": "Nyghtmare: The Ninth King",
+    "price": 6.66,
+    "end": 1733670000000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://elvies.itch.io/nightmare-tnk-gbc",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "nyghtmare-the-ninth-king",
+    "archived": false
+  },
+  {
+    "id": "6f72d631d9",
+    "title": "Rewind To Fear - The Mansion",
+    "price": 1.99,
+    "end": 1736184840000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://endsmeet-production.itch.io/rewind-to-fear",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "rewind-to-fear-mansion",
+    "archived": false
+  },
+  {
+    "id": "2ac4a7bfcf",
+    "title": "Evidence of 96'",
+    "price": 2,
+    "end": 1736211600000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://teammelon.itch.io/evidence-of-96",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "evidence-of-96",
+    "archived": false
+  },
+  {
+    "id": "753fcf50ed",
+    "title": "Photoluminescence",
+    "price": 2.99,
+    "end": 1735187400000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://messier9000.itch.io/luminescence",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "photoluminescence",
     "archived": false
   }
 ]
