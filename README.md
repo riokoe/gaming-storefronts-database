@@ -22,33 +22,33 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-8:
+Active giveaways as of 2024-12-10:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Action, Indie, Adventure |
 | [Bus Simulator 21 Next Stop](https://store.epicgames.com/en-US/p/bus-simulator-21) | Epic | ~~34.99~~ |  |
 | [LEGO® Star Wars™: The Skywalker Saga](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga) | Epic | ~~49.99~~ |  |
+| [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
+| [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
+| [Project Walker](https://apps.microsoft.com/detail/9nbpvlnqdvvv) | Microsoft | ~~3.29~~ | Action & adventure, Fighting, Other |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
+| [Wild Eclipse](https://apps.microsoft.com/detail/9nlwh01l4kqm) | Microsoft | ~~3.29~~ | Action & adventure, Other, Puzzle & trivia |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
 | [Baldur's Gate II: Enhanced Edition](https://gaming.amazon.com/baldurs-gate-ii-enhanced-edition-gog/dp/amzn1.pg.item.132cb562-d492-4313-90fc-6335eeab7676?ref_=SM_BaldursGateIIEnhancedEdition_S03_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Baldur's Gate: Enhanced Edition](https://gaming.amazon.com/baldurs-gate-enhanced-edition-gog/dp/amzn1.pg.item.a7bdaa9f-df98-488e-97af-5322512c05e2?ref_=SM_BaldursGateEnhancedEdition_S03_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Call of Juarez: Gunslinger](https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Disney•Pixar WALL-E](https://gaming.amazon.com/disney-pixar-wall-e-aga/dp/amzn1.pg.item.35850bb0-ac60-4455-96cd-c95a1b84c3b1?ref_=SM_DisneyPixarWALLE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [DREDGE](https://gaming.amazon.com/dredge-gog/dp/amzn1.pg.item.c2739dbe-88cc-43a3-861b-982aa14dbf22?ref_=SM_DREDGE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Necromunda: Hired Gun](https://gaming.amazon.com/necromunda-hired-gun-epic/dp/amzn1.pg.item.12e533f9-96d1-41f9-a812-0fa7fba3624c?ref_=SM_NecromundaHiredGun_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Neverwinter Nights: Enhanced Edition](https://gaming.amazon.com/neverwinter-nights-gog/dp/amzn1.pg.item.acee8e4d-cbd6-4a9e-add2-b3e52d825c51?ref_=SM_NeverwinterNightsEnhancedEdition_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Overcooked! 2](https://gaming.amazon.com/overcooked-2-gog/dp/amzn1.pg.item.b6910650-0c3f-4d55-b114-71995e792dc3?ref_=SM_Overcooked2_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Quake II](https://gaming.amazon.com/quake-ii-gog/dp/amzn1.pg.item.757cffc7-88f9-433b-965a-207899450dd4?ref_=SM_QuakeII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Space Hulk: Deathwing - Enhanced Edition](https://gaming.amazon.com/space-hulk-deathwing-enhanced-edition-gog/dp/amzn1.pg.item.99563eca-c95a-43d4-8d44-4b04948f35f0?ref_=SM_SpaceHulkDeathwingEnhancedEdition_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Spelunky](https://gaming.amazon.com/spelunky-gog/dp/amzn1.pg.item.ea6d2b0c-a00f-4db6-a54e-59e35fb13038?ref_=SM_Spelunky_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Star Wars: Bounty Hunter](https://gaming.amazon.com/star-wars-bounty-hunter-gog/dp/amzn1.pg.item.86eb5bf7-ba42-4b3a-a29e-c8d1b0c7acb9?ref_=SM_StarWarsBountyHunter_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [The Outer Worlds](https://gaming.amazon.com/the-outer-worlds-gog/dp/amzn1.pg.item.538ee4d5-dbf8-48d9-a835-44062e2acec0?ref_=SM_TheOuterWorlds_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Tomb Raider: Underworld](https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Warhammer 40,000: Dawn of War](https://gaming.amazon.com/warhammer-40000-dawn-of-war-aga/dp/amzn1.pg.item.b24ab4d2-5bc4-4518-8778-140c5263aa5b?ref_=SM_Warhammer40000DawnofWar_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Warhammer 40,000: Space Marine](https://gaming.amazon.com/warhammer-40000-space-marine-aga/dp/amzn1.pg.item.294add5f-5b43-4132-b008-6c1b4027a9a4?ref_=SM_Warhammer40000SpaceMarine_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Crash™ Team Racing Nitro-Fueled](https://www.xbox.com/en-en/games/store/-/BQRB60PW2SDL) | Xbox Game Pass [new] |  | Racing & flying, Console |
 | [EA SPORTS™ WRC](https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R) | Xbox Game Pass [new] |  | Racing & flying, Simulation, Sports, Family & kids, Console, EA-Play |
+| [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
 | [Overthrown (Game Preview)](https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD) | Xbox Game Pass [new] |  | Action & adventure, Simulation, Platformer, Console, Desktop |
 | [Aliens: Dark Descent](https://store.playstation.com/en-us/concept/10005351) | Playstation Plus [new] |  | Strategy, PS4, PS5, Monthly |
 | [It Takes Two PS4™ & PS5™](https://store.playstation.com/en-us/concept/234689) | Playstation Plus [new] |  | Unique, PS4, PS5, Monthly |
@@ -57,6 +57,7 @@ Active giveaways as of 2024-12-8:
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
+| [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io | ~~5.20~~ | Simulation |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
@@ -84,13 +85,14 @@ Active giveaways as of 2024-12-8:
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
+| [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io | ~~5.00~~ | Role Playing |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
 | [MECH ZERO: Lost in Space](https://aethercode.itch.io/mech-zero-lost-in-space) | Itch.io | ~~3.00~~ | Action |
 | [Memento](https://jjbeats99.itch.io/memento-omori) | Itch.io | ~~3.00~~ | Visual Novel |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [New Meat](https://rocketlex.itch.io/new-meat) | Itch.io | ~~4.99~~ | Role Playing |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
-| [Nyghtmare: The Ninth King](https://elvies.itch.io/nightmare-tnk-gbc) | Itch.io | ~~6.66~~ | Platformer |
+| [Omega No Sunshine 2](https://galoxyum.itch.io/ons24) | Itch.io | ~~5.00~~ | Role Playing |
 | [Orbital Paladin Melchior Y](https://jdmgames.itch.io/orbital-paladin-melchior-y) | Itch.io | ~~3.79~~ | Visual Novel |
 | [Parallel Problems](https://jdmgames.itch.io/parallel-problems) | Itch.io | ~~1.99~~ | Platformer |
 | [Particle](https://jeremyulrich.itch.io/particle) | Itch.io | ~~3.00~~ | Shooter |

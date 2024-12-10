@@ -858,20 +858,6 @@
     "archived": false
   },
   {
-    "id": "1aaaea34d9",
-    "title": "Nyghtmare: The Ninth King",
-    "price": 6.66,
-    "end": 1733670000000,
-    "added": 1733647490836,
-    "platform": 2,
-    "uri": "https://elvies.itch.io/nightmare-tnk-gbc",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "nyghtmare-the-ninth-king",
-    "archived": false
-  },
-  {
     "id": "6f72d631d9",
     "title": "Rewind To Fear - The Mansion",
     "price": 1.99,
@@ -925,6 +911,48 @@
       "Shooter"
     ],
     "slug": "five-shoots-at-funtimekiller",
+    "archived": false
+  },
+  {
+    "id": "84b7e239aa",
+    "title": "Kurio",
+    "price": 5,
+    "end": 1735756200000,
+    "added": 1733815913575,
+    "platform": 2,
+    "uri": "https://kuriokingdom.itch.io/kurio",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "kurio",
+    "archived": false
+  },
+  {
+    "id": "0583beb2ac",
+    "title": "Omega No Sunshine 2",
+    "price": 5,
+    "end": 1735682340000,
+    "added": 1733815913575,
+    "platform": 2,
+    "uri": "https://galoxyum.itch.io/ons24",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "omega-no-sunshine-2",
+    "archived": false
+  },
+  {
+    "id": "df90d19746",
+    "title": "BALL PLATFORMER",
+    "price": 14,
+    "end": 1734031980000,
+    "added": 1733815913575,
+    "platform": 2,
+    "uri": "https://mrpaul667.itch.io/ball-platformer",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "ball-platformer",
     "archived": false
   }
 ]
