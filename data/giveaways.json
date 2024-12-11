@@ -1,18 +1,5 @@
 [
   {
-    "id": "1257f46947",
-    "title": "Crash™ Team Racing Nitro-Fueled",
-    "added": 1733303824001,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/BQRB60PW2SDL",
-    "tags": [
-      "Racing & flying",
-      "Console"
-    ],
-    "slug": "crash-team-racing-fueled-x",
-    "archived": false
-  },
-  {
     "id": "b3e9840a7e",
     "title": "EA SPORTS™ WRC",
     "added": 1733423214326,
@@ -1322,48 +1309,48 @@
     "archived": false
   },
   {
-    "id": "5a54684ed8",
-    "title": "Aliens: Dark Descent",
-    "added": 1733303839042,
+    "id": "258cb1d0db",
+    "title": "Jak and Daxter™: The Precursor Legacy",
+    "added": 1733925075506,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005351",
+    "uri": "https://store.playstation.com/en-us/concept/10010137",
     "tags": [
-      "Strategy",
-      "PS4",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "aliens-dark-descent-ps",
-    "archived": false
-  },
-  {
-    "id": "ea3d75766f",
-    "title": "It Takes Two PS4™ & PS5™",
-    "added": 1733303839042,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/234689",
-    "tags": [
-      "Unique",
-      "PS4",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "it-takes-two-45-ps",
-    "archived": false
-  },
-  {
-    "id": "fee1b776ba",
-    "title": "Temtem",
-    "added": 1733303839042,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001170",
-    "tags": [
-      "Role playing games",
       "Adventure",
+      "PS4",
       "PS5",
-      "Monthly"
+      "Classic"
     ],
-    "slug": "temtem-ps",
+    "slug": "jak-and-daxter-legacy-ps",
+    "archived": false
+  },
+  {
+    "id": "bc97ab0943",
+    "title": "Sly 2: Band of Thieves™",
+    "added": 1733925075506,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10010691",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Classic"
+    ],
+    "slug": "sly-band-of-thieves-2-ps",
+    "archived": false
+  },
+  {
+    "id": "0171c15123",
+    "title": "Sly 3: Honour Among Thieves™",
+    "added": 1733925075506,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10010692",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Classic"
+    ],
+    "slug": "sly-honour-among-thieves-3-ps",
     "archived": false
   },
   {

@@ -47,14 +47,13 @@ Active giveaways as of 2024-12-11:
 | [The Outer Worlds](https://gaming.amazon.com/the-outer-worlds-gog/dp/amzn1.pg.item.538ee4d5-dbf8-48d9-a835-44062e2acec0?ref_=SM_TheOuterWorlds_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Warhammer 40,000: Dawn of War](https://gaming.amazon.com/warhammer-40000-dawn-of-war-aga/dp/amzn1.pg.item.b24ab4d2-5bc4-4518-8778-140c5263aa5b?ref_=SM_Warhammer40000DawnofWar_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Warhammer 40,000: Space Marine](https://gaming.amazon.com/warhammer-40000-space-marine-aga/dp/amzn1.pg.item.294add5f-5b43-4132-b008-6c1b4027a9a4?ref_=SM_Warhammer40000SpaceMarine_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Crash™ Team Racing Nitro-Fueled](https://www.xbox.com/en-en/games/store/-/BQRB60PW2SDL) | Xbox Game Pass [new] |  | Racing & flying, Console |
 | [EA SPORTS™ WRC](https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R) | Xbox Game Pass [new] |  | Racing & flying, Simulation, Sports, Family & kids, Console, EA-Play |
 | [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
 | [Overthrown (Game Preview)](https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD) | Xbox Game Pass [new] |  | Action & adventure, Simulation, Platformer, Console, Desktop |
 | [Wildfrost](https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ) | Xbox Game Pass [new] |  | Card & board, Strategy, Other, Console, Desktop |
-| [Aliens: Dark Descent](https://store.playstation.com/en-us/concept/10005351) | Playstation Plus [new] |  | Strategy, PS4, PS5, Monthly |
-| [It Takes Two PS4™ & PS5™](https://store.playstation.com/en-us/concept/234689) | Playstation Plus [new] |  | Unique, PS4, PS5, Monthly |
-| [Temtem](https://store.playstation.com/en-us/concept/10001170) | Playstation Plus [new] |  | Role playing games, Adventure, PS5, Monthly |
+| [Jak and Daxter™: The Precursor Legacy](https://store.playstation.com/en-us/concept/10010137) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
+| [Sly 2: Band of Thieves™](https://store.playstation.com/en-us/concept/10010691) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
+| [Sly 3: Honour Among Thieves™](https://store.playstation.com/en-us/concept/10010692) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
 | [Donkey Kong Land III™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |

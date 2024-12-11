@@ -7539,20 +7539,6 @@
     "archived": false
   },
   {
-    "id": "abe335d95d",
-    "title": "Jak and Daxter: The Precursor Legacy™",
-    "added": 1731928284271,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/202214",
-    "tags": [
-      "Action",
-      "PS4",
-      "Classic"
-    ],
-    "slug": "jak-and-daxter-legacy-ps",
-    "archived": false
-  },
-  {
     "id": "12dbdd0d35",
     "title": "Jak II",
     "added": 1731928284271,
@@ -9093,6 +9079,51 @@
       "Monthly"
     ],
     "slug": "temtem-ps",
+    "archived": false
+  },
+  {
+    "id": "258cb1d0db",
+    "title": "Jak and Daxter™: The Precursor Legacy",
+    "added": 1733925075506,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10010137",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Classic"
+    ],
+    "slug": "jak-and-daxter-legacy-ps",
+    "archived": false
+  },
+  {
+    "id": "bc97ab0943",
+    "title": "Sly 2: Band of Thieves™",
+    "added": 1733925075506,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10010691",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Classic"
+    ],
+    "slug": "sly-band-of-thieves-2-ps",
+    "archived": false
+  },
+  {
+    "id": "0171c15123",
+    "title": "Sly 3: Honour Among Thieves™",
+    "added": 1733925075506,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10010692",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Classic"
+    ],
+    "slug": "sly-honour-among-thieves-3-ps",
     "archived": false
   }
 ]
