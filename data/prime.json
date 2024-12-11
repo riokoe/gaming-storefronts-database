@@ -803,5 +803,18 @@
     "tags": [],
     "slug": "quake-ii-ii",
     "archived": false
+  },
+  {
+    "id": "19091bd7e6",
+    "title": "New World: Aeternum - Aelstrom's Cache",
+    "end": 1736532000000,
+    "added": 1733853600000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/aelstroms-cache/dp/amzn1.pg.item.dd795bad-2ba9-44a7-b2b4-bb90252d3c4a?ref_=SM_NewWorld_S02_D05_CRWN",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "new-world-aeternum-cache",
+    "archived": false
   }
 ]

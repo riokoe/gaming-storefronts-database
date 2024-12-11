@@ -60,6 +60,22 @@
     "archived": false
   },
   {
+    "id": "fde4672cb9",
+    "title": "Wildfrost",
+    "added": 1733905677669,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ",
+    "tags": [
+      "Card & board",
+      "Strategy",
+      "Other",
+      "Console",
+      "Desktop"
+    ],
+    "slug": "wildfrost-x-pc",
+    "archived": false
+  },
+  {
     "id": "55e104eff8",
     "title": "Pankapu",
     "price": 11.99,
@@ -67,8 +83,8 @@
     "platform": 1,
     "uri": "https://store.steampowered.com/app/418670/Pankapu",
     "tags": [
-      "Action",
       "Indie",
+      "Action",
       "Adventure"
     ],
     "slug": "pankapu",
@@ -905,20 +921,6 @@
     "archived": false
   },
   {
-    "id": "720976e2ba",
-    "title": "Beep Sheep Simulator",
-    "price": 5.2,
-    "end": 1733818920000,
-    "added": 1733577086196,
-    "platform": 2,
-    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "beep-sheep-simulator",
-    "archived": false
-  },
-  {
     "id": "a312c386f2",
     "title": "Signal Lost",
     "price": 1.99,
@@ -1028,6 +1030,62 @@
       "Adventure"
     ],
     "slug": "ball-platformer",
+    "archived": false
+  },
+  {
+    "id": "0e47e376ea",
+    "title": "Wally The Seal 2",
+    "price": 1.99,
+    "end": 1735632960000,
+    "added": 1733905808048,
+    "platform": 2,
+    "uri": "https://guncatgames.itch.io/wally-the-seal2",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "wally-the-seal-2",
+    "archived": false
+  },
+  {
+    "id": "b70133d243",
+    "title": "The Exorcism Of The Devil",
+    "price": 2,
+    "end": 1735659840000,
+    "added": 1733905808048,
+    "platform": 2,
+    "uri": "https://king-mirage.itch.io/the-exorcism-of-the-devil",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "the-exorcism-of-devil",
+    "archived": false
+  },
+  {
+    "id": "96e327435d",
+    "title": "Wysaddle Tribe Simulator: 2D Spectator Experience",
+    "price": 4,
+    "end": 1733990340000,
+    "added": 1733905808048,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/wysaddle",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "wysaddle-tribe-experience-2",
+    "archived": false
+  },
+  {
+    "id": "faa89ac292",
+    "title": "Bots of Boria",
+    "price": 3,
+    "end": 1733990340000,
+    "added": 1733905808048,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/bots-of-boria",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "bots-of-boria",
     "archived": false
   },
   {
@@ -1251,6 +1309,19 @@
     "archived": false
   },
   {
+    "id": "19091bd7e6",
+    "title": "New World: Aeternum - Aelstrom's Cache",
+    "end": 1736532000000,
+    "added": 1733853600000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/aelstroms-cache/dp/amzn1.pg.item.dd795bad-2ba9-44a7-b2b4-bb90252d3c4a?ref_=SM_NewWorld_S02_D05_CRWN",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "new-world-aeternum-cache",
+    "archived": false
+  },
+  {
     "id": "5a54684ed8",
     "title": "Aliens: Dark Descent",
     "added": 1733303839042,
@@ -1320,6 +1391,20 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "720976e2ba",
+    "title": "Beep Sheep Simulator",
+    "price": 5.2,
+    "end": 1733818920000,
+    "added": 1733577086196,
+    "platform": 2,
+    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "beep-sheep-simulator",
+    "archived": true
   },
   {
     "id": "1aaaea34d9",

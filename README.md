@@ -22,11 +22,11 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-10:
+Active giveaways as of 2024-12-11:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
-| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Action, Indie, Adventure |
+| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
 | [Bus Simulator 21 Next Stop](https://store.epicgames.com/en-US/p/bus-simulator-21) | Epic | ~~34.99~~ |  |
 | [LEGO® Star Wars™: The Skywalker Saga](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga) | Epic | ~~49.99~~ |  |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
@@ -40,6 +40,7 @@ Active giveaways as of 2024-12-10:
 | [Disney•Pixar WALL-E](https://gaming.amazon.com/disney-pixar-wall-e-aga/dp/amzn1.pg.item.35850bb0-ac60-4455-96cd-c95a1b84c3b1?ref_=SM_DisneyPixarWALLE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Necromunda: Hired Gun](https://gaming.amazon.com/necromunda-hired-gun-epic/dp/amzn1.pg.item.12e533f9-96d1-41f9-a812-0fa7fba3624c?ref_=SM_NecromundaHiredGun_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Neverwinter Nights: Enhanced Edition](https://gaming.amazon.com/neverwinter-nights-gog/dp/amzn1.pg.item.acee8e4d-cbd6-4a9e-add2-b3e52d825c51?ref_=SM_NeverwinterNightsEnhancedEdition_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [New World: Aeternum - Aelstrom's Cache](https://gaming.amazon.com/aelstroms-cache/dp/amzn1.pg.item.dd795bad-2ba9-44a7-b2b4-bb90252d3c4a?ref_=SM_NewWorld_S02_D05_CRWN) | Prime Gaming [new] |  | dlc |
 | [Quake II](https://gaming.amazon.com/quake-ii-gog/dp/amzn1.pg.item.757cffc7-88f9-433b-965a-207899450dd4?ref_=SM_QuakeII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Space Hulk: Deathwing - Enhanced Edition](https://gaming.amazon.com/space-hulk-deathwing-enhanced-edition-gog/dp/amzn1.pg.item.99563eca-c95a-43d4-8d44-4b04948f35f0?ref_=SM_SpaceHulkDeathwingEnhancedEdition_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Spelunky](https://gaming.amazon.com/spelunky-gog/dp/amzn1.pg.item.ea6d2b0c-a00f-4db6-a54e-59e35fb13038?ref_=SM_Spelunky_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
@@ -50,6 +51,7 @@ Active giveaways as of 2024-12-10:
 | [EA SPORTS™ WRC](https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R) | Xbox Game Pass [new] |  | Racing & flying, Simulation, Sports, Family & kids, Console, EA-Play |
 | [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
 | [Overthrown (Game Preview)](https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD) | Xbox Game Pass [new] |  | Action & adventure, Simulation, Platformer, Console, Desktop |
+| [Wildfrost](https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ) | Xbox Game Pass [new] |  | Card & board, Strategy, Other, Console, Desktop |
 | [Aliens: Dark Descent](https://store.playstation.com/en-us/concept/10005351) | Playstation Plus [new] |  | Strategy, PS4, PS5, Monthly |
 | [It Takes Two PS4™ & PS5™](https://store.playstation.com/en-us/concept/234689) | Playstation Plus [new] |  | Unique, PS4, PS5, Monthly |
 | [Temtem](https://store.playstation.com/en-us/concept/10001170) | Playstation Plus [new] |  | Role playing games, Adventure, PS5, Monthly |
@@ -59,9 +61,9 @@ Active giveaways as of 2024-12-10:
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
 | [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
-| [Beep Sheep Simulator](https://osamamsa123.itch.io/beep-sheep-simulator) | Itch.io | ~~5.20~~ | Simulation |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
+| [Bots of Boria](https://15joldersmat.itch.io/bots-of-boria) | Itch.io | ~~3.00~~ | Simulation |
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io | ~~2.40~~ | Platformer |
@@ -109,6 +111,7 @@ Active giveaways as of 2024-12-10:
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io | ~~5.00~~ | Visual Novel |
+| [The Exorcism Of The Devil](https://king-mirage.itch.io/the-exorcism-of-the-devil) | Itch.io | ~~2.00~~ | Puzzle |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
 | [The Wind Turbine](https://jemcraftstudios.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
@@ -119,7 +122,9 @@ Active giveaways as of 2024-12-10:
 | [Toony's Daycare Episode 2](https://littleghostgames.itch.io/toonys-daycare-episode-2) | Itch.io | ~~2.00~~ | Puzzle |
 | [Ungrateful Birds: No Good Deed](https://jdmgames.itch.io/ungrateful-birds-no-good-deed) | Itch.io | ~~3.99~~ | Platformer |
 | [Walk](https://noirovideogames.itch.io/walk) | Itch.io | ~~1.25~~ | Simulation |
+| [Wally The Seal 2](https://guncatgames.itch.io/wally-the-seal2) | Itch.io | ~~1.99~~ | Survival |
 | [Witches and Bandits and Swords (Oh My)](https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my) | Itch.io | ~~3.99~~ | Visual Novel |
 | [World War 2 Dogfight Simulator](https://retrovr.itch.io/dogfightsim) | Itch.io | ~~6.00~~ | Simulation |
+| [Wysaddle Tribe Simulator: 2D Spectator Experience](https://15joldersmat.itch.io/wysaddle) | Itch.io | ~~4.00~~ | Simulation |
 | [Z invasion](https://gamerevolutionx.itch.io/zinvasion2) | Itch.io | ~~4.99~~ | Action |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io | ~~5.00~~ | Shooter |
