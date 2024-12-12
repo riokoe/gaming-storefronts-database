@@ -748,18 +748,6 @@
     "archived": false
   },
   {
-    "id": "673fb25548",
-    "title": "spiral paint: shoot & create!",
-    "price": 5,
-    "end": 1733994540000,
-    "added": 1733481572624,
-    "platform": 2,
-    "uri": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
-    "tags": [],
-    "slug": "spiral-paint-shoot-create",
-    "archived": false
-  },
-  {
     "id": "92b81b6617",
     "title": "Zombie Hunter",
     "price": 5,
@@ -953,34 +941,6 @@
       "Puzzle"
     ],
     "slug": "the-exorcism-of-devil",
-    "archived": false
-  },
-  {
-    "id": "96e327435d",
-    "title": "Wysaddle Tribe Simulator: 2D Spectator Experience",
-    "price": 4,
-    "end": 1733990340000,
-    "added": 1733905808048,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/wysaddle",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "wysaddle-tribe-experience-2",
-    "archived": false
-  },
-  {
-    "id": "faa89ac292",
-    "title": "Bots of Boria",
-    "price": 3,
-    "end": 1733990340000,
-    "added": 1733905808048,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/bots-of-boria",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "bots-of-boria",
     "archived": false
   },
   {
