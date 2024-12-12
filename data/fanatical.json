@@ -12,5 +12,21 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "1a45da8532",
+    "title": "RIOT - Civil Unrest",
+    "price": 16.99,
+    "end": 1734220740000,
+    "added": 1734012000000,
+    "platform": 12,
+    "uri": "https://www.fanatical.com/en/game/riot-civil-unrest",
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Simulation"
+    ],
+    "slug": "riot-civil-unrest-1",
+    "archived": false
   }
 ]
