@@ -76,6 +76,23 @@
     "archived": false
   },
   {
+    "id": "10b634520d",
+    "title": "For The King II",
+    "added": 1734027430706,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0",
+    "tags": [
+      "Role playing",
+      "Action & adventure",
+      "Card & board",
+      "Strategy",
+      "Family & kids",
+      "Console"
+    ],
+    "slug": "for-the-king-ii-ii-x",
+    "archived": false
+  },
+  {
     "id": "55e104eff8",
     "title": "Pankapu",
     "price": 11.99,
@@ -88,6 +105,35 @@
       "Adventure"
     ],
     "slug": "pankapu",
+    "archived": false
+  },
+  {
+    "id": "78ba0ddb36",
+    "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
+    "added": 1734027302993,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set",
+    "tags": [
+      "Online Co-Op",
+      "Action",
+      "PvE",
+      "dlc"
+    ],
+    "slug": "helldivers-tr-alpha-armor-set-2117",
+    "archived": false
+  },
+  {
+    "id": "9ef80c02d4",
+    "title": "Starborn Phoenix Ship",
+    "added": 1734027432306,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship",
+    "tags": [
+      "Action",
+      "Adventure",
+      "dlc"
+    ],
+    "slug": "starborn-phoenix-ship",
     "archived": false
   },
   {
@@ -108,12 +154,12 @@
   },
   {
     "id": "c4f25cf7c8",
-    "title": "Ускользающий мир",
-    "added": 1734014171295,
+    "title": "The Whispered World: Special Edition",
+    "added": 1734027778048,
     "platform": 3,
     "uri": "https://www.gog.com/en/game/the_whispered_world_special_edition",
     "tags": [],
-    "slug": "c4f25cf7c8",
+    "slug": "the-whispered-world-special",
     "archived": false
   },
   {
@@ -1306,6 +1352,72 @@
       "dlc"
     ],
     "slug": "new-world-aeternum-cache",
+    "archived": false
+  },
+  {
+    "id": "3610c5afc6",
+    "title": "Warhammer 40,000: Dawn of War II",
+    "end": 1735149600000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "warhammer-dawn-war-ii-ii-40000",
+    "archived": false
+  },
+  {
+    "id": "446276d34d",
+    "title": "Hero's Hour",
+    "end": 1739383200000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/heros-hour-gog/dp/amzn1.pg.item.63ec17e6-98d6-4a2a-809d-4583c851d8e3?ref_=SM_HerosHour_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "heros-hour",
+    "archived": false
+  },
+  {
+    "id": "6254f27367",
+    "title": "Planet of Lana",
+    "end": 1736964000000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "planet-of-lana",
+    "archived": false
+  },
+  {
+    "id": "66511d3d11",
+    "title": "Electrician Simulator",
+    "end": 1735149600000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "electrician-simulator",
+    "archived": false
+  },
+  {
+    "id": "d144e724b2",
+    "title": "The Coma: Recut",
+    "end": 1736964000000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-coma-recut",
+    "archived": false
+  },
+  {
+    "id": "b1f7abc7ac",
+    "title": "ReDrawn: The Painted Tower - CE",
+    "end": 1739383200000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "redrawn-the-painted-tower-ce",
     "archived": false
   },
   {

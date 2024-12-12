@@ -26,9 +26,11 @@ Active giveaways as of 2024-12-12:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
+| [HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set](https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set) | Steam |  | Online Co-Op, Action, PvE, dlc |
 | [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
+| [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Action, Adventure, dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
-| [Ускользающий мир](https://www.gog.com/en/game/the_whispered_world_special_edition) | GOG |  |  |
+| [The Whispered World: Special Edition](https://www.gog.com/en/game/the_whispered_world_special_edition) | GOG |  |  |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
 | [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
 | [Project Walker](https://apps.microsoft.com/detail/9nbpvlnqdvvv) | Microsoft | ~~3.29~~ | Action & adventure, Fighting, Other |
@@ -36,8 +38,15 @@ Active giveaways as of 2024-12-12:
 | [Wild Eclipse](https://apps.microsoft.com/detail/9nlwh01l4kqm) | Microsoft | ~~3.29~~ | Action & adventure, Other, Puzzle & trivia |
 | [RIOT - Civil Unrest](https://www.fanatical.com/en/game/riot-civil-unrest) | Fanatical | ~~16.99~~ | Strategy, RTS, Simulation |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
+| [Electrician Simulator](https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Hero's Hour](https://gaming.amazon.com/heros-hour-gog/dp/amzn1.pg.item.63ec17e6-98d6-4a2a-809d-4583c851d8e3?ref_=SM_HerosHour_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [New World: Aeternum - Aelstrom's Cache](https://gaming.amazon.com/aelstroms-cache/dp/amzn1.pg.item.dd795bad-2ba9-44a7-b2b4-bb90252d3c4a?ref_=SM_NewWorld_S02_D05_CRWN) | Prime Gaming [new] |  | dlc |
+| [Planet of Lana](https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [ReDrawn: The Painted Tower - CE](https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [The Coma: Recut](https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Warhammer 40,000: Dawn of War II](https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [EA SPORTS™ WRC](https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R) | Xbox Game Pass [new] |  | Racing & flying, Simulation, Sports, Family & kids, Console, EA-Play |
+| [For The King II](https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0) | Xbox Game Pass [new] |  | Role playing, Action & adventure, Card & board, Strategy, Family & kids, Console |
 | [Hunt: Showdown 1896](https://www.xbox.com/en-en/games/store/-/9NPRV0R4CS1Z) | Xbox Game Pass [new] |  | Shooter, Console |
 | [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
 | [Overthrown (Game Preview)](https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD) | Xbox Game Pass [new] |  | Action & adventure, Simulation, Platformer, Console, Desktop |

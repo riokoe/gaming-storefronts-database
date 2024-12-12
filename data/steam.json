@@ -13,5 +13,34 @@
     ],
     "slug": "pankapu",
     "archived": false
+  },
+  {
+    "id": "78ba0ddb36",
+    "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
+    "added": 1734027302993,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set",
+    "tags": [
+      "Online Co-Op",
+      "Action",
+      "PvE",
+      "dlc"
+    ],
+    "slug": "helldivers-tr-alpha-armor-set-2117",
+    "archived": false
+  },
+  {
+    "id": "9ef80c02d4",
+    "title": "Starborn Phoenix Ship",
+    "added": 1734027432306,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship",
+    "tags": [
+      "Action",
+      "Adventure",
+      "dlc"
+    ],
+    "slug": "starborn-phoenix-ship",
+    "archived": false
   }
 ]

@@ -717,5 +717,71 @@
     ],
     "slug": "new-world-aeternum-cache",
     "archived": false
+  },
+  {
+    "id": "3610c5afc6",
+    "title": "Warhammer 40,000: Dawn of War II",
+    "end": 1735149600000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "warhammer-dawn-war-ii-ii-40000",
+    "archived": false
+  },
+  {
+    "id": "446276d34d",
+    "title": "Hero's Hour",
+    "end": 1739383200000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/heros-hour-gog/dp/amzn1.pg.item.63ec17e6-98d6-4a2a-809d-4583c851d8e3?ref_=SM_HerosHour_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "heros-hour",
+    "archived": false
+  },
+  {
+    "id": "6254f27367",
+    "title": "Planet of Lana",
+    "end": 1736964000000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "planet-of-lana",
+    "archived": false
+  },
+  {
+    "id": "66511d3d11",
+    "title": "Electrician Simulator",
+    "end": 1735149600000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "electrician-simulator",
+    "archived": false
+  },
+  {
+    "id": "d144e724b2",
+    "title": "The Coma: Recut",
+    "end": 1736964000000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-coma-recut",
+    "archived": false
+  },
+  {
+    "id": "b1f7abc7ac",
+    "title": "ReDrawn: The Painted Tower - CE",
+    "end": 1739383200000,
+    "added": 1734026400000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "redrawn-the-painted-tower-ce",
+    "archived": false
   }
 ]
