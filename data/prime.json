@@ -88,17 +88,6 @@
     "slug": "tomb-raider-anniversary"
   },
   {
-    "id": "2a28815b46",
-    "title": "Disney•Pixar Cars",
-    "added": 1731002400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/disney-pixar-cars-aga/dp/amzn1.pg.item.ebea312c-a434-4b2a-942f-4229272d18fd?ref_=SM_DisneyPixarCars_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "disneypixar-cars"
-  },
-  {
     "id": "5eb8449901",
     "title": "Mafia: Definitive Edition",
     "added": 1730480400000,
@@ -108,17 +97,6 @@
     "archived": false,
     "end": 1735668000000,
     "slug": "mafia-definitive"
-  },
-  {
-    "id": "ef144c3fb8",
-    "title": "Dishonored: Definitive Edition",
-    "added": 1731002400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/dishonored-definitive-edition-gog/dp/amzn1.pg.item.958e1a1b-d496-42b7-ad49-501b4761a868?ref_=SM_DishonoredDefinitiveEdition_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "dishonored-definitive"
   },
   {
     "id": "b548db7c00",
@@ -174,17 +152,6 @@
     "archived": false,
     "end": 1738173600000,
     "slug": "deaths-door"
-  },
-  {
-    "id": "11340689f5",
-    "title": "Snakebird Complete",
-    "added": 1731002400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/snakebird-complete-epic/dp/amzn1.pg.item.eb536b82-eab8-451e-8f13-cd139cb33157?ref_=SM_SnakebirdComplete_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "snakebird"
   },
   {
     "id": "9ffd507216",
@@ -352,17 +319,6 @@
     "slug": "dreadout-2"
   },
   {
-    "id": "ccb18e2456",
-    "title": "Priest Simulator: Vampire Show",
-    "added": 1728579600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/priest-simulator-vampire-show-epic/dp/amzn1.pg.item.a9e49c29-b2fc-45f5-b40e-91f68011bc9d?ref_=SM_PriestSimulatorVampireShow_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "priest-simulator-vampire-show"
-  },
-  {
     "id": "76ca074b5e",
     "title": "Through the Darkest of Times",
     "added": 1729184400000,
@@ -429,17 +385,6 @@
     "slug": "ghost-song"
   },
   {
-    "id": "c63d256b34",
-    "title": "Tales from the Borderlands",
-    "added": 1726160400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/tales-from-the-borderlands-epic/dp/amzn1.pg.item.7d8968f0-b1ff-4c44-a61a-5e5186ab9a35?ref_=SM_TalesfromtheBorderlands_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "tales-from-the-borderlands"
-  },
-  {
     "id": "244b256811",
     "title": "The Falconeer",
     "added": 1726765200000,
@@ -460,50 +405,6 @@
     "archived": false,
     "end": 1734544800000,
     "slug": "giana-sisters-twisted-dreams"
-  },
-  {
-    "id": "fd479ba9f6",
-    "title": "Showgunners",
-    "added": 1726160400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/showgunners-gog/dp/amzn1.pg.item.082f19d6-1d83-44a9-b2ab-af80d3e3e32c?ref_=SM_Showgunners_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "showgunners"
-  },
-  {
-    "id": "b9cd6d00aa",
-    "title": "9 Years of Shadows",
-    "added": 1726160400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/9-years-of-shadows-gog/dp/amzn1.pg.item.a8cae2e2-07cf-4185-9a1e-48b15d213b46?ref_=SM_9YearsofShadows_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "years-of-shadows-9"
-  },
-  {
-    "id": "fd1930dd35",
-    "title": "Cursed to Golf",
-    "added": 1726160400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/cursed-to-golf-gog/dp/amzn1.pg.item.b925bbe0-b052-454f-b357-381547048085?ref_=SM_CursedtoGolf_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "cursed-to-golf"
-  },
-  {
-    "id": "443d26dbc1",
-    "title": "Hell Pie",
-    "added": 1726160400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/hell-pie-gog/dp/amzn1.pg.item.31e693f1-75af-4002-a89b-40bb92b8c70e?ref_=SM_HellPie_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1733940000000,
-    "slug": "hell-pie"
   },
   {
     "id": "2476398d88",

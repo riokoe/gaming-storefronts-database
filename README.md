@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-11:
+Active giveaways as of 2024-12-12:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -54,11 +54,13 @@ Active giveaways as of 2024-12-11:
 | [Jak and Daxter™: The Precursor Legacy](https://store.playstation.com/en-us/concept/10010137) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
 | [Sly 2: Band of Thieves™](https://store.playstation.com/en-us/concept/10010691) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
 | [Sly 3: Honour Among Thieves™](https://store.playstation.com/en-us/concept/10010692) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
-| [Donkey Kong Land III™](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
+| [Tetris®](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | NES |
+| [Tetris® DX](https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/) | Nintendo Online [new] |  | Game Boy |
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
 | [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
+| [Basketball](https://gwa123.itch.io/football) | Itch.io | ~~1.02~~ | Sports |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
@@ -69,28 +71,33 @@ Active giveaways as of 2024-12-11:
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
 | [Croaking Around](https://scallybag.itch.io/croaking-around) | Itch.io | ~~3.00~~ | Platformer |
+| [Doctor Abhas](https://gwa123.itch.io/doctor-abhas) | Itch.io | ~~5.00~~ | Action |
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io | ~~16.00~~ | Adventure |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io | ~~3.99~~ | Educational |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io | ~~2.00~~ | Visual Novel |
 | [Fairy Penguin Parade](https://jdmgames.itch.io/fairy-penguin-parade) | Itch.io | ~~1.11~~ |  |
 | [FIGMEM 1](https://nasdab.itch.io/figmem) | Itch.io | ~~2.00~~ | Educational |
-| [Five Shoots at Bob: FUNTIMEKILLER](https://quadss.itch.io/five-shoots-at-bob-funtimekiller) | Itch.io | ~~2.00~~ | Shooter |
 | [Forgotten Cowboys](https://musialkov.itch.io/forgotten-cobwoys) | Itch.io | ~~2.00~~ | Action |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io | ~~5.00~~ | Platformer |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io | ~~4.00~~ | Role Playing |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
+| [Its Time To Fight](https://gwa123.itch.io/its-time-to-fight) | Itch.io | ~~2.00~~ | Role Playing |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
 | [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io | ~~5.00~~ | Role Playing |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
+| [Mathmare (Full)](https://strikeforce-studio.itch.io/mathmare-full) | Itch.io | ~~1.30~~ |  |
+| [Mathmare Lore Launcher](https://strikeforce-studio.itch.io/mathmare-lore-launcher) | Itch.io | ~~2.00~~ |  |
+| [Mathmare Nightmare Edition](https://strikeforce-studio.itch.io/mathmare-nightmare-edition) | Itch.io | ~~3.00~~ |  |
 | [MECH ZERO: Lost in Space](https://aethercode.itch.io/mech-zero-lost-in-space) | Itch.io | ~~3.00~~ | Action |
 | [Memento](https://jjbeats99.itch.io/memento-omori) | Itch.io | ~~3.00~~ | Visual Novel |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
+| [Name The Pokemon](https://gwa123.itch.io/name-the-pokemon) | Itch.io | ~~5.00~~ |  |
 | [New Meat](https://rocketlex.itch.io/new-meat) | Itch.io | ~~4.99~~ | Role Playing |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
 | [Omega No Sunshine 2](https://galoxyum.itch.io/ons24) | Itch.io | ~~5.00~~ | Role Playing |
@@ -102,19 +109,23 @@ Active giveaways as of 2024-12-11:
 | [Rewind To Fear - The Mansion](https://endsmeet-production.itch.io/rewind-to-fear) | Itch.io | ~~1.99~~ | Survival |
 | [River Strike](https://hoglet.itch.io/river-strike) | Itch.io | ~~2.00~~ | Action |
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io | ~~5.00~~ | Puzzle |
+| [Shattered Dreams](https://polyhistorgaming.itch.io/shattered-dreams) | Itch.io | ~~1.99~~ | Puzzle |
 | [Signal Lost](https://endsmeet-production.itch.io/signallost) | Itch.io | ~~1.99~~ | Survival |
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
 | [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io | ~~2.99~~ | Racing |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
+| [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io | ~~3.00~~ | Platformer |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io | ~~5.00~~ | Visual Novel |
 | [The Exorcism Of The Devil](https://king-mirage.itch.io/the-exorcism-of-the-devil) | Itch.io | ~~2.00~~ | Puzzle |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
+| [THE WHOLE WORLD](https://gwa123.itch.io/the-whole-world) | Itch.io | ~~2.00~~ | Adventure |
 | [The Wind Turbine](https://jemcraftstudios.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
 | [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io | ~~3.00~~ | Adventure |
+| [Theme Park Tycoon](https://gwa123.itch.io/theme-park-tycoon) | Itch.io | ~~1.50~~ | Simulation |
 | [Ticoban](https://juegosenlazaruscr.itch.io/ticoban) | Itch.io | ~~2.00~~ | Puzzle |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io | ~~1.01~~ | Adventure |
 | [Toony's Daycare Episode 1](https://littleghostgames.itch.io/toonys-daycare) | Itch.io | ~~2.00~~ | Puzzle |
@@ -126,4 +137,5 @@ Active giveaways as of 2024-12-11:
 | [World War 2 Dogfight Simulator](https://retrovr.itch.io/dogfightsim) | Itch.io | ~~6.00~~ | Simulation |
 | [Wysaddle Tribe Simulator: 2D Spectator Experience](https://15joldersmat.itch.io/wysaddle) | Itch.io | ~~4.00~~ | Simulation |
 | [Z invasion](https://gamerevolutionx.itch.io/zinvasion2) | Itch.io | ~~4.99~~ | Action |
+| [Zizzy Zombie](https://gwa123.itch.io/zizzy-zombie) | Itch.io | ~~5.00~~ | Action |
 | [Zombie Hunter](https://al7ussain.itch.io/zombie-hunter) | Itch.io | ~~5.00~~ | Shooter |

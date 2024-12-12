@@ -2854,5 +2854,29 @@
     ],
     "slug": "donkey-kong-land-iii-iii-gb",
     "archived": false
+  },
+  {
+    "id": "056ad6288d",
+    "title": "Tetris®",
+    "added": 1733993861947,
+    "platform": 8,
+    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "tags": [
+      "NES"
+    ],
+    "slug": "tetris-nes",
+    "archived": false
+  },
+  {
+    "id": "9c4055b923",
+    "title": "Tetris® DX",
+    "added": 1733993861947,
+    "platform": 8,
+    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "tags": [
+      "Game Boy"
+    ],
+    "slug": "tetris-dx-gb",
+    "archived": false
   }
 ]

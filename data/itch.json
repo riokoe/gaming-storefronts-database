@@ -886,20 +886,6 @@
     "archived": false
   },
   {
-    "id": "716a548647",
-    "title": "Five Shoots at Bob: FUNTIMEKILLER",
-    "price": 2,
-    "end": 1733989860000,
-    "added": 1733657330463,
-    "platform": 2,
-    "uri": "https://quadss.itch.io/five-shoots-at-bob-funtimekiller",
-    "tags": [
-      "Shooter"
-    ],
-    "slug": "five-shoots-at-funtimekiller",
-    "archived": false
-  },
-  {
     "id": "84b7e239aa",
     "title": "Kurio",
     "price": 5,
@@ -995,6 +981,166 @@
       "Simulation"
     ],
     "slug": "bots-of-boria",
+    "archived": false
+  },
+  {
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "price": 1.02,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/football",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "basketball",
+    "archived": false
+  },
+  {
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "price": 1.5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "theme-park-tycoon",
+    "archived": false
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "price": 2,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-whole-world",
+    "archived": false
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "slug": "name-the-pokemon",
+    "archived": false
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "price": 3,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "sud-game",
+    "archived": false
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "slug": "zizzy-zombie",
+    "archived": false
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "price": 2,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "its-time-to-fight",
+    "archived": false
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "slug": "doctor-abhas",
+    "archived": false
+  },
+  {
+    "id": "6883298a04",
+    "title": "Shattered Dreams",
+    "price": 1.99,
+    "end": 1735630440000,
+    "added": 1733993826662,
+    "platform": 2,
+    "uri": "https://polyhistorgaming.itch.io/shattered-dreams",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "shattered-dreams",
+    "archived": false
+  },
+  {
+    "id": "eb26aef47c",
+    "title": "Mathmare (Full)",
+    "price": 1.3,
+    "end": 1735176900000,
+    "added": 1733993826662,
+    "platform": 2,
+    "uri": "https://strikeforce-studio.itch.io/mathmare-full",
+    "tags": [],
+    "slug": "mathmare-full",
+    "archived": false
+  },
+  {
+    "id": "f6eed43e76",
+    "title": "Mathmare Nightmare Edition",
+    "price": 3,
+    "end": 1735176900000,
+    "added": 1733993826662,
+    "platform": 2,
+    "uri": "https://strikeforce-studio.itch.io/mathmare-nightmare-edition",
+    "tags": [],
+    "slug": "mathmare-nightmare",
+    "archived": false
+  },
+  {
+    "id": "3ee4a11cf7",
+    "title": "Mathmare Lore Launcher",
+    "price": 2,
+    "end": 1735176900000,
+    "added": 1733993826662,
+    "platform": 2,
+    "uri": "https://strikeforce-studio.itch.io/mathmare-lore-launcher",
+    "tags": [],
+    "slug": "mathmare-lore-launcher",
     "archived": false
   }
 ]
