@@ -29,7 +29,7 @@ Active giveaways as of 2024-12-13:
 | [HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set](https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set) | Steam |  | Online Co-Op, Action, PvE, dlc |
 | [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
 | [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Adventure, Action, dlc |
-| [The Lord of The Rings Return to Moria](https://store.epicgames.com/en-US/p/mysterygame1) | Epic |  | dlc |
+| [The Lord of The Rings Return to Moria](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [The Whispered World: Special Edition](https://www.gog.com/en/game/the_whispered_world_special_edition) | GOG |  |  |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
