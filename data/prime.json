@@ -783,5 +783,18 @@
     "tags": [],
     "slug": "redrawn-the-painted-tower-ce",
     "archived": false
+  },
+  {
+    "id": "00c4639db7",
+    "title": "Throne and Liberty - Winter Festival Cache",
+    "end": 1736622000000,
+    "added": 1734030000000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/winter-festival-cache/dp/amzn1.pg.item.cdbf301b-4fd6-4a16-8b99-e59108328d5f?ref_=SM_ThroneandLiberty_S01_D01_CRWN",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "throne-and-liberty-cache",
+    "archived": false
   }
 ]

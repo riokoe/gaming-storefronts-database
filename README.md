@@ -22,13 +22,13 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-12:
+Active giveaways as of 2024-12-13:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set](https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set) | Steam |  | Online Co-Op, Action, PvE, dlc |
 | [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
-| [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Action, Adventure, dlc |
+| [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Adventure, Action, dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [The Whispered World: Special Edition](https://www.gog.com/en/game/the_whispered_world_special_edition) | GOG |  |  |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
@@ -44,12 +44,11 @@ Active giveaways as of 2024-12-12:
 | [Planet of Lana](https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [ReDrawn: The Painted Tower - CE](https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [The Coma: Recut](https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Throne and Liberty - Winter Festival Cache](https://gaming.amazon.com/winter-festival-cache/dp/amzn1.pg.item.cdbf301b-4fd6-4a16-8b99-e59108328d5f?ref_=SM_ThroneandLiberty_S01_D01_CRWN) | Prime Gaming [new] |  | dlc |
 | [Warhammer 40,000: Dawn of War II](https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [EA SPORTS™ WRC](https://www.xbox.com/en-en/games/store/-/9N9PDJ7Z8S2R) | Xbox Game Pass [new] |  | Racing & flying, Simulation, Sports, Family & kids, Console, EA-Play |
-| [For The King II](https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0) | Xbox Game Pass [new] |  | Role playing, Action & adventure, Card & board, Strategy, Family & kids, Console |
+| [For The King II](https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0) | Xbox Game Pass [new] |  | Role playing, Action & adventure, Card & board, Strategy, Family & kids, Console, Desktop |
 | [Hunt: Showdown 1896](https://www.xbox.com/en-en/games/store/-/9NPRV0R4CS1Z) | Xbox Game Pass [new] |  | Shooter, Console |
 | [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
-| [Overthrown (Game Preview)](https://www.xbox.com/en-en/games/store/-/9MT5KSV3RCWD) | Xbox Game Pass [new] |  | Action & adventure, Simulation, Platformer, Console, Desktop |
 | [Wildfrost](https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ) | Xbox Game Pass [new] |  | Card & board, Strategy, Other, Console, Desktop |
 | [Jak and Daxter™: The Precursor Legacy](https://store.playstation.com/en-us/concept/10010137) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
 | [Sly 2: Band of Thieves™](https://store.playstation.com/en-us/concept/10010691) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
@@ -59,7 +58,6 @@ Active giveaways as of 2024-12-12:
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
-| [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
 | [Basketball](https://gwa123.itch.io/football) | Itch.io | ~~1.02~~ | Sports |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
@@ -114,6 +112,7 @@ Active giveaways as of 2024-12-12:
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
 | [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io | ~~2.99~~ | Racing |
+| [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [SUD GAME](https://gwa123.itch.io/sud-game) | Itch.io | ~~3.00~~ | Platformer |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io | ~~5.00~~ | Visual Novel |
@@ -122,7 +121,6 @@ Active giveaways as of 2024-12-12:
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
 | [THE WHOLE WORLD](https://gwa123.itch.io/the-whole-world) | Itch.io | ~~2.00~~ | Adventure |
 | [The Wind Turbine](https://jemcraftstudios.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
-| [Their Navy Is Their Doom](https://pressfstudio.itch.io/their-navy-is-their-doom) | Itch.io | ~~3.00~~ | Adventure |
 | [Theme Park Tycoon](https://gwa123.itch.io/theme-park-tycoon) | Itch.io | ~~1.50~~ | Simulation |
 | [Ticoban](https://juegosenlazaruscr.itch.io/ticoban) | Itch.io | ~~2.00~~ | Puzzle |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io | ~~1.01~~ | Adventure |

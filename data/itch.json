@@ -28,20 +28,6 @@
     "archived": false
   },
   {
-    "id": "1202c3fd53",
-    "title": "Their Navy Is Their Doom",
-    "price": 3,
-    "end": 1734044700000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://pressfstudio.itch.io/their-navy-is-their-doom",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "their-navy-is-their-doom",
-    "archived": false
-  },
-  {
     "id": "af95409b81",
     "title": "HOME GAME 2",
     "price": 4,
@@ -902,20 +888,6 @@
     "archived": false
   },
   {
-    "id": "df90d19746",
-    "title": "BALL PLATFORMER",
-    "price": 14,
-    "end": 1734031980000,
-    "added": 1733815913575,
-    "platform": 2,
-    "uri": "https://mrpaul667.itch.io/ball-platformer",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "ball-platformer",
-    "archived": false
-  },
-  {
     "id": "0e47e376ea",
     "title": "Wally The Seal 2",
     "price": 1.99,
@@ -1101,6 +1073,18 @@
     "uri": "https://strikeforce-studio.itch.io/mathmare-lore-launcher",
     "tags": [],
     "slug": "mathmare-lore-launcher",
+    "archived": false
+  },
+  {
+    "id": "673fb25548",
+    "title": "spiral paint: shoot & create!",
+    "price": 5,
+    "end": 1735614480000,
+    "added": 1734079436474,
+    "platform": 2,
+    "uri": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
+    "tags": [],
+    "slug": "spiral-paint-shoot-create",
     "archived": false
   }
 ]
