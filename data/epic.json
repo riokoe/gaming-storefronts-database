@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "10161463d0",
+    "title": "The Lord of The Rings Return to Moria",
+    "end": 1734624000000,
+    "added": 1734019200000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/mysterygame1",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "the-lord-of-the-moria",
+    "archived": false
+  }
+]

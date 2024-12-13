@@ -1157,20 +1157,6 @@
     "archived": false
   },
   {
-    "id": "6883298a04",
-    "title": "Shattered Dreams",
-    "price": 1.99,
-    "end": 1735630440000,
-    "added": 1733993826662,
-    "platform": 2,
-    "uri": "https://polyhistorgaming.itch.io/shattered-dreams",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "shattered-dreams",
-    "archived": false
-  },
-  {
     "id": "eb26aef47c",
     "title": "Mathmare (Full)",
     "price": 1.3,
@@ -1216,6 +1202,19 @@
     "uri": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
     "tags": [],
     "slug": "spiral-paint-shoot-create",
+    "archived": false
+  },
+  {
+    "id": "10161463d0",
+    "title": "The Lord of The Rings Return to Moria",
+    "end": 1734624000000,
+    "added": 1734019200000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/mysterygame1",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "the-lord-of-the-moria",
     "archived": false
   },
   {
@@ -1483,6 +1482,20 @@
     ],
     "slug": "riot-civil-unrest-1",
     "archived": false
+  },
+  {
+    "id": "6883298a04",
+    "title": "Shattered Dreams",
+    "price": 1.99,
+    "end": 1735630440000,
+    "added": 1733993826662,
+    "platform": 2,
+    "uri": "https://polyhistorgaming.itch.io/shattered-dreams",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "shattered-dreams",
+    "archived": true
   },
   {
     "id": "1202c3fd53",
