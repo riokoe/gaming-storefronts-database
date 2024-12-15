@@ -97,8 +97,8 @@
     "platform": 1,
     "uri": "https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship",
     "tags": [
-      "Adventure",
       "Action",
+      "Adventure",
       "dlc"
     ],
     "slug": "starborn-phoenix-ship",
@@ -118,16 +118,6 @@
       "dlc"
     ],
     "slug": "lynn-hd-wallpaper",
-    "archived": false
-  },
-  {
-    "id": "c4f25cf7c8",
-    "title": "The Whispered World: Special Edition",
-    "added": 1734027778048,
-    "platform": 3,
-    "uri": "https://www.gog.com/en/game/the_whispered_world_special_edition",
-    "tags": [],
-    "slug": "the-whispered-world-special",
     "archived": false
   },
   {
@@ -549,20 +539,6 @@
     "archived": false
   },
   {
-    "id": "d4fd805051",
-    "title": "Forgotten Cowboys",
-    "price": 2,
-    "end": 1734263640000,
-    "added": 1733125110877,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
-    "tags": [
-      "Action"
-    ],
-    "slug": "forgotten-cowboys",
-    "archived": false
-  },
-  {
     "id": "ef0410e8d1",
     "title": "Toony's Daycare Episode 2",
     "price": 2,
@@ -642,20 +618,6 @@
       "Educational"
     ],
     "slug": "figmem-1",
-    "archived": false
-  },
-  {
-    "id": "f2159c787e",
-    "title": "SPEED OF LIFE 3D",
-    "price": 2.99,
-    "end": 1748660400000,
-    "added": 1733384273014,
-    "platform": 2,
-    "uri": "https://towi-1.itch.io/speed-of-life-3d",
-    "tags": [
-      "Racing"
-    ],
-    "slug": "speed-of-life-d-3",
     "archived": false
   },
   {
@@ -921,20 +883,6 @@
     "archived": false
   },
   {
-    "id": "7b542e44e3",
-    "title": "New Meat",
-    "price": 4.99,
-    "end": 1735792980000,
-    "added": 1733559134042,
-    "platform": 2,
-    "uri": "https://rocketlex.itch.io/new-meat",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "new-meat",
-    "archived": false
-  },
-  {
     "id": "a312c386f2",
     "title": "Signal Lost",
     "price": 1.99,
@@ -1047,116 +995,6 @@
     "archived": false
   },
   {
-    "id": "e5436b9f81",
-    "title": "Basketball",
-    "price": 1.02,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/football",
-    "tags": [
-      "Sports"
-    ],
-    "slug": "basketball",
-    "archived": false
-  },
-  {
-    "id": "501d47fc56",
-    "title": "Theme Park Tycoon",
-    "price": 1.5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/theme-park-tycoon",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "theme-park-tycoon",
-    "archived": false
-  },
-  {
-    "id": "3f87d5016b",
-    "title": "THE WHOLE WORLD",
-    "price": 2,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/the-whole-world",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "the-whole-world",
-    "archived": false
-  },
-  {
-    "id": "519cf7bcfe",
-    "title": "Name The Pokemon",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/name-the-pokemon",
-    "tags": [],
-    "slug": "name-the-pokemon",
-    "archived": false
-  },
-  {
-    "id": "684f71313b",
-    "title": "SUD GAME",
-    "price": 3,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/sud-game",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "sud-game",
-    "archived": false
-  },
-  {
-    "id": "fa3d2ffa91",
-    "title": "Zizzy Zombie",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/zizzy-zombie",
-    "tags": [
-      "Action"
-    ],
-    "slug": "zizzy-zombie",
-    "archived": false
-  },
-  {
-    "id": "b44940d495",
-    "title": "Its Time To Fight",
-    "price": 2,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/its-time-to-fight",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "its-time-to-fight",
-    "archived": false
-  },
-  {
-    "id": "809c9152bd",
-    "title": "Doctor Abhas",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/doctor-abhas",
-    "tags": [
-      "Action"
-    ],
-    "slug": "doctor-abhas",
-    "archived": false
-  },
-  {
     "id": "eb26aef47c",
     "title": "Mathmare (Full)",
     "price": 1.3,
@@ -1202,6 +1040,154 @@
     "uri": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
     "tags": [],
     "slug": "spiral-paint-shoot-create",
+    "archived": false
+  },
+  {
+    "id": "57e070a56f",
+    "title": "Mannequin House : Requiem",
+    "price": 2.99,
+    "end": 1734555060000,
+    "added": 1734166337895,
+    "platform": 2,
+    "uri": "https://boredleviathan.itch.io/mh-requiem",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "mannequin-house-requiem",
+    "archived": false
+  },
+  {
+    "id": "7ca0a6bb56",
+    "title": "Wart Worm Wingding!",
+    "price": 4.99,
+    "end": 1735762020000,
+    "added": 1734166337895,
+    "platform": 2,
+    "uri": "https://johnvanderhoef.itch.io/wart-worm-wingding",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "wart-worm-wingding",
+    "archived": false
+  },
+  {
+    "id": "509e3ad538",
+    "title": "The Good Dog Show",
+    "price": 2,
+    "end": 1736759640000,
+    "added": 1734187138827,
+    "platform": 2,
+    "uri": "https://owofgames.itch.io/tgds",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "the-good-dog-show",
+    "archived": false
+  },
+  {
+    "id": "2c074b5673",
+    "title": "Ball Cave",
+    "price": 4,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/ball-cave",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "ball-cave",
+    "archived": false
+  },
+  {
+    "id": "b259f9c7d0",
+    "title": "Little Man",
+    "price": 1.99,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/little-man",
+    "tags": [],
+    "slug": "little-man",
+    "archived": false
+  },
+  {
+    "id": "c72595a55e",
+    "title": "Hotel Manager Sim",
+    "price": 4,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/hotel-manager-sim",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "hotel-manager-sim",
+    "archived": false
+  },
+  {
+    "id": "c731220c91",
+    "title": "Little man 3",
+    "price": 2.99,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/little-man-3",
+    "tags": [],
+    "slug": "little-man-3",
+    "archived": false
+  },
+  {
+    "id": "25c78671d4",
+    "title": "City Theft",
+    "price": 4,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/city-theft",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "city-theft",
+    "archived": false
+  },
+  {
+    "id": "df8032227d",
+    "title": "Little Man 2",
+    "price": 2.99,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/little-man-2",
+    "tags": [],
+    "slug": "little-man-2",
+    "archived": false
+  },
+  {
+    "id": "bf94ebce38",
+    "title": "Duck Crossing",
+    "price": 3.99,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/duck-crossing",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "duck-crossing",
+    "archived": false
+  },
+  {
+    "id": "bee11bf991",
+    "title": "The Fall Harvest",
+    "price": 5,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/the-fall-harvest",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "the-fall-harvest",
     "archived": false
   },
   {
@@ -1468,6 +1454,154 @@
     "archived": false
   },
   {
+    "id": "c4f25cf7c8",
+    "title": "The Whispered World: Special Edition",
+    "added": 1734027778048,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/the_whispered_world_special_edition",
+    "tags": [],
+    "slug": "the-whispered-world-special",
+    "archived": true
+  },
+  {
+    "id": "d4fd805051",
+    "title": "Forgotten Cowboys",
+    "price": 2,
+    "end": 1734263640000,
+    "added": 1733125110877,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
+    "tags": [
+      "Action"
+    ],
+    "slug": "forgotten-cowboys",
+    "archived": true
+  },
+  {
+    "id": "7b542e44e3",
+    "title": "New Meat",
+    "price": 4.99,
+    "end": 1735792980000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://rocketlex.itch.io/new-meat",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "new-meat",
+    "archived": true
+  },
+  {
+    "id": "e5436b9f81",
+    "title": "Basketball",
+    "price": 1.02,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/football",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "basketball",
+    "archived": true
+  },
+  {
+    "id": "501d47fc56",
+    "title": "Theme Park Tycoon",
+    "price": 1.5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/theme-park-tycoon",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "theme-park-tycoon",
+    "archived": true
+  },
+  {
+    "id": "3f87d5016b",
+    "title": "THE WHOLE WORLD",
+    "price": 2,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/the-whole-world",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-whole-world",
+    "archived": true
+  },
+  {
+    "id": "519cf7bcfe",
+    "title": "Name The Pokemon",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/name-the-pokemon",
+    "tags": [],
+    "slug": "name-the-pokemon",
+    "archived": true
+  },
+  {
+    "id": "684f71313b",
+    "title": "SUD GAME",
+    "price": 3,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/sud-game",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "sud-game",
+    "archived": true
+  },
+  {
+    "id": "fa3d2ffa91",
+    "title": "Zizzy Zombie",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/zizzy-zombie",
+    "tags": [
+      "Action"
+    ],
+    "slug": "zizzy-zombie",
+    "archived": true
+  },
+  {
+    "id": "b44940d495",
+    "title": "Its Time To Fight",
+    "price": 2,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/its-time-to-fight",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "its-time-to-fight",
+    "archived": true
+  },
+  {
+    "id": "809c9152bd",
+    "title": "Doctor Abhas",
+    "price": 5,
+    "end": 1734271260000,
+    "added": 1733936059749,
+    "platform": 2,
+    "uri": "https://gwa123.itch.io/doctor-abhas",
+    "tags": [
+      "Action"
+    ],
+    "slug": "doctor-abhas",
+    "archived": true
+  },
+  {
     "id": "1a45da8532",
     "title": "RIOT - Civil Unrest",
     "price": 16.99,
@@ -1481,7 +1615,21 @@
       "Simulation"
     ],
     "slug": "riot-civil-unrest-1",
-    "archived": false
+    "archived": true
+  },
+  {
+    "id": "f2159c787e",
+    "title": "SPEED OF LIFE 3D",
+    "price": 2.99,
+    "end": 1748660400000,
+    "added": 1733384273014,
+    "platform": 2,
+    "uri": "https://towi-1.itch.io/speed-of-life-3d",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "speed-of-life-d-3",
+    "archived": true
   },
   {
     "id": "6883298a04",
