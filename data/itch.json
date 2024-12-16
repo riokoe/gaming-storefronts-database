@@ -1068,5 +1068,33 @@
     ],
     "slug": "the-fall-harvest",
     "archived": false
+  },
+  {
+    "id": "f2a0edf1bc",
+    "title": "BloodWood",
+    "price": 10,
+    "end": 1734363600000,
+    "added": 1734287479906,
+    "platform": 2,
+    "uri": "https://louisgames.itch.io/bloodwood",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "bloodwood",
+    "archived": false
+  },
+  {
+    "id": "6c24717b94",
+    "title": "Cherophobia",
+    "price": 2.99,
+    "end": 1734672540000,
+    "added": 1734336576080,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/cherophobia",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "cherophobia",
+    "archived": false
   }
 ]

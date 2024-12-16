@@ -68,8 +68,8 @@
     "platform": 1,
     "uri": "https://store.steampowered.com/app/418670/Pankapu",
     "tags": [
-      "Indie",
       "Action",
+      "Indie",
       "Adventure"
     ],
     "slug": "pankapu",
@@ -1191,6 +1191,34 @@
     "archived": false
   },
   {
+    "id": "f2a0edf1bc",
+    "title": "BloodWood",
+    "price": 10,
+    "end": 1734363600000,
+    "added": 1734287479906,
+    "platform": 2,
+    "uri": "https://louisgames.itch.io/bloodwood",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "bloodwood",
+    "archived": false
+  },
+  {
+    "id": "6c24717b94",
+    "title": "Cherophobia",
+    "price": 2.99,
+    "end": 1734672540000,
+    "added": 1734336576080,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/cherophobia",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "cherophobia",
+    "archived": false
+  },
+  {
     "id": "10161463d0",
     "title": "The Lord of The Rings Return to Moria",
     "end": 1734624000000,
@@ -1452,319 +1480,5 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
-  },
-  {
-    "id": "c4f25cf7c8",
-    "title": "The Whispered World: Special Edition",
-    "added": 1734027778048,
-    "platform": 3,
-    "uri": "https://www.gog.com/en/game/the_whispered_world_special_edition",
-    "tags": [],
-    "slug": "the-whispered-world-special",
-    "archived": true
-  },
-  {
-    "id": "d4fd805051",
-    "title": "Forgotten Cowboys",
-    "price": 2,
-    "end": 1734263640000,
-    "added": 1733125110877,
-    "platform": 2,
-    "uri": "https://musialkov.itch.io/forgotten-cobwoys",
-    "tags": [
-      "Action"
-    ],
-    "slug": "forgotten-cowboys",
-    "archived": true
-  },
-  {
-    "id": "7b542e44e3",
-    "title": "New Meat",
-    "price": 4.99,
-    "end": 1735792980000,
-    "added": 1733559134042,
-    "platform": 2,
-    "uri": "https://rocketlex.itch.io/new-meat",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "new-meat",
-    "archived": true
-  },
-  {
-    "id": "e5436b9f81",
-    "title": "Basketball",
-    "price": 1.02,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/football",
-    "tags": [
-      "Sports"
-    ],
-    "slug": "basketball",
-    "archived": true
-  },
-  {
-    "id": "501d47fc56",
-    "title": "Theme Park Tycoon",
-    "price": 1.5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/theme-park-tycoon",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "theme-park-tycoon",
-    "archived": true
-  },
-  {
-    "id": "3f87d5016b",
-    "title": "THE WHOLE WORLD",
-    "price": 2,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/the-whole-world",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "the-whole-world",
-    "archived": true
-  },
-  {
-    "id": "519cf7bcfe",
-    "title": "Name The Pokemon",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/name-the-pokemon",
-    "tags": [],
-    "slug": "name-the-pokemon",
-    "archived": true
-  },
-  {
-    "id": "684f71313b",
-    "title": "SUD GAME",
-    "price": 3,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/sud-game",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "sud-game",
-    "archived": true
-  },
-  {
-    "id": "fa3d2ffa91",
-    "title": "Zizzy Zombie",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/zizzy-zombie",
-    "tags": [
-      "Action"
-    ],
-    "slug": "zizzy-zombie",
-    "archived": true
-  },
-  {
-    "id": "b44940d495",
-    "title": "Its Time To Fight",
-    "price": 2,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/its-time-to-fight",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "its-time-to-fight",
-    "archived": true
-  },
-  {
-    "id": "809c9152bd",
-    "title": "Doctor Abhas",
-    "price": 5,
-    "end": 1734271260000,
-    "added": 1733936059749,
-    "platform": 2,
-    "uri": "https://gwa123.itch.io/doctor-abhas",
-    "tags": [
-      "Action"
-    ],
-    "slug": "doctor-abhas",
-    "archived": true
-  },
-  {
-    "id": "1a45da8532",
-    "title": "RIOT - Civil Unrest",
-    "price": 16.99,
-    "end": 1734220740000,
-    "added": 1734012000000,
-    "platform": 12,
-    "uri": "https://www.fanatical.com/en/game/riot-civil-unrest",
-    "tags": [
-      "Strategy",
-      "RTS",
-      "Simulation"
-    ],
-    "slug": "riot-civil-unrest-1",
-    "archived": true
-  },
-  {
-    "id": "f2159c787e",
-    "title": "SPEED OF LIFE 3D",
-    "price": 2.99,
-    "end": 1748660400000,
-    "added": 1733384273014,
-    "platform": 2,
-    "uri": "https://towi-1.itch.io/speed-of-life-3d",
-    "tags": [
-      "Racing"
-    ],
-    "slug": "speed-of-life-d-3",
-    "archived": true
-  },
-  {
-    "id": "6883298a04",
-    "title": "Shattered Dreams",
-    "price": 1.99,
-    "end": 1735630440000,
-    "added": 1733993826662,
-    "platform": 2,
-    "uri": "https://polyhistorgaming.itch.io/shattered-dreams",
-    "tags": [
-      "Puzzle"
-    ],
-    "slug": "shattered-dreams",
-    "archived": true
-  },
-  {
-    "id": "1202c3fd53",
-    "title": "Their Navy Is Their Doom",
-    "price": 3,
-    "end": 1734044700000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://pressfstudio.itch.io/their-navy-is-their-doom",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "their-navy-is-their-doom",
-    "archived": true
-  },
-  {
-    "id": "df90d19746",
-    "title": "BALL PLATFORMER",
-    "price": 14,
-    "end": 1734031980000,
-    "added": 1733815913575,
-    "platform": 2,
-    "uri": "https://mrpaul667.itch.io/ball-platformer",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "ball-platformer",
-    "archived": true
-  },
-  {
-    "id": "fb610d2cf9",
-    "title": "LEGO® Star Wars™: The Skywalker Saga",
-    "price": 49.99,
-    "end": 1734019200000,
-    "added": 1733414400000,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga",
-    "tags": [],
-    "slug": "lego-star-wars-skywalker-saga",
-    "archived": true
-  },
-  {
-    "id": "b2673d867a",
-    "title": "Bus Simulator 21 Next Stop",
-    "price": 34.99,
-    "end": 1734019200000,
-    "added": 1733414400000,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/bus-simulator-21",
-    "tags": [],
-    "slug": "bus-simulator-next-stop-21",
-    "archived": true
-  },
-  {
-    "id": "96e327435d",
-    "title": "Wysaddle Tribe Simulator: 2D Spectator Experience",
-    "price": 4,
-    "end": 1733990340000,
-    "added": 1733905808048,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/wysaddle",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "wysaddle-tribe-experience-2",
-    "archived": true
-  },
-  {
-    "id": "faa89ac292",
-    "title": "Bots of Boria",
-    "price": 3,
-    "end": 1733990340000,
-    "added": 1733905808048,
-    "platform": 2,
-    "uri": "https://15joldersmat.itch.io/bots-of-boria",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "bots-of-boria",
-    "archived": true
-  },
-  {
-    "id": "716a548647",
-    "title": "Five Shoots at Bob: FUNTIMEKILLER",
-    "price": 2,
-    "end": 1733989860000,
-    "added": 1733657330463,
-    "platform": 2,
-    "uri": "https://quadss.itch.io/five-shoots-at-bob-funtimekiller",
-    "tags": [
-      "Shooter"
-    ],
-    "slug": "five-shoots-at-funtimekiller",
-    "archived": true
-  },
-  {
-    "id": "720976e2ba",
-    "title": "Beep Sheep Simulator",
-    "price": 5.2,
-    "end": 1733818920000,
-    "added": 1733577086196,
-    "platform": 2,
-    "uri": "https://osamamsa123.itch.io/beep-sheep-simulator",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "beep-sheep-simulator",
-    "archived": true
-  },
-  {
-    "id": "1aaaea34d9",
-    "title": "Nyghtmare: The Ninth King",
-    "price": 6.66,
-    "end": 1733670000000,
-    "added": 1733647490836,
-    "platform": 2,
-    "uri": "https://elvies.itch.io/nightmare-tnk-gbc",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "nyghtmare-the-ninth-king",
-    "archived": true
   }
 ]

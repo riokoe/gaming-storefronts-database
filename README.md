@@ -22,12 +22,12 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-15:
+Active giveaways as of 2024-12-16:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set](https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set) | Steam |  | Online Co-Op, Action, PvE, dlc |
-| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Indie, Action, Adventure |
+| [Pankapu](https://store.steampowered.com/app/418670/Pankapu) | Steam | ~~11.99~~ | Action, Indie, Adventure |
 | [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Action, Adventure, dlc |
 | [The Lord of The Rings Return to Moria](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
@@ -60,10 +60,12 @@ Active giveaways as of 2024-12-15:
 | [Ball Cave](https://gman1514.itch.io/ball-cave) | Itch.io | ~~4.00~~ | Strategy |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
+| [BloodWood](https://louisgames.itch.io/bloodwood) | Itch.io | ~~10.00~~ | Survival |
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [CatUp](https://dazaizer0.itch.io/catup) | Itch.io | ~~2.40~~ | Platformer |
+| [Cherophobia](https://worsteventgames.itch.io/cherophobia) | Itch.io | ~~2.99~~ | Adventure |
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
 | [City Theft](https://gman1514.itch.io/city-theft) | Itch.io | ~~4.00~~ | Role Playing |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
