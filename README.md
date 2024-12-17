@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-16:
+Active giveaways as of 2024-12-17:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -32,7 +32,6 @@ Active giveaways as of 2024-12-16:
 | [The Lord of The Rings Return to Moria](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
-| [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
 | [Project Walker](https://apps.microsoft.com/detail/9nbpvlnqdvvv) | Microsoft | ~~3.29~~ | Action & adventure, Fighting, Other |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
 | [Wild Eclipse](https://apps.microsoft.com/detail/9nlwh01l4kqm) | Microsoft | ~~3.29~~ | Action & adventure, Other, Puzzle & trivia |
@@ -47,7 +46,6 @@ Active giveaways as of 2024-12-16:
 | [Warhammer 40,000: Dawn of War II](https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [For The King II](https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0) | Xbox Game Pass [new] |  | Role playing, Action & adventure, Card & board, Strategy, Family & kids, Console, Desktop |
 | [Hunt: Showdown 1896](https://www.xbox.com/en-en/games/store/-/9NPRV0R4CS1Z) | Xbox Game Pass [new] |  | Shooter, Console |
-| [Indiana Jones and the Great Circle](https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3) | Xbox Game Pass [new] |  | Action & adventure, Console, Desktop |
 | [Wildfrost](https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ) | Xbox Game Pass [new] |  | Card & board, Strategy, Other, Console, Desktop |
 | [Jak and Daxter™: The Precursor Legacy](https://store.playstation.com/en-us/concept/10010137) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
 | [Sly 2: Band of Thieves™](https://store.playstation.com/en-us/concept/10010691) | Playstation Plus [new] |  | Adventure, PS4, PS5, Classic |
@@ -60,7 +58,7 @@ Active giveaways as of 2024-12-16:
 | [Ball Cave](https://gman1514.itch.io/ball-cave) | Itch.io | ~~4.00~~ | Strategy |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
-| [BloodWood](https://louisgames.itch.io/bloodwood) | Itch.io | ~~10.00~~ | Survival |
+| [Bloody Vengeance](https://nutty-studios.itch.io/bloody-vengeance) | Itch.io | ~~2.00~~ | Platformer |
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
@@ -73,10 +71,12 @@ Active giveaways as of 2024-12-16:
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [Duck Crossing](https://gman1514.itch.io/duck-crossing) | Itch.io | ~~3.99~~ | Adventure |
 | [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io | ~~16.00~~ | Adventure |
+| [Endless Frontier](https://leashagamesdev.itch.io/endless-frontier) | Itch.io | ~~4.99~~ | Action |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io | ~~3.99~~ | Educational |
 | [Evidence of 96'](https://teammelon.itch.io/evidence-of-96) | Itch.io | ~~2.00~~ | Visual Novel |
 | [Fairy Penguin Parade](https://jdmgames.itch.io/fairy-penguin-parade) | Itch.io | ~~1.11~~ |  |
 | [FIGMEM 1](https://nasdab.itch.io/figmem) | Itch.io | ~~2.00~~ | Educational |
+| [Forget-me-not](https://featherbox-studio.itch.io/forget-me-not) | Itch.io | ~~7.00~~ | Visual Novel |
 | [Foxy Man](https://al7ussain.itch.io/foxy-man) | Itch.io | ~~5.00~~ | Platformer |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io | ~~4.00~~ | Role Playing |
@@ -84,6 +84,7 @@ Active giveaways as of 2024-12-16:
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
+| [Kings Gambit](https://leashagamesdev.itch.io/kings-gambit) | Itch.io | ~~4.99~~ | Strategy |
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
@@ -100,7 +101,6 @@ Active giveaways as of 2024-12-16:
 | [Memento](https://jjbeats99.itch.io/memento-omori) | Itch.io | ~~3.00~~ | Visual Novel |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
-| [Omega No Sunshine 2](https://galoxyum.itch.io/ons24) | Itch.io | ~~5.00~~ | Role Playing |
 | [Orbital Paladin Melchior Y](https://jdmgames.itch.io/orbital-paladin-melchior-y) | Itch.io | ~~3.79~~ | Visual Novel |
 | [Parallel Problems](https://jdmgames.itch.io/parallel-problems) | Itch.io | ~~1.99~~ | Platformer |
 | [Particle](https://jeremyulrich.itch.io/particle) | Itch.io | ~~3.00~~ | Shooter |
@@ -114,6 +114,7 @@ Active giveaways as of 2024-12-16:
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
+| [Tales of Miravia](https://leashagamesdev.itch.io/tales-of-miravia) | Itch.io | ~~4.99~~ | Role Playing |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The Burrow](https://saladin786.itch.io/the-burrow) | Itch.io | ~~5.00~~ | Visual Novel |
 | [The Exorcism Of The Devil](https://king-mirage.itch.io/the-exorcism-of-the-devil) | Itch.io | ~~2.00~~ | Puzzle |

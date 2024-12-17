@@ -128,20 +128,6 @@
     "slug": "all-you-need-is-help-x-pc"
   },
   {
-    "id": "c1633abad7",
-    "title": "Amnesia: The Bunker",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PC15H56NGJK",
-    "tags": [
-      "Action & adventure",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "amnesia-the-bunker-x-pc"
-  },
-  {
     "id": "f946b81339",
     "title": "Among Us",
     "added": 1731431367336,
@@ -2177,21 +2163,6 @@
     ],
     "archived": false,
     "slug": "for-honor-marching-fire-x"
-  },
-  {
-    "id": "094667e20c",
-    "title": "Forager",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MV2S7Q5PHSW",
-    "tags": [
-      "Action & adventure",
-      "Simulation",
-      "Strategy",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "forager-x"
   },
   {
     "id": "77a3316a3e",
@@ -4856,21 +4827,6 @@
     "slug": "rage-2-x"
   },
   {
-    "id": "a2d4a7d862",
-    "title": "Rainbow Billy: The Curse of the Leviathan",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PMGFL6KM0T2",
-    "tags": [
-      "Action & adventure",
-      "Role playing",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "rainbow-billy-the-leviathan-x-pc"
-  },
-  {
     "id": "c76422d02a",
     "title": "Rare Replay",
     "added": 1731431367336,
@@ -4995,19 +4951,6 @@
     ],
     "archived": false,
     "slug": "riders-republic-x"
-  },
-  {
-    "id": "2c3b1043c9",
-    "title": "Rise of the Tomb Raider",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/BPCN22ZVT05C",
-    "tags": [
-      "Action & adventure",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "rise-of-the-tomb-raider-x"
   },
   {
     "id": "68883d20c4",
@@ -6146,34 +6089,6 @@
     "slug": "the-outer-worlds-x"
   },
   {
-    "id": "2c3837cf2e",
-    "title": "The Quarry for Xbox One",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N833N5FFF9P",
-    "tags": [
-      "Action & adventure",
-      "Other",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "the-quarry-for-one-x"
-  },
-  {
-    "id": "1c866419b2",
-    "title": "The Quarry for Xbox Series X|S",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N5HDNDWVV34",
-    "tags": [
-      "Action & adventure",
-      "Other",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "the-quarry-for-series-xs-x-xs"
-  },
-  {
     "id": "24782e2619",
     "title": "The Rewinder",
     "added": 1731431367336,
@@ -6326,23 +6241,6 @@
     ],
     "archived": false,
     "slug": "those-who-remain-x"
-  },
-  {
-    "id": "c1d9e29cc1",
-    "title": "Tin Hearts",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MZSWZD5TDZP",
-    "tags": [
-      "Puzzle & trivia",
-      "Other",
-      "Family & kids",
-      "Action & adventure",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "tin-hearts-x-pc"
   },
   {
     "id": "d9a80c085e",
@@ -7735,21 +7633,6 @@
     "slug": "football-manager-2024-pc"
   },
   {
-    "id": "119980f22e",
-    "title": "Forager",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9P5SFDNW6V13",
-    "tags": [
-      "Action & adventure",
-      "Simulation",
-      "Strategy",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "forager-pc"
-  },
-  {
     "id": "4531b89328",
     "title": "Frostpunk",
     "added": 1731431367336,
@@ -8392,19 +8275,6 @@
     ],
     "archived": false,
     "slug": "rise-of-nations-extended-pc"
-  },
-  {
-    "id": "2a28833baa",
-    "title": "Rise of the Tomb Raider",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NBLGGH6CRSZ",
-    "tags": [
-      "Action & adventure",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "rise-of-the-tomb-raider-pc"
   },
   {
     "id": "609074c5a9",

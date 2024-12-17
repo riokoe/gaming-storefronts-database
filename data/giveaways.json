@@ -1,19 +1,5 @@
 [
   {
-    "id": "f4d8331bc7",
-    "title": "Indiana Jones and the Great Circle",
-    "added": 1733739328246,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N8FQ28Z6QX3",
-    "tags": [
-      "Action & adventure",
-      "Console",
-      "Desktop"
-    ],
-    "slug": "indiana-jones-and-circle-x-pc",
-    "archived": false
-  },
-  {
     "id": "fde4672cb9",
     "title": "Wildfrost",
     "added": 1733905677669,
@@ -953,20 +939,6 @@
     "archived": false
   },
   {
-    "id": "0583beb2ac",
-    "title": "Omega No Sunshine 2",
-    "price": 5,
-    "end": 1735682340000,
-    "added": 1733815913575,
-    "platform": 2,
-    "uri": "https://galoxyum.itch.io/ons24",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "omega-no-sunshine-2",
-    "archived": false
-  },
-  {
     "id": "0e47e376ea",
     "title": "Wally The Seal 2",
     "price": 1.99,
@@ -1191,20 +1163,6 @@
     "archived": false
   },
   {
-    "id": "f2a0edf1bc",
-    "title": "BloodWood",
-    "price": 10,
-    "end": 1734363600000,
-    "added": 1734287479906,
-    "platform": 2,
-    "uri": "https://louisgames.itch.io/bloodwood",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "bloodwood",
-    "archived": false
-  },
-  {
     "id": "6c24717b94",
     "title": "Cherophobia",
     "price": 2.99,
@@ -1216,6 +1174,76 @@
       "Adventure"
     ],
     "slug": "cherophobia",
+    "archived": false
+  },
+  {
+    "id": "a637ee0185",
+    "title": "Forget-me-not",
+    "price": 7,
+    "end": 1735631040000,
+    "added": 1734349257066,
+    "platform": 2,
+    "uri": "https://featherbox-studio.itch.io/forget-me-not",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "forget-me-not",
+    "archived": false
+  },
+  {
+    "id": "697786628b",
+    "title": "Bloody Vengeance",
+    "price": 2,
+    "end": 1736932578000,
+    "added": 1734349257066,
+    "platform": 2,
+    "uri": "https://nutty-studios.itch.io/bloody-vengeance",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "bloody-vengeance",
+    "archived": false
+  },
+  {
+    "id": "541fe8f5b0",
+    "title": "Tales of Miravia",
+    "price": 4.99,
+    "end": 1735696740000,
+    "added": 1734420673765,
+    "platform": 2,
+    "uri": "https://leashagamesdev.itch.io/tales-of-miravia",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "tales-of-miravia",
+    "archived": false
+  },
+  {
+    "id": "0869e3b46b",
+    "title": "Endless Frontier",
+    "price": 4.99,
+    "end": 1735696740000,
+    "added": 1734420673765,
+    "platform": 2,
+    "uri": "https://leashagamesdev.itch.io/endless-frontier",
+    "tags": [
+      "Action"
+    ],
+    "slug": "endless-frontier",
+    "archived": false
+  },
+  {
+    "id": "ed337662d4",
+    "title": "Kings Gambit",
+    "price": 4.99,
+    "end": 1735696740000,
+    "added": 1734420673765,
+    "platform": 2,
+    "uri": "https://leashagamesdev.itch.io/kings-gambit",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "kings-gambit",
     "archived": false
   },
   {
@@ -1243,22 +1271,6 @@
       "Word"
     ],
     "slug": "so-many-words",
-    "archived": false
-  },
-  {
-    "id": "eca188100a",
-    "title": "In The Abyss",
-    "price": 2.69,
-    "added": 1733815928625,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9nclslg29mv4",
-    "tags": [
-      "Action & adventure",
-      "Other",
-      "Platformer",
-      "Puzzle & trivia"
-    ],
-    "slug": "in-the-abyss",
     "archived": false
   },
   {
@@ -1480,5 +1492,49 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "0583beb2ac",
+    "title": "Omega No Sunshine 2",
+    "price": 5,
+    "end": 1735682340000,
+    "added": 1733815913575,
+    "platform": 2,
+    "uri": "https://galoxyum.itch.io/ons24",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "omega-no-sunshine-2",
+    "archived": true
+  },
+  {
+    "id": "eca188100a",
+    "title": "In The Abyss",
+    "price": 2.69,
+    "added": 1733815928625,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nclslg29mv4",
+    "tags": [
+      "Action & adventure",
+      "Other",
+      "Platformer",
+      "Puzzle & trivia"
+    ],
+    "slug": "in-the-abyss",
+    "archived": true
+  },
+  {
+    "id": "f2a0edf1bc",
+    "title": "BloodWood",
+    "price": 10,
+    "end": 1734363600000,
+    "added": 1734287479906,
+    "platform": 2,
+    "uri": "https://louisgames.itch.io/bloodwood",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "bloodwood",
+    "archived": true
   }
 ]
