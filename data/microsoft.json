@@ -1,19 +1,5 @@
 [
   {
-    "id": "2a5d2a05d4",
-    "title": "So Many Words",
-    "price": 5.49,
-    "added": 1733044445131,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
-    "tags": [
-      "Family & kids",
-      "Word"
-    ],
-    "slug": "so-many-words",
-    "archived": false
-  },
-  {
     "id": "d62753daa8",
     "title": "Project Walker",
     "price": 3.29,
@@ -56,6 +42,22 @@
       "Platformer"
     ],
     "slug": "second-escape-10",
+    "archived": false
+  },
+  {
+    "id": "eca188100a",
+    "title": "In The Abyss",
+    "price": 2.69,
+    "added": 1734522851496,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nclslg29mv4",
+    "tags": [
+      "Action & adventure",
+      "Other",
+      "Platformer",
+      "Puzzle & trivia"
+    ],
+    "slug": "in-the-abyss",
     "archived": false
   }
 ]

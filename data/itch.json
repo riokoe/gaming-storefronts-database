@@ -1138,5 +1138,101 @@
     ],
     "slug": "kings-gambit",
     "archived": false
+  },
+  {
+    "id": "9601cff247",
+    "title": "Randall the Grape Jelly Cube goes to Soda Valley for some reason.",
+    "price": 1.99,
+    "end": 1735012740000,
+    "added": 1734522837462,
+    "platform": 2,
+    "uri": "https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "randall-the-grape-reason",
+    "archived": false
+  },
+  {
+    "id": "2528b7e937",
+    "title": "The Drifters",
+    "price": 5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-drifters",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "the-drifters",
+    "archived": false
+  },
+  {
+    "id": "38e81dbd4b",
+    "title": "Asteroids",
+    "price": 1.5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/asteroids",
+    "tags": [],
+    "slug": "asteroids",
+    "archived": false
+  },
+  {
+    "id": "fa1e4a272a",
+    "title": "Basic Shooter (Pre Alpha)",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "basic-shooter-pre-alpha",
+    "archived": false
+  },
+  {
+    "id": "1c835113d3",
+    "title": "The backrooms: Uncovered",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-backrooms",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-backrooms-uncovered",
+    "archived": false
+  },
+  {
+    "id": "7bad9fbed3",
+    "title": "Are you There?",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/are-you-there",
+    "tags": [
+      "Action"
+    ],
+    "slug": "are-you-there",
+    "archived": false
+  },
+  {
+    "id": "7cc023f74b",
+    "title": "Untitled Gore Game",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/untitled-gore-game",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "untitled-gore-game",
+    "archived": false
   }
 ]

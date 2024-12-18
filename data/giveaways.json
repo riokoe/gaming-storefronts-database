@@ -1,21 +1,5 @@
 [
   {
-    "id": "fde4672cb9",
-    "title": "Wildfrost",
-    "added": 1733905677669,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N061M9R7BVQ",
-    "tags": [
-      "Card & board",
-      "Strategy",
-      "Other",
-      "Console",
-      "Desktop"
-    ],
-    "slug": "wildfrost-x-pc",
-    "archived": false
-  },
-  {
     "id": "ce193808f8",
     "title": "Hunt: Showdown 1896",
     "added": 1734014168386,
@@ -1247,6 +1231,102 @@
     "archived": false
   },
   {
+    "id": "9601cff247",
+    "title": "Randall the Grape Jelly Cube goes to Soda Valley for some reason.",
+    "price": 1.99,
+    "end": 1735012740000,
+    "added": 1734522837462,
+    "platform": 2,
+    "uri": "https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "randall-the-grape-reason",
+    "archived": false
+  },
+  {
+    "id": "2528b7e937",
+    "title": "The Drifters",
+    "price": 5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-drifters",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "the-drifters",
+    "archived": false
+  },
+  {
+    "id": "38e81dbd4b",
+    "title": "Asteroids",
+    "price": 1.5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/asteroids",
+    "tags": [],
+    "slug": "asteroids",
+    "archived": false
+  },
+  {
+    "id": "fa1e4a272a",
+    "title": "Basic Shooter (Pre Alpha)",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "basic-shooter-pre-alpha",
+    "archived": false
+  },
+  {
+    "id": "1c835113d3",
+    "title": "The backrooms: Uncovered",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-backrooms",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-backrooms-uncovered",
+    "archived": false
+  },
+  {
+    "id": "7bad9fbed3",
+    "title": "Are you There?",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/are-you-there",
+    "tags": [
+      "Action"
+    ],
+    "slug": "are-you-there",
+    "archived": false
+  },
+  {
+    "id": "7cc023f74b",
+    "title": "Untitled Gore Game",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/untitled-gore-game",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "untitled-gore-game",
+    "archived": false
+  },
+  {
     "id": "10161463d0",
     "title": "The Lord of The Rings Return to Moria",
     "end": 1734624000000,
@@ -1257,20 +1337,6 @@
       "dlc"
     ],
     "slug": "the-lord-of-the-moria",
-    "archived": false
-  },
-  {
-    "id": "2a5d2a05d4",
-    "title": "So Many Words",
-    "price": 5.49,
-    "added": 1733044445131,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
-    "tags": [
-      "Family & kids",
-      "Word"
-    ],
-    "slug": "so-many-words",
     "archived": false
   },
   {
@@ -1319,16 +1385,19 @@
     "archived": false
   },
   {
-    "id": "19091bd7e6",
-    "title": "New World: Aeternum - Aelstrom's Cache",
-    "end": 1736532000000,
-    "added": 1733853600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/aelstroms-cache/dp/amzn1.pg.item.dd795bad-2ba9-44a7-b2b4-bb90252d3c4a?ref_=SM_NewWorld_S02_D05_CRWN",
+    "id": "eca188100a",
+    "title": "In The Abyss",
+    "price": 2.69,
+    "added": 1734522851496,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nclslg29mv4",
     "tags": [
-      "dlc"
+      "Action & adventure",
+      "Other",
+      "Platformer",
+      "Puzzle & trivia"
     ],
-    "slug": "new-world-aeternum-cache",
+    "slug": "in-the-abyss",
     "archived": false
   },
   {
@@ -1456,6 +1525,109 @@
     "archived": false
   },
   {
+    "id": "06b5854dd5",
+    "title": "Anno 1800™ Console Edition - Standard",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003143",
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "PS5",
+      "Ubisoft"
+    ],
+    "slug": "anno-console-standard-1800-ps",
+    "archived": false
+  },
+  {
+    "id": "963f224428",
+    "title": "FOR HONOR",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/221694",
+    "tags": [
+      "Action",
+      "Fighting",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "for-honor-ps",
+    "archived": false
+  },
+  {
+    "id": "3970505f2b",
+    "title": "Hungry Shark® World",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/232286",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "hungry-shark-world-ps",
+    "archived": false
+  },
+  {
+    "id": "5de0e233d6",
+    "title": "ODDBALLERS",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003316",
+    "tags": [
+      "Party",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "oddballers-ps",
+    "archived": false
+  },
+  {
+    "id": "f6c0f56ac6",
+    "title": "STEEP",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/221765",
+    "tags": [
+      "Sports",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "steep-ps",
+    "archived": false
+  },
+  {
+    "id": "d0a1507f36",
+    "title": "The Crew® 2 Standard Edition",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227552",
+    "tags": [
+      "Racing",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "the-crew-standard-2-ps",
+    "archived": false
+  },
+  {
+    "id": "521e817b84",
+    "title": "Tom Clancy’s Ghost Recon® Wildlands Standard Edition",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/201697",
+    "tags": [
+      "Action",
+      "Shooter",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "tom-clancys-ghost-standard-ps",
+    "archived": false
+  },
+  {
     "id": "056ad6288d",
     "title": "Tetris®",
     "added": 1733993861947,
@@ -1494,6 +1666,20 @@
     "archived": false
   },
   {
+    "id": "2a5d2a05d4",
+    "title": "So Many Words",
+    "price": 5.49,
+    "added": 1733044445131,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
+    "tags": [
+      "Family & kids",
+      "Word"
+    ],
+    "slug": "so-many-words",
+    "archived": true
+  },
+  {
     "id": "0583beb2ac",
     "title": "Omega No Sunshine 2",
     "price": 5,
@@ -1505,22 +1691,6 @@
       "Role Playing"
     ],
     "slug": "omega-no-sunshine-2",
-    "archived": true
-  },
-  {
-    "id": "eca188100a",
-    "title": "In The Abyss",
-    "price": 2.69,
-    "added": 1733815928625,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9nclslg29mv4",
-    "tags": [
-      "Action & adventure",
-      "Other",
-      "Platformer",
-      "Puzzle & trivia"
-    ],
-    "slug": "in-the-abyss",
     "archived": true
   },
   {

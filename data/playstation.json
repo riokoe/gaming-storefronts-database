@@ -7836,35 +7836,6 @@
     "archived": false
   },
   {
-    "id": "cde50c3be7",
-    "title": "Mega Man Legacy Collection 2",
-    "added": 1731928284271,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/227873",
-    "tags": [
-      "Action",
-      "Arcade",
-      "PS4",
-      "Classic"
-    ],
-    "slug": "mega-man-legacy-2-ps",
-    "archived": false
-  },
-  {
-    "id": "8f63f69e7c",
-    "title": "Mega Man® Legacy Collection",
-    "added": 1731928284271,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/202697",
-    "tags": [
-      "Action",
-      "PS4",
-      "Classic"
-    ],
-    "slug": "mega-man-legacy-ps",
-    "archived": false
-  },
-  {
     "id": "3194e970d4",
     "title": "Mount & Blade: Warband",
     "added": 1731928284271,
@@ -9124,6 +9095,109 @@
       "Classic"
     ],
     "slug": "sly-honour-among-thieves-3-ps",
+    "archived": false
+  },
+  {
+    "id": "06b5854dd5",
+    "title": "Anno 1800™ Console Edition - Standard",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003143",
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "PS5",
+      "Ubisoft"
+    ],
+    "slug": "anno-console-standard-1800-ps",
+    "archived": false
+  },
+  {
+    "id": "963f224428",
+    "title": "FOR HONOR",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/221694",
+    "tags": [
+      "Action",
+      "Fighting",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "for-honor-ps",
+    "archived": false
+  },
+  {
+    "id": "3970505f2b",
+    "title": "Hungry Shark® World",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/232286",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "hungry-shark-world-ps",
+    "archived": false
+  },
+  {
+    "id": "5de0e233d6",
+    "title": "ODDBALLERS",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003316",
+    "tags": [
+      "Party",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "oddballers-ps",
+    "archived": false
+  },
+  {
+    "id": "f6c0f56ac6",
+    "title": "STEEP",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/221765",
+    "tags": [
+      "Sports",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "steep-ps",
+    "archived": false
+  },
+  {
+    "id": "d0a1507f36",
+    "title": "The Crew® 2 Standard Edition",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227552",
+    "tags": [
+      "Racing",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "the-crew-standard-2-ps",
+    "archived": false
+  },
+  {
+    "id": "521e817b84",
+    "title": "Tom Clancy’s Ghost Recon® Wildlands Standard Edition",
+    "added": 1734522852874,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/201697",
+    "tags": [
+      "Action",
+      "Shooter",
+      "PS4",
+      "Ubisoft"
+    ],
+    "slug": "tom-clancys-ghost-standard-ps",
     "archived": false
   }
 ]
