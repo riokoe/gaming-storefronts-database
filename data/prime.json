@@ -385,19 +385,6 @@
     "slug": "faraway-jungle-escape-2"
   },
   {
-    "id": "2a87f20c40",
-    "title": "Lost Ark - Behemoth Cache",
-    "end": 1734634800000,
-    "added": 1732647600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/behemoth-cache/dp/amzn1.pg.item.42a38ed1-ecdf-435f-940e-41948575de79?ref_=SM_LostArk_S03_D03_CRWN",
-    "tags": [
-      "dlc"
-    ],
-    "slug": "lost-ark-behemoth-cache",
-    "archived": false
-  },
-  {
     "id": "2c10e70910",
     "title": "Jurassic World Evolution",
     "end": 1740506400000,
@@ -574,28 +561,6 @@
     "archived": false
   },
   {
-    "id": "ec1001bc5e",
-    "title": "Space Hulk: Deathwing - Enhanced Edition",
-    "end": 1734631200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/space-hulk-deathwing-enhanced-edition-gog/dp/amzn1.pg.item.99563eca-c95a-43d4-8d44-4b04948f35f0?ref_=SM_SpaceHulkDeathwingEnhancedEdition_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "space-hulk-deathwing-enhanced",
-    "archived": false
-  },
-  {
-    "id": "492af3663b",
-    "title": "Necromunda: Hired Gun",
-    "end": 1734631200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/necromunda-hired-gun-epic/dp/amzn1.pg.item.12e533f9-96d1-41f9-a812-0fa7fba3624c?ref_=SM_NecromundaHiredGun_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "necromunda-hired-gun",
-    "archived": false
-  },
-  {
     "id": "e5fcf38450",
     "title": "Quake II",
     "end": 1736359200000,
@@ -696,6 +661,74 @@
       "dlc"
     ],
     "slug": "throne-and-liberty-cache",
+    "archived": false
+  },
+  {
+    "id": "7e016c5113",
+    "title": "Predator: Hunting Grounds",
+    "end": 1735754400000,
+    "added": 1734631200000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "predator-hunting-grounds",
+    "archived": false
+  },
+  {
+    "id": "6f0fe79bcc",
+    "title": "Nine Witches: Family Disruption",
+    "end": 1735840800000,
+    "added": 1734631200000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/nine-witches-family-disruption-aga/dp/amzn1.pg.item.8e9e8e1f-99cd-4997-8526-319fdc387c65?ref_=SM_NineWitchesFamilyDisruption_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "nine-witches-family-disruption",
+    "archived": false
+  },
+  {
+    "id": "851d00d8d1",
+    "title": "Aces of the Luftwaffe - Squadron Extended Edition",
+    "end": 1742403600000,
+    "added": 1734631200000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/aces-of-the-luftwaffe-squadron-extended-edition-aga/dp/amzn1.pg.item.a3efa934-2df6-4142-9cf5-fae055ab84c1?ref_=SM_AcesoftheLuftwaffeSquadronExtendedEdition_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "aces-of-the-luftwaffe-extended",
+    "archived": false
+  },
+  {
+    "id": "789e16c80f",
+    "title": "Simulakros",
+    "end": 1742403600000,
+    "added": 1734631200000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "simulakros",
+    "archived": false
+  },
+  {
+    "id": "74649e6f30",
+    "title": "Christmas Fables: The Magic Snowflake - CE",
+    "end": 1737568800000,
+    "added": 1734631200000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/christmas-fables-the-magic-snowflake-ce-legacy/dp/amzn1.pg.item.bbf92539-33a3-48f9-8c4a-68624b1a4987?ref_=SM_ChristmasFablesTheMagicSnowflakeCE_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "christmas-fables-snowflake-ce",
+    "archived": false
+  },
+  {
+    "id": "4c6b4a66d4",
+    "title": "Lost Ark - Holiday Cache",
+    "end": 1737140400000,
+    "added": 1734634800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/holiday-cache/dp/amzn1.pg.item.9eb137a5-141b-4c62-ab14-fd59634094e8?ref_=SM_LostArk_S03_D04_CRWN",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "lost-ark-holiday-cache",
     "archived": false
   }
 ]

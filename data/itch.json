@@ -1360,5 +1360,19 @@
     ],
     "slug": "gold-digger",
     "archived": false
+  },
+  {
+    "id": "28ce8ce215",
+    "title": "Lani's Call: A Tiny Whale Singer Story",
+    "price": 2.99,
+    "end": 1736204400000,
+    "added": 1734639719978,
+    "platform": 2,
+    "uri": "https://telescopegames.itch.io/lanis-call",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "lanis-call-a-tiny-story",
+    "archived": false
   }
 ]

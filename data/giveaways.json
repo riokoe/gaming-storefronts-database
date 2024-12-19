@@ -1,62 +1,17 @@
 [
   {
-    "id": "ce193808f8",
-    "title": "Hunt: Showdown 1896",
-    "added": 1734014168386,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NPRV0R4CS1Z",
-    "tags": [
-      "Shooter",
-      "Console"
-    ],
-    "slug": "hunt-showdown-1896-x",
-    "archived": false
-  },
-  {
-    "id": "10b634520d",
-    "title": "For The King II",
-    "added": 1734027430706,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0",
-    "tags": [
-      "Role playing",
-      "Action & adventure",
-      "Card & board",
-      "Strategy",
-      "Family & kids",
-      "Console",
-      "Desktop"
-    ],
-    "slug": "for-the-king-ii-ii-x-pc",
-    "archived": false
-  },
-  {
-    "id": "78ba0ddb36",
-    "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
-    "added": 1734027302993,
+    "id": "3b32dab1f4",
+    "title": "Distant Space 2",
+    "price": 0.98,
+    "added": 1734639367730,
     "platform": 1,
-    "uri": "https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set",
-    "tags": [
-      "Online Co-Op",
-      "Action",
-      "PvE",
-      "dlc"
-    ],
-    "slug": "helldivers-tr-alpha-armor-set-2117",
-    "archived": false
-  },
-  {
-    "id": "9ef80c02d4",
-    "title": "Starborn Phoenix Ship",
-    "added": 1734027432306,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship",
+    "uri": "https://store.steampowered.com/app/729460/Distant_Space_2",
     "tags": [
       "Action",
       "Adventure",
-      "dlc"
+      "Indie"
     ],
-    "slug": "starborn-phoenix-ship",
+    "slug": "distant-space-2",
     "archived": false
   },
   {
@@ -73,6 +28,16 @@
       "dlc"
     ],
     "slug": "lynn-hd-wallpaper",
+    "archived": false
+  },
+  {
+    "id": "6da06da763",
+    "title": "Chicken Assassin: Reloaded",
+    "added": 1734639375952,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/chicken_assassin_reloaded",
+    "tags": [],
+    "slug": "chicken-assassin-reloaded",
     "archived": false
   },
   {
@@ -1438,16 +1403,30 @@
     "archived": false
   },
   {
-    "id": "10161463d0",
-    "title": "The Lord of The Rings Return to Moria",
-    "end": 1734624000000,
-    "added": 1734019200000,
+    "id": "28ce8ce215",
+    "title": "Lani's Call: A Tiny Whale Singer Story",
+    "price": 2.99,
+    "end": 1736204400000,
+    "added": 1734639719978,
+    "platform": 2,
+    "uri": "https://telescopegames.itch.io/lanis-call",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "lanis-call-a-tiny-story",
+    "archived": false
+  },
+  {
+    "id": "7971b28fb1",
+    "title": "Vampire Survivors",
+    "end": 1734710400000,
+    "added": 1734624000000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344",
+    "uri": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1",
     "tags": [
       "dlc"
     ],
-    "slug": "the-lord-of-the-moria",
+    "slug": "vampire-survivors",
     "archived": false
   },
   {
@@ -1529,82 +1508,71 @@
     "archived": false
   },
   {
-    "id": "3610c5afc6",
-    "title": "Warhammer 40,000: Dawn of War II",
-    "end": 1735149600000,
-    "added": 1734026400000,
+    "id": "7e016c5113",
+    "title": "Predator: Hunting Grounds",
+    "end": 1735754400000,
+    "added": 1734631200000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN",
     "tags": [],
-    "slug": "warhammer-dawn-war-ii-ii-40000",
+    "slug": "predator-hunting-grounds",
     "archived": false
   },
   {
-    "id": "446276d34d",
-    "title": "Hero's Hour",
-    "end": 1739383200000,
-    "added": 1734026400000,
+    "id": "6f0fe79bcc",
+    "title": "Nine Witches: Family Disruption",
+    "end": 1735840800000,
+    "added": 1734631200000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/heros-hour-gog/dp/amzn1.pg.item.63ec17e6-98d6-4a2a-809d-4583c851d8e3?ref_=SM_HerosHour_S02_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/nine-witches-family-disruption-aga/dp/amzn1.pg.item.8e9e8e1f-99cd-4997-8526-319fdc387c65?ref_=SM_NineWitchesFamilyDisruption_S02_FGWP_CRWN",
     "tags": [],
-    "slug": "heros-hour",
+    "slug": "nine-witches-family-disruption",
     "archived": false
   },
   {
-    "id": "6254f27367",
-    "title": "Planet of Lana",
-    "end": 1736964000000,
-    "added": 1734026400000,
+    "id": "851d00d8d1",
+    "title": "Aces of the Luftwaffe - Squadron Extended Edition",
+    "end": 1742403600000,
+    "added": 1734631200000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/aces-of-the-luftwaffe-squadron-extended-edition-aga/dp/amzn1.pg.item.a3efa934-2df6-4142-9cf5-fae055ab84c1?ref_=SM_AcesoftheLuftwaffeSquadronExtendedEdition_S01_FGWP_CRWN",
     "tags": [],
-    "slug": "planet-of-lana",
+    "slug": "aces-of-the-luftwaffe-extended",
     "archived": false
   },
   {
-    "id": "66511d3d11",
-    "title": "Electrician Simulator",
-    "end": 1735149600000,
-    "added": 1734026400000,
+    "id": "789e16c80f",
+    "title": "Simulakros",
+    "end": 1742403600000,
+    "added": 1734631200000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN",
     "tags": [],
-    "slug": "electrician-simulator",
+    "slug": "simulakros",
     "archived": false
   },
   {
-    "id": "d144e724b2",
-    "title": "The Coma: Recut",
-    "end": 1736964000000,
-    "added": 1734026400000,
+    "id": "74649e6f30",
+    "title": "Christmas Fables: The Magic Snowflake - CE",
+    "end": 1737568800000,
+    "added": 1734631200000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/christmas-fables-the-magic-snowflake-ce-legacy/dp/amzn1.pg.item.bbf92539-33a3-48f9-8c4a-68624b1a4987?ref_=SM_ChristmasFablesTheMagicSnowflakeCE_S01_FGWP_CRWN",
     "tags": [],
-    "slug": "the-coma-recut",
+    "slug": "christmas-fables-snowflake-ce",
     "archived": false
   },
   {
-    "id": "b1f7abc7ac",
-    "title": "ReDrawn: The Painted Tower - CE",
-    "end": 1739383200000,
-    "added": 1734026400000,
+    "id": "4c6b4a66d4",
+    "title": "Lost Ark - Holiday Cache",
+    "end": 1737140400000,
+    "added": 1734634800000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "redrawn-the-painted-tower-ce",
-    "archived": false
-  },
-  {
-    "id": "00c4639db7",
-    "title": "Throne and Liberty - Winter Festival Cache",
-    "end": 1736622000000,
-    "added": 1734030000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/winter-festival-cache/dp/amzn1.pg.item.cdbf301b-4fd6-4a16-8b99-e59108328d5f?ref_=SM_ThroneandLiberty_S01_D01_CRWN",
+    "uri": "https://gaming.amazon.com/holiday-cache/dp/amzn1.pg.item.9eb137a5-141b-4c62-ab14-fd59634094e8?ref_=SM_LostArk_S03_D04_CRWN",
     "tags": [
       "dlc"
     ],
-    "slug": "throne-and-liberty-cache",
+    "slug": "lost-ark-holiday-cache",
     "archived": false
   },
   {
@@ -1876,6 +1844,64 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "1862f2901b",
+    "title": "ScourgeBringer",
+    "price": 16.99,
+    "end": 1734825540000,
+    "added": 1734616800000,
+    "platform": 12,
+    "uri": "https://www.fanatical.com/en/game/scourge-bringer",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Roguelite"
+    ],
+    "slug": "scourgebringer",
+    "archived": false
+  },
+  {
+    "id": "78ba0ddb36",
+    "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
+    "added": 1734027302993,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set",
+    "tags": [
+      "Online Co-Op",
+      "Action",
+      "PvE",
+      "dlc"
+    ],
+    "slug": "helldivers-tr-alpha-armor-set-2117",
+    "archived": true
+  },
+  {
+    "id": "9ef80c02d4",
+    "title": "Starborn Phoenix Ship",
+    "added": 1734027432306,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship",
+    "tags": [
+      "Action",
+      "Adventure",
+      "dlc"
+    ],
+    "slug": "starborn-phoenix-ship",
+    "archived": true
+  },
+  {
+    "id": "10161463d0",
+    "title": "The Lord of The Rings Return to Moria",
+    "end": 1734624000000,
+    "added": 1734019200000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "the-lord-of-the-moria",
+    "archived": true
   },
   {
     "id": "55e104eff8",

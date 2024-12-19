@@ -26,25 +26,23 @@ Active giveaways as of 2024-12-19:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
-| [HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set](https://store.steampowered.com/app/2765950/HELLDIVERS_2__TR117_Alpha_Commander_Armor_Set) | Steam |  | Online Co-Op, Action, PvE, dlc |
-| [Starborn Phoenix Ship](https://store.steampowered.com/app/3380990/Starborn_Phoenix_Ship) | Steam |  | Action, Adventure, dlc |
-| [The Lord of The Rings Return to Moria](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344) | Epic |  | dlc |
+| [Distant Space 2](https://store.steampowered.com/app/729460/Distant_Space_2) | Steam | ~~0.98~~ | Action, Adventure, Indie |
+| [Vampire Survivors](https://store.epicgames.com/en-US/p/vampire-survivors-f699a1) | Epic |  | dlc |
+| [Chicken Assassin: Reloaded](https://www.gog.com/en/game/chicken_assassin_reloaded) | GOG |  |  |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
 | [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
 | [Project Walker](https://apps.microsoft.com/detail/9nbpvlnqdvvv) | Microsoft | ~~3.29~~ | Action & adventure, Fighting, Other |
 | [Wild Eclipse](https://apps.microsoft.com/detail/9nlwh01l4kqm) | Microsoft | ~~3.29~~ | Action & adventure, Other, Puzzle & trivia |
 | [Word Scramble+ : Words & Quotes - PC & XBOX](https://apps.microsoft.com/detail/9npts4ljw2lv) | Microsoft | ~~3.99~~ | Classics, Educational, Family & kids, Puzzle & trivia, Word |
+| [ScourgeBringer](https://www.fanatical.com/en/game/scourge-bringer) | Fanatical | ~~16.99~~ | Action, Adventure, Roguelite |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
-| [Electrician Simulator](https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Hero's Hour](https://gaming.amazon.com/heros-hour-gog/dp/amzn1.pg.item.63ec17e6-98d6-4a2a-809d-4583c851d8e3?ref_=SM_HerosHour_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Planet of Lana](https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [ReDrawn: The Painted Tower - CE](https://gaming.amazon.com/redrawn-the-painted-tower-ce-aga/dp/amzn1.pg.item.953119fd-c18e-4536-9e68-9631d0dec828?ref_=SM_ReDrawnThePaintedTowerCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [The Coma: Recut](https://gaming.amazon.com/the-coma-recut-gog/dp/amzn1.pg.item.c304fdb8-56db-4471-9678-3955a87b3b24?ref_=SM_TheComaRecut_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [Throne and Liberty - Winter Festival Cache](https://gaming.amazon.com/winter-festival-cache/dp/amzn1.pg.item.cdbf301b-4fd6-4a16-8b99-e59108328d5f?ref_=SM_ThroneandLiberty_S01_D01_CRWN) | Prime Gaming [new] |  | dlc |
-| [Warhammer 40,000: Dawn of War II](https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
-| [For The King II](https://www.xbox.com/en-en/games/store/-/9NVC9KWJVLT0) | Xbox Game Pass [new] |  | Role playing, Action & adventure, Card & board, Strategy, Family & kids, Console, Desktop |
-| [Hunt: Showdown 1896](https://www.xbox.com/en-en/games/store/-/9NPRV0R4CS1Z) | Xbox Game Pass [new] |  | Shooter, Console |
+| [Aces of the Luftwaffe - Squadron Extended Edition](https://gaming.amazon.com/aces-of-the-luftwaffe-squadron-extended-edition-aga/dp/amzn1.pg.item.a3efa934-2df6-4142-9cf5-fae055ab84c1?ref_=SM_AcesoftheLuftwaffeSquadronExtendedEdition_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Christmas Fables: The Magic Snowflake - CE](https://gaming.amazon.com/christmas-fables-the-magic-snowflake-ce-legacy/dp/amzn1.pg.item.bbf92539-33a3-48f9-8c4a-68624b1a4987?ref_=SM_ChristmasFablesTheMagicSnowflakeCE_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Lost Ark - Holiday Cache](https://gaming.amazon.com/holiday-cache/dp/amzn1.pg.item.9eb137a5-141b-4c62-ab14-fd59634094e8?ref_=SM_LostArk_S03_D04_CRWN) | Prime Gaming [new] |  | dlc |
+| [Nine Witches: Family Disruption](https://gaming.amazon.com/nine-witches-family-disruption-aga/dp/amzn1.pg.item.8e9e8e1f-99cd-4997-8526-319fdc387c65?ref_=SM_NineWitchesFamilyDisruption_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Predator: Hunting Grounds](https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Simulakros](https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [A Space for the Unbound](https://store.playstation.com/en-us/concept/10005843) | Playstation Plus [new] |  | Adventure, PS5, Plus |
 | [Anno 1800™ Console Edition - Standard](https://store.playstation.com/en-us/concept/10003143) | Playstation Plus [new] |  | Strategy, Simulation, PS5, Ubisoft |
 | [Biped](https://store.playstation.com/en-us/concept/10000494) | Playstation Plus [new] |  | Adventure, Unique, PS4, PS5, Plus |
@@ -108,6 +106,7 @@ Active giveaways as of 2024-12-19:
 | [Kookie](https://jjbeats99.itch.io/kookie) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
 | [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io | ~~5.00~~ | Role Playing |
+| [Lani's Call: A Tiny Whale Singer Story](https://telescopegames.itch.io/lanis-call) | Itch.io | ~~2.99~~ | Adventure |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
 | [Little Man](https://gman1514.itch.io/little-man) | Itch.io | ~~1.99~~ |  |
 | [Little Man 2](https://gman1514.itch.io/little-man-2) | Itch.io | ~~2.99~~ |  |
