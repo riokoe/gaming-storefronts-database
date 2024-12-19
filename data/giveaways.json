@@ -31,21 +31,6 @@
     "archived": false
   },
   {
-    "id": "55e104eff8",
-    "title": "Pankapu",
-    "price": 11.99,
-    "added": 1733423215484,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/418670/Pankapu",
-    "tags": [
-      "Action",
-      "Indie",
-      "Adventure"
-    ],
-    "slug": "pankapu",
-    "archived": false
-  },
-  {
     "id": "78ba0ddb36",
     "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
     "added": 1734027302993,
@@ -999,20 +984,6 @@
     "archived": false
   },
   {
-    "id": "57e070a56f",
-    "title": "Mannequin House : Requiem",
-    "price": 2.99,
-    "end": 1734555060000,
-    "added": 1734166337895,
-    "platform": 2,
-    "uri": "https://boredleviathan.itch.io/mh-requiem",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "mannequin-house-requiem",
-    "archived": false
-  },
-  {
     "id": "7ca0a6bb56",
     "title": "Wart Worm Wingding!",
     "price": 4.99,
@@ -1327,6 +1298,146 @@
     "archived": false
   },
   {
+    "id": "76cf9f9a1e",
+    "title": "The Trials of Death (2024)",
+    "price": 1.99,
+    "end": 1735581600000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://dremonty.itch.io/the-trials-of-death",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-trials-of-death-2024",
+    "archived": false
+  },
+  {
+    "id": "f2a0edf1bc",
+    "title": "BloodWood",
+    "price": 9.99,
+    "end": 1735123020000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://louisgames.itch.io/bloodwood",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "bloodwood",
+    "archived": false
+  },
+  {
+    "id": "2189bc1749",
+    "title": "VERTIGROWL",
+    "price": 2.98,
+    "end": 1735768800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://apehardware.itch.io/laboral-acrophobia",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "vertigrowl",
+    "archived": false
+  },
+  {
+    "id": "6314bef01f",
+    "title": "Grove Camp",
+    "price": 1.5,
+    "end": 1735759860000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://woncy-games.itch.io/grove-camp",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "grove-camp",
+    "archived": false
+  },
+  {
+    "id": "e7264da877",
+    "title": "The Sin : Darkest Self",
+    "price": 1.5,
+    "end": 1735759860000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://woncy-games.itch.io/the-sin-darkest-self",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "the-sin-darkest-self",
+    "archived": false
+  },
+  {
+    "id": "9c2e80c43b",
+    "title": "Drug Dealin Sim 2024",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/drug-dealin-simulator-2024",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "drug-dealin-sim-2024",
+    "archived": false
+  },
+  {
+    "id": "4a2bcc69ce",
+    "title": "Bone-ER-Clicker",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/bone-clicker",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "bone-er-clicker",
+    "archived": false
+  },
+  {
+    "id": "c210ccdf6f",
+    "title": "Dummy Smasher",
+    "price": 3.5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/dummy-smasher",
+    "tags": [
+      "Action"
+    ],
+    "slug": "dummy-smasher",
+    "archived": false
+  },
+  {
+    "id": "a2decb5d9d",
+    "title": "Small RPG",
+    "price": 9.99,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/small-rpg",
+    "tags": [
+      "Action"
+    ],
+    "slug": "small-rpg",
+    "archived": false
+  },
+  {
+    "id": "df99b1833f",
+    "title": "Gold Digger",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/gold-digger",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "gold-digger",
+    "archived": false
+  },
+  {
     "id": "10161463d0",
     "title": "The Lord of The Rings Return to Moria",
     "end": 1734624000000,
@@ -1398,6 +1509,23 @@
       "Puzzle & trivia"
     ],
     "slug": "in-the-abyss",
+    "archived": false
+  },
+  {
+    "id": "c22b4e4273",
+    "title": "Word Scramble+ : Words & Quotes - PC & XBOX",
+    "price": 3.99,
+    "added": 1734601274609,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9npts4ljw2lv",
+    "tags": [
+      "Classics",
+      "Educational",
+      "Family & kids",
+      "Puzzle & trivia",
+      "Word"
+    ],
+    "slug": "word-scramble-words-quotes",
     "archived": false
   },
   {
@@ -1477,51 +1605,6 @@
       "dlc"
     ],
     "slug": "throne-and-liberty-cache",
-    "archived": false
-  },
-  {
-    "id": "258cb1d0db",
-    "title": "Jak and Daxter™: The Precursor Legacy",
-    "added": 1733925075506,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10010137",
-    "tags": [
-      "Adventure",
-      "PS4",
-      "PS5",
-      "Classic"
-    ],
-    "slug": "jak-and-daxter-legacy-ps",
-    "archived": false
-  },
-  {
-    "id": "bc97ab0943",
-    "title": "Sly 2: Band of Thieves™",
-    "added": 1733925075506,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10010691",
-    "tags": [
-      "Adventure",
-      "PS4",
-      "PS5",
-      "Classic"
-    ],
-    "slug": "sly-band-of-thieves-2-ps",
-    "archived": false
-  },
-  {
-    "id": "0171c15123",
-    "title": "Sly 3: Honour Among Thieves™",
-    "added": 1733925075506,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10010692",
-    "tags": [
-      "Adventure",
-      "PS4",
-      "PS5",
-      "Classic"
-    ],
-    "slug": "sly-honour-among-thieves-3-ps",
     "archived": false
   },
   {
@@ -1628,27 +1711,156 @@
     "archived": false
   },
   {
-    "id": "056ad6288d",
-    "title": "Tetris®",
-    "added": 1733993861947,
-    "platform": 8,
-    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "id": "3135093579",
+    "title": "Sonic Frontiers PS4 & PS5",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002956",
     "tags": [
-      "NES"
+      "Action",
+      "PS4",
+      "PS5",
+      "Plus"
     ],
-    "slug": "tetris-nes",
+    "slug": "sonic-frontiers-45-ps",
     "archived": false
   },
   {
-    "id": "9c4055b923",
-    "title": "Tetris® DX",
-    "added": 1733993861947,
-    "platform": 8,
-    "uri": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/classic-games/",
+    "id": "77ca2f4df0",
+    "title": "A Space for the Unbound",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10005843",
     "tags": [
-      "Game Boy"
+      "Adventure",
+      "PS5",
+      "Plus"
     ],
-    "slug": "tetris-dx-gb",
+    "slug": "a-space-for-the-unbound-ps",
+    "archived": false
+  },
+  {
+    "id": "c6406a3200",
+    "title": "Biped",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000494",
+    "tags": [
+      "Adventure",
+      "Unique",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "biped-ps",
+    "archived": false
+  },
+  {
+    "id": "079d8e7511",
+    "title": "Coffee Talk",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/234471",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "coffee-talk-ps",
+    "archived": false
+  },
+  {
+    "id": "622ea1e373",
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10004780",
+    "tags": [
+      "Casual",
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "coffee-talk-episode-butterfly-2-ps",
+    "archived": false
+  },
+  {
+    "id": "43b49b2899",
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002960",
+    "tags": [
+      "Action",
+      "PS5",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "fist-forged-in-torch-i-ps",
+    "archived": false
+  },
+  {
+    "id": "bc48801c2f",
+    "title": "Forspoken",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000846",
+    "tags": [
+      "Action",
+      "Role playing games",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "forspoken-ps",
+    "archived": false
+  },
+  {
+    "id": "0d9209dab7",
+    "title": "Jurassic World Evolution 2",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002577",
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "jurassic-world-evolution-2-ps",
+    "archived": false
+  },
+  {
+    "id": "7125555de4",
+    "title": "PHOGS!",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000598",
+    "tags": [
+      "Adventure",
+      "Puzzle",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "phogs-ps",
+    "archived": false
+  },
+  {
+    "id": "75f5d081c5",
+    "title": "WRC Generations – The FIA WRC Official Game",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10004982",
+    "tags": [
+      "Simulation",
+      "Racing",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "wrc-generations-official-game-ps",
     "archived": false
   },
   {
@@ -1664,6 +1876,35 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "55e104eff8",
+    "title": "Pankapu",
+    "price": 11.99,
+    "added": 1733423215484,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/418670/Pankapu",
+    "tags": [
+      "Action",
+      "Indie",
+      "Adventure"
+    ],
+    "slug": "pankapu",
+    "archived": true
+  },
+  {
+    "id": "57e070a56f",
+    "title": "Mannequin House : Requiem",
+    "price": 2.99,
+    "end": 1734555060000,
+    "added": 1734166337895,
+    "platform": 2,
+    "uri": "https://boredleviathan.itch.io/mh-requiem",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "mannequin-house-requiem",
+    "archived": true
   },
   {
     "id": "2a5d2a05d4",
@@ -1691,20 +1932,6 @@
       "Role Playing"
     ],
     "slug": "omega-no-sunshine-2",
-    "archived": true
-  },
-  {
-    "id": "f2a0edf1bc",
-    "title": "BloodWood",
-    "price": 10,
-    "end": 1734363600000,
-    "added": 1734287479906,
-    "platform": 2,
-    "uri": "https://louisgames.itch.io/bloodwood",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "bloodwood",
     "archived": true
   }
 ]

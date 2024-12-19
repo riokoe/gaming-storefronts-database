@@ -908,20 +908,6 @@
     "archived": false
   },
   {
-    "id": "57e070a56f",
-    "title": "Mannequin House : Requiem",
-    "price": 2.99,
-    "end": 1734555060000,
-    "added": 1734166337895,
-    "platform": 2,
-    "uri": "https://boredleviathan.itch.io/mh-requiem",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "mannequin-house-requiem",
-    "archived": false
-  },
-  {
     "id": "7ca0a6bb56",
     "title": "Wart Worm Wingding!",
     "price": 4.99,
@@ -1233,6 +1219,146 @@
       "Shooter"
     ],
     "slug": "untitled-gore-game",
+    "archived": false
+  },
+  {
+    "id": "76cf9f9a1e",
+    "title": "The Trials of Death (2024)",
+    "price": 1.99,
+    "end": 1735581600000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://dremonty.itch.io/the-trials-of-death",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-trials-of-death-2024",
+    "archived": false
+  },
+  {
+    "id": "f2a0edf1bc",
+    "title": "BloodWood",
+    "price": 9.99,
+    "end": 1735123020000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://louisgames.itch.io/bloodwood",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "bloodwood",
+    "archived": false
+  },
+  {
+    "id": "2189bc1749",
+    "title": "VERTIGROWL",
+    "price": 2.98,
+    "end": 1735768800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://apehardware.itch.io/laboral-acrophobia",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "vertigrowl",
+    "archived": false
+  },
+  {
+    "id": "6314bef01f",
+    "title": "Grove Camp",
+    "price": 1.5,
+    "end": 1735759860000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://woncy-games.itch.io/grove-camp",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "grove-camp",
+    "archived": false
+  },
+  {
+    "id": "e7264da877",
+    "title": "The Sin : Darkest Self",
+    "price": 1.5,
+    "end": 1735759860000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://woncy-games.itch.io/the-sin-darkest-self",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "the-sin-darkest-self",
+    "archived": false
+  },
+  {
+    "id": "9c2e80c43b",
+    "title": "Drug Dealin Sim 2024",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/drug-dealin-simulator-2024",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "drug-dealin-sim-2024",
+    "archived": false
+  },
+  {
+    "id": "4a2bcc69ce",
+    "title": "Bone-ER-Clicker",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/bone-clicker",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "bone-er-clicker",
+    "archived": false
+  },
+  {
+    "id": "c210ccdf6f",
+    "title": "Dummy Smasher",
+    "price": 3.5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/dummy-smasher",
+    "tags": [
+      "Action"
+    ],
+    "slug": "dummy-smasher",
+    "archived": false
+  },
+  {
+    "id": "a2decb5d9d",
+    "title": "Small RPG",
+    "price": 9.99,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/small-rpg",
+    "tags": [
+      "Action"
+    ],
+    "slug": "small-rpg",
+    "archived": false
+  },
+  {
+    "id": "df99b1833f",
+    "title": "Gold Digger",
+    "price": 5,
+    "end": 1735732800000,
+    "added": 1734601257358,
+    "platform": 2,
+    "uri": "https://b-render.itch.io/gold-digger",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "gold-digger",
     "archived": false
   }
 ]

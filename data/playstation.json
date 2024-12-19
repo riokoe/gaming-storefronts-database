@@ -933,37 +933,6 @@
     "slug": "dead-island-2-ps"
   },
   {
-    "id": "5094c7648b",
-    "title": "Dead Island Definitive Edition",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/228499",
-    "tags": [
-      "Action",
-      "Horror",
-      "Shooter",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "dead-island-definitive-ps"
-  },
-  {
-    "id": "fb05ea52db",
-    "title": "Dead Island: Riptide Definitive Edition",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/218017",
-    "tags": [
-      "Action",
-      "Horror",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "dead-island-riptide-definitive-ps"
-  },
-  {
     "id": "c71a49c408",
     "title": "DEAD OR ALIVE 5 Last Round",
     "added": 1731431590108,
@@ -1586,21 +1555,6 @@
     "slug": "everybodys-golf-ps"
   },
   {
-    "id": "2e550e98a3",
-    "title": "Evil Genius 2: World Domination PS4 & PS5",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10003128",
-    "tags": [
-      "Strategy",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "evil-genius-world-domination-245-ps"
-  },
-  {
     "id": "c9ddd9f485",
     "title": "Fade to Silence",
     "added": 1731431590108,
@@ -1882,23 +1836,6 @@
     "slug": "ghostrunner-ps"
   },
   {
-    "id": "e1c6c90a5f",
-    "title": "GigaBash",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10003301",
-    "tags": [
-      "Fighting",
-      "Action",
-      "Party",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "gigabash-ps"
-  },
-  {
     "id": "c4a5313c51",
     "title": "Gigantosaurus The Game",
     "added": 1731431590108,
@@ -1990,23 +1927,6 @@
     ],
     "archived": false,
     "slug": "gravity-rush-2-ps"
-  },
-  {
-    "id": "1037c3f19c",
-    "title": "GRIME",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10002537",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Role playing games",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "grime-ps"
   },
   {
     "id": "227df146ca",
@@ -2343,21 +2263,6 @@
     ],
     "archived": false,
     "slug": "journey-to-the-month-ps"
-  },
-  {
-    "id": "8b4acc3acd",
-    "title": "Judgment",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/232859",
-    "tags": [
-      "Adventure",
-      "Action",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "judgment-ps"
   },
   {
     "id": "588b4fbba4",
@@ -2916,20 +2821,6 @@
     "slug": "medievil-ps"
   },
   {
-    "id": "3c7f40b6ba",
-    "title": "Mega Man 11",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/231110",
-    "tags": [
-      "Action",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "mega-man-11-ps"
-  },
-  {
     "id": "882827fefc",
     "title": "Megadimension Neptunia VII",
     "added": 1731431590108,
@@ -2956,39 +2847,6 @@
     ],
     "archived": false,
     "slug": "melty-blood-type-lumina-ps"
-  },
-  {
-    "id": "318bc1f107",
-    "title": "Metal: Hellsinger (PS4)",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001499",
-    "tags": [
-      "Horror",
-      "Shooter",
-      "Music/rhythm",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "metal-hellsinger-4-ps"
-  },
-  {
-    "id": "45a1e3202b",
-    "title": "Metal: Hellsinger (PS5)",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001499",
-    "tags": [
-      "Horror",
-      "Shooter",
-      "Music/rhythm",
-      "PS5",
-      "PS4",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "metal-hellsinger-5-ps"
   },
   {
     "id": "2950a35450",
@@ -3079,21 +2937,6 @@
     ],
     "archived": false,
     "slug": "moonlighter-ps"
-  },
-  {
-    "id": "d61f111d17",
-    "title": "Moonscars",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005567",
-    "tags": [
-      "Action",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "moonscars-ps"
   },
   {
     "id": "c8f4858efb",
@@ -3680,22 +3523,6 @@
     ],
     "archived": false,
     "slug": "prison-architect-playstation-4-ps"
-  },
-  {
-    "id": "cc6ce4ec1f",
-    "title": "Prodeus",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10004134",
-    "tags": [
-      "Action",
-      "Shooter",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "prodeus-ps"
   },
   {
     "id": "e447d8b1d7",
@@ -4379,20 +4206,6 @@
     "slug": "sniper-elite-545-ps"
   },
   {
-    "id": "bf5a98df3b",
-    "title": "Soulstice",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10003036",
-    "tags": [
-      "Action",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "soulstice-ps"
-  },
-  {
     "id": "280b09a571",
     "title": "Source of Madness",
     "added": 1731431590108,
@@ -4579,21 +4392,6 @@
     ],
     "archived": false,
     "slug": "stranded-alien-dawn-ps"
-  },
-  {
-    "id": "7fe4e9fe4c",
-    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN PS4 & PS5",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10002585",
-    "tags": [
-      "Action",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "stranger-of-paradise-origin-45-ps"
   },
   {
     "id": "08d44d3f02",
@@ -5319,23 +5117,6 @@
     ],
     "archived": false,
     "slug": "thymesia-ps"
-  },
-  {
-    "id": "1106d14597",
-    "title": "Tinykin",
-    "added": 1731431590108,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10003847",
-    "tags": [
-      "Adventure",
-      "Family",
-      "Arcade",
-      "PS4",
-      "PS5",
-      "Plus"
-    ],
-    "archived": false,
-    "slug": "tinykin-ps"
   },
   {
     "id": "a70f977bf2",
@@ -9198,6 +8979,159 @@
       "Ubisoft"
     ],
     "slug": "tom-clancys-ghost-standard-ps",
+    "archived": false
+  },
+  {
+    "id": "3135093579",
+    "title": "Sonic Frontiers PS4 & PS5",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002956",
+    "tags": [
+      "Action",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "sonic-frontiers-45-ps",
+    "archived": false
+  },
+  {
+    "id": "77ca2f4df0",
+    "title": "A Space for the Unbound",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10005843",
+    "tags": [
+      "Adventure",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "a-space-for-the-unbound-ps",
+    "archived": false
+  },
+  {
+    "id": "c6406a3200",
+    "title": "Biped",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000494",
+    "tags": [
+      "Adventure",
+      "Unique",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "biped-ps",
+    "archived": false
+  },
+  {
+    "id": "079d8e7511",
+    "title": "Coffee Talk",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/234471",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "coffee-talk-ps",
+    "archived": false
+  },
+  {
+    "id": "622ea1e373",
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10004780",
+    "tags": [
+      "Casual",
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "coffee-talk-episode-butterfly-2-ps",
+    "archived": false
+  },
+  {
+    "id": "43b49b2899",
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002960",
+    "tags": [
+      "Action",
+      "PS5",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "fist-forged-in-torch-i-ps",
+    "archived": false
+  },
+  {
+    "id": "bc48801c2f",
+    "title": "Forspoken",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000846",
+    "tags": [
+      "Action",
+      "Role playing games",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "forspoken-ps",
+    "archived": false
+  },
+  {
+    "id": "0d9209dab7",
+    "title": "Jurassic World Evolution 2",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10002577",
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "jurassic-world-evolution-2-ps",
+    "archived": false
+  },
+  {
+    "id": "7125555de4",
+    "title": "PHOGS!",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000598",
+    "tags": [
+      "Adventure",
+      "Puzzle",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "phogs-ps",
+    "archived": false
+  },
+  {
+    "id": "75f5d081c5",
+    "title": "WRC Generations – The FIA WRC Official Game",
+    "added": 1734601276638,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10004982",
+    "tags": [
+      "Simulation",
+      "Racing",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "wrc-generations-official-game-ps",
     "archived": false
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "id": "3038774185",
-    "title": "Blade of Darkness",
-    "added": 1731586950472,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/blade-of-darkness-gog/dp/amzn1.pg.item.c3135620-1685-4c93-aed3-d5337d399348?ref_=SM_BladeofDarkness_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "blade-of-darkness"
-  },
-  {
     "id": "6348a0eeae",
     "title": "Overcooked! Gourmet Edition",
     "added": 1732184554281,
@@ -77,17 +66,6 @@
     "slug": "gloomy-tales-one-ticket-ce"
   },
   {
-    "id": "d7e57b257b",
-    "title": "Tomb Raider: Anniversary",
-    "added": 1731586950472,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/tomb-raider-anniversary-gog/dp/amzn1.pg.item.3913b4e6-1bef-4bab-b599-76a0d4b303e3?ref_=SM_TombRaiderAnniversary_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "tomb-raider-anniversary"
-  },
-  {
     "id": "5eb8449901",
     "title": "Mafia: Definitive Edition",
     "added": 1730480400000,
@@ -97,17 +75,6 @@
     "archived": false,
     "end": 1735668000000,
     "slug": "mafia-definitive"
-  },
-  {
-    "id": "b548db7c00",
-    "title": "Chasm: The Rift",
-    "added": 1731586950472,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/chasm-the-rift-gog/dp/amzn1.pg.item.d9f9b981-707e-430c-a349-6fa2e53c6c71?ref_=SM_ChasmTheRift_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "chasm-the-rift"
   },
   {
     "id": "c78cd5443c",
@@ -218,17 +185,6 @@
     "archived": false,
     "end": 1736359200000,
     "slug": "bioshock-remastered"
-  },
-  {
-    "id": "9c0d5da616",
-    "title": "Killing Floor 2",
-    "added": 1729184400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/killing-floor-2-epic/dp/amzn1.pg.item.ceccd1c8-4bcf-4164-98b8-41b6e92e10ee?ref_=SM_KillingFloor2_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "killing-floor-2"
   },
   {
     "id": "3fe7d114f5",
@@ -363,17 +319,6 @@
     "slug": "scarf"
   },
   {
-    "id": "a1daa6c63c",
-    "title": "Kerbal Space Program",
-    "added": 1726765200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/kerbal-space-program-gog/dp/amzn1.pg.item.86a1a1cd-19c4-40d8-9f13-abeb3ed8b54c?ref_=SM_KerbalSpaceProgram_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "kerbal-space-program"
-  },
-  {
     "id": "14e6a4774b",
     "title": "Ghost Song",
     "added": 1727370000000,
@@ -383,28 +328,6 @@
     "archived": false,
     "end": 1735149600000,
     "slug": "ghost-song"
-  },
-  {
-    "id": "244b256811",
-    "title": "The Falconeer",
-    "added": 1726765200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/the-falconeer-gog/dp/amzn1.pg.item.aaef19ff-9974-4a7c-8dd3-6193db174385?ref_=SM_TheFalconeer_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "the-falconeer"
-  },
-  {
-    "id": "ba7ef4eed7",
-    "title": "Giana Sisters: Twisted Dreams",
-    "added": 1726765200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/giana-sisters-twisted-dreams-aga/dp/amzn1.adg.product.0a76e83e-1ecc-43eb-84bd-93e6675ec697?ref_=SM_GianaSistersTwistedDreams_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1734544800000,
-    "slug": "giana-sisters-twisted-dreams"
   },
   {
     "id": "2476398d88",
@@ -607,17 +530,6 @@
     "archived": false
   },
   {
-    "id": "33c23da45e",
-    "title": "Warhammer 40,000: Space Marine",
-    "end": 1734544800000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/warhammer-40000-space-marine-aga/dp/amzn1.pg.item.294add5f-5b43-4132-b008-6c1b4027a9a4?ref_=SM_Warhammer40000SpaceMarine_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "warhammer-space-marine-40000",
-    "archived": false
-  },
-  {
     "id": "dded105be8",
     "title": "Spelunky",
     "end": 1736359200000,
@@ -659,17 +571,6 @@
     "uri": "https://gaming.amazon.com/neverwinter-nights-gog/dp/amzn1.pg.item.acee8e4d-cbd6-4a9e-add2-b3e52d825c51?ref_=SM_NeverwinterNightsEnhancedEdition_S02_FGWP_CRWN",
     "tags": [],
     "slug": "neverwinter-nights-enhanced",
-    "archived": false
-  },
-  {
-    "id": "7fcf0a9c30",
-    "title": "Warhammer 40,000: Dawn of War",
-    "end": 1734544800000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-aga/dp/amzn1.pg.item.b24ab4d2-5bc4-4518-8778-140c5263aa5b?ref_=SM_Warhammer40000DawnofWar_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "warhammer-dawn-of-war-40000",
     "archived": false
   },
   {

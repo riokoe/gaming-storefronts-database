@@ -1,20 +1,5 @@
 [
   {
-    "id": "55e104eff8",
-    "title": "Pankapu",
-    "price": 11.99,
-    "added": 1733423215484,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/418670/Pankapu",
-    "tags": [
-      "Action",
-      "Indie",
-      "Adventure"
-    ],
-    "slug": "pankapu",
-    "archived": false
-  },
-  {
     "id": "78ba0ddb36",
     "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
     "added": 1734027302993,
