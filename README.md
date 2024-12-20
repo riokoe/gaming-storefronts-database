@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-19:
+Active giveaways as of 2024-12-20:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
