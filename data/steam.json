@@ -13,5 +13,35 @@
     ],
     "slug": "distant-space-2",
     "archived": false
+  },
+  {
+    "id": "7f11841387",
+    "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734724955585,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/1664950/Train_Sim_World_2_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "Trains",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-2",
+    "archived": false
+  },
+  {
+    "id": "0b937e7a0d",
+    "title": "Black Desert",
+    "price": 9.99,
+    "added": 1734724955585,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/582660/Black_Desert",
+    "tags": [
+      "MMORPG",
+      "Massively Multiplayer",
+      "Open World"
+    ],
+    "slug": "black-desert",
+    "archived": false
   }
 ]

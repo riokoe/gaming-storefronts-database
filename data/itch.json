@@ -368,7 +368,7 @@
     "end": 1735618680000,
     "added": 1733049773483,
     "platform": 2,
-    "uri": "https://jemcraftstudios.itch.io/the-wind-turbine",
+    "uri": "https://jeyers-development.itch.io/the-wind-turbine",
     "tags": [
       "Simulation"
     ],
@@ -1042,20 +1042,6 @@
     "archived": false
   },
   {
-    "id": "6c24717b94",
-    "title": "Cherophobia",
-    "price": 2.99,
-    "end": 1734672540000,
-    "added": 1734336576080,
-    "platform": 2,
-    "uri": "https://worsteventgames.itch.io/cherophobia",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "cherophobia",
-    "archived": false
-  },
-  {
     "id": "a637ee0185",
     "title": "Forget-me-not",
     "price": 7,
@@ -1373,6 +1359,214 @@
       "Adventure"
     ],
     "slug": "lanis-call-a-tiny-story",
+    "archived": false
+  },
+  {
+    "id": "7ff79f7266",
+    "title": "Do Not",
+    "price": 1.99,
+    "end": 1734732000000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://docetgames.itch.io/do-not",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "do-not",
+    "archived": false
+  },
+  {
+    "id": "aaafbe7881",
+    "title": "her apartment",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://atmopixel.itch.io/her-apartment",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "her-apartment",
+    "archived": false
+  },
+  {
+    "id": "f2159c787e",
+    "title": "SPEED OF LIFE 3D",
+    "price": 2.99,
+    "end": 1748660400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://towi-1.itch.io/speed-of-life-3d",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "speed-of-life-d-3",
+    "archived": false
+  },
+  {
+    "id": "4713bc632d",
+    "title": "Still Alive",
+    "price": 2,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://0zanm.itch.io/still-alive",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "still-alive",
+    "archived": false
+  },
+  {
+    "id": "d675dc3844",
+    "title": "ROKO'S BASILISK",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://rokolusot.itch.io/rokosbasilisk",
+    "tags": [],
+    "slug": "rokos-basilisk",
+    "archived": false
+  },
+  {
+    "id": "81e76022ad",
+    "title": "SQUAREISH",
+    "price": 3,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://oddeyes.itch.io/squareish",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "squareish",
+    "archived": false
+  },
+  {
+    "id": "c6bd91807d",
+    "title": "Hunt them",
+    "price": 2,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://just-for-fun.itch.io/hunt-them",
+    "tags": [
+      "Action"
+    ],
+    "slug": "hunt-them",
+    "archived": false
+  },
+  {
+    "id": "77042c6ed8",
+    "title": "Coastal Rescue Simulator",
+    "price": 4,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://just-for-fun.itch.io/coastal-rescue-simulator",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "coastal-rescue-simulator",
+    "archived": false
+  },
+  {
+    "id": "b6cb08a872",
+    "title": "GameDay Mayhem!!",
+    "price": 3.5,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://indifferentpenguin.itch.io/gamedaymayhem",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "gameday-mayhem",
+    "archived": false
+  },
+  {
+    "id": "b4a4789668",
+    "title": "Escape Redroom",
+    "price": 4,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://just-for-fun.itch.io/escape-redroom",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "escape-redroom",
+    "archived": false
+  },
+  {
+    "id": "548a065343",
+    "title": "Climbit",
+    "price": 4,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://just-for-fun.itch.io/climbit",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "climbit",
+    "archived": false
+  },
+  {
+    "id": "1cfc526a44",
+    "title": "GIGA EZA",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://leashagamesdev.itch.io/giga-eza",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "giga-eza",
+    "archived": false
+  },
+  {
+    "id": "8ba4633f39",
+    "title": "I Don't Know.",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://citystream-studios.itch.io/i-dont-know",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "i-dont-know-i",
+    "archived": false
+  },
+  {
+    "id": "1c61bf41d6",
+    "title": "What a GYM!",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://playzhero.itch.io/whatagym",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "what-a-gym",
+    "archived": false
+  },
+  {
+    "id": "b3fb0f2ea7",
+    "title": "Xplanet",
+    "price": 2,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://just-for-fun.itch.io/xplanet",
+    "tags": [
+      "Action"
+    ],
+    "slug": "xplanet",
     "archived": false
   }
 ]
