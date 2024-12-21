@@ -22,14 +22,14 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-20:
+Active giveaways as of 2024-12-21:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [Black Desert](https://store.steampowered.com/app/582660/Black_Desert) | Steam | ~~9.99~~ | MMORPG, Massively Multiplayer, Open World |
 | [Distant Space 2](https://store.steampowered.com/app/729460/Distant_Space_2) | Steam | ~~0.98~~ | Action, Adventure, Indie |
 | [Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1664950/Train_Sim_World_2_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Trains, dlc |
-| [Astrea Six Sided Oracles](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949) | Epic |  | dlc |
+| [TerraTech](https://store.epicgames.com/en-US/p/terratech-02ab0a) | Epic |  | dlc |
 | [Chicken Assassin: Reloaded](https://www.gog.com/en/game/chicken_assassin_reloaded) | GOG |  |  |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
@@ -47,6 +47,7 @@ Active giveaways as of 2024-12-20:
 | [Simulakros](https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [A Space for the Unbound](https://store.playstation.com/en-us/concept/10005843) | Playstation Plus [new] |  | Adventure, PS5, Plus |
 | [Anno 1800™ Console Edition - Standard](https://store.playstation.com/en-us/concept/10003143) | Playstation Plus [new] |  | Strategy, Simulation, PS5, Ubisoft |
+| [Bee Simulator](https://store.playstation.com/en-us/concept/233889) | Playstation Plus [new] |  | Simulation, Family, Adventure, PS4, Plus |
 | [Biped](https://store.playstation.com/en-us/concept/10000494) | Playstation Plus [new] |  | Adventure, Unique, PS4, PS5, Plus |
 | [Coffee Talk](https://store.playstation.com/en-us/concept/234471) | Playstation Plus [new] |  | Adventure, PS4, PS5, Plus |
 | [Coffee Talk Episode 2: Hibiscus & Butterfly](https://store.playstation.com/en-us/concept/10004780) | Playstation Plus [new] |  | Casual, Adventure, PS4, PS5, Plus |
@@ -77,18 +78,15 @@ Active giveaways as of 2024-12-20:
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
-| [CatUp](https://dazaizer0.itch.io/catup) | Itch.io | ~~2.40~~ | Platformer |
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
-| [City Theft](https://gman1514.itch.io/city-theft) | Itch.io | ~~4.00~~ | Role Playing |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
 | [Climbit](https://just-for-fun.itch.io/climbit) | Itch.io | ~~4.00~~ | Adventure |
 | [Coastal Rescue Simulator](https://just-for-fun.itch.io/coastal-rescue-simulator) | Itch.io | ~~4.00~~ | Simulation |
 | [Croaking Around](https://scallybag.itch.io/croaking-around) | Itch.io | ~~3.00~~ | Platformer |
-| [Do Not](https://docetgames.itch.io/do-not) | Itch.io | ~~1.99~~ | Survival |
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [Drug Dealin Sim 2024](https://b-render.itch.io/drug-dealin-simulator-2024) | Itch.io | ~~5.00~~ | Role Playing |
-| [Duck Crossing](https://gman1514.itch.io/duck-crossing) | Itch.io | ~~3.99~~ | Adventure |
 | [Dummy Smasher](https://b-render.itch.io/dummy-smasher) | Itch.io | ~~3.50~~ | Action |
+| [Easy as Pi](https://snugpig.itch.io/easy-as-pi) | Itch.io | ~~3.14~~ | Action |
 | [egg5's adventure](https://egg12345.itch.io/egg5s-adventure) | Itch.io | ~~16.00~~ | Adventure |
 | [Endless Frontier](https://leashagamesdev.itch.io/endless-frontier) | Itch.io | ~~4.99~~ | Action |
 | [Endless Math Challenge](https://notritter.itch.io/endless-math-challenge) | Itch.io | ~~3.99~~ | Educational |
@@ -101,6 +99,7 @@ Active giveaways as of 2024-12-20:
 | [GameDay Mayhem!!](https://indifferentpenguin.itch.io/gamedaymayhem) | Itch.io | ~~3.50~~ | Sports |
 | [GIGA EZA](https://leashagamesdev.itch.io/giga-eza) | Itch.io | ~~4.99~~ | Survival |
 | [Gold Digger](https://b-render.itch.io/gold-digger) | Itch.io | ~~5.00~~ | Simulation |
+| [Grimwild Horror](https://shunnya.itch.io/grimwild-horror) | Itch.io | ~~5.00~~ | Adventure |
 | [Grove Camp](https://woncy-games.itch.io/grove-camp) | Itch.io | ~~1.50~~ | Survival |
 | [her apartment](https://atmopixel.itch.io/her-apartment) | Itch.io | ~~1.99~~ | Adventure |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
@@ -109,6 +108,7 @@ Active giveaways as of 2024-12-20:
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
 | [Hunt them](https://just-for-fun.itch.io/hunt-them) | Itch.io | ~~2.00~~ | Action |
+| [Hypercore Demo](https://hyperforg.itch.io/hypercore) | Itch.io | ~~1.99~~ | Platformer |
 | [I Don't Know.](https://citystream-studios.itch.io/i-dont-know) | Itch.io | ~~1.99~~ | Interactive Fiction |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
 | [Kings Gambit](https://leashagamesdev.itch.io/kings-gambit) | Itch.io | ~~4.99~~ | Strategy |
@@ -126,6 +126,7 @@ Active giveaways as of 2024-12-20:
 | [Mathmare Nightmare Edition](https://strikeforce-studio.itch.io/mathmare-nightmare-edition) | Itch.io | ~~3.00~~ |  |
 | [MECH ZERO: Lost in Space](https://aethercode.itch.io/mech-zero-lost-in-space) | Itch.io | ~~3.00~~ | Action |
 | [Memento](https://jjbeats99.itch.io/memento-omori) | Itch.io | ~~3.00~~ | Visual Novel |
+| [Missing.](https://sebereye.itch.io/missing) | Itch.io | ~~4.99~~ | Simulation |
 | [My Favorite Vtuber (JJBEATS GAMING)](https://jjbeats99.itch.io/jjbeats-gaming) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Nightmare Labyrinth](https://gamerevolutionx.itch.io/nightmare) | Itch.io | ~~3.00~~ |  |
 | [Orbital Paladin Melchior Y](https://jdmgames.itch.io/orbital-paladin-melchior-y) | Itch.io | ~~3.79~~ | Visual Novel |
@@ -135,18 +136,20 @@ Active giveaways as of 2024-12-20:
 | [Photoluminescence](https://messier9000.itch.io/luminescence) | Itch.io | ~~2.99~~ | Puzzle |
 | [Randall the Grape Jelly Cube goes to Soda Valley for some reason.](https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason) | Itch.io | ~~1.99~~ | Platformer |
 | [Rewind To Fear - The Mansion](https://endsmeet-production.itch.io/rewind-to-fear) | Itch.io | ~~1.99~~ | Survival |
+| [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io | ~~5.00~~ | Platformer |
 | [River Strike](https://hoglet.itch.io/river-strike) | Itch.io | ~~2.00~~ | Action |
-| [ROKO'S BASILISK](https://rokolusot.itch.io/rokosbasilisk) | Itch.io | ~~1.99~~ |  |
+| [ROKO'S BASILISK](https://rokolusot.itch.io/rokosbasilisk) | Itch.io | ~~1.99~~ | Simulation |
+| [Santa Nightmares](https://icarus-dev.itch.io/santa-nightmares) | Itch.io | ~~3.00~~ |  |
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io | ~~5.00~~ | Puzzle |
 | [Signal Lost](https://endsmeet-production.itch.io/signallost) | Itch.io | ~~1.99~~ | Survival |
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io | ~~9.99~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
-| [SPEED OF LIFE 3D](https://towi-1.itch.io/speed-of-life-3d) | Itch.io | ~~2.99~~ | Racing |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [SQUAREISH](https://oddeyes.itch.io/squareish) | Itch.io | ~~3.00~~ | Puzzle |
 | [Still Alive](https://0zanm.itch.io/still-alive) | Itch.io | ~~2.00~~ | Survival |
+| [Stomagron](https://duodolgames.itch.io/stomagron) | Itch.io | ~~1.99~~ |  |
 | [Tales of Miravia](https://leashagamesdev.itch.io/tales-of-miravia) | Itch.io | ~~4.99~~ | Role Playing |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The backrooms: Uncovered](https://magnus-froelund.itch.io/the-backrooms) | Itch.io | ~~2.00~~ | Action |
@@ -157,6 +160,7 @@ Active giveaways as of 2024-12-20:
 | [The Good Dog Show](https://owofgames.itch.io/tgds) | Itch.io | ~~2.00~~ | Visual Novel |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
+| [The Present](https://icarus-dev.itch.io/the-present) | Itch.io | ~~3.00~~ |  |
 | [The Sin : Darkest Self](https://woncy-games.itch.io/the-sin-darkest-self) | Itch.io | ~~1.50~~ | Survival |
 | [The Trials of Death (2024)](https://dremonty.itch.io/the-trials-of-death) | Itch.io | ~~1.99~~ | Adventure |
 | [The Wind Turbine](https://jeyers-development.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
@@ -166,11 +170,12 @@ Active giveaways as of 2024-12-20:
 | [Toony's Daycare Episode 2](https://littleghostgames.itch.io/toonys-daycare-episode-2) | Itch.io | ~~2.00~~ | Puzzle |
 | [Ungrateful Birds: No Good Deed](https://jdmgames.itch.io/ungrateful-birds-no-good-deed) | Itch.io | ~~3.99~~ | Platformer |
 | [Untitled Gore Game](https://magnus-froelund.itch.io/untitled-gore-game) | Itch.io | ~~2.00~~ | Shooter |
+| [Vampie Tale](https://ozaki-studio.itch.io/vampie-tale) | Itch.io | ~~2.00~~ | Visual Novel |
 | [VERTIGROWL](https://apehardware.itch.io/laboral-acrophobia) | Itch.io | ~~2.98~~ | Simulation |
 | [Walk](https://noirovideogames.itch.io/walk) | Itch.io | ~~1.25~~ | Simulation |
+| [Walker-Adventure](https://kish-mish1.itch.io/walker-adventure) | Itch.io | ~~10.00~~ | Adventure |
 | [Wally The Seal 2](https://guncatgames.itch.io/wally-the-seal2) | Itch.io | ~~1.99~~ | Survival |
 | [Wart Worm Wingding!](https://johnvanderhoef.itch.io/wart-worm-wingding) | Itch.io | ~~4.99~~ | Platformer |
-| [What a GYM!](https://playzhero.itch.io/whatagym) | Itch.io | ~~4.99~~ | Sports |
 | [Witches and Bandits and Swords (Oh My)](https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my) | Itch.io | ~~3.99~~ | Visual Novel |
 | [World War 2 Dogfight Simulator](https://retrovr.itch.io/dogfightsim) | Itch.io | ~~6.00~~ | Simulation |
 | [Xplanet](https://just-for-fun.itch.io/xplanet) | Itch.io | ~~2.00~~ | Action |

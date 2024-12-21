@@ -85,20 +85,6 @@
     "archived": false
   },
   {
-    "id": "76356d3b19",
-    "title": "CatUp",
-    "price": 2.4,
-    "end": 1733004000000,
-    "added": 1732441396468,
-    "platform": 2,
-    "uri": "https://dazaizer0.itch.io/catup",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "catup",
-    "archived": false
-  },
-  {
     "id": "af95409b81",
     "title": "HOME GAME 2",
     "price": 4,
@@ -1059,20 +1045,6 @@
     "archived": false
   },
   {
-    "id": "25c78671d4",
-    "title": "City Theft",
-    "price": 4,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/city-theft",
-    "tags": [
-      "Role Playing"
-    ],
-    "slug": "city-theft",
-    "archived": false
-  },
-  {
     "id": "df8032227d",
     "title": "Little Man 2",
     "price": 2.99,
@@ -1082,20 +1054,6 @@
     "uri": "https://gman1514.itch.io/little-man-2",
     "tags": [],
     "slug": "little-man-2",
-    "archived": false
-  },
-  {
-    "id": "bf94ebce38",
-    "title": "Duck Crossing",
-    "price": 3.99,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/duck-crossing",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "duck-crossing",
     "archived": false
   },
   {
@@ -1433,20 +1391,6 @@
     "archived": false
   },
   {
-    "id": "7ff79f7266",
-    "title": "Do Not",
-    "price": 1.99,
-    "end": 1734732000000,
-    "added": 1734725239887,
-    "platform": 2,
-    "uri": "https://docetgames.itch.io/do-not",
-    "tags": [
-      "Survival"
-    ],
-    "slug": "do-not",
-    "archived": false
-  },
-  {
     "id": "aaafbe7881",
     "title": "her apartment",
     "price": 1.99,
@@ -1458,20 +1402,6 @@
       "Adventure"
     ],
     "slug": "her-apartment",
-    "archived": false
-  },
-  {
-    "id": "f2159c787e",
-    "title": "SPEED OF LIFE 3D",
-    "price": 2.99,
-    "end": 1748660400000,
-    "added": 1734725239887,
-    "platform": 2,
-    "uri": "https://towi-1.itch.io/speed-of-life-3d",
-    "tags": [
-      "Racing"
-    ],
-    "slug": "speed-of-life-d-3",
     "archived": false
   },
   {
@@ -1496,7 +1426,9 @@
     "added": 1734725239887,
     "platform": 2,
     "uri": "https://rokolusot.itch.io/rokosbasilisk",
-    "tags": [],
+    "tags": [
+      "Simulation"
+    ],
     "slug": "rokos-basilisk",
     "archived": false
   },
@@ -1613,20 +1545,6 @@
     "archived": false
   },
   {
-    "id": "1c61bf41d6",
-    "title": "What a GYM!",
-    "price": 4.99,
-    "end": 1735880400000,
-    "added": 1734725239887,
-    "platform": 2,
-    "uri": "https://playzhero.itch.io/whatagym",
-    "tags": [
-      "Sports"
-    ],
-    "slug": "what-a-gym",
-    "archived": false
-  },
-  {
     "id": "b3fb0f2ea7",
     "title": "Xplanet",
     "price": 2,
@@ -1641,16 +1559,150 @@
     "archived": false
   },
   {
-    "id": "ab36ae1c1b",
-    "title": "Astrea Six Sided Oracles",
-    "end": 1734796800000,
-    "added": 1734710400000,
+    "id": "d425945b37",
+    "title": "Grimwild Horror",
+    "price": 5,
+    "end": 1735880400000,
+    "added": 1734808885887,
+    "platform": 2,
+    "uri": "https://shunnya.itch.io/grimwild-horror",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "grimwild-horror",
+    "archived": false
+  },
+  {
+    "id": "b52ca29638",
+    "title": "Easy as Pi",
+    "price": 3.14,
+    "end": 1735880400000,
+    "added": 1734808885887,
+    "platform": 2,
+    "uri": "https://snugpig.itch.io/easy-as-pi",
+    "tags": [
+      "Action"
+    ],
+    "slug": "easy-as-pi",
+    "archived": false
+  },
+  {
+    "id": "9fff55fd2b",
+    "title": "The Present",
+    "price": 3,
+    "end": 1735880400000,
+    "added": 1734808885887,
+    "platform": 2,
+    "uri": "https://icarus-dev.itch.io/the-present",
+    "tags": [],
+    "slug": "the-present",
+    "archived": false
+  },
+  {
+    "id": "1b6fc4fb6b",
+    "title": "Stomagron",
+    "price": 1.99,
+    "end": 1736092800000,
+    "added": 1734808885887,
+    "platform": 2,
+    "uri": "https://duodolgames.itch.io/stomagron",
+    "tags": [],
+    "slug": "stomagron",
+    "archived": false
+  },
+  {
+    "id": "69d4d9f143",
+    "title": "Santa Nightmares",
+    "price": 3,
+    "end": 1735880400000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://icarus-dev.itch.io/santa-nightmares",
+    "tags": [],
+    "slug": "santa-nightmares",
+    "archived": false
+  },
+  {
+    "id": "48e6e04371",
+    "title": "Vampie Tale",
+    "price": 2,
+    "end": 1735880400000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://ozaki-studio.itch.io/vampie-tale",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "vampie-tale",
+    "archived": false
+  },
+  {
+    "id": "d680829cbe",
+    "title": "Rise Above!",
+    "price": 5,
+    "end": 1736463600000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://alessandro06-0.itch.io/rise-above",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "rise-above",
+    "archived": false
+  },
+  {
+    "id": "386ba14837",
+    "title": "Hypercore Demo",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://hyperforg.itch.io/hypercore",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "hypercore-demo",
+    "archived": false
+  },
+  {
+    "id": "c288fbb309",
+    "title": "Walker-Adventure",
+    "price": 10,
+    "end": 1735880400000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://kish-mish1.itch.io/walker-adventure",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "walker-adventure",
+    "archived": false
+  },
+  {
+    "id": "6d1b762267",
+    "title": "Missing.",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734808885888,
+    "platform": 2,
+    "uri": "https://sebereye.itch.io/missing",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "missing",
+    "archived": false
+  },
+  {
+    "id": "ccb7d2cd38",
+    "title": "TerraTech",
+    "end": 1734883200000,
+    "added": 1734796800000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+    "uri": "https://store.epicgames.com/en-US/p/terratech-02ab0a",
     "tags": [
       "dlc"
     ],
-    "slug": "astrea-six-sided-oracles",
+    "slug": "terratech",
     "archived": false
   },
   {
@@ -2056,6 +2108,22 @@
     "archived": false
   },
   {
+    "id": "ddbd7d5430",
+    "title": "Bee Simulator",
+    "added": 1734808906970,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/233889",
+    "tags": [
+      "Simulation",
+      "Family",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "bee-simulator-ps",
+    "archived": false
+  },
+  {
     "id": "2da242ab34",
     "title": "World of Warships Booster Pack 2024 - New Players",
     "price": 28.87,
@@ -2084,6 +2152,103 @@
     ],
     "slug": "scourgebringer",
     "archived": false
+  },
+  {
+    "id": "76356d3b19",
+    "title": "CatUp",
+    "price": 2.4,
+    "end": 1733004000000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://dazaizer0.itch.io/catup",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "catup",
+    "archived": true
+  },
+  {
+    "id": "25c78671d4",
+    "title": "City Theft",
+    "price": 4,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/city-theft",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "city-theft",
+    "archived": true
+  },
+  {
+    "id": "bf94ebce38",
+    "title": "Duck Crossing",
+    "price": 3.99,
+    "end": 1735120800000,
+    "added": 1734275282522,
+    "platform": 2,
+    "uri": "https://gman1514.itch.io/duck-crossing",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "duck-crossing",
+    "archived": true
+  },
+  {
+    "id": "7ff79f7266",
+    "title": "Do Not",
+    "price": 1.99,
+    "end": 1734732000000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://docetgames.itch.io/do-not",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "do-not",
+    "archived": true
+  },
+  {
+    "id": "f2159c787e",
+    "title": "SPEED OF LIFE 3D",
+    "price": 2.99,
+    "end": 1748660400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://towi-1.itch.io/speed-of-life-3d",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "speed-of-life-d-3",
+    "archived": true
+  },
+  {
+    "id": "1c61bf41d6",
+    "title": "What a GYM!",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734725239887,
+    "platform": 2,
+    "uri": "https://playzhero.itch.io/whatagym",
+    "tags": [
+      "Sports"
+    ],
+    "slug": "what-a-gym",
+    "archived": true
+  },
+  {
+    "id": "ab36ae1c1b",
+    "title": "Astrea Six Sided Oracles",
+    "end": 1734796800000,
+    "added": 1734710400000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "astrea-six-sided-oracles",
+    "archived": true
   },
   {
     "id": "6c24717b94",

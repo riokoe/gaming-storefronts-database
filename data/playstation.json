@@ -9133,5 +9133,21 @@
     ],
     "slug": "wrc-generations-official-game-ps",
     "archived": false
+  },
+  {
+    "id": "ddbd7d5430",
+    "title": "Bee Simulator",
+    "added": 1734808906970,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/233889",
+    "tags": [
+      "Simulation",
+      "Family",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "bee-simulator-ps",
+    "archived": false
   }
 ]
