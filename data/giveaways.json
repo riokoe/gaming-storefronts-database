@@ -45,6 +45,50 @@
     "archived": false
   },
   {
+    "id": "45b912c8e5",
+    "title": "Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-4",
+    "archived": false
+  },
+  {
+    "id": "a8016b32b8",
+    "title": "Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "Adventure",
+      "Automobile Sim",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-5",
+    "archived": false
+  },
+  {
+    "id": "46414724bf",
+    "title": "Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-3",
+    "archived": false
+  },
+  {
     "id": "a47dfaa332",
     "title": "Lynn , HD WallPaper",
     "price": 0.99,
@@ -58,16 +102,6 @@
       "dlc"
     ],
     "slug": "lynn-hd-wallpaper",
-    "archived": false
-  },
-  {
-    "id": "6da06da763",
-    "title": "Chicken Assassin: Reloaded",
-    "added": 1734639375952,
-    "platform": 3,
-    "uri": "https://www.gog.com/en/game/chicken_assassin_reloaded",
-    "tags": [],
-    "slug": "chicken-assassin-reloaded",
     "archived": false
   },
   {
@@ -1693,16 +1727,240 @@
     "archived": false
   },
   {
-    "id": "ccb7d2cd38",
-    "title": "TerraTech",
-    "end": 1734883200000,
-    "added": 1734796800000,
+    "id": "101433d0fa",
+    "title": "The Unlit Sun",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734895754952,
+    "platform": 2,
+    "uri": "https://noxusgamesstudio.itch.io/the-unlit-sun",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-unlit-sun",
+    "archived": false
+  },
+  {
+    "id": "5ff356f1cd",
+    "title": "One last Slime",
+    "price": 5,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://chaoswitchnikol.itch.io/one-last-slime",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "one-last-slime",
+    "archived": false
+  },
+  {
+    "id": "ae01ca0e63",
+    "title": "Forest Ranger Services: Episode 1",
+    "price": 1.99,
+    "end": 1735303680000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://guardhouse.itch.io/forest-ranger-services-episode-1",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "forest-ranger-services-episode-1",
+    "archived": false
+  },
+  {
+    "id": "ae17133a12",
+    "title": "The Life and Times of Daniel Vastberaden",
+    "price": 4,
+    "end": 1734926340000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://master-suite.itch.io/the-life-and-times-of-daniel-vastberaden",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-life-and-times-vastberaden",
+    "archived": false
+  },
+  {
+    "id": "0a049361f9",
+    "title": "Perspective Engine",
+    "price": 24.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://ry2110.itch.io/perspective-engine",
+    "tags": [
+      "Action"
+    ],
+    "slug": "perspective-engine",
+    "archived": false
+  },
+  {
+    "id": "8b16075460",
+    "title": "Sydney and the Cicadas in \"Immanentize\"",
+    "price": 4,
+    "end": 1734926340000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://master-suite.itch.io/sydney-and-the-cicadas-in-immanentize",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "sydney-and-the-immanentize",
+    "archived": false
+  },
+  {
+    "id": "a802831310",
+    "title": "GravMetal",
+    "price": 1.2,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://shmig.itch.io/gravmetal",
+    "tags": [
+      "Action"
+    ],
+    "slug": "gravmetal",
+    "archived": false
+  },
+  {
+    "id": "a1d5dfa5e1",
+    "title": "The Door! 4",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-4",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-4",
+    "archived": false
+  },
+  {
+    "id": "31019100c4",
+    "title": "Red Tail",
+    "price": 2,
+    "end": 1735630680000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/redtail",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "red-tail",
+    "archived": false
+  },
+  {
+    "id": "dd4e108408",
+    "title": "The Door! 3",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-3",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-3",
+    "archived": false
+  },
+  {
+    "id": "376768bee4",
+    "title": "Planetarium",
+    "price": 2,
+    "end": 1735678800000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://victorco.itch.io/planetarium",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "planetarium",
+    "archived": false
+  },
+  {
+    "id": "c45bca0c58",
+    "title": "Super Morgan Land!",
+    "price": 10,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://fard-games-entertainment.itch.io/super-morgan-land",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "super-morgan-land",
+    "archived": false
+  },
+  {
+    "id": "f3fe042745",
+    "title": "The Door!",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door",
+    "archived": false
+  },
+  {
+    "id": "030b739acd",
+    "title": "The Door! 2",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-2",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-2",
+    "archived": false
+  },
+  {
+    "id": "fc7e2e6aad",
+    "title": "Monkey Milk",
+    "price": 3.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://snobunni.itch.io/monkey-milk",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "monkey-milk",
+    "archived": false
+  },
+  {
+    "id": "27f6a72fcb",
+    "title": "The Last Worker W",
+    "price": 1.5,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://normalcupdev.itch.io/the-last-worker-w",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-last-worker-w",
+    "archived": false
+  },
+  {
+    "id": "88c4b7ce9d",
+    "title": "Wizard of Legend",
+    "end": 1734969600000,
+    "added": 1734883200000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/terratech-02ab0a",
+    "uri": "https://store.epicgames.com/en-US/p/wizard-of-legend-21c07d",
     "tags": [
       "dlc"
     ],
-    "slug": "terratech",
+    "slug": "wizard-of-legend",
     "archived": false
   },
   {
@@ -2124,6 +2382,317 @@
     "archived": false
   },
   {
+    "id": "bdf1173857",
+    "title": "Achilles: Legends Untold",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10004880",
+    "tags": [
+      "Role playing games",
+      "Action",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "achilles-legends-untold-ps",
+    "archived": false
+  },
+  {
+    "id": "bde3172d00",
+    "title": "Aquarium Land",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10009320",
+    "tags": [
+      "Simulation",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "aquarium-land-ps",
+    "archived": false
+  },
+  {
+    "id": "869f244255",
+    "title": "Batman: Return to Arkham - Arkham city",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/216064",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "batman-return-to-arkham-city-ps",
+    "archived": false
+  },
+  {
+    "id": "48fb69c5f6",
+    "title": "Call of Duty®: Warzone™",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001130",
+    "tags": [
+      "Action",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "call-of-duty-warzone-ps",
+    "archived": false
+  },
+  {
+    "id": "c7df6e08e6",
+    "title": "DEATHLOOP Deluxe Edition",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000185",
+    "tags": [
+      "Action",
+      "PS4",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "deathloop-deluxe-ps",
+    "archived": false
+  },
+  {
+    "id": "aa37a25705",
+    "title": "DRAGON BALL FighterZ - Kefla",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/228726",
+    "tags": [
+      "Fighting",
+      "PS5",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "dragon-ball-fighterz-kefla-ps",
+    "archived": false
+  },
+  {
+    "id": "0d26433756",
+    "title": "ECHO",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/207084",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "echo-ps",
+    "archived": false
+  },
+  {
+    "id": "4527f40239",
+    "title": "Farming Simulator 25",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10009612",
+    "tags": [
+      "Simulator",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "farming-simulator-25-ps",
+    "archived": false
+  },
+  {
+    "id": "e0c001658d",
+    "title": "God of War Ragnarök",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001850",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "god-of-war-ragnark-ps",
+    "archived": false
+  },
+  {
+    "id": "7f10d1bed2",
+    "title": "Lords of the Fallen (2014)",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/202563",
+    "tags": [
+      "Action",
+      "Role playing games",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "lords-of-the-fallen-2014-ps",
+    "archived": false
+  },
+  {
+    "id": "93fc5324ea",
+    "title": "Megaton Rainfall",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/225252",
+    "tags": [
+      "Action",
+      "Shooter",
+      "Unique",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "megaton-rainfall-ps",
+    "archived": false
+  },
+  {
+    "id": "b4ca8dcf01",
+    "title": "Minecraft: Skin Pack 1",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/212779",
+    "tags": [
+      "Arcade",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "minecraft-skin-pack-1-ps",
+    "archived": false
+  },
+  {
+    "id": "e05caa1b02",
+    "title": "MXGP3 - The Official Motocross Videogame",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227423",
+    "tags": [
+      "Racing",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "mxgp-the-official-videogame-3-ps",
+    "archived": false
+  },
+  {
+    "id": "563df48adc",
+    "title": "Roblox",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/223118",
+    "tags": [
+      "Unique",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "roblox-ps",
+    "archived": false
+  },
+  {
+    "id": "e84d8c2a00",
+    "title": "Rust Console Edition",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/233072",
+    "tags": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "rust-console-ps",
+    "archived": false
+  },
+  {
+    "id": "b7aa5303a9",
+    "title": "Shadow of the Colossus™",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/225857",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "shadow-of-the-colossus-ps",
+    "archived": false
+  },
+  {
+    "id": "bb7a781c9e",
+    "title": "Sheltered",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/216384",
+    "tags": [
+      "Role playing games",
+      "Strategy",
+      "Simulation",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "sheltered-ps",
+    "archived": false
+  },
+  {
+    "id": "07a38c4fe8",
+    "title": "State of Mind",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227189",
+    "tags": [
+      "Adventure",
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "state-of-mind-ps",
+    "archived": false
+  },
+  {
+    "id": "66a7ea3edf",
+    "title": "Streets of Red - Devil's Dare Deluxe",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/200906",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "streets-of-red-deluxe-ps",
+    "archived": false
+  },
+  {
+    "id": "d7efcf5d52",
+    "title": "Tails of Iron 2: Whiskers of Winter (PS4 & PS5)",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10009898",
+    "tags": [
+      "Role playing games",
+      "Action",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "tails-of-iron-whiskers-winter-245-ps",
+    "archived": false
+  },
+  {
+    "id": "8f644b663e",
+    "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia",
+    "added": 1734895775696,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/234709",
+    "tags": [
+      "Unique",
+      "PS5",
+      "Plus"
+    ],
+    "slug": "werewolf-the-apocalypse-of-gaia-ps",
+    "archived": false
+  },
+  {
     "id": "2da242ab34",
     "title": "World of Warships Booster Pack 2024 - New Players",
     "price": 28.87,
@@ -2136,6 +2705,29 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "6da06da763",
+    "title": "Chicken Assassin: Reloaded",
+    "added": 1734639375952,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/chicken_assassin_reloaded",
+    "tags": [],
+    "slug": "chicken-assassin-reloaded",
+    "archived": true
+  },
+  {
+    "id": "ccb7d2cd38",
+    "title": "TerraTech",
+    "end": 1734883200000,
+    "added": 1734796800000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/terratech-02ab0a",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "terratech",
+    "archived": true
   },
   {
     "id": "1862f2901b",
@@ -2151,7 +2743,7 @@
       "Roguelite"
     ],
     "slug": "scourgebringer",
-    "archived": false
+    "archived": true
   },
   {
     "id": "76356d3b19",

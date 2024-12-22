@@ -1,15 +1,15 @@
 [
   {
-    "id": "ccb7d2cd38",
-    "title": "TerraTech",
-    "end": 1734883200000,
-    "added": 1734796800000,
+    "id": "88c4b7ce9d",
+    "title": "Wizard of Legend",
+    "end": 1734969600000,
+    "added": 1734883200000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/terratech-02ab0a",
+    "uri": "https://store.epicgames.com/en-US/p/wizard-of-legend-21c07d",
     "tags": [
       "dlc"
     ],
-    "slug": "terratech",
+    "slug": "wizard-of-legend",
     "archived": false
   }
 ]

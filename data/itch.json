@@ -1620,5 +1620,229 @@
     ],
     "slug": "missing",
     "archived": false
+  },
+  {
+    "id": "101433d0fa",
+    "title": "The Unlit Sun",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1734895754952,
+    "platform": 2,
+    "uri": "https://noxusgamesstudio.itch.io/the-unlit-sun",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-unlit-sun",
+    "archived": false
+  },
+  {
+    "id": "5ff356f1cd",
+    "title": "One last Slime",
+    "price": 5,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://chaoswitchnikol.itch.io/one-last-slime",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "one-last-slime",
+    "archived": false
+  },
+  {
+    "id": "ae01ca0e63",
+    "title": "Forest Ranger Services: Episode 1",
+    "price": 1.99,
+    "end": 1735303680000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://guardhouse.itch.io/forest-ranger-services-episode-1",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "forest-ranger-services-episode-1",
+    "archived": false
+  },
+  {
+    "id": "ae17133a12",
+    "title": "The Life and Times of Daniel Vastberaden",
+    "price": 4,
+    "end": 1734926340000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://master-suite.itch.io/the-life-and-times-of-daniel-vastberaden",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-life-and-times-vastberaden",
+    "archived": false
+  },
+  {
+    "id": "0a049361f9",
+    "title": "Perspective Engine",
+    "price": 24.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://ry2110.itch.io/perspective-engine",
+    "tags": [
+      "Action"
+    ],
+    "slug": "perspective-engine",
+    "archived": false
+  },
+  {
+    "id": "8b16075460",
+    "title": "Sydney and the Cicadas in \"Immanentize\"",
+    "price": 4,
+    "end": 1734926340000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://master-suite.itch.io/sydney-and-the-cicadas-in-immanentize",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "sydney-and-the-immanentize",
+    "archived": false
+  },
+  {
+    "id": "a802831310",
+    "title": "GravMetal",
+    "price": 1.2,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://shmig.itch.io/gravmetal",
+    "tags": [
+      "Action"
+    ],
+    "slug": "gravmetal",
+    "archived": false
+  },
+  {
+    "id": "a1d5dfa5e1",
+    "title": "The Door! 4",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-4",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-4",
+    "archived": false
+  },
+  {
+    "id": "31019100c4",
+    "title": "Red Tail",
+    "price": 2,
+    "end": 1735630680000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://musialkov.itch.io/redtail",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "red-tail",
+    "archived": false
+  },
+  {
+    "id": "dd4e108408",
+    "title": "The Door! 3",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-3",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-3",
+    "archived": false
+  },
+  {
+    "id": "376768bee4",
+    "title": "Planetarium",
+    "price": 2,
+    "end": 1735678800000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://victorco.itch.io/planetarium",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "planetarium",
+    "archived": false
+  },
+  {
+    "id": "c45bca0c58",
+    "title": "Super Morgan Land!",
+    "price": 10,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://fard-games-entertainment.itch.io/super-morgan-land",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "super-morgan-land",
+    "archived": false
+  },
+  {
+    "id": "f3fe042745",
+    "title": "The Door!",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door",
+    "archived": false
+  },
+  {
+    "id": "030b739acd",
+    "title": "The Door! 2",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://nitish-thombre.itch.io/the-door-2",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-door-2",
+    "archived": false
+  },
+  {
+    "id": "fc7e2e6aad",
+    "title": "Monkey Milk",
+    "price": 3.99,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://snobunni.itch.io/monkey-milk",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "monkey-milk",
+    "archived": false
+  },
+  {
+    "id": "27f6a72fcb",
+    "title": "The Last Worker W",
+    "price": 1.5,
+    "end": 1735880400000,
+    "added": 1734895754953,
+    "platform": 2,
+    "uri": "https://normalcupdev.itch.io/the-last-worker-w",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "the-last-worker-w",
+    "archived": false
   }
 ]
