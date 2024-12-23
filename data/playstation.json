@@ -8509,231 +8509,428 @@
     "archived": false
   },
   {
-    "id": "bdf1173857",
-    "title": "Achilles: Legends Untold",
-    "added": 1734895775696,
+    "id": "26880638a5",
+    "title": "Batman™: Arkham Knight",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10004880",
+    "uri": "https://store.playstation.com/en-us/concept/200472",
     "tags": [
-      "Role playing games",
       "Action",
-      "PS5",
-      "Plus"
-    ],
-    "slug": "achilles-legends-untold-ps",
-    "archived": false
-  },
-  {
-    "id": "bde3172d00",
-    "title": "Aquarium Land",
-    "added": 1734895775696,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10009320",
-    "tags": [
-      "Simulation",
       "Adventure",
       "PS4",
       "Plus"
     ],
-    "slug": "aquarium-land-ps",
+    "slug": "batman-arkham-knight-ps",
     "archived": false
   },
   {
-    "id": "869f244255",
-    "title": "Batman: Return to Arkham - Arkham city",
-    "added": 1734895775696,
+    "id": "c200573d10",
+    "title": "Celeste",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/216064",
+    "uri": "https://store.playstation.com/en-us/concept/231477",
     "tags": [
       "Action",
       "PS4",
       "Plus"
     ],
-    "slug": "batman-return-to-arkham-city-ps",
+    "slug": "celeste-ps",
     "archived": false
   },
   {
-    "id": "48fb69c5f6",
-    "title": "Call of Duty®: Warzone™",
-    "added": 1734895775696,
+    "id": "b9c40699fe",
+    "title": "Chess Ultra",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001130",
+    "uri": "https://store.playstation.com/en-us/concept/225783",
     "tags": [
-      "Action",
+      "Family",
+      "Simulation",
+      "Strategy",
       "PS4",
-      "PS5",
       "Plus"
     ],
-    "slug": "call-of-duty-warzone-ps",
+    "slug": "chess-ultra-ps",
     "archived": false
   },
   {
-    "id": "c7df6e08e6",
-    "title": "DEATHLOOP Deluxe Edition",
-    "added": 1734895775696,
+    "id": "739e0f743d",
+    "title": "Concrete Genie Digital Deluxe Edition",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10000185",
+    "uri": "https://store.playstation.com/en-us/concept/233628",
     "tags": [
       "Action",
+      "Adventure",
       "PS4",
-      "PS5",
       "Plus"
     ],
-    "slug": "deathloop-deluxe-ps",
+    "slug": "concrete-genie-deluxe-ps",
     "archived": false
   },
   {
-    "id": "aa37a25705",
-    "title": "DRAGON BALL FighterZ - Kefla",
-    "added": 1734895775696,
+    "id": "fc77aedc16",
+    "title": "Days Gone",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/228726",
+    "uri": "https://store.playstation.com/en-us/concept/229018",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "days-gone-ps",
+    "archived": false
+  },
+  {
+    "id": "c71a49c408",
+    "title": "DEAD OR ALIVE 5 Last Round",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/220997",
     "tags": [
       "Fighting",
-      "PS5",
       "PS4",
       "Plus"
     ],
-    "slug": "dragon-ball-fighterz-kefla-ps",
+    "slug": "dead-or-alive-last-round-5-ps",
     "archived": false
   },
   {
-    "id": "0d26433756",
-    "title": "ECHO",
-    "added": 1734895775696,
+    "id": "0e70ec2921",
+    "title": "Death Squared",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/207084",
+    "uri": "https://store.playstation.com/en-us/concept/225086",
+    "tags": [
+      "Puzzle",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "death-squared-ps",
+    "archived": false
+  },
+  {
+    "id": "cb5f7e7a4d",
+    "title": "Desperados III",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/231727",
+    "tags": [
+      "Action",
+      "Strategy",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "desperados-iii-iii-ps",
+    "archived": false
+  },
+  {
+    "id": "efa9dd447a",
+    "title": "Detroit: Become Human",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/222727",
     "tags": [
       "Action",
       "Adventure",
       "PS4",
       "Plus"
     ],
-    "slug": "echo-ps",
+    "slug": "detroit-become-human-ps",
     "archived": false
   },
   {
-    "id": "4527f40239",
-    "title": "Farming Simulator 25",
-    "added": 1734895775696,
+    "id": "d1e2d288ef",
+    "title": "For The King",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10009612",
+    "uri": "https://store.playstation.com/en-us/concept/232512",
     "tags": [
-      "Simulator",
-      "PS5",
+      "Strategy",
+      "PS4",
       "Plus"
     ],
-    "slug": "farming-simulator-25-ps",
+    "slug": "for-the-king-ps",
     "archived": false
   },
   {
-    "id": "e0c001658d",
-    "title": "God of War Ragnarök",
-    "added": 1734895775696,
+    "id": "83e9951ad4",
+    "title": "God of War",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001850",
+    "uri": "https://store.playstation.com/en-us/concept/227770",
     "tags": [
       "Action",
       "PS4",
       "Plus"
     ],
-    "slug": "god-of-war-ragnark-ps",
+    "slug": "god-of-war-ps",
     "archived": false
   },
   {
-    "id": "7f10d1bed2",
-    "title": "Lords of the Fallen (2014)",
-    "added": 1734895775696,
+    "id": "62847d415e",
+    "title": "Golf With Your Friends",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/202563",
+    "uri": "https://store.playstation.com/en-us/concept/235061",
     "tags": [
-      "Action",
-      "Role playing games",
+      "Casual",
+      "Simulation",
+      "Sports",
       "PS4",
       "Plus"
     ],
-    "slug": "lords-of-the-fallen-2014-ps",
+    "slug": "golf-with-your-friends-ps",
     "archived": false
   },
   {
-    "id": "93fc5324ea",
-    "title": "Megaton Rainfall",
-    "added": 1734895775696,
+    "id": "67912e3d85",
+    "title": "Gravity Rush™ 2",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/225252",
+    "uri": "https://store.playstation.com/en-us/concept/221698",
     "tags": [
       "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "gravity-rush-2-ps",
+    "archived": false
+  },
+  {
+    "id": "e02325eb63",
+    "title": "Hello Neighbor",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/231096",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "hello-neighbor-ps",
+    "archived": false
+  },
+  {
+    "id": "6463c10fbf",
+    "title": "Hollow Knight Voidheart Edition",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/232654",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "hollow-knight-voidheart-ps",
+    "archived": false
+  },
+  {
+    "id": "c2702bb2cf",
+    "title": "inFAMOUS First Light",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/202140",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "infamous-first-light-ps",
+    "archived": false
+  },
+  {
+    "id": "d2aff1eebd",
+    "title": "inFAMOUS Second Son",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/202138",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "infamous-second-son-ps",
+    "archived": false
+  },
+  {
+    "id": "3e46669e85",
+    "title": "Killzone Shadow Fall™",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/202335",
+    "tags": [
       "Shooter",
-      "Unique",
       "PS4",
       "Plus"
     ],
-    "slug": "megaton-rainfall-ps",
+    "slug": "killzone-shadow-fall-ps",
     "archived": false
   },
   {
-    "id": "b4ca8dcf01",
-    "title": "Minecraft: Skin Pack 1",
-    "added": 1734895775696,
+    "id": "1f9e09c4ae",
+    "title": "LEGO® Batman™ 3: Beyond Gotham",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/212779",
+    "uri": "https://store.playstation.com/en-us/concept/202496",
     "tags": [
-      "Arcade",
+      "Action",
       "Adventure",
       "PS4",
       "Plus"
     ],
-    "slug": "minecraft-skin-pack-1-ps",
+    "slug": "lego-batman-beyond-gotham-3-ps",
     "archived": false
   },
   {
-    "id": "e05caa1b02",
-    "title": "MXGP3 - The Official Motocross Videogame",
-    "added": 1734895775696,
+    "id": "3fa13c72d1",
+    "title": "MudRunner",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/227423",
+    "uri": "https://store.playstation.com/en-us/concept/230052",
+    "tags": [
+      "Racing",
+      "Simulation",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "mudrunner-ps",
+    "archived": false
+  },
+  {
+    "id": "b01a7e20ad",
+    "title": "NASCAR Heat 5",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000546",
     "tags": [
       "Racing",
       "PS4",
       "Plus"
     ],
-    "slug": "mxgp-the-official-videogame-3-ps",
+    "slug": "nascar-heat-5-ps",
     "archived": false
   },
   {
-    "id": "563df48adc",
-    "title": "Roblox",
-    "added": 1734895775696,
+    "id": "9888c0930f",
+    "title": "Nioh",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/223118",
+    "uri": "https://store.playstation.com/en-us/concept/213861",
     "tags": [
-      "Unique",
+      "Role playing games",
       "PS4",
       "Plus"
     ],
-    "slug": "roblox-ps",
+    "slug": "nioh-ps",
     "archived": false
   },
   {
-    "id": "e84d8c2a00",
-    "title": "Rust Console Edition",
-    "added": 1734895775696,
+    "id": "a9dc32cf95",
+    "title": "Portal Knights",
+    "added": 1734975003536,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/233072",
+    "uri": "https://store.playstation.com/en-us/concept/224933",
     "tags": [
-      "Shooter",
+      "Action",
       "Adventure",
+      "Role playing games",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "portal-knights-ps",
+    "archived": false
+  },
+  {
+    "id": "f1981d5524",
+    "title": "Prison Architect: PlayStation®4 Edition",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/216605",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Strategy",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "prison-architect-playstation-4-ps",
+    "archived": false
+  },
+  {
+    "id": "e447d8b1d7",
+    "title": "Pure Hold'em World Poker Championship",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/203594",
+    "tags": [
+      "Casual",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "pure-holdem-world-championship-ps",
+    "archived": false
+  },
+  {
+    "id": "57077c3363",
+    "title": "Pure Pool",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/203539",
+    "tags": [
+      "Family",
+      "Simulation",
+      "Sports",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "pure-pool-ps",
+    "archived": false
+  },
+  {
+    "id": "4c6604400f",
+    "title": "Rebel Galaxy",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/203666",
+    "tags": [
+      "Adventure",
+      "Role playing games",
       "Action",
       "PS4",
       "Plus"
     ],
-    "slug": "rust-console-ps",
+    "slug": "rebel-galaxy-ps",
     "archived": false
   },
   {
-    "id": "b7aa5303a9",
-    "title": "Shadow of the Colossus™",
-    "added": 1734895775696,
+    "id": "f2c3bf5ef3",
+    "title": "Rock of Ages 3: Make & Break",
+    "added": 1734975003536,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/235361",
+    "tags": [
+      "Racing",
+      "Action",
+      "Strategy",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "rock-of-ages-make-break-3-ps",
+    "archived": false
+  },
+  {
+    "id": "9a61cc2fe2",
+    "title": "SHADOW OF THE COLOSSUS",
+    "added": 1734975003537,
     "platform": 9,
     "uri": "https://store.playstation.com/en-us/concept/225857",
     "tags": [
@@ -8746,77 +8943,211 @@
     "archived": false
   },
   {
-    "id": "bb7a781c9e",
-    "title": "Sheltered",
-    "added": 1734895775696,
+    "id": "50d7bcc9a0",
+    "title": "Sniper Elite 4",
+    "added": 1734975003537,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/216384",
+    "uri": "https://store.playstation.com/en-us/concept/216395",
     "tags": [
+      "Adventure",
+      "Shooter",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "sniper-elite-4-ps",
+    "archived": false
+  },
+  {
+    "id": "12da3a6a7f",
+    "title": "Space Hulk: Deathwing - Enhanced Edition",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227988",
+    "tags": [
+      "Action",
+      "Shooter",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "space-hulk-deathwing-enhanced-ps",
+    "archived": false
+  },
+  {
+    "id": "155c5b4b48",
+    "title": "Spitlings",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/233567",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "spitlings-ps",
+    "archived": false
+  },
+  {
+    "id": "507758d25b",
+    "title": "Stellaris: Console Edition",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/227469",
+    "tags": [
+      "Strategy",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "stellaris-console-ps",
+    "archived": false
+  },
+  {
+    "id": "b00cf0d7d6",
+    "title": "Stranded Deep",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/232519",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "stranded-deep-ps",
+    "archived": false
+  },
+  {
+    "id": "3afc533018",
+    "title": "Terraria: PS4™ Edition",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/205080",
+    "tags": [
+      "Adventure",
       "Role playing games",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "terraria-4-ps",
+    "archived": false
+  },
+  {
+    "id": "eec8fc59c1",
+    "title": "The Last Guardian",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/204826",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "the-last-guardian-ps",
+    "archived": false
+  },
+  {
+    "id": "7a16dbc6f8",
+    "title": "The LEGO® Movie Videogame",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/204880",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "the-lego-movie-videogame-ps",
+    "archived": false
+  },
+  {
+    "id": "e665681bad",
+    "title": "The Long Dark",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/229391",
+    "tags": [
+      "Action",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "the-long-dark-ps",
+    "archived": false
+  },
+  {
+    "id": "ad97e87c40",
+    "title": "Until Dawn™ 2015",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/205132",
+    "tags": [
+      "Horror",
+      "Adventure",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "until-dawn-2015-ps",
+    "archived": false
+  },
+  {
+    "id": "b78c7e64bc",
+    "title": "Vampyr",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/205200",
+    "tags": [
+      "Action",
+      "Role playing games",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "vampyr-ps",
+    "archived": false
+  },
+  {
+    "id": "f7447433fe",
+    "title": "Warhammer: Vermintide 2",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/232764",
+    "tags": [
+      "Action",
+      "PS4",
+      "Plus"
+    ],
+    "slug": "warhammer-vermintide-2-ps",
+    "archived": false
+  },
+  {
+    "id": "892b2fa575",
+    "title": "XCOM® 2",
+    "added": 1734975003537,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/216773",
+    "tags": [
       "Strategy",
       "Simulation",
       "PS4",
       "Plus"
     ],
-    "slug": "sheltered-ps",
+    "slug": "xcom-2-ps",
     "archived": false
   },
   {
-    "id": "07a38c4fe8",
-    "title": "State of Mind",
-    "added": 1734895775696,
+    "id": "ad7fcc997e",
+    "title": "Zombie Army 4: Dead War",
+    "added": 1734975003537,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/227189",
+    "uri": "https://store.playstation.com/en-us/concept/232371",
     "tags": [
-      "Adventure",
+      "Arcade",
+      "Shooter",
       "Action",
       "PS4",
       "Plus"
     ],
-    "slug": "state-of-mind-ps",
-    "archived": false
-  },
-  {
-    "id": "66a7ea3edf",
-    "title": "Streets of Red - Devil's Dare Deluxe",
-    "added": 1734895775696,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/200906",
-    "tags": [
-      "Action",
-      "PS4",
-      "Plus"
-    ],
-    "slug": "streets-of-red-deluxe-ps",
-    "archived": false
-  },
-  {
-    "id": "d7efcf5d52",
-    "title": "Tails of Iron 2: Whiskers of Winter (PS4 & PS5)",
-    "added": 1734895775696,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10009898",
-    "tags": [
-      "Role playing games",
-      "Action",
-      "PS5",
-      "Plus"
-    ],
-    "slug": "tails-of-iron-whiskers-winter-245-ps",
-    "archived": false
-  },
-  {
-    "id": "8f644b663e",
-    "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia",
-    "added": 1734895775696,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/234709",
-    "tags": [
-      "Unique",
-      "PS5",
-      "Plus"
-    ],
-    "slug": "werewolf-the-apocalypse-of-gaia-ps",
+    "slug": "zombie-army-dead-war-4-ps",
     "archived": false
   }
 ]

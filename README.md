@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-22:
+Active giveaways as of 2024-12-23:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Active giveaways as of 2024-12-22:
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [Wizard of Legend](https://store.epicgames.com/en-US/p/wizard-of-legend-21c07d) | Epic |  | dlc |
+| [Dark and Darker - Legendary Status](https://store.epicgames.com/en-US/p/dark-and-darker-qa-dark-and-darker-legendary-status-a83d59) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
 | [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
@@ -47,50 +47,73 @@ Active giveaways as of 2024-12-22:
 | [Predator: Hunting Grounds](https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Simulakros](https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [A Space for the Unbound](https://store.playstation.com/en-us/concept/10005843) | Playstation Plus [new] |  | Adventure, PS5, Plus |
-| [Achilles: Legends Untold](https://store.playstation.com/en-us/concept/10004880) | Playstation Plus [new] |  | Role playing games, Action, PS5, Plus |
 | [Anno 1800™ Console Edition - Standard](https://store.playstation.com/en-us/concept/10003143) | Playstation Plus [new] |  | Strategy, Simulation, PS5, Ubisoft |
-| [Aquarium Land](https://store.playstation.com/en-us/concept/10009320) | Playstation Plus [new] |  | Simulation, Adventure, PS4, Plus |
-| [Batman: Return to Arkham - Arkham city](https://store.playstation.com/en-us/concept/216064) | Playstation Plus [new] |  | Action, PS4, Plus |
+| [Batman™: Arkham Knight](https://store.playstation.com/en-us/concept/200472) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Bee Simulator](https://store.playstation.com/en-us/concept/233889) | Playstation Plus [new] |  | Simulation, Family, Adventure, PS4, Plus |
 | [Biped](https://store.playstation.com/en-us/concept/10000494) | Playstation Plus [new] |  | Adventure, Unique, PS4, PS5, Plus |
-| [Call of Duty®: Warzone™](https://store.playstation.com/en-us/concept/10001130) | Playstation Plus [new] |  | Action, PS4, PS5, Plus |
+| [Celeste](https://store.playstation.com/en-us/concept/231477) | Playstation Plus [new] |  | Action, PS4, Plus |
+| [Chess Ultra](https://store.playstation.com/en-us/concept/225783) | Playstation Plus [new] |  | Family, Simulation, Strategy, PS4, Plus |
 | [Coffee Talk](https://store.playstation.com/en-us/concept/234471) | Playstation Plus [new] |  | Adventure, PS4, PS5, Plus |
 | [Coffee Talk Episode 2: Hibiscus & Butterfly](https://store.playstation.com/en-us/concept/10004780) | Playstation Plus [new] |  | Casual, Adventure, PS4, PS5, Plus |
-| [DEATHLOOP Deluxe Edition](https://store.playstation.com/en-us/concept/10000185) | Playstation Plus [new] |  | Action, PS4, PS5, Plus |
-| [DRAGON BALL FighterZ - Kefla](https://store.playstation.com/en-us/concept/228726) | Playstation Plus [new] |  | Fighting, PS5, PS4, Plus |
-| [ECHO](https://store.playstation.com/en-us/concept/207084) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [Concrete Genie Digital Deluxe Edition](https://store.playstation.com/en-us/concept/233628) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [Days Gone](https://store.playstation.com/en-us/concept/229018) | Playstation Plus [new] |  | Action, Adventure, Horror, PS4, Plus |
+| [DEAD OR ALIVE 5 Last Round](https://store.playstation.com/en-us/concept/220997) | Playstation Plus [new] |  | Fighting, PS4, Plus |
+| [Death Squared](https://store.playstation.com/en-us/concept/225086) | Playstation Plus [new] |  | Puzzle, PS4, Plus |
+| [Desperados III](https://store.playstation.com/en-us/concept/231727) | Playstation Plus [new] |  | Action, Strategy, PS4, Plus |
+| [Detroit: Become Human](https://store.playstation.com/en-us/concept/222727) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [F.I.S.T.: Forged In Shadow Torch](https://store.playstation.com/en-us/concept/10002960) | Playstation Plus [new] |  | Action, PS5, PS4, Plus |
-| [Farming Simulator 25](https://store.playstation.com/en-us/concept/10009612) | Playstation Plus [new] |  | Simulator, PS5, Plus |
 | [FOR HONOR](https://store.playstation.com/en-us/concept/221694) | Playstation Plus [new] |  | Action, Fighting, PS4, Ubisoft |
+| [For The King](https://store.playstation.com/en-us/concept/232512) | Playstation Plus [new] |  | Strategy, PS4, Plus |
 | [Forspoken](https://store.playstation.com/en-us/concept/10000846) | Playstation Plus [new] |  | Action, Role playing games, PS5, Plus |
-| [God of War Ragnarök](https://store.playstation.com/en-us/concept/10001850) | Playstation Plus [new] |  | Action, PS4, Plus |
+| [God of War](https://store.playstation.com/en-us/concept/227770) | Playstation Plus [new] |  | Action, PS4, Plus |
+| [Golf With Your Friends](https://store.playstation.com/en-us/concept/235061) | Playstation Plus [new] |  | Casual, Simulation, Sports, PS4, Plus |
+| [Gravity Rush™ 2](https://store.playstation.com/en-us/concept/221698) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [Hello Neighbor](https://store.playstation.com/en-us/concept/231096) | Playstation Plus [new] |  | Action, Adventure, Horror, PS4, Plus |
+| [Hollow Knight Voidheart Edition](https://store.playstation.com/en-us/concept/232654) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Hungry Shark® World](https://store.playstation.com/en-us/concept/232286) | Playstation Plus [new] |  | Action, Adventure, Arcade, PS4, Ubisoft |
+| [inFAMOUS First Light](https://store.playstation.com/en-us/concept/202140) | Playstation Plus [new] |  | Action, PS4, Plus |
+| [inFAMOUS Second Son](https://store.playstation.com/en-us/concept/202138) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Jurassic World Evolution 2](https://store.playstation.com/en-us/concept/10002577) | Playstation Plus [new] |  | Simulation, Strategy, PS4, PS5, Plus |
-| [Lords of the Fallen (2014)](https://store.playstation.com/en-us/concept/202563) | Playstation Plus [new] |  | Action, Role playing games, PS4, Plus |
-| [Megaton Rainfall](https://store.playstation.com/en-us/concept/225252) | Playstation Plus [new] |  | Action, Shooter, Unique, PS4, Plus |
-| [Minecraft: Skin Pack 1](https://store.playstation.com/en-us/concept/212779) | Playstation Plus [new] |  | Arcade, Adventure, PS4, Plus |
-| [MXGP3 - The Official Motocross Videogame](https://store.playstation.com/en-us/concept/227423) | Playstation Plus [new] |  | Racing, PS4, Plus |
+| [Killzone Shadow Fall™](https://store.playstation.com/en-us/concept/202335) | Playstation Plus [new] |  | Shooter, PS4, Plus |
+| [LEGO® Batman™ 3: Beyond Gotham](https://store.playstation.com/en-us/concept/202496) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [MudRunner](https://store.playstation.com/en-us/concept/230052) | Playstation Plus [new] |  | Racing, Simulation, PS4, Plus |
+| [NASCAR Heat 5](https://store.playstation.com/en-us/concept/10000546) | Playstation Plus [new] |  | Racing, PS4, Plus |
+| [Nioh](https://store.playstation.com/en-us/concept/213861) | Playstation Plus [new] |  | Role playing games, PS4, Plus |
 | [ODDBALLERS](https://store.playstation.com/en-us/concept/10003316) | Playstation Plus [new] |  | Party, PS4, Ubisoft |
 | [PHOGS!](https://store.playstation.com/en-us/concept/10000598) | Playstation Plus [new] |  | Adventure, Puzzle, PS4, Plus |
-| [Roblox](https://store.playstation.com/en-us/concept/223118) | Playstation Plus [new] |  | Unique, PS4, Plus |
-| [Rust Console Edition](https://store.playstation.com/en-us/concept/233072) | Playstation Plus [new] |  | Shooter, Adventure, Action, PS4, Plus |
-| [Shadow of the Colossus™](https://store.playstation.com/en-us/concept/225857) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
-| [Sheltered](https://store.playstation.com/en-us/concept/216384) | Playstation Plus [new] |  | Role playing games, Strategy, Simulation, PS4, Plus |
+| [Portal Knights](https://store.playstation.com/en-us/concept/224933) | Playstation Plus [new] |  | Action, Adventure, Role playing games, PS4, Plus |
+| [Prison Architect: PlayStation®4 Edition](https://store.playstation.com/en-us/concept/216605) | Playstation Plus [new] |  | Action, Adventure, Strategy, PS4, Plus |
+| [Pure Hold'em World Poker Championship](https://store.playstation.com/en-us/concept/203594) | Playstation Plus [new] |  | Casual, PS4, Plus |
+| [Pure Pool](https://store.playstation.com/en-us/concept/203539) | Playstation Plus [new] |  | Family, Simulation, Sports, PS4, Plus |
+| [Rebel Galaxy](https://store.playstation.com/en-us/concept/203666) | Playstation Plus [new] |  | Adventure, Role playing games, Action, PS4, Plus |
+| [Rock of Ages 3: Make & Break](https://store.playstation.com/en-us/concept/235361) | Playstation Plus [new] |  | Racing, Action, Strategy, PS4, Plus |
+| [SHADOW OF THE COLOSSUS](https://store.playstation.com/en-us/concept/225857) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [Sniper Elite 4](https://store.playstation.com/en-us/concept/216395) | Playstation Plus [new] |  | Adventure, Shooter, PS4, Plus |
 | [Sonic Frontiers PS4 & PS5](https://store.playstation.com/en-us/concept/10002956) | Playstation Plus [new] |  | Action, PS4, PS5, Plus |
-| [State of Mind](https://store.playstation.com/en-us/concept/227189) | Playstation Plus [new] |  | Adventure, Action, PS4, Plus |
+| [Space Hulk: Deathwing - Enhanced Edition](https://store.playstation.com/en-us/concept/227988) | Playstation Plus [new] |  | Action, Shooter, PS4, Plus |
+| [Spitlings](https://store.playstation.com/en-us/concept/233567) | Playstation Plus [new] |  | Action, PS4, Plus |
 | [STEEP](https://store.playstation.com/en-us/concept/221765) | Playstation Plus [new] |  | Sports, PS4, Ubisoft |
-| [Streets of Red - Devil's Dare Deluxe](https://store.playstation.com/en-us/concept/200906) | Playstation Plus [new] |  | Action, PS4, Plus |
-| [Tails of Iron 2: Whiskers of Winter (PS4 & PS5)](https://store.playstation.com/en-us/concept/10009898) | Playstation Plus [new] |  | Role playing games, Action, PS5, Plus |
+| [Stellaris: Console Edition](https://store.playstation.com/en-us/concept/227469) | Playstation Plus [new] |  | Strategy, PS4, Plus |
+| [Stranded Deep](https://store.playstation.com/en-us/concept/232519) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [Terraria: PS4™ Edition](https://store.playstation.com/en-us/concept/205080) | Playstation Plus [new] |  | Adventure, Role playing games, PS4, Plus |
 | [The Crew® 2 Standard Edition](https://store.playstation.com/en-us/concept/227552) | Playstation Plus [new] |  | Racing, PS4, Ubisoft |
+| [The Last Guardian](https://store.playstation.com/en-us/concept/204826) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [The LEGO® Movie Videogame](https://store.playstation.com/en-us/concept/204880) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
+| [The Long Dark](https://store.playstation.com/en-us/concept/229391) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Tom Clancy’s Ghost Recon® Wildlands Standard Edition](https://store.playstation.com/en-us/concept/201697) | Playstation Plus [new] |  | Action, Shooter, PS4, Ubisoft |
-| [Werewolf: The Apocalypse - Earthblood Champion of Gaia](https://store.playstation.com/en-us/concept/234709) | Playstation Plus [new] |  | Unique, PS5, Plus |
+| [Until Dawn™ 2015](https://store.playstation.com/en-us/concept/205132) | Playstation Plus [new] |  | Horror, Adventure, PS4, Plus |
+| [Vampyr](https://store.playstation.com/en-us/concept/205200) | Playstation Plus [new] |  | Action, Role playing games, PS4, Plus |
+| [Warhammer: Vermintide 2](https://store.playstation.com/en-us/concept/232764) | Playstation Plus [new] |  | Action, PS4, Plus |
 | [WRC Generations – The FIA WRC Official Game](https://store.playstation.com/en-us/concept/10004982) | Playstation Plus [new] |  | Simulation, Racing, PS4, PS5, Plus |
+| [XCOM® 2](https://store.playstation.com/en-us/concept/216773) | Playstation Plus [new] |  | Strategy, Simulation, PS4, Plus |
+| [Zombie Army 4: Dead War](https://store.playstation.com/en-us/concept/232371) | Playstation Plus [new] |  | Arcade, Shooter, Action, PS4, Plus |
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Are you There?](https://magnus-froelund.itch.io/are-you-there) | Itch.io | ~~2.00~~ | Action |
 | [Asteroids](https://magnus-froelund.itch.io/asteroids) | Itch.io | ~~1.50~~ |  |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
 | [Ball Cave](https://gman1514.itch.io/ball-cave) | Itch.io | ~~4.00~~ | Strategy |
+| [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
 | [Basic Shooter (Pre Alpha)](https://magnus-froelund.itch.io/campers-killers-pre-alpha) | Itch.io | ~~2.00~~ | Shooter |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
 | [Between two Worlds - Family Day](https://pixelpun.itch.io/betweentwoworldsfamilyday) | Itch.io | ~~1.99~~ | Adventure |
@@ -134,6 +157,7 @@ Active giveaways as of 2024-12-22:
 | [Hunt them](https://just-for-fun.itch.io/hunt-them) | Itch.io | ~~2.00~~ | Action |
 | [Hypercore Demo](https://hyperforg.itch.io/hypercore) | Itch.io | ~~1.99~~ | Platformer |
 | [I Don't Know.](https://citystream-studios.itch.io/i-dont-know) | Itch.io | ~~1.99~~ | Interactive Fiction |
+| [Interstellar Clicker](https://luckystudios.itch.io/interstellar-clicker) | Itch.io | ~~1.50~~ |  |
 | [Kasperias Arenas](https://kasperv.itch.io/kasperias-arenas) | Itch.io | ~~2.00~~ | Role Playing |
 | [Kings Gambit](https://leashagamesdev.itch.io/kings-gambit) | Itch.io | ~~4.99~~ | Strategy |
 | [Koi Puncher MMXVIII](https://jdmgames.itch.io/koi-puncher-mmxviii) | Itch.io | ~~4.00~~ | Action |
@@ -169,6 +193,7 @@ Active giveaways as of 2024-12-22:
 | [River Strike](https://hoglet.itch.io/river-strike) | Itch.io | ~~2.00~~ | Action |
 | [ROKO'S BASILISK](https://rokolusot.itch.io/rokosbasilisk) | Itch.io | ~~1.99~~ | Simulation |
 | [Santa Nightmares](https://icarus-dev.itch.io/santa-nightmares) | Itch.io | ~~3.00~~ |  |
+| [ScaleBound](https://luckystudios.itch.io/scalebound) | Itch.io | ~~3.00~~ | Platformer |
 | [SCMALLUM THE GAME](https://egg12345.itch.io/scmallum-the-game) | Itch.io | ~~5.00~~ | Puzzle |
 | [Signal Lost](https://endsmeet-production.itch.io/signallost) | Itch.io | ~~1.99~~ | Survival |
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
@@ -180,7 +205,6 @@ Active giveaways as of 2024-12-22:
 | [Still Alive](https://0zanm.itch.io/still-alive) | Itch.io | ~~2.00~~ | Survival |
 | [Stomagron](https://duodolgames.itch.io/stomagron) | Itch.io | ~~1.99~~ |  |
 | [Super Morgan Land!](https://fard-games-entertainment.itch.io/super-morgan-land) | Itch.io | ~~10.00~~ | Adventure |
-| [Sydney and the Cicadas in "Immanentize"](https://master-suite.itch.io/sydney-and-the-cicadas-in-immanentize) | Itch.io | ~~4.00~~ | Adventure |
 | [Tales of Miravia](https://leashagamesdev.itch.io/tales-of-miravia) | Itch.io | ~~4.99~~ | Role Playing |
 | [Temple of the Wumpus](https://jdmgames.itch.io/temple-of-the-wumpus) | Itch.io | ~~2.00~~ | Adventure |
 | [The backrooms: Uncovered](https://magnus-froelund.itch.io/the-backrooms) | Itch.io | ~~2.00~~ | Action |
@@ -195,7 +219,6 @@ Active giveaways as of 2024-12-22:
 | [The Good Dog Show](https://owofgames.itch.io/tgds) | Itch.io | ~~2.00~~ | Visual Novel |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
 | [The Last Worker W](https://normalcupdev.itch.io/the-last-worker-w) | Itch.io | ~~1.50~~ | Adventure |
-| [The Life and Times of Daniel Vastberaden](https://master-suite.itch.io/the-life-and-times-of-daniel-vastberaden) | Itch.io | ~~4.00~~ | Adventure |
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
 | [The Present](https://icarus-dev.itch.io/the-present) | Itch.io | ~~3.00~~ |  |
 | [The Sin : Darkest Self](https://woncy-games.itch.io/the-sin-darkest-self) | Itch.io | ~~1.50~~ | Survival |

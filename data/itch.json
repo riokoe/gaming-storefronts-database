@@ -1664,20 +1664,6 @@
     "archived": false
   },
   {
-    "id": "ae17133a12",
-    "title": "The Life and Times of Daniel Vastberaden",
-    "price": 4,
-    "end": 1734926340000,
-    "added": 1734895754953,
-    "platform": 2,
-    "uri": "https://master-suite.itch.io/the-life-and-times-of-daniel-vastberaden",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "the-life-and-times-vastberaden",
-    "archived": false
-  },
-  {
     "id": "0a049361f9",
     "title": "Perspective Engine",
     "price": 24.99,
@@ -1689,20 +1675,6 @@
       "Action"
     ],
     "slug": "perspective-engine",
-    "archived": false
-  },
-  {
-    "id": "8b16075460",
-    "title": "Sydney and the Cicadas in \"Immanentize\"",
-    "price": 4,
-    "end": 1734926340000,
-    "added": 1734895754953,
-    "platform": 2,
-    "uri": "https://master-suite.itch.io/sydney-and-the-cicadas-in-immanentize",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "sydney-and-the-immanentize",
     "archived": false
   },
   {
@@ -1843,6 +1815,46 @@
       "Adventure"
     ],
     "slug": "the-last-worker-w",
+    "archived": false
+  },
+  {
+    "id": "fe947ab358",
+    "title": "Interstellar Clicker",
+    "price": 1.5,
+    "end": 1735880400000,
+    "added": 1734974973686,
+    "platform": 2,
+    "uri": "https://luckystudios.itch.io/interstellar-clicker",
+    "tags": [],
+    "slug": "interstellar-clicker",
+    "archived": false
+  },
+  {
+    "id": "f2e624edcd",
+    "title": "ScaleBound",
+    "price": 3,
+    "end": 1735880400000,
+    "added": 1734974973686,
+    "platform": 2,
+    "uri": "https://luckystudios.itch.io/scalebound",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "scalebound",
+    "archived": false
+  },
+  {
+    "id": "df90d19746",
+    "title": "BALL PLATFORMER",
+    "price": 14,
+    "end": 1735880400000,
+    "added": 1734974973686,
+    "platform": 2,
+    "uri": "https://mrpaul667.itch.io/ball-platformer",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "ball-platformer",
     "archived": false
   }
 ]
