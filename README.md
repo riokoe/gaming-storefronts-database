@@ -22,17 +22,16 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-23:
+Active giveaways as of 2024-12-25:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
 | [Black Desert](https://store.steampowered.com/app/582660/Black_Desert) | Steam | ~~9.99~~ | MMORPG, Massively Multiplayer, Open World |
-| [Distant Space 2](https://store.steampowered.com/app/729460/Distant_Space_2) | Steam | ~~0.98~~ | Action, Adventure, Indie |
 | [Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1664950/Train_Sim_World_2_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Trains, dlc |
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [Dark and Darker - Legendary Status](https://store.epicgames.com/en-US/p/dark-and-darker-qa-dark-and-darker-legendary-status-a83d59) | Epic |  | dlc |
+| [DREDGE](https://store.epicgames.com/en-US/p/dredge-3e3a5f) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
 | [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
@@ -110,6 +109,7 @@ Active giveaways as of 2024-12-23:
 | [1942: Spitfire Dogfight VR](https://retrovr.itch.io/spitfire-dogfight-vr) | Itch.io | ~~6.00~~ | Simulation |
 | [A Date to Remember](https://jjbeats99.itch.io/a-date-to-remember) | Itch.io | ~~5.00~~ | Visual Novel |
 | [Are you There?](https://magnus-froelund.itch.io/are-you-there) | Itch.io | ~~2.00~~ | Action |
+| [Assassin at Crimson Keep](https://shadowglass.itch.io/assassin-at-crimson-keep) | Itch.io | ~~4.99~~ | Visual Novel |
 | [Asteroids](https://magnus-froelund.itch.io/asteroids) | Itch.io | ~~1.50~~ |  |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
 | [Ball Cave](https://gman1514.itch.io/ball-cave) | Itch.io | ~~4.00~~ | Strategy |
@@ -123,11 +123,13 @@ Active giveaways as of 2024-12-23:
 | [Bones in the Boneyard: Halloween Falling Skulls Game](https://jdmgames.itch.io/bones-in-the-boneyard) | Itch.io | ~~1.99~~ | Puzzle |
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
+| [Cereal](https://tgtstudio.itch.io/cereal) | Itch.io | ~~1.99~~ |  |
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
 | [Climbit](https://just-for-fun.itch.io/climbit) | Itch.io | ~~4.00~~ | Adventure |
 | [Coastal Rescue Simulator](https://just-for-fun.itch.io/coastal-rescue-simulator) | Itch.io | ~~4.00~~ | Simulation |
 | [Croaking Around](https://scallybag.itch.io/croaking-around) | Itch.io | ~~3.00~~ | Platformer |
+| [Delirium Lumen](https://another-one-psihoz.itch.io/delirium) | Itch.io | ~~2.99~~ |  |
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [Drug Dealin Sim 2024](https://b-render.itch.io/drug-dealin-simulator-2024) | Itch.io | ~~5.00~~ | Role Playing |
 | [Dummy Smasher](https://b-render.itch.io/dummy-smasher) | Itch.io | ~~3.50~~ | Action |
@@ -165,6 +167,7 @@ Active giveaways as of 2024-12-23:
 | [Krunchy Fried Games Kollection](https://krunchyfriedgames.itch.io/krunchy-fried-games-kollection) | Itch.io | ~~11.97~~ | Interactive Fiction |
 | [Kurio](https://kuriokingdom.itch.io/kurio) | Itch.io | ~~5.00~~ | Role Playing |
 | [Lani's Call: A Tiny Whale Singer Story](https://telescopegames.itch.io/lanis-call) | Itch.io | ~~2.99~~ | Adventure |
+| [Life's Too Short: A Christmas Spirit (Playdate)](https://pixel-ghost.itch.io/lifes-too-short-a-christmas-spirit-playdate) | Itch.io | ~~2.00~~ | Adventure |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
 | [Little Man](https://gman1514.itch.io/little-man) | Itch.io | ~~1.99~~ |  |
 | [Little Man 2](https://gman1514.itch.io/little-man-2) | Itch.io | ~~2.99~~ |  |
@@ -186,7 +189,6 @@ Active giveaways as of 2024-12-23:
 | [Perspective Engine](https://ry2110.itch.io/perspective-engine) | Itch.io | ~~24.99~~ | Action |
 | [Photoluminescence](https://messier9000.itch.io/luminescence) | Itch.io | ~~2.99~~ | Puzzle |
 | [Planetarium](https://victorco.itch.io/planetarium) | Itch.io | ~~2.00~~ | Survival |
-| [Randall the Grape Jelly Cube goes to Soda Valley for some reason.](https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason) | Itch.io | ~~1.99~~ | Platformer |
 | [Red Tail](https://musialkov.itch.io/redtail) | Itch.io | ~~2.00~~ | Adventure |
 | [Rewind To Fear - The Mansion](https://endsmeet-production.itch.io/rewind-to-fear) | Itch.io | ~~1.99~~ | Survival |
 | [Rise Above!](https://alessandro06-0.itch.io/rise-above) | Itch.io | ~~5.00~~ | Platformer |
@@ -200,6 +202,7 @@ Active giveaways as of 2024-12-23:
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io | ~~9.99~~ | Action |
 | [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
+| [spacemower](https://wiskiigor.itch.io/spacemower) | Itch.io | ~~2.00~~ |  |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [SQUAREISH](https://oddeyes.itch.io/squareish) | Itch.io | ~~3.00~~ | Puzzle |
 | [Still Alive](https://0zanm.itch.io/still-alive) | Itch.io | ~~2.00~~ | Survival |
@@ -217,13 +220,13 @@ Active giveaways as of 2024-12-23:
 | [The Exorcism Of The Devil](https://king-mirage.itch.io/the-exorcism-of-the-devil) | Itch.io | ~~2.00~~ | Puzzle |
 | [The Fall Harvest](https://gman1514.itch.io/the-fall-harvest) | Itch.io | ~~5.00~~ | Simulation |
 | [The Good Dog Show](https://owofgames.itch.io/tgds) | Itch.io | ~~2.00~~ | Visual Novel |
+| [The Higher We Go](https://masterjohnson.itch.io/the-higher-we-go) | Itch.io | ~~2.99~~ | Platformer |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
 | [The Last Worker W](https://normalcupdev.itch.io/the-last-worker-w) | Itch.io | ~~1.50~~ | Adventure |
 | [The MountWood Creature - Survival Mode Update](https://noxusgamesstudio.itch.io/the-mountwood-creature) | Itch.io | ~~1.78~~ | Survival |
 | [The Present](https://icarus-dev.itch.io/the-present) | Itch.io | ~~3.00~~ |  |
 | [The Sin : Darkest Self](https://woncy-games.itch.io/the-sin-darkest-self) | Itch.io | ~~1.50~~ | Survival |
 | [The Trials of Death (2024)](https://dremonty.itch.io/the-trials-of-death) | Itch.io | ~~1.99~~ | Adventure |
-| [The Unlit Sun](https://noxusgamesstudio.itch.io/the-unlit-sun) | Itch.io | ~~1.99~~ | Adventure |
 | [The Wind Turbine](https://jeyers-development.itch.io/the-wind-turbine) | Itch.io | ~~5.00~~ | Simulation |
 | [Ticoban](https://juegosenlazaruscr.itch.io/ticoban) | Itch.io | ~~2.00~~ | Puzzle |
 | [Tiny Tails: The Whale’s Tale](https://al7ussain.itch.io/whale-game) | Itch.io | ~~1.01~~ | Adventure |

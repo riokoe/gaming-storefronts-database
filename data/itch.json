@@ -1070,20 +1070,6 @@
     "archived": false
   },
   {
-    "id": "9601cff247",
-    "title": "Randall the Grape Jelly Cube goes to Soda Valley for some reason.",
-    "price": 1.99,
-    "end": 1735012740000,
-    "added": 1734522837462,
-    "platform": 2,
-    "uri": "https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason",
-    "tags": [
-      "Platformer"
-    ],
-    "slug": "randall-the-grape-reason",
-    "archived": false
-  },
-  {
     "id": "2528b7e937",
     "title": "The Drifters",
     "price": 5,
@@ -1622,20 +1608,6 @@
     "archived": false
   },
   {
-    "id": "101433d0fa",
-    "title": "The Unlit Sun",
-    "price": 1.99,
-    "end": 1735880400000,
-    "added": 1734895754952,
-    "platform": 2,
-    "uri": "https://noxusgamesstudio.itch.io/the-unlit-sun",
-    "tags": [
-      "Adventure"
-    ],
-    "slug": "the-unlit-sun",
-    "archived": false
-  },
-  {
     "id": "5ff356f1cd",
     "title": "One last Slime",
     "price": 5,
@@ -1855,6 +1827,84 @@
       "Adventure"
     ],
     "slug": "ball-platformer",
+    "archived": false
+  },
+  {
+    "id": "7a724581af",
+    "title": "Assassin at Crimson Keep",
+    "price": 4.99,
+    "end": 1735880400000,
+    "added": 1735120642690,
+    "platform": 2,
+    "uri": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "assassin-at-crimson-keep",
+    "archived": false
+  },
+  {
+    "id": "3c6b9f61cd",
+    "title": "Life's Too Short: A Christmas Spirit (Playdate)",
+    "price": 2,
+    "end": 1735155000000,
+    "added": 1735120642690,
+    "platform": 2,
+    "uri": "https://pixel-ghost.itch.io/lifes-too-short-a-christmas-spirit-playdate",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "lifes-too-short-playdate",
+    "archived": false
+  },
+  {
+    "id": "e36148075e",
+    "title": "Cereal",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1735120642690,
+    "platform": 2,
+    "uri": "https://tgtstudio.itch.io/cereal",
+    "tags": [],
+    "slug": "cereal",
+    "archived": false
+  },
+  {
+    "id": "eae069aaba",
+    "title": "The Higher We Go",
+    "price": 2.99,
+    "end": 1735880400000,
+    "added": 1735120642690,
+    "platform": 2,
+    "uri": "https://masterjohnson.itch.io/the-higher-we-go",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "the-higher-we-go",
+    "archived": false
+  },
+  {
+    "id": "868caee228",
+    "title": "spacemower",
+    "price": 2,
+    "end": 1735768800000,
+    "added": 1735120642691,
+    "platform": 2,
+    "uri": "https://wiskiigor.itch.io/spacemower",
+    "tags": [],
+    "slug": "spacemower",
+    "archived": false
+  },
+  {
+    "id": "9b65de508d",
+    "title": "Delirium Lumen",
+    "price": 2.99,
+    "end": 1736312040000,
+    "added": 1735120642691,
+    "platform": 2,
+    "uri": "https://another-one-psihoz.itch.io/delirium",
+    "tags": [],
+    "slug": "delirium-lumen",
     "archived": false
   }
 ]
