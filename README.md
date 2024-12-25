@@ -31,7 +31,7 @@ Active giveaways as of 2024-12-25:
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [DREDGE](https://store.epicgames.com/en-US/p/dredge-3e3a5f) | Epic |  | dlc |
+| [Control](https://store.epicgames.com/en-US/p/control) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [10 Second Escape](https://apps.microsoft.com/detail/9p807nc9q6j0) | Microsoft | ~~2.39~~ | Action & adventure, Other, Platformer |
 | [In The Abyss](https://apps.microsoft.com/detail/9nclslg29mv4) | Microsoft | ~~2.69~~ | Action & adventure, Other, Platformer, Puzzle & trivia |
@@ -46,7 +46,6 @@ Active giveaways as of 2024-12-25:
 | [Predator: Hunting Grounds](https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Simulakros](https://gaming.amazon.com/simulakros-aga/dp/amzn1.pg.item.8a9c12e5-341e-434b-82aa-20f84404409b?ref_=SM_Simulakros_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [A Space for the Unbound](https://store.playstation.com/en-us/concept/10005843) | Playstation Plus [new] |  | Adventure, PS5, Plus |
-| [Anno 1800™ Console Edition - Standard](https://store.playstation.com/en-us/concept/10003143) | Playstation Plus [new] |  | Strategy, Simulation, PS5, Ubisoft |
 | [Batman™: Arkham Knight](https://store.playstation.com/en-us/concept/200472) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Bee Simulator](https://store.playstation.com/en-us/concept/233889) | Playstation Plus [new] |  | Simulation, Family, Adventure, PS4, Plus |
 | [Biped](https://store.playstation.com/en-us/concept/10000494) | Playstation Plus [new] |  | Adventure, Unique, PS4, PS5, Plus |
@@ -61,7 +60,6 @@ Active giveaways as of 2024-12-25:
 | [Desperados III](https://store.playstation.com/en-us/concept/231727) | Playstation Plus [new] |  | Action, Strategy, PS4, Plus |
 | [Detroit: Become Human](https://store.playstation.com/en-us/concept/222727) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [F.I.S.T.: Forged In Shadow Torch](https://store.playstation.com/en-us/concept/10002960) | Playstation Plus [new] |  | Action, PS5, PS4, Plus |
-| [FOR HONOR](https://store.playstation.com/en-us/concept/221694) | Playstation Plus [new] |  | Action, Fighting, PS4, Ubisoft |
 | [For The King](https://store.playstation.com/en-us/concept/232512) | Playstation Plus [new] |  | Strategy, PS4, Plus |
 | [Forspoken](https://store.playstation.com/en-us/concept/10000846) | Playstation Plus [new] |  | Action, Role playing games, PS5, Plus |
 | [God of War](https://store.playstation.com/en-us/concept/227770) | Playstation Plus [new] |  | Action, PS4, Plus |
@@ -69,7 +67,6 @@ Active giveaways as of 2024-12-25:
 | [Gravity Rush™ 2](https://store.playstation.com/en-us/concept/221698) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Hello Neighbor](https://store.playstation.com/en-us/concept/231096) | Playstation Plus [new] |  | Action, Adventure, Horror, PS4, Plus |
 | [Hollow Knight Voidheart Edition](https://store.playstation.com/en-us/concept/232654) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
-| [Hungry Shark® World](https://store.playstation.com/en-us/concept/232286) | Playstation Plus [new] |  | Action, Adventure, Arcade, PS4, Ubisoft |
 | [inFAMOUS First Light](https://store.playstation.com/en-us/concept/202140) | Playstation Plus [new] |  | Action, PS4, Plus |
 | [inFAMOUS Second Son](https://store.playstation.com/en-us/concept/202138) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Jurassic World Evolution 2](https://store.playstation.com/en-us/concept/10002577) | Playstation Plus [new] |  | Simulation, Strategy, PS4, PS5, Plus |
@@ -78,7 +75,6 @@ Active giveaways as of 2024-12-25:
 | [MudRunner](https://store.playstation.com/en-us/concept/230052) | Playstation Plus [new] |  | Racing, Simulation, PS4, Plus |
 | [NASCAR Heat 5](https://store.playstation.com/en-us/concept/10000546) | Playstation Plus [new] |  | Racing, PS4, Plus |
 | [Nioh](https://store.playstation.com/en-us/concept/213861) | Playstation Plus [new] |  | Role playing games, PS4, Plus |
-| [ODDBALLERS](https://store.playstation.com/en-us/concept/10003316) | Playstation Plus [new] |  | Party, PS4, Ubisoft |
 | [PHOGS!](https://store.playstation.com/en-us/concept/10000598) | Playstation Plus [new] |  | Adventure, Puzzle, PS4, Plus |
 | [Portal Knights](https://store.playstation.com/en-us/concept/224933) | Playstation Plus [new] |  | Action, Adventure, Role playing games, PS4, Plus |
 | [Prison Architect: PlayStation®4 Edition](https://store.playstation.com/en-us/concept/216605) | Playstation Plus [new] |  | Action, Adventure, Strategy, PS4, Plus |
@@ -91,15 +87,12 @@ Active giveaways as of 2024-12-25:
 | [Sonic Frontiers PS4 & PS5](https://store.playstation.com/en-us/concept/10002956) | Playstation Plus [new] |  | Action, PS4, PS5, Plus |
 | [Space Hulk: Deathwing - Enhanced Edition](https://store.playstation.com/en-us/concept/227988) | Playstation Plus [new] |  | Action, Shooter, PS4, Plus |
 | [Spitlings](https://store.playstation.com/en-us/concept/233567) | Playstation Plus [new] |  | Action, PS4, Plus |
-| [STEEP](https://store.playstation.com/en-us/concept/221765) | Playstation Plus [new] |  | Sports, PS4, Ubisoft |
 | [Stellaris: Console Edition](https://store.playstation.com/en-us/concept/227469) | Playstation Plus [new] |  | Strategy, PS4, Plus |
 | [Stranded Deep](https://store.playstation.com/en-us/concept/232519) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [Terraria: PS4™ Edition](https://store.playstation.com/en-us/concept/205080) | Playstation Plus [new] |  | Adventure, Role playing games, PS4, Plus |
-| [The Crew® 2 Standard Edition](https://store.playstation.com/en-us/concept/227552) | Playstation Plus [new] |  | Racing, PS4, Ubisoft |
 | [The Last Guardian](https://store.playstation.com/en-us/concept/204826) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [The LEGO® Movie Videogame](https://store.playstation.com/en-us/concept/204880) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
 | [The Long Dark](https://store.playstation.com/en-us/concept/229391) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
-| [Tom Clancy’s Ghost Recon® Wildlands Standard Edition](https://store.playstation.com/en-us/concept/201697) | Playstation Plus [new] |  | Action, Shooter, PS4, Ubisoft |
 | [Until Dawn™ 2015](https://store.playstation.com/en-us/concept/205132) | Playstation Plus [new] |  | Horror, Adventure, PS4, Plus |
 | [Vampyr](https://store.playstation.com/en-us/concept/205200) | Playstation Plus [new] |  | Action, Role playing games, PS4, Plus |
 | [Warhammer: Vermintide 2](https://store.playstation.com/en-us/concept/232764) | Playstation Plus [new] |  | Action, PS4, Plus |
@@ -112,7 +105,6 @@ Active giveaways as of 2024-12-25:
 | [Assassin at Crimson Keep](https://shadowglass.itch.io/assassin-at-crimson-keep) | Itch.io | ~~4.99~~ | Visual Novel |
 | [Asteroids](https://magnus-froelund.itch.io/asteroids) | Itch.io | ~~1.50~~ |  |
 | [Baldi's Basics Songkran In Education And Learning X](https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x) | Itch.io | ~~10.00~~ | Role Playing |
-| [Ball Cave](https://gman1514.itch.io/ball-cave) | Itch.io | ~~4.00~~ | Strategy |
 | [BALL PLATFORMER](https://mrpaul667.itch.io/ball-platformer) | Itch.io | ~~14.00~~ | Adventure |
 | [Basic Shooter (Pre Alpha)](https://magnus-froelund.itch.io/campers-killers-pre-alpha) | Itch.io | ~~2.00~~ | Shooter |
 | [Beanman](https://archimedean-gaming.itch.io/beanman) | Itch.io | ~~4.99~~ | Platformer |
@@ -124,7 +116,9 @@ Active giveaways as of 2024-12-25:
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Cereal](https://tgtstudio.itch.io/cereal) | Itch.io | ~~1.99~~ |  |
+| [Chico and the Magic Orchards DX](https://daikongames.itch.io/chico-and-the-magic-orchards) | Itch.io | ~~4.99~~ | Puzzle |
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
+| [Christmas Time](https://avarisclari.itch.io/christmas-time) | Itch.io | ~~3.00~~ | Interactive Fiction |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
 | [Climbit](https://just-for-fun.itch.io/climbit) | Itch.io | ~~4.00~~ | Adventure |
 | [Coastal Rescue Simulator](https://just-for-fun.itch.io/coastal-rescue-simulator) | Itch.io | ~~4.00~~ | Simulation |
@@ -153,7 +147,6 @@ Active giveaways as of 2024-12-25:
 | [her apartment](https://atmopixel.itch.io/her-apartment) | Itch.io | ~~1.99~~ | Adventure |
 | [HOME GAME](https://iamqqqqqqq.itch.io/homegame) | Itch.io | ~~4.00~~ | Role Playing |
 | [HOME GAME 2](https://iamqqqqqqq.itch.io/homegame2) | Itch.io | ~~4.00~~ | Role Playing |
-| [Hotel Manager Sim](https://gman1514.itch.io/hotel-manager-sim) | Itch.io | ~~4.00~~ | Simulation |
 | [House Cleaner](https://al7ussain.itch.io/housecleaner) | Itch.io | ~~6.99~~ |  |
 | [House Cleaner 2](https://al7ussain.itch.io/house-cleaner-2) | Itch.io | ~~6.99~~ |  |
 | [Hunt them](https://just-for-fun.itch.io/hunt-them) | Itch.io | ~~2.00~~ | Action |
@@ -169,9 +162,6 @@ Active giveaways as of 2024-12-25:
 | [Lani's Call: A Tiny Whale Singer Story](https://telescopegames.itch.io/lanis-call) | Itch.io | ~~2.99~~ | Adventure |
 | [Life's Too Short: A Christmas Spirit (Playdate)](https://pixel-ghost.itch.io/lifes-too-short-a-christmas-spirit-playdate) | Itch.io | ~~2.00~~ | Adventure |
 | [Linda & Joan Prologue: “Four Months Earlier”](https://falsevacuum.itch.io/linda-joan-prologue) | Itch.io | ~~3.00~~ | Visual Novel |
-| [Little Man](https://gman1514.itch.io/little-man) | Itch.io | ~~1.99~~ |  |
-| [Little Man 2](https://gman1514.itch.io/little-man-2) | Itch.io | ~~2.99~~ |  |
-| [Little man 3](https://gman1514.itch.io/little-man-3) | Itch.io | ~~2.99~~ |  |
 | [Mathmare (Full)](https://strikeforce-studio.itch.io/mathmare-full) | Itch.io | ~~1.30~~ |  |
 | [Mathmare Lore Launcher](https://strikeforce-studio.itch.io/mathmare-lore-launcher) | Itch.io | ~~2.00~~ |  |
 | [Mathmare Nightmare Edition](https://strikeforce-studio.itch.io/mathmare-nightmare-edition) | Itch.io | ~~3.00~~ |  |
@@ -201,7 +191,6 @@ Active giveaways as of 2024-12-25:
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io | ~~9.99~~ | Action |
-| [Space Factory](https://mindgames-studios.itch.io/spacefactory) | Itch.io | ~~4.99~~ | Simulation |
 | [spacemower](https://wiskiigor.itch.io/spacemower) | Itch.io | ~~2.00~~ |  |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [SQUAREISH](https://oddeyes.itch.io/squareish) | Itch.io | ~~3.00~~ | Puzzle |
@@ -218,7 +207,6 @@ Active giveaways as of 2024-12-25:
 | [The Door! 4](https://nitish-thombre.itch.io/the-door-4) | Itch.io | ~~4.99~~ | Action |
 | [The Drifters](https://magnus-froelund.itch.io/the-drifters) | Itch.io | ~~5.00~~ | Racing |
 | [The Exorcism Of The Devil](https://king-mirage.itch.io/the-exorcism-of-the-devil) | Itch.io | ~~2.00~~ | Puzzle |
-| [The Fall Harvest](https://gman1514.itch.io/the-fall-harvest) | Itch.io | ~~5.00~~ | Simulation |
 | [The Good Dog Show](https://owofgames.itch.io/tgds) | Itch.io | ~~2.00~~ | Visual Novel |
 | [The Higher We Go](https://masterjohnson.itch.io/the-higher-we-go) | Itch.io | ~~2.99~~ | Platformer |
 | [The Last Bee](https://litygames.itch.io/the-last-bee) | Itch.io | ~~2.00~~ | Action |
@@ -236,6 +224,7 @@ Active giveaways as of 2024-12-25:
 | [Untitled Gore Game](https://magnus-froelund.itch.io/untitled-gore-game) | Itch.io | ~~2.00~~ | Shooter |
 | [Vampie Tale](https://ozaki-studio.itch.io/vampie-tale) | Itch.io | ~~2.00~~ | Visual Novel |
 | [VERTIGROWL](https://apehardware.itch.io/laboral-acrophobia) | Itch.io | ~~2.98~~ | Simulation |
+| [void.Resign](https://avarisclari.itch.io/voidresign) | Itch.io | ~~3.00~~ | Adventure |
 | [Walk](https://noirovideogames.itch.io/walk) | Itch.io | ~~1.25~~ | Simulation |
 | [Walker-Adventure](https://kish-mish1.itch.io/walker-adventure) | Itch.io | ~~10.00~~ | Adventure |
 | [Wally The Seal 2](https://guncatgames.itch.io/wally-the-seal2) | Itch.io | ~~1.99~~ | Survival |

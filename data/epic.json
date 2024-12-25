@@ -1,15 +1,15 @@
 [
   {
-    "id": "04e14ff98e",
-    "title": "DREDGE",
-    "end": 1735142400000,
-    "added": 1735056000000,
+    "id": "6d8ecd3611",
+    "title": "Control",
+    "end": 1735228800000,
+    "added": 1735142400000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/dredge-3e3a5f",
+    "uri": "https://store.epicgames.com/en-US/p/control",
     "tags": [
       "dlc"
     ],
-    "slug": "dredge-1",
+    "slug": "control",
     "archived": false
   }
 ]

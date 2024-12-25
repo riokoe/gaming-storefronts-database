@@ -706,20 +706,6 @@
     "archived": false
   },
   {
-    "id": "e8466ca64a",
-    "title": "Space Factory",
-    "price": 4.99,
-    "end": 1735135200000,
-    "added": 1733496384797,
-    "platform": 2,
-    "uri": "https://mindgames-studios.itch.io/spacefactory",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "space-factory",
-    "archived": false
-  },
-  {
     "id": "a8d0037fea",
     "title": "World War 2 Dogfight Simulator",
     "price": 6,
@@ -919,84 +905,6 @@
       "Visual Novel"
     ],
     "slug": "the-good-dog-show",
-    "archived": false
-  },
-  {
-    "id": "2c074b5673",
-    "title": "Ball Cave",
-    "price": 4,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/ball-cave",
-    "tags": [
-      "Strategy"
-    ],
-    "slug": "ball-cave",
-    "archived": false
-  },
-  {
-    "id": "b259f9c7d0",
-    "title": "Little Man",
-    "price": 1.99,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/little-man",
-    "tags": [],
-    "slug": "little-man",
-    "archived": false
-  },
-  {
-    "id": "c72595a55e",
-    "title": "Hotel Manager Sim",
-    "price": 4,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/hotel-manager-sim",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "hotel-manager-sim",
-    "archived": false
-  },
-  {
-    "id": "c731220c91",
-    "title": "Little man 3",
-    "price": 2.99,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/little-man-3",
-    "tags": [],
-    "slug": "little-man-3",
-    "archived": false
-  },
-  {
-    "id": "df8032227d",
-    "title": "Little Man 2",
-    "price": 2.99,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/little-man-2",
-    "tags": [],
-    "slug": "little-man-2",
-    "archived": false
-  },
-  {
-    "id": "bee11bf991",
-    "title": "The Fall Harvest",
-    "price": 5,
-    "end": 1735120800000,
-    "added": 1734275282522,
-    "platform": 2,
-    "uri": "https://gman1514.itch.io/the-fall-harvest",
-    "tags": [
-      "Simulation"
-    ],
-    "slug": "the-fall-harvest",
     "archived": false
   },
   {
@@ -1905,6 +1813,48 @@
     "uri": "https://another-one-psihoz.itch.io/delirium",
     "tags": [],
     "slug": "delirium-lumen",
+    "archived": false
+  },
+  {
+    "id": "faf4d4577e",
+    "title": "Chico and the Magic Orchards DX",
+    "price": 4.99,
+    "end": 1735182360000,
+    "added": 1735148023934,
+    "platform": 2,
+    "uri": "https://daikongames.itch.io/chico-and-the-magic-orchards",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "chico-and-the-magic-orchards-dx",
+    "archived": false
+  },
+  {
+    "id": "08f5951dac",
+    "title": "void.Resign",
+    "price": 3,
+    "end": 1735185600000,
+    "added": 1735148023935,
+    "platform": 2,
+    "uri": "https://avarisclari.itch.io/voidresign",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "voidresign",
+    "archived": false
+  },
+  {
+    "id": "56edf9cb06",
+    "title": "Christmas Time",
+    "price": 3,
+    "end": 1735185600000,
+    "added": 1735148023935,
+    "platform": 2,
+    "uri": "https://avarisclari.itch.io/christmas-time",
+    "tags": [
+      "Interactive Fiction"
+    ],
+    "slug": "christmas-time",
     "archived": false
   }
 ]
