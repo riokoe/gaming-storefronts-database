@@ -1,38 +1,5 @@
 [
   {
-    "id": "6348a0eeae",
-    "title": "Overcooked! Gourmet Edition",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/overcooked-gourmet-edition-gog/dp/amzn1.pg.item.c6114db6-8fcd-49d2-8c3c-3747519a78fd?ref_=SM_OvercookedGourmetEdition_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "overcooked-gourmet"
-  },
-  {
-    "id": "93d152bed5",
-    "title": "Super Meat Boy",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "super-meat-boy"
-  },
-  {
-    "id": "5ef66ccb2c",
-    "title": "Max: The Curse of Brotherhood",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/max-the-curse-of-brotherhood-aga/dp/amzn1.pg.item.fca09aa1-fa6e-4c47-9843-cedb178ee90f?ref_=SM_MaxTheCurseofBrotherhood_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "max-the-curse-of-brotherhood"
-  },
-  {
     "id": "93adf1d525",
     "title": "Moonscars",
     "added": 1732184554281,
@@ -42,28 +9,6 @@
     "archived": false,
     "end": 1739988000000,
     "slug": "moonscars"
-  },
-  {
-    "id": "49726f3562",
-    "title": "RIOT - Civil Unrest",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/riot-civil-unrest-gog/dp/amzn1.pg.item.ca3a6daa-e68a-4f5a-898f-f7a4cea089c6?ref_=SM_RIOTCivilUnrest_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "riot-civil-unrest"
-  },
-  {
-    "id": "7c8667eaab",
-    "title": "Gloomy Tales: One-Way Ticket - CE",
-    "added": 1732184554281,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/gloomy-tales-one-way-ticket-ce-legacy/dp/amzn1.pg.item.c3112c6d-9286-4a74-96ff-b99607008c37?ref_=SM_GloomyTalesOneWayTicketCE_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "gloomy-tales-one-ticket-ce"
   },
   {
     "id": "5eb8449901",
@@ -242,17 +187,6 @@
     "slug": "the-gunk"
   },
   {
-    "id": "472b0e88a1",
-    "title": "Morbid: The Seven Acolytes",
-    "added": 1729789200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/morbid-the-seven-acolytes-epic/dp/amzn1.pg.item.d3295a8d-1dd7-4f0c-a02a-4c0e9932929b?ref_=SM_MorbidTheSevenAcolytes_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "morbid-the-seven-acolytes"
-  },
-  {
     "id": "b841270060",
     "title": "The Gap",
     "added": 1728579600000,
@@ -317,17 +251,6 @@
     "archived": false,
     "end": 1735754400000,
     "slug": "scarf"
-  },
-  {
-    "id": "14e6a4774b",
-    "title": "Ghost Song",
-    "added": 1727370000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/ghost-song-gog/dp/amzn1.pg.item.317f4613-e5ff-4b03-9129-246f32fb8feb?ref_=SM_GhostSong_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735149600000,
-    "slug": "ghost-song"
   },
   {
     "id": "2476398d88",
@@ -574,17 +497,6 @@
     "archived": false
   },
   {
-    "id": "3610c5afc6",
-    "title": "Warhammer 40,000: Dawn of War II",
-    "end": 1735149600000,
-    "added": 1734026400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/warhammer-40000-dawn-of-war-ii-aga/dp/amzn1.pg.item.a6918af0-b675-4545-9777-dcdec36fb284?ref_=SM_Warhammer40000DawnofWarII_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "warhammer-dawn-war-ii-ii-40000",
-    "archived": false
-  },
-  {
     "id": "446276d34d",
     "title": "Hero's Hour",
     "end": 1739383200000,
@@ -604,17 +516,6 @@
     "uri": "https://gaming.amazon.com/planet-of-lana-gog/dp/amzn1.pg.item.09f5c569-26e3-42e3-8933-13a2e5c9a746?ref_=SM_PlanetofLana_S01_FGWP_CRWN",
     "tags": [],
     "slug": "planet-of-lana",
-    "archived": false
-  },
-  {
-    "id": "66511d3d11",
-    "title": "Electrician Simulator",
-    "end": 1735149600000,
-    "added": 1734026400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/electrician-simulator-epic/dp/amzn1.pg.item.b5c7e9ea-fe6e-44b5-a135-3f6d24ce9e1b?ref_=SM_ElectricianSimulator_S02_FGWP_CRWN",
-    "tags": [],
-    "slug": "electrician-simulator",
     "archived": false
   },
   {
@@ -718,6 +619,17 @@
       "dlc"
     ],
     "slug": "lost-ark-holiday-cache",
+    "archived": false
+  },
+  {
+    "id": "9ab2d8b425",
+    "title": "The Town of Light",
+    "end": 1740592800000,
+    "added": 1735236000000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-town-of-light",
     "archived": false
   }
 ]
