@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-26:
+Active giveaways as of 2024-12-27:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -31,8 +31,9 @@ Active giveaways as of 2024-12-26:
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [Ghostrunner 2](https://store.epicgames.com/en-US/p/ghostrunner-2) | Epic |  | dlc |
+| [HOT WHEELS UNLEASHED™](https://store.epicgames.com/en-US/p/hot-wheels-unleashed) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
+| [The Dark Eye: Chains of Satinav](https://www.gog.com/en/game/the_dark_eye_chains_of_satinav) | GOG |  |  |
 | [Word Scramble+ : Words & Quotes - PC & XBOX](https://apps.microsoft.com/detail/9npts4ljw2lv) | Microsoft | ~~3.99~~ | Classics, Educational, Family & kids, Puzzle & trivia, Word |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
 | [The Town of Light](https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
@@ -97,6 +98,7 @@ Active giveaways as of 2024-12-26:
 | [Bunny Hill Horror](https://krunchyfriedgames.itch.io/bunny-hill-horror) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Bunny Hill Horror: Bunny Boiler](https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler) | Itch.io | ~~3.99~~ | Interactive Fiction |
 | [Cereal](https://tgtstudio.itch.io/cereal) | Itch.io | ~~1.99~~ |  |
+| [Cherophobia](https://worsteventgames.itch.io/cherophobia) | Itch.io | ~~2.99~~ | Adventure |
 | [Chimera Crusader: Defender of Dominicus](https://manstersoft.itch.io/chimera-crusader) | Itch.io | ~~2.50~~ | Role Playing |
 | [CLASSIC GAME](https://iamqqqqqqq.itch.io/classicgame) | Itch.io | ~~8.00~~ | Role Playing |
 | [Climbit](https://just-for-fun.itch.io/climbit) | Itch.io | ~~4.00~~ | Adventure |
@@ -104,6 +106,7 @@ Active giveaways as of 2024-12-26:
 | [Croaking Around](https://scallybag.itch.io/croaking-around) | Itch.io | ~~3.00~~ | Platformer |
 | [CWYMP](https://ryansp.itch.io/cwymp) | Itch.io | ~~3.99~~ | Puzzle |
 | [Delirium Lumen](https://another-one-psihoz.itch.io/delirium) | Itch.io | ~~2.99~~ |  |
+| [Do You Have a Moment to Talk About Our Lord and Savior?](https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior) | Itch.io | ~~3.99~~ | Card Game |
 | [Double Chance](https://sumergamestudio.itch.io/double-chance) | Itch.io | ~~1.99~~ | Action |
 | [Drug Dealin Sim 2024](https://b-render.itch.io/drug-dealin-simulator-2024) | Itch.io | ~~5.00~~ | Role Playing |
 | [Dummy Smasher](https://b-render.itch.io/dummy-smasher) | Itch.io | ~~3.50~~ | Action |
@@ -164,7 +167,6 @@ Active giveaways as of 2024-12-26:
 | [Silver Decay](https://blinktool.itch.io/silver-decay) | Itch.io | ~~5.00~~ | Puzzle |
 | [Sinister Visions (Chapter 1)](https://ar92.itch.io/sinister-v) | Itch.io | ~~3.00~~ | Action |
 | [Small RPG](https://b-render.itch.io/small-rpg) | Itch.io | ~~9.99~~ | Action |
-| [spacemower](https://wiskiigor.itch.io/spacemower) | Itch.io | ~~2.00~~ |  |
 | [spiral paint: shoot & create!](https://mohamadalatal.itch.io/spiral-paint-shoot-create) | Itch.io | ~~5.00~~ |  |
 | [SQUAREISH](https://oddeyes.itch.io/squareish) | Itch.io | ~~3.00~~ | Puzzle |
 | [Still Alive](https://0zanm.itch.io/still-alive) | Itch.io | ~~2.00~~ | Survival |

@@ -90,6 +90,16 @@
     "archived": false
   },
   {
+    "id": "82c70aee45",
+    "title": "The Dark Eye: Chains of Satinav",
+    "added": 1735327387011,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/the_dark_eye_chains_of_satinav",
+    "tags": [],
+    "slug": "the-dark-eye-chains-satinav",
+    "archived": false
+  },
+  {
     "id": "c485fed189",
     "title": "HOME GAME",
     "price": 4,
@@ -1776,18 +1786,6 @@
     "archived": false
   },
   {
-    "id": "868caee228",
-    "title": "spacemower",
-    "price": 2,
-    "end": 1735768800000,
-    "added": 1735120642691,
-    "platform": 2,
-    "uri": "https://wiskiigor.itch.io/spacemower",
-    "tags": [],
-    "slug": "spacemower",
-    "archived": false
-  },
-  {
     "id": "9b65de508d",
     "title": "Delirium Lumen",
     "price": 2.99,
@@ -1840,16 +1838,44 @@
     "archived": false
   },
   {
-    "id": "6da6b4dc04",
-    "title": "Ghostrunner 2",
-    "end": 1735315200000,
-    "added": 1735228800000,
+    "id": "6c24717b94",
+    "title": "Cherophobia",
+    "price": 2.99,
+    "end": 1735880400000,
+    "added": 1735327796566,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/cherophobia",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "cherophobia",
+    "archived": false
+  },
+  {
+    "id": "0718522e59",
+    "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+    "price": 3.99,
+    "end": 1735880400000,
+    "added": 1735327796566,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+    "tags": [
+      "Card Game"
+    ],
+    "slug": "do-you-have-a-moment-savior",
+    "archived": false
+  },
+  {
+    "id": "7a292fe61e",
+    "title": "HOT WHEELS UNLEASHED™",
+    "end": 1735401600000,
+    "added": 1735315200000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "uri": "https://store.epicgames.com/en-US/p/hot-wheels-unleashed",
     "tags": [
       "dlc"
     ],
-    "slug": "ghostrunner-2",
+    "slug": "hot-wheels-unleashed",
     "archived": false
   },
   {
@@ -2551,6 +2577,31 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "868caee228",
+    "title": "spacemower",
+    "price": 2,
+    "end": 1735768800000,
+    "added": 1735120642691,
+    "platform": 2,
+    "uri": "https://wiskiigor.itch.io/spacemower",
+    "tags": [],
+    "slug": "spacemower",
+    "archived": true
+  },
+  {
+    "id": "6da6b4dc04",
+    "title": "Ghostrunner 2",
+    "end": 1735315200000,
+    "added": 1735228800000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "ghostrunner-2",
+    "archived": true
   },
   {
     "id": "556dead9fc",

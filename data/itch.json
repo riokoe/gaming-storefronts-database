@@ -1686,18 +1686,6 @@
     "archived": false
   },
   {
-    "id": "868caee228",
-    "title": "spacemower",
-    "price": 2,
-    "end": 1735768800000,
-    "added": 1735120642691,
-    "platform": 2,
-    "uri": "https://wiskiigor.itch.io/spacemower",
-    "tags": [],
-    "slug": "spacemower",
-    "archived": false
-  },
-  {
     "id": "9b65de508d",
     "title": "Delirium Lumen",
     "price": 2.99,
@@ -1747,6 +1735,34 @@
       "Puzzle"
     ],
     "slug": "cwymp",
+    "archived": false
+  },
+  {
+    "id": "6c24717b94",
+    "title": "Cherophobia",
+    "price": 2.99,
+    "end": 1735880400000,
+    "added": 1735327796566,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/cherophobia",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "cherophobia",
+    "archived": false
+  },
+  {
+    "id": "0718522e59",
+    "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+    "price": 3.99,
+    "end": 1735880400000,
+    "added": 1735327796566,
+    "platform": 2,
+    "uri": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+    "tags": [
+      "Card Game"
+    ],
+    "slug": "do-you-have-a-moment-savior",
     "archived": false
   }
 ]
