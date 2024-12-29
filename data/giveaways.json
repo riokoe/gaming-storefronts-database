@@ -100,16 +100,16 @@
     "archived": false
   },
   {
-    "id": "7484d2db90",
-    "title": "Kill Knight",
-    "end": 1735488000000,
-    "added": 1735401600000,
+    "id": "6ce361d7c9",
+    "title": "Orcs Must Die! 3",
+    "end": 1735574400000,
+    "added": 1735488000000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/kill-knight-e981b3",
+    "uri": "https://store.epicgames.com/en-US/p/combo-a7e03a",
     "tags": [
       "dlc"
     ],
-    "slug": "kill-knight",
+    "slug": "orcs-must-die-3",
     "archived": false
   },
   {
@@ -138,22 +138,6 @@
     "uri": "https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN",
     "tags": [],
     "slug": "the-town-of-light",
-    "archived": false
-  },
-  {
-    "id": "ddbd7d5430",
-    "title": "Bee Simulator",
-    "added": 1734808906970,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/233889",
-    "tags": [
-      "Simulation",
-      "Family",
-      "Adventure",
-      "PS4",
-      "Plus"
-    ],
-    "slug": "bee-simulator-ps",
     "archived": false
   },
   {
@@ -811,6 +795,19 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "7484d2db90",
+    "title": "Kill Knight",
+    "end": 1735488000000,
+    "added": 1735401600000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/kill-knight-e981b3",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "kill-knight",
+    "archived": true
   },
   {
     "id": "c485fed189",

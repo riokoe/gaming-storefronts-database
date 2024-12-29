@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2024-12-28:
+Active giveaways as of 2024-12-29:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -31,14 +31,13 @@ Active giveaways as of 2024-12-28:
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [Kill Knight](https://store.epicgames.com/en-US/p/kill-knight-e981b3) | Epic |  | dlc |
+| [Orcs Must Die! 3](https://store.epicgames.com/en-US/p/combo-a7e03a) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [The Dark Eye: Chains of Satinav](https://www.gog.com/en/game/the_dark_eye_chains_of_satinav) | GOG |  |  |
 | [Word Scramble+ : Words & Quotes - PC & XBOX](https://apps.microsoft.com/detail/9npts4ljw2lv) | Microsoft | ~~3.99~~ | Classics, Educational, Family & kids, Puzzle & trivia, Word |
 | [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
 | [The Town of Light](https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
 | [Batman™: Arkham Knight](https://store.playstation.com/en-us/concept/200472) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
-| [Bee Simulator](https://store.playstation.com/en-us/concept/233889) | Playstation Plus [new] |  | Simulation, Family, Adventure, PS4, Plus |
 | [Celeste](https://store.playstation.com/en-us/concept/231477) | Playstation Plus [new] |  | Action, PS4, Plus |
 | [Chess Ultra](https://store.playstation.com/en-us/concept/225783) | Playstation Plus [new] |  | Family, Simulation, Strategy, PS4, Plus |
 | [Concrete Genie Digital Deluxe Edition](https://store.playstation.com/en-us/concept/233628) | Playstation Plus [new] |  | Action, Adventure, PS4, Plus |
