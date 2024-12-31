@@ -11,17 +11,6 @@
     "slug": "moonscars"
   },
   {
-    "id": "5eb8449901",
-    "title": "Mafia: Definitive Edition",
-    "added": 1730480400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/mafia-definitive-edition-gog/dp/amzn1.pg.item.e4bad3f3-f5e0-484c-b8df-dd2680e4910f?ref_=SM_MafiaDefinitiveEdition_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735668000000,
-    "slug": "mafia-definitive"
-  },
-  {
     "id": "c78cd5443c",
     "title": "A Plague Tale: Innocence",
     "added": 1730394000000,
@@ -97,17 +86,6 @@
     "archived": false,
     "end": 1738778400000,
     "slug": "bang-bang-racing"
-  },
-  {
-    "id": "8a4707104a",
-    "title": "Scorn",
-    "added": 1730394000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/scorn-gog/dp/amzn1.pg.item.34eb9ece-c1c8-42f9-8e18-0bf1c3c8c704?ref_=SM_Scorn_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735668000000,
-    "slug": "scorn"
   },
   {
     "id": "44814f9609",
@@ -264,17 +242,6 @@
     "slug": "the-collage-atlas"
   },
   {
-    "id": "6534ff321c",
-    "title": "Tiny Robots Recharged",
-    "added": 1714064400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/tiny-robots-recharged-aga/dp/amzn1.adg.product.20b87aa4-24b1-444b-80d0-8a5cbc277c56?ref_=SM_TinyRobotsRecharged_S03_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735668000000,
-    "slug": "tiny-robots-recharged"
-  },
-  {
     "id": "bb6845fa3f",
     "title": "Dexter Stardust: Adventures in Outer Space",
     "added": 1713459600000,
@@ -284,28 +251,6 @@
     "archived": false,
     "end": 1735711200000,
     "slug": "dexter-stardust-space"
-  },
-  {
-    "id": "23fee43f66",
-    "title": "Faraway: Arctic Escape",
-    "added": 1712854800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/faraway-arctic-escape-aga/dp/amzn1.pg.item.c357e5eb-fddf-44b3-b986-206dcc4247f2?ref_=SM_FarawayArcticEscape_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735668000000,
-    "slug": "faraway-arctic-escape"
-  },
-  {
-    "id": "49095c8cbf",
-    "title": "Faraway 2: Jungle Escape",
-    "added": 1712250000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/faraway-ii-jungle-escape-aga/dp/amzn1.pg.item.f3867a3a-b3ce-4d33-b43a-aa9192d8dd93?ref_=SM_Faraway2JungleEscape_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735668000000,
-    "slug": "faraway-jungle-escape-2"
   },
   {
     "id": "2c10e70910",
@@ -338,17 +283,6 @@
     "uri": "https://gaming.amazon.com/shogun-showdown-gog/dp/amzn1.pg.item.c3a4b220-2762-416d-ae9c-e849044cc918?ref_=SM_ShogunShowdown_S01_FGWP_CRWN",
     "tags": [],
     "slug": "shogun-showdown",
-    "archived": false
-  },
-  {
-    "id": "5131a2d150",
-    "title": "Sir Whoopass: Immortal Death",
-    "end": 1735668000000,
-    "added": 1732730400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/sir-whoopass-immortal-death-gog/dp/amzn1.pg.item.e6dbfe9b-01d8-4b6e-b804-e35656e9d143?ref_=SM_SirWhoopassImmortalDeath_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "sir-whoopass-immortal-death",
     "archived": false
   },
   {
@@ -393,17 +327,6 @@
     "uri": "https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN",
     "tags": [],
     "slug": "tomb-raider-underworld",
-    "archived": false
-  },
-  {
-    "id": "219c35885d",
-    "title": "Call of Juarez: Gunslinger",
-    "end": 1735668000000,
-    "added": 1733162400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "call-of-juarez-gunslinger",
     "archived": false
   },
   {

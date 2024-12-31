@@ -90,16 +90,26 @@
     "archived": false
   },
   {
-    "id": "c3dc4b2163",
-    "title": "[REDACTED]",
-    "end": 1735660800000,
-    "added": 1735574400000,
+    "id": "36b8107e61",
+    "title": "Vambrace: Cold Soul",
+    "added": 1735671194405,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/vambrace_cold_soul",
+    "tags": [],
+    "slug": "vambrace-cold-soul",
+    "archived": false
+  },
+  {
+    "id": "548cd27fa4",
+    "title": "Sifu",
+    "end": 1735747200000,
+    "added": 1735660800000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/redacted-d9d21e",
+    "uri": "https://store.epicgames.com/en-US/p/sifu",
     "tags": [
       "dlc"
     ],
-    "slug": "redacted",
+    "slug": "sifu",
     "archived": false
   },
   {
@@ -117,6 +127,20 @@
       "Word"
     ],
     "slug": "word-scramble-words-quotes",
+    "archived": false
+  },
+  {
+    "id": "2a5d2a05d4",
+    "title": "So Many Words",
+    "price": 5.49,
+    "added": 1735671198069,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9nkfvnc60z4c",
+    "tags": [
+      "Family & kids",
+      "Word"
+    ],
+    "slug": "so-many-words",
     "archived": false
   },
   {
@@ -143,5 +167,18 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "c3dc4b2163",
+    "title": "[REDACTED]",
+    "end": 1735660800000,
+    "added": 1735574400000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/redacted-d9d21e",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "redacted",
+    "archived": true
   }
 ]
