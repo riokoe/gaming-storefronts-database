@@ -570,20 +570,6 @@
     "slug": "black-x"
   },
   {
-    "id": "6a27624240",
-    "title": "BlazBlue: Cross Tag Battle Special Edition",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NFWDRBZXDL9",
-    "tags": [
-      "Fighting",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "blazblue-cross-special-x-pc"
-  },
-  {
     "id": "82c66fd0a3",
     "title": "Bleeding Edge",
     "added": 1731431367336,
@@ -907,19 +893,6 @@
     ],
     "archived": false,
     "slug": "clone-drone-in-danger-zone-x-pc"
-  },
-  {
-    "id": "e6c991ff39",
-    "title": "Close to the Sun",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9N67QTH4Z1GP",
-    "tags": [
-      "Action & adventure",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "close-to-the-sun-x"
   },
   {
     "id": "c94c6a8487",
@@ -2858,20 +2831,6 @@
     "slug": "humanity-x-pc"
   },
   {
-    "id": "5828f71b33",
-    "title": "HUMANKIND™",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MZ01WJM4MK1",
-    "tags": [
-      "Simulation",
-      "Strategy",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "humankind-x"
-  },
-  {
     "id": "3df8825c88",
     "title": "Hypnospace Outlaw",
     "added": 1731431367336,
@@ -3191,19 +3150,6 @@
     ],
     "archived": false,
     "slug": "legend-of-mana-x-pc"
-  },
-  {
-    "id": "5221e90758",
-    "title": "LEGO® 2K Drive Cross-Gen Standard Edition",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9NQKB8NZTGKK",
-    "tags": [
-      "Console",
-      "Racing & flying"
-    ],
-    "archived": false,
-    "slug": "lego-k-drive-cross-standard-2-x"
   },
   {
     "id": "35a133c17d",
@@ -3552,21 +3498,6 @@
     ],
     "archived": false,
     "slug": "max-the-curse-of-brotherhood-x"
-  },
-  {
-    "id": "d8255f4006",
-    "title": "McPixel 3",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PP2WW5TQ7MS",
-    "tags": [
-      "Other",
-      "Action & adventure",
-      "Console",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "mcpixel-3-x-pc"
   },
   {
     "id": "1f94461cf3",
@@ -4423,21 +4354,6 @@
     ],
     "archived": false,
     "slug": "palworld-game-preview-x-pc"
-  },
-  {
-    "id": "f5e462f47d",
-    "title": "Party Animals",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9MZ08RDQ4DM1",
-    "tags": [
-      "Action & adventure",
-      "Family & kids",
-      "Fighting",
-      "Console"
-    ],
-    "archived": false,
-    "slug": "party-animals-x"
   },
   {
     "id": "faa2acb5f3",
@@ -7227,19 +7143,6 @@
     "slug": "cities-skylines-ii-ii-pc"
   },
   {
-    "id": "e581dbd221",
-    "title": "Close to the Sun.",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9P4CBGC2HJG1",
-    "tags": [
-      "Action & adventure",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "close-to-the-sun-pc"
-  },
-  {
     "id": "3d4ec263e7",
     "title": "Control Ultimate Edition",
     "added": 1731431367336,
@@ -7820,20 +7723,6 @@
     ],
     "archived": false,
     "slug": "hellblade-senuas-sacrifice-pc"
-  },
-  {
-    "id": "f1fa3aa639",
-    "title": "HUMANKIND™",
-    "added": 1731431367336,
-    "platform": 0,
-    "uri": "https://www.xbox.com/en-en/games/store/-/9PM7HXJ92D6W",
-    "tags": [
-      "Simulation",
-      "Strategy",
-      "Desktop"
-    ],
-    "archived": false,
-    "slug": "humankind-pc"
   },
   {
     "id": "2ddf3234dc",

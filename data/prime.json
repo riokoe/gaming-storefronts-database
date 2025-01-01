@@ -11,17 +11,6 @@
     "slug": "moonscars"
   },
   {
-    "id": "c78cd5443c",
-    "title": "A Plague Tale: Innocence",
-    "added": 1730394000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/a-plague-tale-innocence-gog/dp/amzn1.pg.item.09661e4b-9ac0-4a58-b80b-eaf0b4af8957?ref_=SM_APlagueTaleInnocence_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735754400000,
-    "slug": "a-plague-tale-innocence"
-  },
-  {
     "id": "fe1b868ef0",
     "title": "Ms. Holmes: The Case of the Dancing Men - CE",
     "added": 1731586950472,
@@ -110,17 +99,6 @@
     "slug": "bioshock-remastered"
   },
   {
-    "id": "3fe7d114f5",
-    "title": "Haunted Hotel: Personal Nightmare - CE",
-    "added": 1730394000000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/haunted-hotel-personal-nightmare-ce-aga/dp/amzn1.pg.item.41f7e313-4225-4d71-a0a4-0dea5a6b04d5?ref_=SM_HauntedHotelPersonalNightmareCE_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735754400000,
-    "slug": "haunted-hotel-personal-nightmare-ce"
-  },
-  {
     "id": "1f80286426",
     "title": "Monster Train",
     "added": 1729789200000,
@@ -198,39 +176,6 @@
     "slug": "through-the-darkest-times"
   },
   {
-    "id": "2baee76223",
-    "title": "No Straight Roads",
-    "added": 1727974800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/no-straight-roads-epic/dp/amzn1.pg.item.261f39ef-7817-4333-9685-913c07486a41?ref_=SM_NoStraightRoads_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735754400000,
-    "slug": "no-straight-roads"
-  },
-  {
-    "id": "d26bcb2d48",
-    "title": "The Eternal Cylinder",
-    "added": 1727974800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/the-eternal-cylinder-epic/dp/amzn1.pg.item.6fc06cc3-039a-4f6a-b788-100a5fa9c87e?ref_=SM_TheEternalCylinder_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735754400000,
-    "slug": "the-eternal-cylinder"
-  },
-  {
-    "id": "553508d163",
-    "title": "SCARF",
-    "added": 1729184400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/scarf-epic/dp/amzn1.pg.item.3aebbea1-94fe-4226-8aef-4aa349d655e2?ref_=SM_SCARF_S03_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735754400000,
-    "slug": "scarf"
-  },
-  {
     "id": "2476398d88",
     "title": "The Collage Atlas",
     "added": 1724950800000,
@@ -240,17 +185,6 @@
     "archived": false,
     "end": 1740765600000,
     "slug": "the-collage-atlas"
-  },
-  {
-    "id": "bb6845fa3f",
-    "title": "Dexter Stardust: Adventures in Outer Space",
-    "added": 1713459600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/dexter-stardust-adventures-in-outer-space-aga/dp/amzn1.pg.item.c03a78f6-a72e-4ceb-b0a2-5793ce667d51?ref_=SM_DexterStardustAdventuresinOuterSpace_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1735711200000,
-    "slug": "dexter-stardust-space"
   },
   {
     "id": "2c10e70910",
@@ -474,17 +408,6 @@
       "dlc"
     ],
     "slug": "throne-and-liberty-cache",
-    "archived": false
-  },
-  {
-    "id": "7e016c5113",
-    "title": "Predator: Hunting Grounds",
-    "end": 1735754400000,
-    "added": 1734631200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/predator-hunting-grounds-epic/dp/amzn1.pg.item.0c3baf8f-0cd8-414d-bac6-79729c73f473?ref_=SM_PredatorHuntingGrounds_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "predator-hunting-grounds",
     "archived": false
   },
   {

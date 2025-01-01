@@ -1842,11 +1842,11 @@
     "title": "Hotline Miami",
     "added": 1731431590108,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005940",
+    "uri": "https://store.playstation.com/en-us/concept/202006",
     "tags": [
       "Action",
+      "Arcade",
       "PS4",
-      "PS5",
       "Plus"
     ],
     "archived": false,
@@ -8803,20 +8803,6 @@
       "Plus"
     ],
     "slug": "mudrunner-ps",
-    "archived": false
-  },
-  {
-    "id": "b01a7e20ad",
-    "title": "NASCAR Heat 5",
-    "added": 1734975003536,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10000546",
-    "tags": [
-      "Racing",
-      "PS4",
-      "Plus"
-    ],
-    "slug": "nascar-heat-5-ps",
     "archived": false
   },
   {

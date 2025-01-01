@@ -100,33 +100,16 @@
     "archived": false
   },
   {
-    "id": "548cd27fa4",
-    "title": "Sifu",
-    "end": 1735747200000,
-    "added": 1735660800000,
+    "id": "162b096979",
+    "title": "Kingdom Come: Deliverance",
+    "end": 1735833600000,
+    "added": 1735747200000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/sifu",
+    "uri": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance",
     "tags": [
       "dlc"
     ],
-    "slug": "sifu",
-    "archived": false
-  },
-  {
-    "id": "c22b4e4273",
-    "title": "Word Scramble+ : Words & Quotes - PC & XBOX",
-    "price": 3.99,
-    "added": 1734601274609,
-    "platform": 5,
-    "uri": "https://apps.microsoft.com/detail/9npts4ljw2lv",
-    "tags": [
-      "Classics",
-      "Educational",
-      "Family & kids",
-      "Puzzle & trivia",
-      "Word"
-    ],
-    "slug": "word-scramble-words-quotes",
+    "slug": "kingdom-come-deliverance",
     "archived": false
   },
   {
@@ -167,6 +150,36 @@
     ],
     "slug": "world-of-warships-players-2024",
     "archived": false
+  },
+  {
+    "id": "548cd27fa4",
+    "title": "Sifu",
+    "end": 1735747200000,
+    "added": 1735660800000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/sifu",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "sifu",
+    "archived": true
+  },
+  {
+    "id": "c22b4e4273",
+    "title": "Word Scramble+ : Words & Quotes - PC & XBOX",
+    "price": 3.99,
+    "added": 1734601274609,
+    "platform": 5,
+    "uri": "https://apps.microsoft.com/detail/9npts4ljw2lv",
+    "tags": [
+      "Classics",
+      "Educational",
+      "Family & kids",
+      "Puzzle & trivia",
+      "Word"
+    ],
+    "slug": "word-scramble-words-quotes",
+    "archived": true
   },
   {
     "id": "c3dc4b2163",
