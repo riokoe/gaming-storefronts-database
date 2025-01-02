@@ -1,5 +1,33 @@
 [
   {
+    "id": "977b3d3ab9",
+    "title": "Carrion",
+    "added": 1735846151547,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9NPKKNBJ258V",
+    "tags": [
+      "Action & adventure",
+      "Platformer",
+      "Console"
+    ],
+    "slug": "carrion-x",
+    "archived": false
+  },
+  {
+    "id": "0e8628d4ec",
+    "title": "Carrion",
+    "added": 1735846151548,
+    "platform": 0,
+    "uri": "https://www.xbox.com/en-en/games/store/-/9MSMJH3C6TKR",
+    "tags": [
+      "Action & adventure",
+      "Other",
+      "Desktop"
+    ],
+    "slug": "carrion-pc",
+    "archived": false
+  },
+  {
     "id": "7f11841387",
     "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
     "price": 29.99,
@@ -100,16 +128,16 @@
     "archived": false
   },
   {
-    "id": "162b096979",
-    "title": "Kingdom Come: Deliverance",
-    "end": 1735833600000,
-    "added": 1735747200000,
+    "id": "3de9c23fb1",
+    "title": "Hell Let Loose",
+    "end": 1736438400000,
+    "added": 1735833600000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance",
+    "uri": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036",
     "tags": [
       "dlc"
     ],
-    "slug": "kingdom-come-deliverance",
+    "slug": "hell-let-loose",
     "archived": false
   },
   {
@@ -127,15 +155,39 @@
     "archived": false
   },
   {
-    "id": "9ab2d8b425",
-    "title": "The Town of Light",
-    "end": 1740592800000,
-    "added": 1735236000000,
+    "id": "62f39ac11d",
+    "title": "Eastern Exorcist",
+    "end": 1741197600000,
+    "added": 1735840800000,
     "platform": 6,
-    "uri": "https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN",
+    "uri": "https://gaming.amazon.com/eastern-exorcist-epic/dp/amzn1.pg.item.67d510f7-411a-4354-babd-9963b8cc0423?ref_=SM_EasternExorcist_S01_FGWP_CRWN",
     "tags": [],
-    "slug": "the-town-of-light",
+    "slug": "eastern-exorcist",
     "archived": false
+  },
+  {
+    "id": "d3b1224cda",
+    "title": "The Bridge",
+    "end": 1741197600000,
+    "added": 1735840800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-bridge-epic/dp/amzn1.pg.item.2dbd6cad-aa05-4346-9c42-7413f692ed66?ref_=SM_TheBridge_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-bridge",
+    "archived": false
+  },
+  {
+    "id": "162b096979",
+    "title": "Kingdom Come: Deliverance",
+    "end": 1735833600000,
+    "added": 1735747200000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "kingdom-come-deliverance",
+    "archived": true
   },
   {
     "id": "2da242ab34",
@@ -149,7 +201,7 @@
       "dlc"
     ],
     "slug": "world-of-warships-players-2024",
-    "archived": false
+    "archived": true
   },
   {
     "id": "548cd27fa4",

@@ -22,7 +22,7 @@ A database of free games on major online gaming storefronts as well as games in 
 
 ## Giveaways
 
-Active giveaways as of 2025-1-1:
+Active giveaways as of 2025-1-2:
 
 | Game | Store | Price | Tags |
 | --- | --- | --- | --- |
@@ -31,9 +31,11 @@ Active giveaways as of 2025-1-1:
 | [Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, dlc |
 | [Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On](https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn) | Steam | ~~29.99~~ | Simulation, Adventure, Automobile Sim, dlc |
-| [Kingdom Come: Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | Epic |  | dlc |
+| [Hell Let Loose](https://store.epicgames.com/en-US/p/hell-let-loose-03f036) | Epic |  | dlc |
 | [Lynn , HD WallPaper](https://www.gog.com/en/game/lynn_hd_wallpaper) | GOG | ~~0.99~~ | Strategy, Point-and-click, Puzzle, dlc |
 | [Vambrace: Cold Soul](https://www.gog.com/en/game/vambrace_cold_soul) | GOG |  |  |
 | [So Many Words](https://apps.microsoft.com/detail/9nkfvnc60z4c) | Microsoft | ~~5.49~~ | Family & kids, Word |
-| [World of Warships Booster Pack 2024 - New Players](https://www.fanatical.com/en/game/world-of-warships-booster-pack-2024-new-players) | Fanatical | ~~28.87~~ | dlc |
-| [The Town of Light](https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Eastern Exorcist](https://gaming.amazon.com/eastern-exorcist-epic/dp/amzn1.pg.item.67d510f7-411a-4354-babd-9963b8cc0423?ref_=SM_EasternExorcist_S01_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [The Bridge](https://gaming.amazon.com/the-bridge-epic/dp/amzn1.pg.item.2dbd6cad-aa05-4346-9c42-7413f692ed66?ref_=SM_TheBridge_S02_FGWP_CRWN) | Prime Gaming [new] |  |  |
+| [Carrion](https://www.xbox.com/en-en/games/store/-/9NPKKNBJ258V) | Xbox Game Pass [new] |  | Action & adventure, Platformer, Console |
+| [Carrion](https://www.xbox.com/en-en/games/store/-/9MSMJH3C6TKR) | Xbox Game Pass [new] |  | Action & adventure, Other, Desktop |

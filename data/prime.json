@@ -411,17 +411,6 @@
     "archived": false
   },
   {
-    "id": "6f0fe79bcc",
-    "title": "Nine Witches: Family Disruption",
-    "end": 1735840800000,
-    "added": 1734631200000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/nine-witches-family-disruption-aga/dp/amzn1.pg.item.8e9e8e1f-99cd-4997-8526-319fdc387c65?ref_=SM_NineWitchesFamilyDisruption_S02_FGWP_CRWN",
-    "tags": [],
-    "slug": "nine-witches-family-disruption",
-    "archived": false
-  },
-  {
     "id": "851d00d8d1",
     "title": "Aces of the Luftwaffe - Squadron Extended Edition",
     "end": 1742403600000,
@@ -476,6 +465,28 @@
     "uri": "https://gaming.amazon.com/the-town-of-light-gog/dp/amzn1.pg.item.027c4803-3577-4bd2-a77a-fc045287139f?ref_=SM_TheTownofLight_S01_FGWP_CRWN",
     "tags": [],
     "slug": "the-town-of-light",
+    "archived": false
+  },
+  {
+    "id": "62f39ac11d",
+    "title": "Eastern Exorcist",
+    "end": 1741197600000,
+    "added": 1735840800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/eastern-exorcist-epic/dp/amzn1.pg.item.67d510f7-411a-4354-babd-9963b8cc0423?ref_=SM_EasternExorcist_S01_FGWP_CRWN",
+    "tags": [],
+    "slug": "eastern-exorcist",
+    "archived": false
+  },
+  {
+    "id": "d3b1224cda",
+    "title": "The Bridge",
+    "end": 1741197600000,
+    "added": 1735840800000,
+    "platform": 6,
+    "uri": "https://gaming.amazon.com/the-bridge-epic/dp/amzn1.pg.item.2dbd6cad-aa05-4346-9c42-7413f692ed66?ref_=SM_TheBridge_S02_FGWP_CRWN",
+    "tags": [],
+    "slug": "the-bridge",
     "archived": false
   }
 ]
