@@ -28,21 +28,6 @@
     "archived": false
   },
   {
-    "id": "7f11841387",
-    "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
-    "price": 29.99,
-    "added": 1734724955585,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/1664950/Train_Sim_World_2_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
-    "tags": [
-      "Simulation",
-      "Trains",
-      "dlc"
-    ],
-    "slug": "train-sim-world-add-on-2",
-    "archived": false
-  },
-  {
     "id": "0b937e7a0d",
     "title": "Black Desert",
     "price": 9.99,
@@ -55,76 +40,6 @@
       "Open World"
     ],
     "slug": "black-desert",
-    "archived": false
-  },
-  {
-    "id": "45b912c8e5",
-    "title": "Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On",
-    "price": 29.99,
-    "added": 1734895397725,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
-    "tags": [
-      "Simulation",
-      "dlc"
-    ],
-    "slug": "train-sim-world-add-on-4",
-    "archived": false
-  },
-  {
-    "id": "a8016b32b8",
-    "title": "Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On",
-    "price": 29.99,
-    "added": 1734895397725,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
-    "tags": [
-      "Simulation",
-      "Adventure",
-      "Automobile Sim",
-      "dlc"
-    ],
-    "slug": "train-sim-world-add-on-5",
-    "archived": false
-  },
-  {
-    "id": "46414724bf",
-    "title": "Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On",
-    "price": 29.99,
-    "added": 1734895397725,
-    "platform": 1,
-    "uri": "https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
-    "tags": [
-      "Simulation",
-      "dlc"
-    ],
-    "slug": "train-sim-world-add-on-3",
-    "archived": false
-  },
-  {
-    "id": "a47dfaa332",
-    "title": "Lynn , HD WallPaper",
-    "price": 0.99,
-    "added": 1734014171295,
-    "platform": 3,
-    "uri": "https://www.gog.com/en/game/lynn_hd_wallpaper",
-    "tags": [
-      "Strategy",
-      "Point-and-click",
-      "Puzzle",
-      "dlc"
-    ],
-    "slug": "lynn-hd-wallpaper",
-    "archived": false
-  },
-  {
-    "id": "36b8107e61",
-    "title": "Vambrace: Cold Soul",
-    "added": 1735671194405,
-    "platform": 3,
-    "uri": "https://www.gog.com/en/game/vambrace_cold_soul",
-    "tags": [],
-    "slug": "vambrace-cold-soul",
     "archived": false
   },
   {
@@ -175,6 +90,91 @@
     "tags": [],
     "slug": "the-bridge",
     "archived": false
+  },
+  {
+    "id": "7f11841387",
+    "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734724955585,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/1664950/Train_Sim_World_2_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "Trains",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-2",
+    "archived": true
+  },
+  {
+    "id": "45b912c8e5",
+    "title": "Train Sim World® 4 Compatible: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2386121/Train_Sim_World_4_Compatible_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-4",
+    "archived": true
+  },
+  {
+    "id": "a8016b32b8",
+    "title": "Train Sim World® 5: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/2969990/Train_Sim_World_5_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "Adventure",
+      "Automobile Sim",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-5",
+    "archived": true
+  },
+  {
+    "id": "46414724bf",
+    "title": "Train Sim World® 3: Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "price": 29.99,
+    "added": 1734895397725,
+    "platform": 1,
+    "uri": "https://store.steampowered.com/app/1998955/Train_Sim_World_3_Sherman_Hill_Cheyenne__Laramie_Route_AddOn",
+    "tags": [
+      "Simulation",
+      "dlc"
+    ],
+    "slug": "train-sim-world-add-on-3",
+    "archived": true
+  },
+  {
+    "id": "a47dfaa332",
+    "title": "Lynn , HD WallPaper",
+    "price": 0.99,
+    "added": 1734014171295,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/lynn_hd_wallpaper",
+    "tags": [
+      "Strategy",
+      "Point-and-click",
+      "Puzzle",
+      "dlc"
+    ],
+    "slug": "lynn-hd-wallpaper",
+    "archived": true
+  },
+  {
+    "id": "36b8107e61",
+    "title": "Vambrace: Cold Soul",
+    "added": 1735671194405,
+    "platform": 3,
+    "uri": "https://www.gog.com/en/game/vambrace_cold_soul",
+    "tags": [],
+    "slug": "vambrace-cold-soul",
+    "archived": true
   },
   {
     "id": "162b096979",
