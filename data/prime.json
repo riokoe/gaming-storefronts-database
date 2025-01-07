@@ -143,17 +143,6 @@
     "slug": "the-gunk"
   },
   {
-    "id": "b841270060",
-    "title": "The Gap",
-    "added": 1728579600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/the-gap-aga/dp/amzn1.pg.item.4e43dec0-5cc0-43b4-a970-c110605935f6?ref_=SM_TheGap_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1736272800000,
-    "slug": "the-gap"
-  },
-  {
     "id": "d8f8eb8ccb",
     "title": "DreadOut 2",
     "added": 1728579600000,
@@ -228,39 +217,6 @@
     "uri": "https://gaming.amazon.com/mystery-case-files-the-dalimar-legacy-ce-aga/dp/amzn1.pg.item.1683372f-d154-479e-85b9-47f1430ac849?ref_=SM_MysteryCaseFilesTheDalimarLegacyCE_S01_FGWP_CRWN",
     "tags": [],
     "slug": "mystery-case-files-legacy-ce",
-    "archived": false
-  },
-  {
-    "id": "e3d291b26a",
-    "title": "Overcooked! 2",
-    "end": 1736100000000,
-    "added": 1733162400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/overcooked-2-gog/dp/amzn1.pg.item.b6910650-0c3f-4d55-b114-71995e792dc3?ref_=SM_Overcooked2_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "overcooked-2",
-    "archived": false
-  },
-  {
-    "id": "9324d58e12",
-    "title": "DREDGE",
-    "end": 1736100000000,
-    "added": 1733162400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/dredge-gog/dp/amzn1.pg.item.c2739dbe-88cc-43a3-861b-982aa14dbf22?ref_=SM_DREDGE_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "dredge",
-    "archived": false
-  },
-  {
-    "id": "5ec3a756f9",
-    "title": "Tomb Raider: Underworld",
-    "end": 1736100000000,
-    "added": 1733162400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "tomb-raider-underworld",
     "archived": false
   },
   {
@@ -400,7 +356,7 @@
   {
     "id": "00c4639db7",
     "title": "Throne and Liberty - Winter Festival Cache",
-    "end": 1736622000000,
+    "end": 1736794800000,
     "added": 1734030000000,
     "platform": 6,
     "uri": "https://gaming.amazon.com/winter-festival-cache/dp/amzn1.pg.item.cdbf301b-4fd6-4a16-8b99-e59108328d5f?ref_=SM_ThroneandLiberty_S01_D01_CRWN",
