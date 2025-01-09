@@ -44,28 +44,6 @@
     "slug": "deaths-door"
   },
   {
-    "id": "9ffd507216",
-    "title": "Close to the Sun",
-    "added": 1731002400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/close-to-the-sun-gog/dp/amzn1.pg.item.95bae0aa-fad6-4c3b-a807-e3053b65c462?ref_=SM_ClosetotheSun_S02_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1736359200000,
-    "slug": "close-to-the-sun"
-  },
-  {
-    "id": "ae8cd50195",
-    "title": "Duck Paradox",
-    "added": 1731002400000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/duck-paradox-gog/dp/amzn1.pg.item.7c14c6bf-0bc3-41b9-b4a3-34dc1dbd8b1d?ref_=SM_DuckParadox_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1736359200000,
-    "slug": "duck-paradox"
-  },
-  {
     "id": "c987adfc08",
     "title": "Bang Bang Racing",
     "added": 1731002400000,
@@ -86,17 +64,6 @@
     "archived": false,
     "end": 1738173600000,
     "slug": "coromon"
-  },
-  {
-    "id": "f58293e27f",
-    "title": "BioShock Remastered",
-    "added": 1728579600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/bioshock-remastered-gog/dp/amzn1.pg.item.47e3beb4-fa93-4141-8bbb-dd75cfbe25c8?ref_=SM_BioShockRemastered_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1736359200000,
-    "slug": "bioshock-remastered"
   },
   {
     "id": "1f80286426",
@@ -141,17 +108,6 @@
     "archived": false,
     "end": 1737568800000,
     "slug": "the-gunk"
-  },
-  {
-    "id": "d8f8eb8ccb",
-    "title": "DreadOut 2",
-    "added": 1728579600000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/dreadout-2-aga/dp/amzn1.pg.item.c90fbab6-a7f2-4e80-8233-632431cf565d?ref_=SM_DreadOut2_S01_FGWP_CRWN",
-    "tags": [],
-    "archived": false,
-    "end": 1736359200000,
-    "slug": "dreadout-2"
   },
   {
     "id": "76ca074b5e",
@@ -220,17 +176,6 @@
     "archived": false
   },
   {
-    "id": "59a247a01e",
-    "title": "Disney•Pixar WALL-E",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/disney-pixar-wall-e-aga/dp/amzn1.pg.item.35850bb0-ac60-4455-96cd-c95a1b84c3b1?ref_=SM_DisneyPixarWALLE_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "disneypixar-wall-e",
-    "archived": false
-  },
-  {
     "id": "ea255c3987",
     "title": "The Outer Worlds",
     "end": 1741197600000,
@@ -239,61 +184,6 @@
     "uri": "https://gaming.amazon.com/the-outer-worlds-gog/dp/amzn1.pg.item.538ee4d5-dbf8-48d9-a835-44062e2acec0?ref_=SM_TheOuterWorlds_S01_FGWP_CRWN",
     "tags": [],
     "slug": "the-outer-worlds",
-    "archived": false
-  },
-  {
-    "id": "dded105be8",
-    "title": "Spelunky",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/spelunky-gog/dp/amzn1.pg.item.ea6d2b0c-a00f-4db6-a54e-59e35fb13038?ref_=SM_Spelunky_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "spelunky",
-    "archived": false
-  },
-  {
-    "id": "ebfc815c80",
-    "title": "Baldur's Gate: Enhanced Edition",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/baldurs-gate-enhanced-edition-gog/dp/amzn1.pg.item.a7bdaa9f-df98-488e-97af-5322512c05e2?ref_=SM_BaldursGateEnhancedEdition_S03_FGWP_CRWN",
-    "tags": [],
-    "slug": "baldurs-gate-enhanced",
-    "archived": false
-  },
-  {
-    "id": "f63ee4cb9d",
-    "title": "Baldur's Gate II: Enhanced Edition",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/baldurs-gate-ii-enhanced-edition-gog/dp/amzn1.pg.item.132cb562-d492-4313-90fc-6335eeab7676?ref_=SM_BaldursGateIIEnhancedEdition_S03_FGWP_CRWN",
-    "tags": [],
-    "slug": "baldurs-gate-ii-enhanced-ii",
-    "archived": false
-  },
-  {
-    "id": "c358f9b419",
-    "title": "Neverwinter Nights: Enhanced Edition",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/neverwinter-nights-gog/dp/amzn1.pg.item.acee8e4d-cbd6-4a9e-add2-b3e52d825c51?ref_=SM_NeverwinterNightsEnhancedEdition_S02_FGWP_CRWN",
-    "tags": [],
-    "slug": "neverwinter-nights-enhanced",
-    "archived": false
-  },
-  {
-    "id": "e5fcf38450",
-    "title": "Quake II",
-    "end": 1736359200000,
-    "added": 1733410800000,
-    "platform": 6,
-    "uri": "https://gaming.amazon.com/quake-ii-gog/dp/amzn1.pg.item.757cffc7-88f9-433b-965a-207899450dd4?ref_=SM_QuakeII_S01_FGWP_CRWN",
-    "tags": [],
-    "slug": "quake-ii-ii",
     "archived": false
   },
   {

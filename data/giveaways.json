@@ -59,16 +59,821 @@
     "archived": false
   },
   {
-    "id": "3de9c23fb1",
-    "title": "Hell Let Loose",
-    "end": 1736438400000,
-    "added": 1735833600000,
-    "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036",
+    "id": "c485fed189",
+    "title": "HOME GAME",
+    "price": 4,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/homegame",
     "tags": [
-      "dlc"
+      "Role Playing"
     ],
-    "slug": "hell-let-loose",
+    "slug": "home-game",
+    "archived": false
+  },
+  {
+    "id": "af95409b81",
+    "title": "HOME GAME 2",
+    "price": 4,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/homegame2",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "home-game-2",
+    "archived": false
+  },
+  {
+    "id": "e3a5857e16",
+    "title": "Endless Math Challenge",
+    "price": 3.99,
+    "end": 1733025599000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://notritter.itch.io/endless-math-challenge",
+    "tags": [
+      "Educational"
+    ],
+    "slug": "endless-math-challenge",
+    "archived": false
+  },
+  {
+    "id": "75a1160825",
+    "title": "CLASSIC GAME",
+    "price": 8,
+    "end": 1733025600000,
+    "added": 1732441396468,
+    "platform": 2,
+    "uri": "https://iamqqqqqqq.itch.io/classicgame",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "classic-game",
+    "archived": false
+  },
+  {
+    "id": "d526ba8431",
+    "title": "Memento",
+    "price": 3,
+    "end": 1733374800000,
+    "added": 1733049773483,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/memento-omori",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "memento",
+    "archived": false
+  },
+  {
+    "id": "5222933170",
+    "title": "Kasperias Arenas",
+    "price": 2,
+    "end": 1735592400000,
+    "added": 1733049773483,
+    "platform": 2,
+    "uri": "https://kasperv.itch.io/kasperias-arenas",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "kasperias-arenas",
+    "archived": false
+  },
+  {
+    "id": "66d9e2a4af",
+    "title": "Baldi's Basics Songkran In Education And Learning X",
+    "price": 10,
+    "end": 1735637640000,
+    "added": 1733049773483,
+    "platform": 2,
+    "uri": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "baldis-basics-songkran-learning-x-x",
+    "archived": false
+  },
+  {
+    "id": "8cdfa15c0c",
+    "title": "Sinister Visions (Chapter 1)",
+    "price": 3,
+    "end": 1735627860000,
+    "added": 1733384273015,
+    "platform": 2,
+    "uri": "https://ar92.itch.io/sinister-v",
+    "tags": [
+      "Action"
+    ],
+    "slug": "sinister-visions-chapter-1",
+    "archived": false
+  },
+  {
+    "id": "9d5b01314c",
+    "title": "Particle",
+    "price": 3,
+    "end": 1735746660000,
+    "added": 1733384273015,
+    "platform": 2,
+    "uri": "https://jeremyulrich.itch.io/particle",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "particle",
+    "archived": false
+  },
+  {
+    "id": "a2ecfd1763",
+    "title": "Beanman",
+    "price": 4.99,
+    "end": 1735678740000,
+    "added": 1733384273015,
+    "platform": 2,
+    "uri": "https://archimedean-gaming.itch.io/beanman",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "beanman",
+    "archived": false
+  },
+  {
+    "id": "0ec288f9e1",
+    "title": "A Date to Remember",
+    "price": 5,
+    "end": 1735670520000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/a-date-to-remember",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "a-date-to-remember",
+    "archived": false
+  },
+  {
+    "id": "f8cf98de72",
+    "title": "House Cleaner",
+    "price": 6.99,
+    "end": 1734677100000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/housecleaner",
+    "tags": [],
+    "slug": "house-cleaner",
+    "archived": false
+  },
+  {
+    "id": "1d6628befe",
+    "title": "My Favorite Vtuber (JJBEATS GAMING)",
+    "price": 5,
+    "end": 1735670520000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/jjbeats-gaming",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "my-favorite-vtuber-gaming",
+    "archived": false
+  },
+  {
+    "id": "cd74908336",
+    "title": "Foxy Man",
+    "price": 5,
+    "end": 1734677100000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/foxy-man",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "foxy-man",
+    "archived": false
+  },
+  {
+    "id": "fde7ac4003",
+    "title": "Tiny Tails: The Whale’s Tale",
+    "price": 1.01,
+    "end": 1734677100000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/whale-game",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "tiny-tails-the-whales-tale",
+    "archived": false
+  },
+  {
+    "id": "aafb341813",
+    "title": "House Cleaner 2",
+    "price": 6.99,
+    "end": 1734677100000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/house-cleaner-2",
+    "tags": [],
+    "slug": "house-cleaner-2",
+    "archived": false
+  },
+  {
+    "id": "6961397ea5",
+    "title": "Kookie",
+    "price": 5,
+    "end": 1735670520000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://jjbeats99.itch.io/kookie",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "kookie",
+    "archived": false
+  },
+  {
+    "id": "92b81b6617",
+    "title": "Zombie Hunter",
+    "price": 5,
+    "end": 1734677100000,
+    "added": 1733481572624,
+    "platform": 2,
+    "uri": "https://al7ussain.itch.io/zombie-hunter",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "zombie-hunter",
+    "archived": false
+  },
+  {
+    "id": "a8d0037fea",
+    "title": "World War 2 Dogfight Simulator",
+    "price": 6,
+    "end": 1736096400000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://retrovr.itch.io/dogfightsim",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "world-war-dogfight-simulator-2",
+    "archived": false
+  },
+  {
+    "id": "580b510c7e",
+    "title": "1942: Spitfire Dogfight VR",
+    "price": 6,
+    "end": 1736096400000,
+    "added": 1733559134042,
+    "platform": 2,
+    "uri": "https://retrovr.itch.io/spitfire-dogfight-vr",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "spitfire-dogfight-vr-1942",
+    "archived": false
+  },
+  {
+    "id": "a312c386f2",
+    "title": "Signal Lost",
+    "price": 1.99,
+    "end": 1736184840000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://endsmeet-production.itch.io/signallost",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "signal-lost",
+    "archived": false
+  },
+  {
+    "id": "6f72d631d9",
+    "title": "Rewind To Fear - The Mansion",
+    "price": 1.99,
+    "end": 1736184840000,
+    "added": 1733647490836,
+    "platform": 2,
+    "uri": "https://endsmeet-production.itch.io/rewind-to-fear",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "rewind-to-fear-mansion",
+    "archived": false
+  },
+  {
+    "id": "509e3ad538",
+    "title": "The Good Dog Show",
+    "price": 2,
+    "end": 1736759640000,
+    "added": 1734187138827,
+    "platform": 2,
+    "uri": "https://owofgames.itch.io/tgds",
+    "tags": [
+      "Visual Novel"
+    ],
+    "slug": "the-good-dog-show",
+    "archived": false
+  },
+  {
+    "id": "697786628b",
+    "title": "Bloody Vengeance",
+    "price": 2,
+    "end": 1736932578000,
+    "added": 1734349257066,
+    "platform": 2,
+    "uri": "https://nutty-studios.itch.io/bloody-vengeance",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "bloody-vengeance",
+    "archived": false
+  },
+  {
+    "id": "2528b7e937",
+    "title": "The Drifters",
+    "price": 5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-drifters",
+    "tags": [
+      "Racing"
+    ],
+    "slug": "the-drifters",
+    "archived": false
+  },
+  {
+    "id": "38e81dbd4b",
+    "title": "Asteroids",
+    "price": 1.5,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/asteroids",
+    "tags": [],
+    "slug": "asteroids",
+    "archived": false
+  },
+  {
+    "id": "fa1e4a272a",
+    "title": "Basic Shooter (Pre Alpha)",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "basic-shooter-pre-alpha",
+    "archived": false
+  },
+  {
+    "id": "1c835113d3",
+    "title": "The backrooms: Uncovered",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/the-backrooms",
+    "tags": [
+      "Action"
+    ],
+    "slug": "the-backrooms-uncovered",
+    "archived": false
+  },
+  {
+    "id": "7bad9fbed3",
+    "title": "Are you There?",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/are-you-there",
+    "tags": [
+      "Action"
+    ],
+    "slug": "are-you-there",
+    "archived": false
+  },
+  {
+    "id": "7cc023f74b",
+    "title": "Untitled Gore Game",
+    "price": 2,
+    "end": 1735112340000,
+    "added": 1734522837463,
+    "platform": 2,
+    "uri": "https://magnus-froelund.itch.io/untitled-gore-game",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "untitled-gore-game",
+    "archived": false
+  },
+  {
+    "id": "e36148075e",
+    "title": "Cereal",
+    "price": 1.99,
+    "end": 1735880400000,
+    "added": 1735120642690,
+    "platform": 2,
+    "uri": "https://tgtstudio.itch.io/cereal",
+    "tags": [],
+    "slug": "cereal",
+    "archived": false
+  },
+  {
+    "id": "ab73a151dc",
+    "title": "PURPLE -Directors Cut-",
+    "price": 4.99,
+    "end": 1736978940000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://mortisfox.itch.io/purple-dc",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "purple-directors-cut",
+    "archived": false
+  },
+  {
+    "id": "2fde278fa9",
+    "title": "DONT GO",
+    "price": 2,
+    "end": 1736961360000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://chebbahiyad.itch.io/dont-go",
+    "tags": [],
+    "slug": "dont-go",
+    "archived": false
+  },
+  {
+    "id": "52ec695611",
+    "title": "Piki Rogue",
+    "price": 2.99,
+    "end": 1736690400000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://twigwallder.itch.io/piki-rogue",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "piki-rogue",
+    "archived": false
+  },
+  {
+    "id": "35494b79a5",
+    "title": "Gyossait Deluxe Edition",
+    "price": 8,
+    "end": 1738339200000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/gyossait-deluxe-edition",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "gyossait-deluxe",
+    "archived": false
+  },
+  {
+    "id": "7b7d23ae21",
+    "title": "REQUIEM",
+    "price": 3,
+    "end": 1738339200000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/requiem",
+    "tags": [
+      "Action"
+    ],
+    "slug": "requiem",
+    "archived": false
+  },
+  {
+    "id": "bf1f925c1f",
+    "title": "It's Not Human",
+    "price": 2.99,
+    "end": 1737329640000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://deeplookgames.itch.io/its-not-human",
+    "tags": [
+      "Survival"
+    ],
+    "slug": "its-not-human",
+    "archived": false
+  },
+  {
+    "id": "0e93354071",
+    "title": "Everybody Got Mad!",
+    "price": 3,
+    "end": 1738339200000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/everybody-got-mad",
+    "tags": [
+      "Action"
+    ],
+    "slug": "everybody-got-mad",
+    "archived": false
+  },
+  {
+    "id": "7eda5f1a08",
+    "title": "MISPLACED",
+    "price": 3.33,
+    "end": 1736937420000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://troj4nblazing.itch.io/misplaced",
+    "tags": [],
+    "slug": "misplaced",
+    "archived": false
+  },
+  {
+    "id": "883ef37ed4",
+    "title": "ChikkinGun",
+    "price": 4,
+    "end": 1738339200000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/chikkingun",
+    "tags": [
+      "Platformer"
+    ],
+    "slug": "chikkingun",
+    "archived": false
+  },
+  {
+    "id": "6ea1a576f7",
+    "title": "Final Presents of Babylon",
+    "price": 2,
+    "end": 1738339200000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/fpob",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "final-presents-babylon",
+    "archived": false
+  },
+  {
+    "id": "0c29b01af7",
+    "title": "Quiet West: Butcher noose",
+    "price": 2,
+    "end": 1738301280000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+    "tags": [
+      "Adventure"
+    ],
+    "slug": "quiet-west-butcher-noose",
+    "archived": false
+  },
+  {
+    "id": "29d1dc1ac2",
+    "title": "The Agent",
+    "price": 2.5,
+    "end": 1736702940000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://artisangames.itch.io/theagent",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "the-agent",
+    "archived": false
+  },
+  {
+    "id": "3979932a07",
+    "title": "Tap Battle Challenge",
+    "price": 5,
+    "end": 1738216800000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
+    "tags": [],
+    "slug": "tap-battle-challenge",
+    "archived": false
+  },
+  {
+    "id": "2da6d08a88",
+    "title": "Stalker",
+    "price": 1.99,
+    "end": 1737003600000,
+    "added": 1736444601479,
+    "platform": 2,
+    "uri": "https://tgtstudio.itch.io/stalker",
+    "tags": [],
+    "slug": "stalker",
+    "archived": false
+  },
+  {
+    "id": "ef34fbffbd",
+    "title": "Maze Runner 3D",
+    "price": 1.5,
+    "end": 1736702940000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://artisangames.itch.io/maze-runner-3d",
+    "tags": [
+      "Puzzle"
+    ],
+    "slug": "maze-runner-d-3",
+    "archived": false
+  },
+  {
+    "id": "feaf3973b4",
+    "title": "raycaster 3d",
+    "price": 1.3,
+    "end": 1738484460000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://khabat.itch.io/raycaster-3d",
+    "tags": [
+      "Educational"
+    ],
+    "slug": "raycaster-d-3",
+    "archived": false
+  },
+  {
+    "id": "550c3f5a3f",
+    "title": "Tracklash",
+    "price": 3,
+    "end": 1738420740000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://willkmb.itch.io/tracklash",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "tracklash",
+    "archived": false
+  },
+  {
+    "id": "96e327435d",
+    "title": "Wysaddle Tribe Simulator: 2D Spectator Experience",
+    "price": 4,
+    "end": 1737065700000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/wysaddle",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "wysaddle-tribe-experience-2",
+    "archived": false
+  },
+  {
+    "id": "faa89ac292",
+    "title": "Bots of Boria",
+    "price": 3,
+    "end": 1737065700000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/bots-of-boria",
+    "tags": [
+      "Simulation"
+    ],
+    "slug": "bots-of-boria",
+    "archived": false
+  },
+  {
+    "id": "e4daf1b1c8",
+    "title": "Covens of Xetta",
+    "price": 2.99,
+    "end": 1737065700000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/covens-of-xetta",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "covens-of-xetta",
+    "archived": false
+  },
+  {
+    "id": "847ec802c8",
+    "title": "Battle Hell: The Vant",
+    "price": 2,
+    "end": 1737065700000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://15joldersmat.itch.io/battle-hell-the-vant",
+    "tags": [
+      "Strategy"
+    ],
+    "slug": "battle-hell-the-vant",
+    "archived": false
+  },
+  {
+    "id": "73ecc70a9b",
+    "title": "Bat Lizard Bonanza",
+    "price": 4.99,
+    "end": 1738319760000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://johnvanderhoef.itch.io/bat-lizard-bonanza",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "bat-lizard-bonanza",
+    "archived": false
+  },
+  {
+    "id": "549ed302f5",
+    "title": "Freeze Target Online",
+    "price": 4,
+    "end": 1738216800000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://munegames.itch.io/aim-guru",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "freeze-target-online",
+    "archived": false
+  },
+  {
+    "id": "3c1e2c2b72",
+    "title": "Sunset of the Elements",
+    "price": 1.5,
+    "end": 1738438380000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://timelineman.itch.io/sunset-of-the-elements-game",
+    "tags": [
+      "Role Playing"
+    ],
+    "slug": "sunset-of-the-elements",
+    "archived": false
+  },
+  {
+    "id": "9d19408544",
+    "title": "Forest Stats For Fortnite Battle Royale",
+    "price": 10,
+    "end": 1738216800000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://munegames.itch.io/forest-stats-for-battle-royale",
+    "tags": [],
+    "slug": "forest-stats-for-royale",
+    "archived": false
+  },
+  {
+    "id": "9ab6de30f4",
+    "title": "AimGuru",
+    "price": 7,
+    "end": 1738216800000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://munegames.itch.io/aimguru",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "aimguru",
+    "archived": false
+  },
+  {
+    "id": "509ba75118",
+    "title": "Freeze Target",
+    "price": 4,
+    "end": 1738216800000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://munegames.itch.io/freeze-target",
+    "tags": [
+      "Shooter"
+    ],
+    "slug": "freeze-target",
+    "archived": false
+  },
+  {
+    "id": "d78f924b15",
+    "title": "CandyZoo 2 Electric Boogaloo",
+    "price": 3,
+    "end": 1738339200000,
+    "added": 1736444601480,
+    "platform": 2,
+    "uri": "https://infrablackdi.itch.io/candyzoo2",
+    "tags": [],
+    "slug": "candyzoo-electric-boogaloo-2",
+    "archived": false
+  },
+  {
+    "id": "fbd0ea6d81",
+    "title": "Turmoil",
+    "price": 12.99,
+    "end": 1737043200000,
+    "added": 1736438400000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/turmoil-26318a",
+    "tags": [],
+    "slug": "turmoil-1",
     "archived": false
   },
   {
@@ -106,5 +911,61 @@
     "tags": [],
     "slug": "the-bridge",
     "archived": false
+  },
+  {
+    "id": "70fb29c902",
+    "title": "Need for Speed™ Hot Pursuit Remastered",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000781",
+    "tags": [
+      "Racing",
+      "PS4",
+      "Monthly"
+    ],
+    "slug": "need-for-speed-remastered-ps",
+    "archived": false
+  },
+  {
+    "id": "9174dccda6",
+    "title": "Suicide Squad: Kill the Justice League",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001609",
+    "tags": [
+      "Shooter",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "suicide-squad-kill-league-ps",
+    "archived": false
+  },
+  {
+    "id": "e55ec9bb68",
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003841",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "the-stanley-parable-deluxe-ps",
+    "archived": false
+  },
+  {
+    "id": "3de9c23fb1",
+    "title": "Hell Let Loose",
+    "end": 1736438400000,
+    "added": 1735833600000,
+    "platform": 4,
+    "uri": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036",
+    "tags": [
+      "dlc"
+    ],
+    "slug": "hell-let-loose",
+    "archived": true
   }
 ]

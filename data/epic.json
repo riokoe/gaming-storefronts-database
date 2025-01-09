@@ -1,15 +1,14 @@
 [
   {
-    "id": "3de9c23fb1",
-    "title": "Hell Let Loose",
-    "end": 1736438400000,
-    "added": 1735833600000,
+    "id": "fbd0ea6d81",
+    "title": "Turmoil",
+    "price": 12.99,
+    "end": 1737043200000,
+    "added": 1736438400000,
     "platform": 4,
-    "uri": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036",
-    "tags": [
-      "dlc"
-    ],
-    "slug": "hell-let-loose",
+    "uri": "https://store.epicgames.com/en-US/p/turmoil-26318a",
+    "tags": [],
+    "slug": "turmoil-1",
     "archived": false
   }
 ]

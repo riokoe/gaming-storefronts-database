@@ -1842,11 +1842,11 @@
     "title": "Hotline Miami",
     "added": 1731431590108,
     "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005940",
+    "uri": "https://store.playstation.com/en-us/concept/202006",
     "tags": [
       "Action",
+      "Arcade",
       "PS4",
-      "PS5",
       "Plus"
     ],
     "archived": false,
@@ -8147,51 +8147,6 @@
     "archived": false
   },
   {
-    "id": "5a54684ed8",
-    "title": "Aliens: Dark Descent",
-    "added": 1733303839042,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10005351",
-    "tags": [
-      "Strategy",
-      "PS4",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "aliens-dark-descent-ps",
-    "archived": false
-  },
-  {
-    "id": "ea3d75766f",
-    "title": "It Takes Two PS4™ & PS5™",
-    "added": 1733303839042,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/234689",
-    "tags": [
-      "Unique",
-      "PS4",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "it-takes-two-45-ps",
-    "archived": false
-  },
-  {
-    "id": "fee1b776ba",
-    "title": "Temtem",
-    "added": 1733303839042,
-    "platform": 9,
-    "uri": "https://store.playstation.com/en-us/concept/10001170",
-    "tags": [
-      "Role playing games",
-      "Adventure",
-      "PS5",
-      "Monthly"
-    ],
-    "slug": "temtem-ps",
-    "archived": false
-  },
-  {
     "id": "258cb1d0db",
     "title": "Jak and Daxter™: The Precursor Legacy",
     "added": 1733925075506,
@@ -9134,6 +9089,49 @@
       "Plus"
     ],
     "slug": "zombie-army-dead-war-4-ps",
+    "archived": false
+  },
+  {
+    "id": "70fb29c902",
+    "title": "Need for Speed™ Hot Pursuit Remastered",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10000781",
+    "tags": [
+      "Racing",
+      "PS4",
+      "Monthly"
+    ],
+    "slug": "need-for-speed-remastered-ps",
+    "archived": false
+  },
+  {
+    "id": "9174dccda6",
+    "title": "Suicide Squad: Kill the Justice League",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10001609",
+    "tags": [
+      "Shooter",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "suicide-squad-kill-league-ps",
+    "archived": false
+  },
+  {
+    "id": "e55ec9bb68",
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "added": 1736444608492,
+    "platform": 9,
+    "uri": "https://store.playstation.com/en-us/concept/10003841",
+    "tags": [
+      "Adventure",
+      "PS4",
+      "PS5",
+      "Monthly"
+    ],
+    "slug": "the-stanley-parable-deluxe-ps",
     "archived": false
   }
 ]
